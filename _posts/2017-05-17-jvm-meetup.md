@@ -5,7 +5,7 @@ tags:
     - event
     - Jenius
     - engineering
-category: blog
+
 ---
 
 ![jvm x Jenius](/images/posts/jvm2/jvm2.jpeg)

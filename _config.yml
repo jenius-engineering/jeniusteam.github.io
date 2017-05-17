@@ -8,9 +8,10 @@ permalink:           pretty
 title:               Jenius
 tagline:             'Tech'
 description:         'Jenius Tech team'
-url:                 http://jenius.tech
+url:                 http://jenius.tech/
 baseurl:             ''
 paginate:            5
+host:                0.0.0.0
 
 # About/contact
 author:
@@ -23,3 +24,6 @@ version:             1.0.0
 
 gems:
   - jekyll-paginate
+
+paginate_path: "page/:num"
+excerpt_separator: "<!--more-->"
