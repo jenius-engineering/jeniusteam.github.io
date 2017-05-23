@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Jenius x JVMUG - Reactive System
-tags:
-    - event
-    - Jenius
-    - engineering
-
+title: "Jenius x JVMUG - Reactive System"
+categories: meetup
+tags: [event,Jenius,engineering]
+image:
+  feature: posts/jvm2/jvm2.jpeg
+  teaser: posts/jvm2/jvm2.jpeg
+  credit:
+  creditlink:
 ---
 
 ![jvm x Jenius](/images/posts/jvm2/jvm2.jpeg)
