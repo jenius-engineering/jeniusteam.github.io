@@ -1,22 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Jenius</title>
- <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
- <link href="http://0.0.0.0:4000/"/>
- <updated>2017-05-18T00:25:48+07:00</updated>
- <id>http://0.0.0.0:4000</id>
+ <title></title>
+ <link href="http://localhost:4001/atom.xml" rel="self"/>
+ <link href="http://localhost:4001/"/>
+ <updated>2017-05-23T19:01:29+07:00</updated>
+ <id>http://localhost:4001</id>
  <author>
-   <name>Jenius Team</name>
-   <email>hi@jenius.com</email>
+   <name></name>
+   <email></email>
  </author>
 
  
  <entry>
+   <title>Jeniustech newsletter weekly #1</title>
+   <link href="http://localhost:4001/2017/05/22/jeniustech-newsletter/"/>
+   <updated>2017-05-22T00:00:00+07:00</updated>
+   <id>http://localhost:4001/2017/05/22/jeniustech-newsletter</id>
+   <content type="html">&lt;p&gt;Welcome to the first edition of Jeniustech #1 weekly newsletter, for the uninitiated, this &lt;strong&gt;newsletter&lt;/strong&gt; will contain some tech news, and couple from development worlds, curated by Jenius engineering team.&lt;/p&gt;
+
+&lt;h3 id=&quot;reading-list&quot;&gt;reading list&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.kubernetes.io/2017/05/kubernetes-monitoring-guide.html&quot;&gt;Kubernetes: a monitoring guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2017/05/why-you-really-need-to-stop-using-public-wi-fi&quot;&gt;Why You Really Need to Stop Using Public Wi-Fi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770&quot;&gt;Democratizing Data at Airbnb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.openshift.com/deploying-2048-openshift-nodes-cncf-cluster/&quot;&gt;Deploying 2048 OpenShift nodes on the CNCF Cluster&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/using-docker-compose-for-nodejs-development/&quot;&gt;Using Docker Compose for NodeJS Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.xogrp.com/streams-for-everyone-92d50108ed72&quot;&gt;Streams for Everyone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f&quot;&gt;19 things I learnt reading the NodeJS docs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.com/which-projects-need-react-all-of-them-e7ccb6629ba7&quot;&gt;Which Projects Need React? All Of Them!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/graphql/graphiql&quot;&gt;GraphiQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://typeanything.io/&quot;&gt;typeanything&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stedolan.github.io/jq/&quot;&gt;JQ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://metron.apache.org/&quot;&gt;Metron&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Jenius x JVMUG - Reactive System</title>
-   <link href="http://0.0.0.0:4000/2017/05/17/jvm-meetup/"/>
+   <link href="http://localhost:4001/2017/05/17/jvm-meetup/"/>
    <updated>2017-05-17T00:00:00+07:00</updated>
-   <id>http://0.0.0.0:4000/2017/05/17/jvm-meetup</id>
+   <id>http://localhost:4001/2017/05/17/jvm-meetup</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/jvm2/jvm2.jpeg&quot; alt=&quot;jvm x Jenius&quot; /&gt;
 Team Jenius dan komunitas JVM user group mengadakan event meetup dengan topik mengenai &lt;strong&gt;&lt;em&gt;Reactive System&lt;/em&gt;&lt;/strong&gt;, topik ini sangat menarik karena membahas ide fundamental dari bagaimana membangun system yang &lt;em&gt;robust&lt;/em&gt; dan tentu saja &lt;em&gt;scaled&lt;/em&gt;.&lt;/p&gt;
 
@@ -37,9 +66,9 @@ Team Jenius dan komunitas JVM user group mengadakan event meetup dengan topik me
  
  <entry>
    <title>Jenius says HI!</title>
-   <link href="http://0.0.0.0:4000/2017/04/05/jenius-says-hi/"/>
+   <link href="http://localhost:4001/2017/04/05/jenius-says-hi/"/>
    <updated>2017-04-05T00:00:00+07:00</updated>
-   <id>http://0.0.0.0:4000/2017/04/05/jenius-says-hi</id>
+   <id>http://localhost:4001/2017/04/05/jenius-says-hi</id>
    <content type="html">&lt;p&gt;Hello world!&lt;/p&gt;
 </content>
  </entry>

@@ -1,29 +1,11 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-#relative_permalinks: true
+# Site Settings
 
-# Setup
-title:               Jenius
-tagline:             'Tech'
-description:         'Jenius Tech team'
-url:                 http://jenius.tech/
-baseurl:             ''
-paginate:            5
-host:                0.0.0.0
+paginate:     5
+permalink:    /:year/:month/:day/:title/
+highlighter:  pygments
+disqus:              #"your-disqus"
 
-# About/contact
-author:
-  name:              Jenius Team
-  url:               https://twitter.com/jeniusConnect
-  email:             hi@jenius.com
-
-# Custom vars
-version:             1.0.0
-
-gems:
-  - jekyll-paginate
-
-paginate_path: "page/:num"
-excerpt_separator: "<!--more-->"
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+gems:                [jekyll-paginate]

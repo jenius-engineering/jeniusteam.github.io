@@ -1,0 +1,13 @@
+<div class="menu">
+  <nav class="menu-content">
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/menu/{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+      <a href="https://jenius.com">{{ site.data.jenius_link }}</a>
+  </nav>
+  <nav class="social-icons">
+    {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}"><i class="fa fa-{{ item.icon }}" aria-hidden="true" target="_blank"></i></a>
+    {% endfor %}
+  </nav>
+</div>
