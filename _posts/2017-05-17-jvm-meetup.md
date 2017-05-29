@@ -2,6 +2,7 @@
 layout: post
 title: "Jenius x JVMUG - Reactive System"
 categories: meetup
+author: dedenf
 tags: [event,Jenius,engineering]
 image:
   feature: posts/jvm2/jvm2.jpeg

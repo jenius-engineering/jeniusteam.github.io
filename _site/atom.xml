@@ -2,10 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title></title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2017-05-24T17:27:07+07:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://jenius.tech/atom.xml" rel="self"/>
+ <link href="http://jenius.tech/"/>
+ <updated>2017-05-29T14:08:57+07:00</updated>
+ <id>http://jenius.tech</id>
+
  <author>
    <name></name>
    <email></email>
@@ -14,9 +15,9 @@
  
  <entry>
    <title>Jeniustech newsletter weekly #1</title>
-   <link href="http://localhost:4000/2017/05/22/jeniustech-newsletter/"/>
+   <link href="http://jenius.tech/2017/05/22/jeniustech-newsletter/"/>
    <updated>2017-05-22T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2017/05/22/jeniustech-newsletter</id>
+   <id>http://jenius.tech/2017/05/22/jeniustech-newsletter</id>
    <content type="html">&lt;p&gt;Welcome to the first edition of Jeniustech #1 weekly newsletter, for the uninitiated, this &lt;strong&gt;newsletter&lt;/strong&gt; will contain some tech news, and couple from development worlds, curated by Jenius engineering team.&lt;/p&gt;
 
 &lt;h3 id=&quot;reading-list&quot;&gt;reading list&lt;/h3&gt;
@@ -43,9 +44,9 @@
  
  <entry>
    <title>Jenius x JVMUG - Reactive System</title>
-   <link href="http://localhost:4000/2017/05/17/jvm-meetup/"/>
+   <link href="http://jenius.tech/2017/05/17/jvm-meetup/"/>
    <updated>2017-05-17T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2017/05/17/jvm-meetup</id>
+   <id>http://jenius.tech/2017/05/17/jvm-meetup</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/jvm2/jvm2.jpeg&quot; alt=&quot;jvm x Jenius&quot; /&gt;
 Team Jenius dan komunitas JVM user group mengadakan event meetup dengan topik mengenai &lt;strong&gt;&lt;em&gt;Reactive System&lt;/em&gt;&lt;/strong&gt;, topik ini sangat menarik karena membahas ide fundamental dari bagaimana membangun system yang &lt;em&gt;robust&lt;/em&gt; dan tentu saja &lt;em&gt;scaled&lt;/em&gt;.&lt;/p&gt;
 
@@ -66,9 +67,9 @@ Team Jenius dan komunitas JVM user group mengadakan event meetup dengan topik me
  
  <entry>
    <title>Jenius says HI!</title>
-   <link href="http://localhost:4000/2017/04/05/jenius-says-hi/"/>
+   <link href="http://jenius.tech/2017/04/05/jenius-says-hi/"/>
    <updated>2017-04-05T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2017/04/05/jenius-says-hi</id>
+   <id>http://jenius.tech/2017/04/05/jenius-says-hi</id>
    <content type="html">&lt;p&gt;Hello world!&lt;/p&gt;
 </content>
  </entry>
