@@ -4,6 +4,8 @@ paginate:     5
 permalink:    /:year/:month/:day/:title/
 highlighter:  pygments
 disqus:              #"your-disqus"
+url:    'http://jenius.tech'
+base_url:  'http://jenius.tech'
 
 # Build settings
 markdown:            kramdown
