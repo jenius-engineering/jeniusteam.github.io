@@ -4,14 +4,35 @@
  <title></title>
  <link href="http://jenius.tech/atom.xml" rel="self"/>
  <link href="http://jenius.tech/"/>
- <updated>2017-05-29T14:08:57+07:00</updated>
+ <updated>2017-05-29T16:08:17+07:00</updated>
  <id>http://jenius.tech</id>
-
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Jenius Mei Meetup roundup</title>
+   <link href="http://jenius.tech/2017/05/29/meetup-roundup/"/>
+   <updated>2017-05-29T00:00:00+07:00</updated>
+   <id>http://jenius.tech/2017/05/29/meetup-roundup</id>
+   <content type="html">&lt;p&gt;Meetup roundup bulan Mei yang diadakan di Jenius HQ&lt;/p&gt;
+
+&lt;h3 id=&quot;microservice-mudah-dan-cepat-dengan-spring-boot&quot;&gt;Microservice mudah dan cepat dengan spring boot&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&quot;post-date&quot;&gt;6 Mei 2017 &lt;/span&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-pgvQScDohw?ecver=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;reactive-system&quot;&gt;Reactive System&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&quot;post-date&quot;&gt;16 Mei 2017&lt;/span&gt;
+Sesi 1&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/g7ASY_nzdsg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Sesi 2&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bAyxJNn61gQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Jeniustech newsletter weekly #1</title>
