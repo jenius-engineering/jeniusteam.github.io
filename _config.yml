@@ -7,6 +7,9 @@ disqus:              #"your-disqus"
 url:    'http://jenius.tech'
 base_url:  'http://jenius.tech'
 
+excerpt_separator: <!–break–>
+
+
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
