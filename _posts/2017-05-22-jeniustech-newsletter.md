@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jeniustech newsletter weekly #1"
+author: dedenf
 tags:
     - event
     - Jenius
