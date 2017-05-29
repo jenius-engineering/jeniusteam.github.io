@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenius Meetup roundup"
+title: "Jenius Mei Meetup roundup"
 categories: meetup
 author: dedenf
 tags: [event,Jenius,engineering]
