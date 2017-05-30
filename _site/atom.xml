@@ -4,13 +4,47 @@
  <title></title>
  <link href="http://jenius.tech/atom.xml" rel="self"/>
  <link href="http://jenius.tech/"/>
- <updated>2017-05-29T16:08:17+07:00</updated>
+ <updated>2017-05-30T12:16:03+07:00</updated>
  <id>http://jenius.tech</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Jeniustech newsletter weekly #2</title>
+   <link href="http://jenius.tech/2017/05/30/jeniustech-newsletter-2/"/>
+   <updated>2017-05-30T00:00:00+07:00</updated>
+   <id>http://jenius.tech/2017/05/30/jeniustech-newsletter-2</id>
+   <content type="html">&lt;p&gt;Jenius Engineering newsletter #2 edition, we are gonna do this weekly, every Tuesday, you can subscribe to our &lt;a href=&quot;/newsletter&quot;&gt;newsletter&lt;/a&gt;, we’ll send the newsletter to your inbox.&lt;/p&gt;
+
+&lt;h3 id=&quot;reading-list&quot;&gt;Reading list&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/&quot;&gt;The largest Git repo on the planet&lt;/a&gt;, and from Ars: 
+&lt;a href=&quot;https://arstechnica.com/information-technology/2017/05/90-of-windows-devs-now-using-git-creating-1760-windows-builds-per-day/&quot;&gt;Windows switch to Git almost complete: 8,500 commits and 1,760 builds each day&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bbc.com/news/business-39947942
+https://www.theatlantic.com/magazine/archive/2017/01/how-to-sleep/508781/&quot;&gt;How Facebook’s tentacles reach further than you think&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3A73G5xntJI&quot;&gt;Take Data Validation Seriously (Video)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=uB7m9T7ymn8&quot;&gt;How to Write Better Code Using Mutation Testing (Video)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bundler.io/blog/2017/05/19/bundler-1-15-bundle-oh-so-fast.html&quot;&gt;Bundler 1.15: Bundle Oh So Fast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.rubyroidlabs.com/2017/04/19-ruby-on-rails-gems/&quot;&gt;19 Ruby on Rails Gems which Can Amaze&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/load-balancing-nodejs-applications-with-nginx-and-docker/&quot;&gt;Load Balancing Node.js Applications with NGINX and Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4&quot;&gt;Debugging Node.js with Google Chrome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.classdojo.com/blog/2017/05/21/Running-4558-tests-in-1m-55sec/&quot;&gt;Running 4558 Tests in 1m 55sec (or Saving 50 Hours/week)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://diveintodocker.com/blog/docker-and-ansible-solve-2-different-problems-and-they-can-be-used-together&quot;&gt;Docker and Ansible Solve 2 Different Problems and They Can Be Used Together&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2&quot;&gt;Rearchitecting Airbnb’s Frontend&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@marcosnils/showcasing-your-applications-with-docker-in-a-single-click-9e9fa2908c51&quot;&gt;Play With Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/captainsafia/goops&quot;&gt;Goops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Jenius Mei Meetup roundup</title>
