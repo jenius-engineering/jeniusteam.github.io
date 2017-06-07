@@ -25,6 +25,29 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
+  <!-- Sharing -->
+  {% if page.title == "Home" %}
+  <meta property="og:title" content="{{ site.data.settings.title }} | {{ site.data.settings.tagline }}" />
+  {% else %}
+  <meta property="og:title" content="{{ page.title }} | {{ site.data.settings.title }}" />
+  {% endif %}
+	<meta property="og:site_name" content="{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"/>
+
+
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+
+  
+   {% if page.content contains '<!--break-->' %}
+      <meta property="og:description" content="{{ page.content | strip_html| truncatewords:50 | split:'<!--break-->' | first }}" />
+   {% endif %}
+	
+	<meta property="og:type" content="website" />
+  {% if page.title == "Home" %}
+	<meta property="og:image" content="{{ site.baseurl }}/images/coding.jpg" />
+  {% else %}
+  <meta property="og:image" content="{{ site.baseurl }}/images/coding.jpg" />
+  {% endif %}
+
   <script type="text/javascript" async
     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
   </script>

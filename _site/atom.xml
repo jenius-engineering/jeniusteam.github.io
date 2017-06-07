@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://jenius.tech/atom.xml" rel="self"/>
  <link href="http://jenius.tech/"/>
- <updated>2017-05-31T10:29:06+07:00</updated>
+ <updated>2017-06-07T12:01:45+07:00</updated>
  <id>http://jenius.tech</id>
  <author>
    <name></name>
@@ -18,6 +18,8 @@
    <updated>2017-05-30T00:00:00+07:00</updated>
    <id>http://jenius.tech/2017/05/30/jeniustech-newsletter-2</id>
    <content type="html">&lt;p&gt;Jenius Engineering newsletter #2 edition, we are gonna do this weekly, every Tuesday, you can subscribe to our &lt;a href=&quot;/newsletter&quot;&gt;newsletter&lt;/a&gt;, we’ll send the newsletter to your inbox.&lt;/p&gt;
+
+&lt;!--break--&gt;
 
 &lt;h3 id=&quot;reading-list&quot;&gt;Reading list&lt;/h3&gt;
 
@@ -51,8 +53,8 @@ https://www.theatlantic.com/magazine/archive/2017/01/how-to-sleep/508781/&quot;&
    <link href="http://jenius.tech/2017/05/29/meetup-roundup/"/>
    <updated>2017-05-29T00:00:00+07:00</updated>
    <id>http://jenius.tech/2017/05/29/meetup-roundup</id>
-   <content type="html">&lt;p&gt;Meetup roundup bulan Mei yang diadakan di Jenius HQ&lt;/p&gt;
-
+   <content type="html">&lt;p&gt;Meetup roundup bulan Mei yang diadakan di Jenius HQ
+&lt;!--break--&gt;&lt;/p&gt;
 &lt;h3 id=&quot;microservice-mudah-dan-cepat-dengan-spring-boot&quot;&gt;Microservice mudah dan cepat dengan spring boot&lt;/h3&gt;
 &lt;p&gt;&lt;span class=&quot;post-date&quot;&gt;6 Mei 2017 &lt;/span&gt;&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-pgvQScDohw?ecver=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -73,7 +75,8 @@ Sesi 1&lt;/p&gt;
    <link href="http://jenius.tech/2017/05/22/jeniustech-newsletter/"/>
    <updated>2017-05-22T00:00:00+07:00</updated>
    <id>http://jenius.tech/2017/05/22/jeniustech-newsletter</id>
-   <content type="html">&lt;p&gt;Welcome to the first edition of Jeniustech #1 weekly newsletter, for the uninitiated, this &lt;strong&gt;newsletter&lt;/strong&gt; will contain some tech news, and couple from development worlds, curated by Jenius engineering team.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Welcome to the first edition of Jeniustech #1 weekly newsletter, for the uninitiated, this &lt;strong&gt;newsletter&lt;/strong&gt; will contain some tech news, and couple from development worlds, curated by Jenius engineering team.
+&lt;!--break--&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;reading-list&quot;&gt;reading list&lt;/h3&gt;
 &lt;ul&gt;
@@ -104,6 +107,8 @@ Sesi 1&lt;/p&gt;
    <id>http://jenius.tech/2017/05/17/jvm-meetup</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/jvm2/jvm2.jpeg&quot; alt=&quot;jvm x Jenius&quot; /&gt;
 Team Jenius dan komunitas JVM user group mengadakan event meetup dengan topik mengenai &lt;strong&gt;&lt;em&gt;Reactive System&lt;/em&gt;&lt;/strong&gt;, topik ini sangat menarik karena membahas ide fundamental dari bagaimana membangun system yang &lt;em&gt;robust&lt;/em&gt; dan tentu saja &lt;em&gt;scaled&lt;/em&gt;.&lt;/p&gt;
+
+&lt;!--break--&gt;
 
 &lt;p&gt;&lt;em&gt;Reactive System&lt;/em&gt; sendiri merupakan satu cara untuk membangun arsitektural sistem yang memungkin aplikasi-aplikasi atau servis-servis yang tersebar menjadi semacam satu unit, bereaksi ke sistem yang ada di sekelilingnya, dan &lt;em&gt;aware&lt;/em&gt; terhadap satu sistem dengan lainnya.
 &lt;em&gt;Meetup&lt;/em&gt; ini menghadirkan pembicara &lt;strong&gt;Eko Kurniawan&lt;/strong&gt; &lt;em&gt;Principal Engineer&lt;/em&gt; dari &lt;strong&gt;blibli.com&lt;/strong&gt; dan &lt;strong&gt;Andi Pangeran&lt;/strong&gt; &lt;em&gt;Senior Software Engineer&lt;/em&gt; dari &lt;strong&gt;jurnal.id&lt;/strong&gt;.&lt;/p&gt;
