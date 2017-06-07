@@ -10,7 +10,7 @@ image:
 ---
 
 Meetup roundup bulan Mei yang diadakan di Jenius HQ
-
+<!--break-->
 ### Microservice mudah dan cepat dengan spring boot
 <span class="post-date">6 Mei 2017 </span>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-pgvQScDohw?ecver=1" frameborder="0" allowfullscreen></iframe>

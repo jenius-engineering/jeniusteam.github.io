@@ -10,6 +10,7 @@ published: true
 ---
 
 Welcome to the first edition of Jeniustech #1 weekly newsletter, for the uninitiated, this **newsletter** will contain some tech news, and couple from development worlds, curated by Jenius engineering team.
+<!--break-->
 
 ### reading list
 * [Kubernetes: a monitoring guide](http://blog.kubernetes.io/2017/05/kubernetes-monitoring-guide.html)
