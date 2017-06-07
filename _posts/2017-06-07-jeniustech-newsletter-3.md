@@ -21,7 +21,7 @@ Jenius Engineering newsletter #3 edition, we are gonna do this weekly, every Tue
 - [Exploring the new Android Architecture Components library](https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23)
 - [GraphQL Meets Graph Database: A GraphQL + Neo4j Integration](https://neo4j.com/blog/graphql-neo4j-graph-database-integration/)
 - [Into the Great Unknown — Migrating from Mocha to Jest](https://ebaytech.berlin/into-the-great-unknown-migrating-from-mocha-to-jest-3baced083c7e)
-
+- [The state of JavaScript modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
 ### News
 - [npm v5](http://blog.npmjs.org/post/161081169345/v500)
 - [Node v8.0.0](https://nodejs.org/en/blog/release/v8.0.0/)

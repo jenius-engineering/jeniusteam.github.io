@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://jenius.tech/atom.xml" rel="self"/>
  <link href="http://jenius.tech/"/>
- <updated>2017-06-07T14:50:04+07:00</updated>
+ <updated>2017-06-07T14:52:11+07:00</updated>
  <id>http://jenius.tech</id>
  <author>
    <name></name>
@@ -31,10 +31,9 @@
   &lt;li&gt;&lt;a href=&quot;https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23&quot;&gt;Exploring the new Android Architecture Components library&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://neo4j.com/blog/graphql-neo4j-graph-database-integration/&quot;&gt;GraphQL Meets Graph Database: A GraphQL + Neo4j Integration&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://ebaytech.berlin/into-the-great-unknown-migrating-from-mocha-to-jest-3baced083c7e&quot;&gt;Into the Great Unknown — Migrating from Mocha to Jest&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
-&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358&quot;&gt;The state of JavaScript modules&lt;/a&gt;
+    &lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/161081169345/v500&quot;&gt;npm v5&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v8.0.0/&quot;&gt;Node v8.0.0&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
