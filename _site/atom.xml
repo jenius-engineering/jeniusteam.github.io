@@ -4,13 +4,31 @@
  <title></title>
  <link href="http://jenius.tech/atom.xml" rel="self"/>
  <link href="http://jenius.tech/"/>
- <updated>2017-06-07T12:01:45+07:00</updated>
+ <updated>2017-06-07T12:28:17+07:00</updated>
  <id>http://jenius.tech</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Jenius Security Code Warrior</title>
+   <link href="http://jenius.tech/2017/06/05/jenius-security-code-warrior/"/>
+   <updated>2017-06-05T00:00:00+07:00</updated>
+   <id>http://jenius.tech/2017/06/05/jenius-security-code-warrior</id>
+   <content type="html">&lt;p&gt;Jenius sebagai institusi finansial, sangat konsern dengan keamanan, dan keamanan membawa kenyamanan dalam menggunakan aplikasi Jenius, untuk transaksi atau kebutuhan lainnya. &lt;br /&gt;
+Untuk terus menjaga kualitas dan kekinian dalam dunia keamanan, terutama keamanan siber, Jenius mengadakan acara &lt;strong&gt;Security Code Warrior Challenge&lt;/strong&gt;. dimana, &lt;em&gt;developer&lt;/em&gt; Jenius diberikan tantangan dalam &lt;em&gt;programming&lt;/em&gt; dan juga tantangan untuk memperbaiki kode sumber yang diindikasikan terdapat lubang keamanan.&lt;/p&gt;
+
+&lt;h3 id=&quot;photo-dari-event&quot;&gt;photo dari event&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/sec/IMG_2641.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
+&lt;img src=&quot;/images/posts/sec/IMG_2645.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
+&lt;img src=&quot;/images/posts/sec/IMG_2648.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
+&lt;img src=&quot;/images/posts/sec/IMG_2650.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
+&lt;img src=&quot;/images/posts/sec/IMG_2662.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
+&lt;img src=&quot;/images/posts/sec/IMG_2651.jpg&quot; alt=&quot;security code warrior&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Jeniustech newsletter weekly #2</title>

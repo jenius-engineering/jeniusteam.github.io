@@ -100,7 +100,7 @@ p {
 a {
   text-decoration: underline;
   /*border-bottom: 1px solid black;*/
-  color: #00a4de;/*#FF333E;*/
+  color:#333;/*#FF333E;*/
   -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
