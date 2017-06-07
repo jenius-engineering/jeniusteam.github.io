@@ -9,6 +9,8 @@ published: true
 
 Jenius Engineering newsletter #2 edition, we are gonna do this weekly, every Tuesday, you can subscribe to our [newsletter](/newsletter), we'll send the newsletter to your inbox.
 
+<!--break-->
+
 ### Reading list
 
 - [The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/), and from Ars: 
