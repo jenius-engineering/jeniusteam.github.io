@@ -4,13 +4,50 @@
  <title></title>
  <link href="http://jenius.tech/atom.xml" rel="self"/>
  <link href="http://jenius.tech/"/>
- <updated>2017-06-08T13:00:39+07:00</updated>
+ <updated>2017-06-13T10:42:50+07:00</updated>
  <id>http://jenius.tech</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Jeniustech newsletter weekly #4</title>
+   <link href="http://jenius.tech/2017/06/13/jeniustech-newsletter-4/"/>
+   <updated>2017-06-13T00:00:00+07:00</updated>
+   <id>http://jenius.tech/2017/06/13/jeniustech-newsletter-4</id>
+   <content type="html">&lt;p&gt;Hi welcome to Jenius Engineering newsletter #4, this newsletter published every tuesday. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;reading-list&quot;&gt;Reading list&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.craigkerstiens.com/2017/06/08/working-with-time-in-postgres/&quot;&gt;Working With Time in Postgres&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theintercept.com/2017/06/05/be-careful-celebrating-googles-new-ad-blocker-heres-whats-really-going-on/&quot;&gt;About that Google Ad blocker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.romexsoft.com/blog/java-8-vs-java-9/&quot;&gt;Java 8 Vs. Java 9: Get Ready for a New Era&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fly.io/articles/pragmatic-api-versioning/&quot;&gt;Pragmatic API Versioning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quid.com/feed/how-big-data-can-help-you-pick-better-wine&quot;&gt;How big data can help a better wine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neo4j.com/blog/graphql-neo4j-graph-database-integration/&quot;&gt;GraphQL Meets Graph Database: A GraphQL + Neo4j Integration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358&quot;&gt;The state of JavaScript modules&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://segment.com/blog/a-brief-history-of-the-uuid/&quot;&gt;A Brief History of the UUID&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dwmkerr.com/effective-shell-part-1-navigating-the-command-line/&quot;&gt;Navigating the Command Line, Effective Shell Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://eslint.org/blog/2017/06/eslint-v4.0.0-released&quot;&gt;ESLint v4.0.0 released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lnav.org/&quot;&gt;The log file navigator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gitup.co/&quot;&gt;Visualize and work with GIT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/oklog/oklog/&quot;&gt;A distributed and coördination-free log management system&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Curated by Jenius Engineering Team published on jenius.tech, &lt;br /&gt;
+feedback please send to hi@jenius.com&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Jeniustech newsletter weekly #3</title>
