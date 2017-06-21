@@ -4,13 +4,46 @@
  <title></title>
  <link href="http://jenius.tech/atom.xml" rel="self"/>
  <link href="http://jenius.tech/"/>
- <updated>2017-06-13T10:42:50+07:00</updated>
+ <updated>2017-06-21T18:20:42+07:00</updated>
  <id>http://jenius.tech</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Jeniustech newsletter weekly #5</title>
+   <link href="http://jenius.tech/2017/06/13/jeniustech-newsletter-5/"/>
+   <updated>2017-06-13T00:00:00+07:00</updated>
+   <id>http://jenius.tech/2017/06/13/jeniustech-newsletter-5</id>
+   <content type="html">&lt;p&gt;Hi welcome to Jenius Engineering newsletter #5, this newsletter published every tuesday. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;not much of a news right now, but this is what Jenius Engineering team read this week!&lt;/p&gt;
+
+&lt;h3 id=&quot;reading-list&quot;&gt;Reading list&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@hakibenita/working-with-apis-the-pythonic-way-484784ed1ce0&quot;&gt;Working with APIs the Pythonic Way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/dont-use-a-blockchain-unless-you-need-to-bc063d0f9a80&quot;&gt;Don’t use a blockchain unless you need to&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/python-pandemonium/python-package-management-for-the-paranoid-52c23f6aba6a&quot;&gt;Python Package Management for the Paranoid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/apple/2017/06/macos-high-sierra-tech-preview-a-quick-look-at-the-stuff-you-cant-see/&quot;&gt;macOS High Sierra tech preview: A quick look at the stuff you can’t see&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/kubernetes-rolling-upgrades-one-by-one/&quot;&gt;Kubernetes Rolling Upgrades One By One&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;news&quot;&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b&quot;&gt;🍾🚀 webpack 3: Official Release!! 🚀🍾&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/grab/front-end-guide&quot;&gt;Grab Front End Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Curated by Jenius Engineering Team published on jenius.tech, &lt;br /&gt;
+feedback please send to hi@jenius.com&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Jeniustech newsletter weekly #4</title>
