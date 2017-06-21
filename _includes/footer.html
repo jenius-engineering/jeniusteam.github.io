@@ -1,6 +1,11 @@
-<footer class="footer">
-  {% for item in site.data.settings.social %}
-    <a href="{{ item.link }}"><i class="fa fa-{{ item.icon }}" aria-hidden="true" target="_blank"></i></a>
-  {% endfor %}
-  <div class="post-date"><a href="{{ site.github.url }}/menu/about">{{ site.data.settings.title }} | {{ site.data.settings.tagline }} by {{ site.data.settings.author.name }}</a></div>
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <p>
+      {% include footer_content.html %}
+    </p>
+
+  </div>
+
 </footer>

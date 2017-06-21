@@ -1,9 +1,20 @@
 ---
 layout: default
 ---
+<article class="post">
 
-<h>
-  {{ page.title }}
-</h2>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
 
-{{ content }}
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% if site.comments != false and page.comments != false %}
+    <div class="post-comments">
+      {% include custom_comments_provider.html %}
+    </div>
+  {% endif %}
+
+</article>

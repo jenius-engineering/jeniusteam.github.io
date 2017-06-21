@@ -24,5 +24,4 @@ not much of a news right now, but this is what Jenius Engineering team read this
 ### Tools
 - [Grab Front End Guide](https://github.com/grab/front-end-guide)
 
-Curated by Jenius Engineering Team published on jenius.tech,   
-feedback please send to hi@jenius.com
+Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com

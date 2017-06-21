@@ -20,7 +20,7 @@ Team Jenius dan komunitas JVM user group mengadakan event meetup dengan topik me
 *Meetup* ini menghadirkan pembicara **Eko Kurniawan** *Principal Engineer* dari **blibli.com** dan **Andi Pangeran** *Senior Software Engineer* dari **jurnal.id**.
 
 [Jenius](https://jenius.com) akan selalu mengadakan event-event yang bisa digunakan untuk komunitas (tidak terbatas *tech*), selain untuk menambah pengetahuan, kultur *engineering* di Jenius dan juga bermanfaat bagi komunitas.
-
+<!-- more -->
 photo dari *meetup*
 [![jvm x Jenius](/images/posts/jvm2/jvm2-0.jpg)](/images/posts/jvm2/jvm2-0-large.jpg)
 [![jvm x Jenius](/images/posts/jvm2/jvm2-1.jpg)](/images/posts/jvm2/jvm2-1-large.jpg)
