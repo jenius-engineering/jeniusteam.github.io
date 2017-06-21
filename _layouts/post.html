@@ -1,39 +1,25 @@
 ---
 layout: default
 ---
-{% assign author = site.data.authors[page.author] %}
-<h2>
-  {{ page.title }}
-</h2>
-<span class="post-date">
-  Written on
-  {% assign d = page.date | date: "%-d"  %}
-  {{ page.date | date: "%B" }}
-  {% case d %}
-    {% when '1' or '21' or '31' %}{{ d }}st
-    {% when '2' or '22' %}{{ d }}nd
-    {% when '3' or '23' %}{{ d }}rd
-    {% else %}{{ d }}th{% endcase %},
-  {{ page.date | date: "%Y" }}
-  by
-  {% if page.author %}
-   <a href="{{ author.web }}" target="_blank"> {{ author.name }}</a>
-  {% else %}
-    {{ site.data.settings.author.name }}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    {% if page.external-url %}
+      <h1 class="post-title" itemprop="name headline"><a href="{{ page.external-url }}">{{ page.title | escape }} &rarr;</a></h1>
+    {% else %}
+      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    {% endif %}
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}{% if page.categories != empty %} • {% include category_links.html categories=page.categories %}{% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% if site.comments != false and page.comments != false %}
+    <div class="post-comments" itemprop="comment">
+      {% include custom_comments_provider.html %}
+    </div>
   {% endif %}
-</span>
 
-{% if page.image.feature %}
-  <img src="{{ site.github.url }}/images/{{ page.image.feature }}">
-{% endif %}
-
-
-{{ content }}
-
-
-{% include social-sharing.html %}
-{% include related-posts.html %}
-
-{% if site.disqus %}
-  {% include disqus.html %}
-{% endif %}
+</article>
