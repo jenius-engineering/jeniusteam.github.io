@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-06-21T16:00:51+00:00</updated>
+  <updated>2017-07-11T06:19:59+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,130 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jeniustech newsletter weekly #6</title>
+      
+      <link href="http://localhost:4000/2017/07/11/jeniustech-newsletter-6/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #6" />
+      <published>2017-07-11T00:00:00+00:00</published>
+      <updated>2017-07-11T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/07/11/jeniustech-newsletter-6</id>
+      <content type="html" xml:base="http://localhost:4000/2017/07/11/jeniustech-newsletter-6/">&lt;p&gt;Hi welcome to Jenius Engineering newsletter #6, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;how’s the holiday? here’s some of the link that Jenius developer team currently digging&lt;/p&gt;
+
+&lt;h3&gt;Reading list&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mesosphere.com/blog/2017/06/21/smack-stack-new-lamp-stack/&quot;&gt;The SMACK Stack is the New LAMP Stack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wearehive/project-guidelines&quot;&gt;A set of best practices for JavaScript projects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hacklabo.com/your-first-service-worker/&quot;&gt;Your first service worker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/lesser-known-git-commands-151a1918a60&quot;&gt;Lesser known Git commands&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2017/07/05/linux-tracing-systems/&quot;&gt;Linux tracing systems &amp;amp; how they fit together&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.atlassian.com/blog/2017/07/kubernetes-workflow/&quot;&gt;Kubernetes workflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://labs.spotify.com/2017/06/22/improving-critical-infrastructure-rollouts/&quot;&gt;Improving Critical Infrastructure Rollouts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/shieldfy/API-Security-Checklist&quot;&gt;API Security Checklist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/threatstack/deputize&quot;&gt;deputize&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <summary type="html">Hi welcome to Jenius Engineering newsletter #6, this newsletter published every tuesday-ish. please subscribe to our newsletter. how’s the holiday? here’s some of the link that Jenius developer team currently digging Reading list The SMACK Stack is the New LAMP Stack A set of best practices for JavaScript projects Your first service worker Lesser known Git commands Linux tracing systems &amp;amp; how they fit together Kubernetes workflow Improving Critical Infrastructure Rollouts Tools API Security Checklist deputize Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jeniustech newsletter weekly #5</title>
+      
+      <link href="http://localhost:4000/2017/06/20/jeniustech-newsletter-5/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #5" />
+      <published>2017-06-20T00:00:00+00:00</published>
+      <updated>2017-06-20T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/06/20/jeniustech-newsletter-5</id>
+      <content type="html" xml:base="http://localhost:4000/2017/06/20/jeniustech-newsletter-5/">&lt;p&gt;Hi welcome to Jenius Engineering newsletter #5, this newsletter published every tuesday. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;not much of a news right now, but this is what Jenius Engineering team read this week!&lt;/p&gt;
+
+&lt;h3&gt;Reading list&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@hakibenita/working-with-apis-the-pythonic-way-484784ed1ce0&quot;&gt;Working with APIs the Pythonic Way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/dont-use-a-blockchain-unless-you-need-to-bc063d0f9a80&quot;&gt;Don’t use a blockchain unless you need to&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/python-pandemonium/python-package-management-for-the-paranoid-52c23f6aba6a&quot;&gt;Python Package Management for the Paranoid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/apple/2017/06/macos-high-sierra-tech-preview-a-quick-look-at-the-stuff-you-cant-see/&quot;&gt;macOS High Sierra tech preview: A quick look at the stuff you can’t see&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/kubernetes-rolling-upgrades-one-by-one/&quot;&gt;Kubernetes Rolling Upgrades One By One&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b&quot;&gt;🍾🚀 webpack 3: Official Release!! 🚀🍾&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/grab/front-end-guide&quot;&gt;Grab Front End Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <summary type="html">Hi welcome to Jenius Engineering newsletter #5, this newsletter published every tuesday. please subscribe to our newsletter. not much of a news right now, but this is what Jenius Engineering team read this week! Reading list Working with APIs the Pythonic Way Don’t use a blockchain unless you need to Python Package Management for the Paranoid macOS High Sierra tech preview: A quick look at the stuff you can’t see Kubernetes Rolling Upgrades One By One News 🍾🚀 webpack 3: Official Release!! 🚀🍾 Tools Grab Front End Guide Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
