@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-07-11T06:19:59+00:00</updated>
+  <updated>2017-07-25T06:58:26+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,64 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jeniustech newsletter weekly #7</title>
+      
+      <link href="http://localhost:4000/2017/07/25/jeniustech-newsletter-7/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #7" />
+      <published>2017-07-25T00:00:00+00:00</published>
+      <updated>2017-07-25T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/07/25/jeniustech-newsletter-7</id>
+      <content type="html" xml:base="http://localhost:4000/2017/07/25/jeniustech-newsletter-7/">&lt;p&gt;welcome to Jenius Engineering newsletter #7, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;here are couple things that we read this past week, a lot thing that interest us, for example the Kotlin part&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/an-introduction-to-let-s-encrypt&quot;&gt;An Introduction to Let’s Encrypt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/kotlin-the-upstart-coding-language-conquering-silicon-valley&quot;&gt;Kotlin: the Upstart Coding Language Conquering Silicon Valley&lt;/a&gt;&lt;br /&gt;
+have to say it, Kotlin has taken up to the edge, and getting big with Google support.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/post-mortem-codeship-basic-platform-build-processing-incident/&quot;&gt;Postmortem: Codeship Basic Platform Build Processing Incident&lt;/a&gt;&lt;br /&gt;
+ this is important, especially for reliability engineer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/archive/2017/06/the-app-that-does-nothing/529764/&quot;&gt;The App That Does Nothing&lt;/a&gt; &lt;br /&gt;
+ a light reading&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/serverless-computing-has-landed-how-it-ops-can-adapt&quot;&gt;Serverless computing has landed: How IT Ops can adapt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/bitnami-perspectives/building-docker-images-without-docker-c619061b13a9&quot;&gt;Building Docker Images Without Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@lukastosic/traefik-docker-reverse-proxy-and-much-much-more-a39b24b9d959&quot;&gt;Traefik &amp;amp; Docker — reverse proxy and much much more&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;these article were curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com
+happy hacking!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <summary type="html">welcome to Jenius Engineering newsletter #7, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are couple things that we read this past week, a lot thing that interest us, for example the Kotlin part An Introduction to Let’s Encrypt Kotlin: the Upstart Coding Language Conquering Silicon Valley have to say it, Kotlin has taken up to the edge, and getting big with Google support. Postmortem: Codeship Basic Platform Build Processing Incident this is important, especially for reliability engineer The App That Does Nothing a light reading Serverless computing has landed: How IT Ops can adapt Building Docker Images Without Docker Traefik &amp;amp; Docker — reverse proxy and much much more these article were curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com happy hacking!</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
