@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-07-25T06:58:26+00:00</updated>
+  <updated>2017-08-01T02:57:00+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,68 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jeniustech newsletter weekly #8</title>
+      
+      <link href="http://localhost:4000/2017/08/01/jeniustech-newsletter-8/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #8" />
+      <published>2017-08-01T00:00:00+00:00</published>
+      <updated>2017-08-01T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/08/01/jeniustech-newsletter-8</id>
+      <content type="html" xml:base="http://localhost:4000/2017/08/01/jeniustech-newsletter-8/">&lt;p&gt;Welcome to Jenius Engineering newsletter #8, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;here are few reading list that Jenius Tech team are excited about, and Javascript has more and more dominating the development world.&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html&quot;&gt;Error Handling in React 16&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@ttaranto/aws-rds-benchmark-mariadb-vs-mysql-47af70602bb8&quot;&gt;AWS RDS benchmark — MariaDB vs MySQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://javascriptplayground.com/blog/2017/07/react-extracting-logic/&quot;&gt;Extracting Logic from React Components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.stefanjudis.de/hidden-messages-in-javascript-property-names.html&quot;&gt;Hidden messages in JavaScript property names&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/production-ready/learning-from-failure-and-success-955a2ef1405&quot;&gt;Learning From Failure and Success&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tool&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://node.getglimpse.com/&quot;&gt;Glimpse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;
+
+&lt;p&gt;didn’t have our apps yet? download it from &lt;a href=&quot;https://app.appsflyer.com/id1079340119?pid=jenius.com&amp;amp;c=2017HomePage-bottom&quot;&gt;App Store&lt;/a&gt; and &lt;a href=&quot;https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&amp;amp;c=2017HomePage-bottom&quot;&gt;Play Store&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;happy coding!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #8, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are few reading list that Jenius Tech team are excited about, and Javascript has more and more dominating the development world. Reading list Error Handling in React 16 AWS RDS benchmark — MariaDB vs MySQL Extracting Logic from React Components Hidden messages in JavaScript property names Learning From Failure and Success Tool Glimpse These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com didn’t have our apps yet? download it from App Store and Play Store. happy coding!</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
