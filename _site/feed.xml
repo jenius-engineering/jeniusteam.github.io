@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-08-08T06:20:42+00:00</updated>
+  <updated>2017-08-08T06:57:58+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -30,11 +30,11 @@
       
       <title type="html">Jeniustech newsletter weekly #9</title>
       
-      <link href="http://localhost:4000/2017/08/08/jeniutech-newsletter-9/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #9" />
+      <link href="http://localhost:4000/2017/08/08/1jeniutech-newsletter-9/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #9" />
       <published>2017-08-08T00:00:00+00:00</published>
       <updated>2017-08-08T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/08/08/jeniutech-newsletter-9</id>
-      <content type="html" xml:base="http://localhost:4000/2017/08/08/jeniutech-newsletter-9/">&lt;p&gt;Welcome to Jenius Engineering newsletter #9, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2017/08/08/1jeniutech-newsletter-9</id>
+      <content type="html" xml:base="http://localhost:4000/2017/08/08/1jeniutech-newsletter-9/">&lt;p&gt;Welcome to Jenius Engineering newsletter #9, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;How’s the weekend? this week we are trying to bring up on Jenius Engineering team to have a discussion about products and of course development!&lt;/p&gt;
 
