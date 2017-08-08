@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-08-01T02:57:00+00:00</updated>
+  <updated>2017-08-08T06:18:29+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,69 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jeniustech newsletter weekly #9</title>
+      
+      <link href="http://localhost:4000/2017/08/08/jeniutech-newsletter-9/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #9" />
+      <published>2017-08-08T00:00:00+00:00</published>
+      <updated>2017-08-08T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/08/08/jeniutech-newsletter-9</id>
+      <content type="html" xml:base="http://localhost:4000/2017/08/08/jeniutech-newsletter-9/">&lt;p&gt;Welcome to Jenius Engineering newsletter #9, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;How’s the weekend? this week we are trying to bring up on Jenius Engineering team to have a discussion about products and of course development!&lt;/p&gt;
+
+&lt;p&gt;here are our reading lists&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.enterpriseirregulars.com/117624/production-test-lab-canarying/&quot;&gt;When production is your test lab – what is “canarying”?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scalyr.com/2017/07/support-driven-development/&quot;&gt;Support Driven Development: Listen now so you don’t hear it later&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/chap-chaos-automation-platform-53e6d528371f&quot;&gt;ChAP: Chaos Automation Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.drdobbs.com/architecture-and-design/software-engineering-computer-science/217701907&quot;&gt;Software Engineering ≠ Computer Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://venturebeat.com/2017/08/03/facebook-now-uses-caffe2-deep-learning-for-the-sites-4-5-billion-daily-translations/&quot;&gt;Facebook now uses Caffe2 deep learning for the site’s 4.5 billion daily translations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/production-ready/learning-from-failure-and-success-955a2ef1405&quot;&gt;Learning From Failure and Success&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://chimera.labs.oreilly.com/books/1230000000545/ch12.html&quot;&gt;HTTP/2 introduction from &lt;em&gt;High Performance Browser Networking&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dastergon.github.io/availability-calculator/&quot;&gt;Availability Calculator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/derekparker/delve&quot;&gt;Delve, Debugger for GO programming language&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ai/nanoid&quot;&gt;URL-friendly unique string ID generator for JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.proteusthemes.com/blog/5-most-useful-google-chrome-extensions-for-wordpress-website-makers/&quot;&gt;5 Chrome usefull extension for frontend developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #9, this newsletter published every tuesday-ish. please subscribe to our newsletter. How’s the weekend? this week we are trying to bring up on Jenius Engineering team to have a discussion about products and of course development! here are our reading lists Reading list When production is your test lab – what is “canarying”? Support Driven Development: Listen now so you don’t hear it later ChAP: Chaos Automation Platform Software Engineering ≠ Computer Science Facebook now uses Caffe2 deep learning for the site’s 4.5 billion daily translations Learning From Failure and Success HTTP/2 introduction from High Performance Browser Networking Tools Availability Calculator Delve, Debugger for GO programming language URL-friendly unique string ID generator for JavaScript 5 Chrome usefull extension for frontend developer</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
