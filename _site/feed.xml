@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-08-08T06:18:29+00:00</updated>
+  <updated>2017-08-08T06:20:42+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -57,7 +57,13 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/derekparker/delve&quot;&gt;Delve, Debugger for GO programming language&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/ai/nanoid&quot;&gt;URL-friendly unique string ID generator for JavaScript&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.proteusthemes.com/blog/5-most-useful-google-chrome-extensions-for-wordpress-website-makers/&quot;&gt;5 Chrome usefull extension for frontend developer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;
+
+&lt;p&gt;didn’t have our apps yet? download it from &lt;a href=&quot;https://app.appsflyer.com/id1079340119?pid=jenius.com&amp;amp;c=2017HomePage-bottom&quot;&gt;App Store&lt;/a&gt; and &lt;a href=&quot;https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&amp;amp;c=2017HomePage-bottom&quot;&gt;Play Store&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;happy coding!&lt;/p&gt;</content>
 
       
       
@@ -80,7 +86,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #9, this newsletter published every tuesday-ish. please subscribe to our newsletter. How’s the weekend? this week we are trying to bring up on Jenius Engineering team to have a discussion about products and of course development! here are our reading lists Reading list When production is your test lab – what is “canarying”? Support Driven Development: Listen now so you don’t hear it later ChAP: Chaos Automation Platform Software Engineering ≠ Computer Science Facebook now uses Caffe2 deep learning for the site’s 4.5 billion daily translations Learning From Failure and Success HTTP/2 introduction from High Performance Browser Networking Tools Availability Calculator Delve, Debugger for GO programming language URL-friendly unique string ID generator for JavaScript 5 Chrome usefull extension for frontend developer</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #9, this newsletter published every tuesday-ish. please subscribe to our newsletter. How’s the weekend? this week we are trying to bring up on Jenius Engineering team to have a discussion about products and of course development! here are our reading lists Reading list When production is your test lab – what is “canarying”? Support Driven Development: Listen now so you don’t hear it later ChAP: Chaos Automation Platform Software Engineering ≠ Computer Science Facebook now uses Caffe2 deep learning for the site’s 4.5 billion daily translations Learning From Failure and Success HTTP/2 introduction from High Performance Browser Networking Tools Availability Calculator Delve, Debugger for GO programming language URL-friendly unique string ID generator for JavaScript 5 Chrome usefull extension for frontend developer These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com didn’t have our apps yet? download it from App Store and Play Store. happy coding!</summary>
       
 
       
