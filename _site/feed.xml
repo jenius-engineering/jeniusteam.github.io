@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-08-09T15:18:01+00:00</updated>
+  <updated>2017-08-16T07:48:56+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,77 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #10</title>
+      
+      <link href="http://localhost:4000/2017/08/16/jeniustech-newsletter-10/" rel="alternate" type="text/html" title="Jenius Engineering weekly #10" />
+      <published>2017-08-16T00:00:00+00:00</published>
+      <updated>2017-08-16T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/08/16/jeniustech-newsletter-10</id>
+      <content type="html" xml:base="http://localhost:4000/2017/08/16/jeniustech-newsletter-10/">&lt;p&gt;Welcome to Jenius Engineering newsletter #10, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;, this newsletter is a bit late. :pray:&lt;/p&gt;
+
+&lt;p&gt;Later this week we will celebrating our independence day! here are reading lists for your brain for this &lt;em&gt;almost&lt;/em&gt; long weekend.&lt;/p&gt;
+
+&lt;h4&gt;Reading List&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.arkency.com/2017/07/sidekiq-slow-processing-one-job-saturates-workers-rest-queue-up/&quot;&gt;Handle sidekiq processing when one job saturates your workers and the rest queue up&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stripe.com/blog/api-versioning&quot;&gt;APIs as infrastructure: future-proofing Stripe with versioning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.turbinelabs.io/beyond-observing-behavior-a0887fe0d3ca&quot;&gt;Beyond Observing Behavior&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2017/8/14/why-morningstar-moved-to-the-cloud-97-cost-reduction.html&quot;&gt;Why Morningstar Moved To The Cloud: 97% Cost Reduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-node-js-collection/node-js-errors-changes-you-need-to-know-about-dc8c82417f65&quot;&gt;Node.js Errors — Changes you need to know about&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thecodebarbarian.com/80-20-guide-to-express-error-handling.html&quot;&gt;The 80/20 Guide to Express Error Handling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/an-introduction-to-web-scraping-with-node-js-1045b55c63f7&quot;&gt;An Introduction to Web Scraping with Node JS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/&quot;&gt;Building A Simple AI Chatbot With Web Speech API And Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2017/08/what-is-containerd-runtime/&quot;&gt;What is Containerd?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dwmkerr.com/effective-shell-part-1-navigating-the-command-line/&quot;&gt;Effective Shell Part 1: Navigating the Command Line&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v8.4.0/&quot;&gt;Node v8.4.0 (Current)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ream/ream&quot;&gt;Ream: Framework for building universal Vue.js app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/darcyclarke/rawkit&quot;&gt;Immediately Open Chrome DevTools when debugging Node.js apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://display.js.org/&quot;&gt;A simple JavaScript framework for building ambitious UIs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/britecharts-v2-0-released/&quot;&gt;Britecharts v2.0 Released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #10, this newsletter published every tuesday-ish. please subscribe to our newsletter, this newsletter is a bit late. :pray: Later this week we will celebrating our independence day! here are reading lists for your brain for this almost long weekend. Reading List Handle sidekiq processing when one job saturates your workers and the rest queue up APIs as infrastructure: future-proofing Stripe with versioning Beyond Observing Behavior Why Morningstar Moved To The Cloud: 97% Cost Reduction Node.js Errors — Changes you need to know about The 80/20 Guide to Express Error Handling An Introduction to Web Scraping with Node JS Building A Simple AI Chatbot With Web Speech API And Node.js What is Containerd? Effective Shell Part 1: Navigating the Command Line News Node v8.4.0 (Current) Tools Ream: Framework for building universal Vue.js app Immediately Open Chrome DevTools when debugging Node.js apps A simple JavaScript framework for building ambitious UIs Britecharts v2.0 Released</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
