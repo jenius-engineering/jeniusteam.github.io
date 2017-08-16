@@ -32,3 +32,6 @@ Later this week we will celebrating our independence day! here are reading lists
 - [Immediately Open Chrome DevTools when debugging Node.js apps](https://github.com/darcyclarke/rawkit)
 - [A simple JavaScript framework for building ambitious UIs](https://display.js.org/)
 - [Britecharts v2.0 Released](https://www.eventbrite.com/engineering/britecharts-v2-0-released/)
+
+
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com   
