@@ -24,6 +24,4 @@ here are few reading list that Jenius Tech team are excited about, and Javascrip
 
 These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com   
 
-didn't have our apps yet? download it from [App Store](https://app.appsflyer.com/id1079340119?pid=jenius.com&c=2017HomePage-bottom) and [Play Store](https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&c=2017HomePage-bottom).
-
 happy coding!
