@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-08-16T07:58:11+00:00</updated>
+  <updated>2017-08-16T08:07:37+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -50,6 +50,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/&quot;&gt;Building A Simple AI Chatbot With Web Speech API And Node.js&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2017/08/what-is-containerd-runtime/&quot;&gt;What is Containerd?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.dwmkerr.com/effective-shell-part-1-navigating-the-command-line/&quot;&gt;Effective Shell Part 1: Navigating the Command Line&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/designing-microservices-architecture-for-failure/&quot;&gt;Designing a Microservices Architecture for Failure&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;News&lt;/h4&gt;
@@ -90,7 +91,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #10, this newsletter published every tuesday-ish. please subscribe to our newsletter, this newsletter is a bit late. :pray: Later this week we will celebrating our independence day! here are reading lists for your brain for this almost long weekend. Reading List Handle sidekiq processing when one job saturates your workers and the rest queue up APIs as infrastructure: future-proofing Stripe with versioning Beyond Observing Behavior Why Morningstar Moved To The Cloud: 97% Cost Reduction Node.js Errors — Changes you need to know about The 80/20 Guide to Express Error Handling An Introduction to Web Scraping with Node JS Building A Simple AI Chatbot With Web Speech API And Node.js What is Containerd? Effective Shell Part 1: Navigating the Command Line News Node v8.4.0 (Current) Tools Ream: Framework for building universal Vue.js app Immediately Open Chrome DevTools when debugging Node.js apps A simple JavaScript framework for building ambitious UIs Britecharts v2.0 Released These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #10, this newsletter published every tuesday-ish. please subscribe to our newsletter, this newsletter is a bit late. :pray: Later this week we will celebrating our independence day! here are reading lists for your brain for this almost long weekend. Reading List Handle sidekiq processing when one job saturates your workers and the rest queue up APIs as infrastructure: future-proofing Stripe with versioning Beyond Observing Behavior Why Morningstar Moved To The Cloud: 97% Cost Reduction Node.js Errors — Changes you need to know about The 80/20 Guide to Express Error Handling An Introduction to Web Scraping with Node JS Building A Simple AI Chatbot With Web Speech API And Node.js What is Containerd? Effective Shell Part 1: Navigating the Command Line Designing a Microservices Architecture for Failure News Node v8.4.0 (Current) Tools Ream: Framework for building universal Vue.js app Immediately Open Chrome DevTools when debugging Node.js apps A simple JavaScript framework for building ambitious UIs Britecharts v2.0 Released These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       

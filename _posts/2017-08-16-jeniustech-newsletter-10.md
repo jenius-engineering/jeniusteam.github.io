@@ -23,6 +23,7 @@ Later this week we will celebrating our independence day! here are reading lists
 - [Building A Simple AI Chatbot With Web Speech API And Node.js](https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/)
 - [What is Containerd?](https://blog.docker.com/2017/08/what-is-containerd-runtime/)
 - [Effective Shell Part 1: Navigating the Command Line](http://www.dwmkerr.com/effective-shell-part-1-navigating-the-command-line/)
+- [Designing a Microservices Architecture for Failure](https://blog.risingstack.com/designing-microservices-architecture-for-failure/)
 
 #### News 
 - [Node v8.4.0 (Current)](https://nodejs.org/en/blog/release/v8.4.0/)
