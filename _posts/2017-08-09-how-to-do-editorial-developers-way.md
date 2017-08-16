@@ -17,6 +17,3 @@ Hal ini tentu bisa diimplementasikan dengan proses _editorial_, Jenius.tech mela
 ![article flows](/images/posts/article-published.jpg)
 
 Semua artikel yang dibuat diblog ini disimpan di *repository* [Jenius Team](https://github.com/jeniusTeam/jeniusteam.github.io), dengan menggunakan Jekyll sebagai mesin blog-nya, dirasa sangat fleksibel dan juga memenuhi kebutuhan dalam mem-*publish* artikel.
-
-
-didn't have our apps yet? download it from [App Store](https://app.appsflyer.com/id1079340119?pid=jenius.com&c=2017HomePage-bottom) and [Play Store](https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&c=2017HomePage-bottom).

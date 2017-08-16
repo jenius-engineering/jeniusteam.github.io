@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-08-16T07:51:11+00:00</updated>
+  <updated>2017-08-16T07:58:11+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -115,9 +115,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/posts/article-published.jpg&quot; alt=&quot;article flows&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Semua artikel yang dibuat diblog ini disimpan di &lt;em&gt;repository&lt;/em&gt; &lt;a href=&quot;https://github.com/jeniusTeam/jeniusteam.github.io&quot;&gt;Jenius Team&lt;/a&gt;, dengan menggunakan Jekyll sebagai mesin blog-nya, dirasa sangat fleksibel dan juga memenuhi kebutuhan dalam mem-&lt;em&gt;publish&lt;/em&gt; artikel.&lt;/p&gt;
-
-&lt;p&gt;didn’t have our apps yet? download it from &lt;a href=&quot;https://app.appsflyer.com/id1079340119?pid=jenius.com&amp;amp;c=2017HomePage-bottom&quot;&gt;App Store&lt;/a&gt; and &lt;a href=&quot;https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&amp;amp;c=2017HomePage-bottom&quot;&gt;Play Store&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;Semua artikel yang dibuat diblog ini disimpan di &lt;em&gt;repository&lt;/em&gt; &lt;a href=&quot;https://github.com/jeniusTeam/jeniusteam.github.io&quot;&gt;Jenius Team&lt;/a&gt;, dengan menggunakan Jekyll sebagai mesin blog-nya, dirasa sangat fleksibel dan juga memenuhi kebutuhan dalam mem-&lt;em&gt;publish&lt;/em&gt; artikel.&lt;/p&gt;</content>
 
       
       
@@ -186,8 +184,6 @@
 
 &lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;
 
-&lt;p&gt;didn’t have our apps yet? download it from &lt;a href=&quot;https://app.appsflyer.com/id1079340119?pid=jenius.com&amp;amp;c=2017HomePage-bottom&quot;&gt;App Store&lt;/a&gt; and &lt;a href=&quot;https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&amp;amp;c=2017HomePage-bottom&quot;&gt;Play Store&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;happy coding!&lt;/p&gt;</content>
 
       
@@ -211,7 +207,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #9, this newsletter published every tuesday-ish. please subscribe to our newsletter. How’s the weekend? this week we are trying to bring up on Jenius Engineering team to have a discussion about products and of course development! here are our reading lists Reading list When production is your test lab – what is “canarying”? Support Driven Development: Listen now so you don’t hear it later ChAP: Chaos Automation Platform Software Engineering ≠ Computer Science Facebook now uses Caffe2 deep learning for the site’s 4.5 billion daily translations Learning From Failure and Success HTTP/2 introduction from High Performance Browser Networking Tools Availability Calculator Delve, Debugger for GO programming language URL-friendly unique string ID generator for JavaScript 5 Chrome usefull extension for frontend developer These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com didn’t have our apps yet? download it from App Store and Play Store. happy coding!</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #9, this newsletter published every tuesday-ish. please subscribe to our newsletter. How’s the weekend? this week we are trying to bring up on Jenius Engineering team to have a discussion about products and of course development! here are our reading lists Reading list When production is your test lab – what is “canarying”? Support Driven Development: Listen now so you don’t hear it later ChAP: Chaos Automation Platform Software Engineering ≠ Computer Science Facebook now uses Caffe2 deep learning for the site’s 4.5 billion daily translations Learning From Failure and Success HTTP/2 introduction from High Performance Browser Networking Tools Availability Calculator Delve, Debugger for GO programming language URL-friendly unique string ID generator for JavaScript 5 Chrome usefull extension for frontend developer These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com happy coding!</summary>
       
 
       
@@ -248,8 +244,6 @@
 
 &lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;
 
-&lt;p&gt;didn’t have our apps yet? download it from &lt;a href=&quot;https://app.appsflyer.com/id1079340119?pid=jenius.com&amp;amp;c=2017HomePage-bottom&quot;&gt;App Store&lt;/a&gt; and &lt;a href=&quot;https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&amp;amp;c=2017HomePage-bottom&quot;&gt;Play Store&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;happy coding!&lt;/p&gt;</content>
 
       
@@ -273,7 +267,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #8, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are few reading list that Jenius Tech team are excited about, and Javascript has more and more dominating the development world. Reading list Error Handling in React 16 AWS RDS benchmark — MariaDB vs MySQL Extracting Logic from React Components Hidden messages in JavaScript property names Learning From Failure and Success Tool Glimpse These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com didn’t have our apps yet? download it from App Store and Play Store. happy coding!</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #8, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are few reading list that Jenius Tech team are excited about, and Javascript has more and more dominating the development world. Reading list Error Handling in React 16 AWS RDS benchmark — MariaDB vs MySQL Extracting Logic from React Components Hidden messages in JavaScript property names Learning From Failure and Success Tool Glimpse These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com happy coding!</summary>
       
 
       
@@ -307,8 +301,9 @@ have to say it, Kotlin has taken up to the edge, and getting big with Google sup
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@lukastosic/traefik-docker-reverse-proxy-and-much-much-more-a39b24b9d959&quot;&gt;Traefik &amp;amp; Docker — reverse proxy and much much more&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;these article were curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com
-happy hacking!&lt;/p&gt;</content>
+&lt;p&gt;these article were curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;
+
+&lt;p&gt;happy hacking!&lt;/p&gt;</content>
 
       
       
