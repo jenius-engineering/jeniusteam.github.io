@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-08-16T08:07:37+00:00</updated>
+  <updated>2017-08-22T05:00:51+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,70 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #11</title>
+      
+      <link href="http://localhost:4000/2017/08/22/jeniustech-newsletter-11/" rel="alternate" type="text/html" title="Jenius Engineering weekly #11" />
+      <published>2017-08-22T00:00:00+00:00</published>
+      <updated>2017-08-22T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/08/22/jeniustech-newsletter-11</id>
+      <content type="html" xml:base="http://localhost:4000/2017/08/22/jeniustech-newsletter-11/">&lt;p&gt;Welcome to Jenius Engineering newsletter #11, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;here are what the Jenius Engineering team read this week!&lt;/p&gt;
+
+&lt;h4&gt;Reading lists&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b&quot;&gt;Ten Principles for Growth as an Engineer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.netsil.com/beyond-google-sre-what-is-site-reliability-engineering-like-at-medium-71c65bd35f4e&quot;&gt;Beyond Google SRE: What is Site Reliability Engineering like at Medium?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://engineering.grab.com/migrating-existing-datastores&quot;&gt;Migrating Existing Datastores&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/17/7/state-systems-administration&quot;&gt;Ops: It’s everyone’s job now&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html&quot;&gt;5 Ways to Make HTTP Requests in Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html&quot;&gt;Working with Environment Variables in Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://githubengineering.com/kubernetes-at-github/&quot;&gt;Kubernetes at GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost&quot;&gt;VSCode Extension: Import cost&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleChrome/puppeteer&quot;&gt;Headless Chrome Node API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/aksakalli/gtop&quot;&gt;gTop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #11, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are what the Jenius Engineering team read this week! Reading lists Ten Principles for Growth as an Engineer Beyond Google SRE: What is Site Reliability Engineering like at Medium? Migrating Existing Datastores Ops: It’s everyone’s job now 5 Ways to Make HTTP Requests in Node.js Working with Environment Variables in Node.js Kubernetes at GitHub Tools VSCode Extension: Import cost Headless Chrome Node API gTop These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
