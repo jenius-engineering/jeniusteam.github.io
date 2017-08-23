@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-08-22T05:00:51+00:00</updated>
+  <updated>2017-08-23T06:05:08+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,70 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius X JakartaJS meetup</title>
+      
+      <link href="http://localhost:4000/2017/08/23/jenius-jakartajs-meetup/" rel="alternate" type="text/html" title="Jenius X JakartaJS meetup" />
+      <published>2017-08-23T00:00:00+00:00</published>
+      <updated>2017-08-23T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/08/23/jenius-jakartajs-meetup</id>
+      <content type="html" xml:base="http://localhost:4000/2017/08/23/jenius-jakartajs-meetup/">&lt;p&gt;Selasa malam Jenius dan komunitas JakartaJS mengadakan meetup yang dihadiri oleh banyak Javascript enthusiast yang manjadi &lt;em&gt;member&lt;/em&gt; JakartaJS, topik yang dibahas antara lain&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;How to Use Graphql with React Native&lt;/strong&gt;, Bagaimana implementasi React-Native dan GraphQL dalam membangun project &lt;em&gt;mobile app&lt;/em&gt; sederhana&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Serverless Using Google Cloud Function And Node.JS&lt;/strong&gt;, topik ini cukup menarik karena bahasan &lt;em&gt;serverless&lt;/em&gt; masih belum populer&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Automate Task Runner with Gulp.js&lt;/strong&gt;, bagaimana melakukan automasi dari mulai kompresi gambar sampai bisa juga melakukan backup.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;lighting talk&lt;/em&gt; kali ini membawa topik membuat &lt;em&gt;custom charts&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;photo dari meetup&lt;/h4&gt;
+&lt;p&gt;berikut beberapa photo dari acara meetup Jenius X JakartaJS&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/0jakartajs/01.jpg&quot; alt=&quot;jakarta js&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/0jakartajs/02.jpg&quot; alt=&quot;jakarta js&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/0jakartajs/03.jpg&quot; alt=&quot;jakarta js&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/0jakartajs/04.jpg&quot; alt=&quot;jakarta js&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;mau mengadakan &lt;em&gt;meetup&lt;/em&gt; di Jenius? bisa email ke engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="meetup" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Selasa malam Jenius dan komunitas JakartaJS mengadakan meetup yang dihadiri oleh banyak Javascript enthusiast yang manjadi member JakartaJS, topik yang dibahas antara lain How to Use Graphql with React Native, Bagaimana implementasi React-Native dan GraphQL dalam membangun project mobile app sederhana Serverless Using Google Cloud Function And Node.JS, topik ini cukup menarik karena bahasan serverless masih belum populer Automate Task Runner with Gulp.js, bagaimana melakukan automasi dari mulai kompresi gambar sampai bisa juga melakukan backup. lighting talk kali ini membawa topik membuat custom charts photo dari meetup berikut beberapa photo dari acara meetup Jenius X JakartaJS</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
