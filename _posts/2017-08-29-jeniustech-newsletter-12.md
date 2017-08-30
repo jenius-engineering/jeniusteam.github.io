@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 
-Welcome to Jenius Engineering newsletter #11, this newsletter published every tuesday-*ish*. please subscribe to our [newsletter](http://jenius.tech/newsletter).
+Welcome to Jenius Engineering newsletter #12, this newsletter published every tuesday-*ish*. please subscribe to our [newsletter](http://jenius.tech/newsletter).
 
 here are what the Jenius Engineering team read this week!
 
