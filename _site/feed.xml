@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-08-23T06:05:08+00:00</updated>
+  <updated>2017-08-30T08:17:10+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,72 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #12</title>
+      
+      <link href="http://localhost:4000/2017/08/29/jeniustech-newsletter-12/" rel="alternate" type="text/html" title="Jenius Engineering weekly #12" />
+      <published>2017-08-29T00:00:00+00:00</published>
+      <updated>2017-08-29T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/08/29/jeniustech-newsletter-12</id>
+      <content type="html" xml:base="http://localhost:4000/2017/08/29/jeniustech-newsletter-12/">&lt;p&gt;Welcome to Jenius Engineering newsletter #11, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;here are what the Jenius Engineering team read this week!&lt;/p&gt;
+
+&lt;h4&gt;Reading List&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e&quot;&gt;How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pagerduty.com/blog/cutting-alert-fatigue-modern-ops/&quot;&gt;Cutting Alert Fatigue in Modern Ops&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/production-ready/impermanence-the-single-root-cause-bd9ebadf1e8e&quot;&gt;Impermanence: The Single Root Cause&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/continuous-deployment-for-your-node-js-projects-in-10-minutes-with-exoframe-bdf48340c1be&quot;&gt;Continuous deployment for your Node.js projects in 10 minutes with Exoframe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rafaelsorto.com/nodejs/2017/how-to-configure-nodejs-with-nginx-and-phussion-passenger-using-nvm/&quot;&gt;How to configure NodeJS with Nginx and Phussion Passenger using NVM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02&quot;&gt;A crash course on testing with Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/monad-transformers-javascript-vladim%C3%ADr-gorej&quot;&gt;Monad transformers in JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mamaz.github.io/benchmarking-nodejs-http-performance.html&quot;&gt;Benchmarking Node.js Http Performance Part 1 Express.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Shopify/kubernetes-deploy&quot;&gt;Kubernetes Deploy&lt;/a&gt; &lt;br /&gt;
+  A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleChrome/puppeteer&quot;&gt;Puppeteer&lt;/a&gt;  &lt;br /&gt;
+  Headless Chrome Node API&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://notifme.github.io/notifme-sdk/&quot;&gt;Notify.me&lt;/a&gt; &lt;br /&gt;
+  A Node.js library to send all kinds of transactional notifications.&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #11, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are what the Jenius Engineering team read this week! Reading List How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code Cutting Alert Fatigue in Modern Ops Impermanence: The Single Root Cause Continuous deployment for your Node.js projects in 10 minutes with Exoframe How to configure NodeJS with Nginx and Phussion Passenger using NVM A crash course on testing with Node.js Monad transformers in JavaScript Benchmarking Node.js Http Performance Part 1 Express.js Tools Kubernetes Deploy A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result Puppeteer Headless Chrome Node API Notify.me A Node.js library to send all kinds of transactional notifications.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
