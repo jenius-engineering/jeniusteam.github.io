@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-08-30T08:17:10+00:00</updated>
+  <updated>2017-08-30T08:19:37+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -34,7 +34,7 @@
       <published>2017-08-29T00:00:00+00:00</published>
       <updated>2017-08-29T00:00:00+00:00</updated>
       <id>http://localhost:4000/2017/08/29/jeniustech-newsletter-12</id>
-      <content type="html" xml:base="http://localhost:4000/2017/08/29/jeniustech-newsletter-12/">&lt;p&gt;Welcome to Jenius Engineering newsletter #11, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/2017/08/29/jeniustech-newsletter-12/">&lt;p&gt;Welcome to Jenius Engineering newsletter #12, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;here are what the Jenius Engineering team read this week!&lt;/p&gt;
 
@@ -83,7 +83,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #11, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are what the Jenius Engineering team read this week! Reading List How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code Cutting Alert Fatigue in Modern Ops Impermanence: The Single Root Cause Continuous deployment for your Node.js projects in 10 minutes with Exoframe How to configure NodeJS with Nginx and Phussion Passenger using NVM A crash course on testing with Node.js Monad transformers in JavaScript Benchmarking Node.js Http Performance Part 1 Express.js Tools Kubernetes Deploy A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result Puppeteer Headless Chrome Node API Notify.me A Node.js library to send all kinds of transactional notifications.</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #12, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are what the Jenius Engineering team read this week! Reading List How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code Cutting Alert Fatigue in Modern Ops Impermanence: The Single Root Cause Continuous deployment for your Node.js projects in 10 minutes with Exoframe How to configure NodeJS with Nginx and Phussion Passenger using NVM A crash course on testing with Node.js Monad transformers in JavaScript Benchmarking Node.js Http Performance Part 1 Express.js Tools Kubernetes Deploy A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result Puppeteer Headless Chrome Node API Notify.me A Node.js library to send all kinds of transactional notifications.</summary>
       
 
       
