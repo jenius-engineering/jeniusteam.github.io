@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-08-30T08:19:37+00:00</updated>
+  <updated>2017-09-05T06:43:19+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,71 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #13</title>
+      
+      <link href="http://localhost:4000/2017/09/05/jeniustech-newsletter-13/" rel="alternate" type="text/html" title="Jenius Engineering weekly #13" />
+      <published>2017-09-05T00:00:00+00:00</published>
+      <updated>2017-09-05T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/09/05/jeniustech-newsletter-13</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/05/jeniustech-newsletter-13/">&lt;p&gt;Welcome to Jenius Engineering newsletter #13, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.discordapp.com/how-discord-indexes-billions-of-messages-e3d5e9be866f&quot;&gt;How Discord Indexes Billions of Messages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/270314900139291/rapid-release-at-massive-scale/&quot;&gt;Rapid release at massive scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/microservices-in-practice/microservices-in-practice-7a3e85b6624c&quot;&gt;Pragmatic Microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/comparing-elixir-go/&quot;&gt;Comparing Elixir and Go&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jesse-anderson.com/2017/08/integration-testing-for-kafka/&quot;&gt;Integration Testing for Kafka&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://siliconangle.com/blog/2017/08/27/serverless-computing-functional-stateless-microservices/&quot;&gt;Serverless computing: It’s all about functional stateless microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kennethreitz/setup.py&quot;&gt;setup.py (for humans)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://joaorafaelm.github.io/blog/graphql-and-django-in-5-minutes&quot;&gt;GraphQL and Django in 5 minutes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dtrace.org/blogs/bmc/2017/09/04/the-sudden-death-and-eternal-life-of-solaris/&quot;&gt;The sudden death and eternal life of Solaris&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snowtechstuff.com/confirmed-slow-internet-se-asia-countries-due-to-broken-undersea-cables/&quot;&gt;CONFIRMED: Slow internet in most SE Asia countries due to broken undersea cables&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zalandoresearch/fashion-mnist&quot;&gt;Fashion-MNIST&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #13, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list How Discord Indexes Billions of Messages Rapid release at massive scale Pragmatic Microservices Comparing Elixir and Go Integration Testing for Kafka Serverless computing: It’s all about functional stateless microservices setup.py (for humans) GraphQL and Django in 5 minutes News The sudden death and eternal life of Solaris CONFIRMED: Slow internet in most SE Asia countries due to broken undersea cables Tools Fashion-MNIST</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
