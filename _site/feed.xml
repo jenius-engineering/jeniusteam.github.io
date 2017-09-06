@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-09-05T06:43:19+00:00</updated>
+  <updated>2017-09-06T06:31:58+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -83,6 +83,65 @@
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #13, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list How Discord Indexes Billions of Messages Rapid release at massive scale Pragmatic Microservices Comparing Elixir and Go Integration Testing for Kafka Serverless computing: It’s all about functional stateless microservices setup.py (for humans) GraphQL and Django in 5 minutes News The sudden death and eternal life of Solaris CONFIRMED: Slow internet in most SE Asia countries due to broken undersea cables Tools Fashion-MNIST</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius X GoJakarta meetup</title>
+      
+      <link href="http://localhost:4000/2017/09/01/jenius-gojakarta-meetup/" rel="alternate" type="text/html" title="Jenius X GoJakarta meetup" />
+      <published>2017-09-01T00:00:00+00:00</published>
+      <updated>2017-09-01T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/09/01/jenius-gojakarta-meetup</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/01/jenius-gojakarta-meetup/">&lt;p&gt;Jenius dan komunitas &lt;a href=&quot;https://golang.org&quot;&gt;GOLang&lt;/a&gt; Jakarta mengadakan meetup yang diselenggarakan di Jenius, Menara BTPN.&lt;/p&gt;
+
+&lt;p&gt;Sedikit mengenai Golang (GO), adalah salah satu bahasa pemrograman yang dibuat di Google, dan mulai banyak yang mengadopsi penggunaan bahasa GO ini dilevel hobi dan &lt;em&gt;enterprise&lt;/em&gt; terutama, GO banyak digunakan sebagai bahasa pembangun untuk membuat &lt;em&gt;service&lt;/em&gt; yang digunakan untuk kepentingan yang spesifik (dan &lt;em&gt;microservice&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Di indonesia sendiri mungkin belum terlalu banyak yang mengadopsi (AFAIK), karena masih banyak &lt;em&gt;legacy system&lt;/em&gt; yang dibangun dengan menggunakan Java.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Di &lt;em&gt;meetup&lt;/em&gt; ini dibahas mengenai cara membuat &lt;em&gt;Framework&lt;/em&gt; sendiri dengan menggunakan GO sebagai bahasanya, yang dibawakan oleh Kiswono Prayogo dan Randy Cahyana, dihadiri oleh &amp;gt; 30 peserta.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/preview/GoJakarta/events/242664379&quot;&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Photos&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/gojakarta/01.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/gojakarta/02.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/gojakarta/03.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="meetup" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Jenius dan komunitas GOLang Jakarta mengadakan meetup yang diselenggarakan di Jenius, Menara BTPN. Sedikit mengenai Golang (GO), adalah salah satu bahasa pemrograman yang dibuat di Google, dan mulai banyak yang mengadopsi penggunaan bahasa GO ini dilevel hobi dan enterprise terutama, GO banyak digunakan sebagai bahasa pembangun untuk membuat service yang digunakan untuk kepentingan yang spesifik (dan microservice). Di indonesia sendiri mungkin belum terlalu banyak yang mengadopsi (AFAIK), karena masih banyak legacy system yang dibangun dengan menggunakan Java.</summary>
       
 
       
@@ -1221,44 +1280,6 @@ photo dari &lt;em&gt;meetup&lt;/em&gt;
 
       
         <summary type="html">Team Jenius dan komunitas JVM user group mengadakan event meetup dengan topik mengenai Reactive System, topik ini sangat menarik karena membahas ide fundamental dari bagaimana membangun system yang robust dan tentu saja scaled. Reactive System sendiri merupakan satu cara untuk membangun arsitektural sistem yang memungkin aplikasi-aplikasi atau servis-servis yang tersebar menjadi semacam satu unit, bereaksi ke sistem yang ada di sekelilingnya, dan aware terhadap satu sistem dengan lainnya. Meetup ini menghadirkan pembicara Eko Kurniawan Principal Engineer dari blibli.com dan Andi Pangeran Senior Software Engineer dari jurnal.id. Jenius akan selalu mengadakan event-event yang bisa digunakan untuk komunitas (tidak terbatas tech), selain untuk menambah pengetahuan, kultur engineering di Jenius dan juga bermanfaat bagi komunitas.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius says HI!</title>
-      
-      <link href="http://localhost:4000/2017/04/05/jenius-says-hi/" rel="alternate" type="text/html" title="Jenius says HI!" />
-      <published>2017-04-05T00:00:00+00:00</published>
-      <updated>2017-04-05T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/04/05/jenius-says-hi</id>
-      <content type="html" xml:base="http://localhost:4000/2017/04/05/jenius-says-hi/">&lt;p&gt;Hello world!&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-
-      
-        <summary type="html">Hello world!</summary>
       
 
       
