@@ -30,3 +30,4 @@ here are what the Jenius Engineering team read this week!
 - [Notify.me](https://notifme.github.io/notifme-sdk/)   
     A Node.js library to send all kinds of transactional notifications.
 
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com   
