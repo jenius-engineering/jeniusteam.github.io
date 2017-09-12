@@ -26,3 +26,5 @@ Welcome to Jenius Engineering newsletter #13, this newsletter published every tu
 
 ### Tools
 - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
+
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com   
