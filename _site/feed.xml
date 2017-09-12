@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-09-06T06:31:58+00:00</updated>
+  <updated>2017-09-12T12:20:09+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,125 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #14</title>
+      
+      <link href="http://localhost:4000/2017/09/12/jeniustech-newsletter-14/" rel="alternate" type="text/html" title="Jenius Engineering weekly #14" />
+      <published>2017-09-12T00:00:00+00:00</published>
+      <updated>2017-09-12T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/09/12/jeniustech-newsletter-14</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/12/jeniustech-newsletter-14/">&lt;p&gt;Welcome to Jenius Engineering newsletter #14, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ory.am/run-oauth2-server-open-source-api-security.html?&quot;&gt;Run your own Oauth2 server&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bridgetkromhout.com/speaking/2017/srecon/&quot;&gt;Keep Calm and Carry On - Scaling Your Org with Microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6&quot;&gt;Polymer 3.0 Preview — Building a mini card game&lt;/a&gt; &lt;!-- more --&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.atlasobscura.com/articles/plant-memory-hidden-vernalization&quot;&gt;The Hidden Memories of Plants&lt;/a&gt;  &lt;br /&gt;
+yes it’s an off from tech related, but it’s worth to read&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html&quot;&gt;Secure Programming HOWTO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/overview-of-functional-programming/&quot;&gt;Overview of Functional Programming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/documenting-microservices/&quot;&gt;Tools and Practices for Documenting Microservices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tool&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netfort.gr.jp/~dancer/software/dsh.html.en&quot;&gt;dsh&lt;/a&gt;   &lt;br /&gt;
+distributed shell&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pcmanus/ccm&quot;&gt;ccm&lt;/a&gt;  &lt;br /&gt;
+A script to easily create and destroy an Apache Cassandra cluster on localhost&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #14, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Run your own Oauth2 server Keep Calm and Carry On - Scaling Your Org with Microservices Polymer 3.0 Preview — Building a mini card game</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius X ID-Ruby meetup</title>
+      
+      <link href="http://localhost:4000/2017/09/07/idruby-jenius-meetup/" rel="alternate" type="text/html" title="Jenius X ID-Ruby meetup" />
+      <published>2017-09-07T00:00:00+00:00</published>
+      <updated>2017-09-07T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/09/07/idruby-jenius-meetup</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/07/idruby-jenius-meetup/">&lt;p&gt;&lt;a href=&quot;/images/posts/idruby/idruby.jpg&quot;&gt;&lt;img src=&quot;/images/posts/idruby/idruby0.jpg&quot; alt=&quot;id ruby&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jenius kembali mengadakan Meetup dengan komunitas developer, kali ini dengan &lt;a href=&quot;http://ruby.id&quot;&gt;komunitas Ruby&lt;/a&gt;, dengan materi :
+&lt;!-- more --&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;_Vim for Rubyist_&lt;/em&gt; yang dibawakan oleh Agung Setiawan&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;_How to give good meetup/conference talks_&lt;/em&gt; yang dibawakan oleh Abdullah&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Komunitas ID-Ruby akan mengadakan Rubyconf pertama di indonesia.&lt;/p&gt;
+
+&lt;p&gt;Jenius sebagai &lt;em&gt;technology company&lt;/em&gt; sangat antusias dengan acara &lt;em&gt;sharing&lt;/em&gt;, &lt;em&gt;meetup&lt;/em&gt; yang memang bagian dari &lt;em&gt;culture&lt;/em&gt; di jenius, yaitu &lt;em&gt;Continuous Learning&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS&lt;/em&gt;, kalo ada yang tertarik mengadakan event di Jenius, silakan kontak di deden@jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="meetup" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Jenius kembali mengadakan Meetup dengan komunitas developer, kali ini dengan komunitas Ruby, dengan materi :</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -57,7 +176,9 @@
 &lt;h3&gt;Tools&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/zalandoresearch/fashion-mnist&quot;&gt;Fashion-MNIST&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
 
       
       
@@ -82,7 +203,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #13, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list How Discord Indexes Billions of Messages Rapid release at massive scale Pragmatic Microservices Comparing Elixir and Go Integration Testing for Kafka Serverless computing: It’s all about functional stateless microservices setup.py (for humans) GraphQL and Django in 5 minutes News The sudden death and eternal life of Solaris CONFIRMED: Slow internet in most SE Asia countries due to broken undersea cables Tools Fashion-MNIST</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #13, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list How Discord Indexes Billions of Messages Rapid release at massive scale Pragmatic Microservices Comparing Elixir and Go Integration Testing for Kafka Serverless computing: It’s all about functional stateless microservices setup.py (for humans) GraphQL and Django in 5 minutes News The sudden death and eternal life of Solaris CONFIRMED: Slow internet in most SE Asia countries due to broken undersea cables Tools Fashion-MNIST These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
@@ -182,7 +303,9 @@
   Headless Chrome Node API&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://notifme.github.io/notifme-sdk/&quot;&gt;Notify.me&lt;/a&gt; &lt;br /&gt;
   A Node.js library to send all kinds of transactional notifications.&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
 
       
       
@@ -207,7 +330,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #12, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are what the Jenius Engineering team read this week! Reading List How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code Cutting Alert Fatigue in Modern Ops Impermanence: The Single Root Cause Continuous deployment for your Node.js projects in 10 minutes with Exoframe How to configure NodeJS with Nginx and Phussion Passenger using NVM A crash course on testing with Node.js Monad transformers in JavaScript Benchmarking Node.js Http Performance Part 1 Express.js Tools Kubernetes Deploy A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result Puppeteer Headless Chrome Node API Notify.me A Node.js library to send all kinds of transactional notifications.</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #12, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are what the Jenius Engineering team read this week! Reading List How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code Cutting Alert Fatigue in Modern Ops Impermanence: The Single Root Cause Continuous deployment for your Node.js projects in 10 minutes with Exoframe How to configure NodeJS with Nginx and Phussion Passenger using NVM A crash course on testing with Node.js Monad transformers in JavaScript Benchmarking Node.js Http Performance Part 1 Express.js Tools Kubernetes Deploy A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result Puppeteer Headless Chrome Node API Notify.me A Node.js library to send all kinds of transactional notifications. These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
@@ -1153,133 +1276,6 @@ Sesi 1&lt;/p&gt;
 
       
         <summary type="html">Meetup roundup bulan Mei yang diadakan di Jenius HQ Microservice mudah dan cepat dengan spring boot 6 Mei 2017 Reactive System 16 Mei 2017 Sesi 1 Sesi 2</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jeniustech newsletter weekly #1</title>
-      
-      <link href="http://localhost:4000/2017/05/22/jeniustech-newsletter/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #1" />
-      <published>2017-05-22T00:00:00+00:00</published>
-      <updated>2017-05-22T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/05/22/jeniustech-newsletter</id>
-      <content type="html" xml:base="http://localhost:4000/2017/05/22/jeniustech-newsletter/">&lt;p&gt;Welcome to the first edition of Jeniustech #1 weekly newsletter, for the uninitiated, this &lt;strong&gt;newsletter&lt;/strong&gt; will contain some tech news, and couple from development worlds, curated by Jenius engineering team.
-&lt;!--break--&gt;&lt;/p&gt;
-
-&lt;h3&gt;reading list&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.kubernetes.io/2017/05/kubernetes-monitoring-guide.html&quot;&gt;Kubernetes: a monitoring guide&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2017/05/why-you-really-need-to-stop-using-public-wi-fi&quot;&gt;Why You Really Need to Stop Using Public Wi-Fi&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770&quot;&gt;Democratizing Data at Airbnb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.openshift.com/deploying-2048-openshift-nodes-cncf-cluster/&quot;&gt;Deploying 2048 OpenShift nodes on the CNCF Cluster&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/using-docker-compose-for-nodejs-development/&quot;&gt;Using Docker Compose for NodeJS Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.xogrp.com/streams-for-everyone-92d50108ed72&quot;&gt;Streams for Everyone&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f&quot;&gt;19 things I learnt reading the NodeJS docs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.com/which-projects-need-react-all-of-them-e7ccb6629ba7&quot;&gt;Which Projects Need React? All Of Them!&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;tools&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/graphql/graphiql&quot;&gt;GraphiQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://typeanything.io/&quot;&gt;typeanything&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stedolan.github.io/jq/&quot;&gt;JQ&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://metron.apache.org/&quot;&gt;Metron&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="event" />
-      
-        <category term="Jenius" />
-      
-        <category term="newsletter" />
-      
-
-      
-        <summary type="html">Welcome to the first edition of Jeniustech #1 weekly newsletter, for the uninitiated, this newsletter will contain some tech news, and couple from development worlds, curated by Jenius engineering team. reading list Kubernetes: a monitoring guide Why You Really Need to Stop Using Public Wi-Fi Democratizing Data at Airbnb Deploying 2048 OpenShift nodes on the CNCF Cluster Using Docker Compose for NodeJS Development Streams for Everyone 19 things I learnt reading the NodeJS docs Which Projects Need React? All Of Them! tools GraphiQL typeanything JQ Metron</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius x JVMUG - Reactive System</title>
-      
-      <link href="http://localhost:4000/2017/05/17/jvm-meetup/" rel="alternate" type="text/html" title="Jenius x JVMUG - Reactive System" />
-      <published>2017-05-17T00:00:00+00:00</published>
-      <updated>2017-05-17T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/05/17/jvm-meetup</id>
-      <content type="html" xml:base="http://localhost:4000/2017/05/17/jvm-meetup/">&lt;p&gt;&lt;img src=&quot;/images/posts/jvm2/jvm2.jpeg&quot; alt=&quot;jvm x Jenius&quot; /&gt;
-Team Jenius dan komunitas JVM user group mengadakan event meetup dengan topik mengenai &lt;strong&gt;&lt;em&gt;Reactive System&lt;/em&gt;&lt;/strong&gt;, topik ini sangat menarik karena membahas ide fundamental dari bagaimana membangun system yang &lt;em&gt;robust&lt;/em&gt; dan tentu saja &lt;em&gt;scaled&lt;/em&gt;.&lt;/p&gt;
-
-&lt;!--break--&gt;
-
-&lt;p&gt;&lt;em&gt;Reactive System&lt;/em&gt; sendiri merupakan satu cara untuk membangun arsitektural sistem yang memungkin aplikasi-aplikasi atau servis-servis yang tersebar menjadi semacam satu unit, bereaksi ke sistem yang ada di sekelilingnya, dan &lt;em&gt;aware&lt;/em&gt; terhadap satu sistem dengan lainnya.
-&lt;em&gt;Meetup&lt;/em&gt; ini menghadirkan pembicara &lt;strong&gt;Eko Kurniawan&lt;/strong&gt; &lt;em&gt;Principal Engineer&lt;/em&gt; dari &lt;strong&gt;blibli.com&lt;/strong&gt; dan &lt;strong&gt;Andi Pangeran&lt;/strong&gt; &lt;em&gt;Senior Software Engineer&lt;/em&gt; dari &lt;strong&gt;jurnal.id&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://jenius.com&quot;&gt;Jenius&lt;/a&gt; akan selalu mengadakan event-event yang bisa digunakan untuk komunitas (tidak terbatas &lt;em&gt;tech&lt;/em&gt;), selain untuk menambah pengetahuan, kultur &lt;em&gt;engineering&lt;/em&gt; di Jenius dan juga bermanfaat bagi komunitas.
-&lt;!-- more --&gt;
-photo dari &lt;em&gt;meetup&lt;/em&gt;
-&lt;a href=&quot;/images/posts/jvm2/jvm2-0-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/jvm2/jvm2-0.jpg&quot; alt=&quot;jvm x Jenius&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;/images/posts/jvm2/jvm2-1-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/jvm2/jvm2-1.jpg&quot; alt=&quot;jvm x Jenius&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;/images/posts/jvm2/jvm2-2-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/jvm2/jvm2-2.jpg&quot; alt=&quot;jvm x Jenius&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;/images/posts/jvm2/jvm2-3-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/jvm2/jvm2-3.jpg&quot; alt=&quot;jvm x Jenius&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;PS&lt;/em&gt;, kalo ada yang tertarik mengadakan event di Jenius, silakan kontak di deden@jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="meetup" />
-      
-
-      
-        <category term="event" />
-      
-        <category term="Jenius" />
-      
-        <category term="engineering" />
-      
-
-      
-        <summary type="html">Team Jenius dan komunitas JVM user group mengadakan event meetup dengan topik mengenai Reactive System, topik ini sangat menarik karena membahas ide fundamental dari bagaimana membangun system yang robust dan tentu saja scaled. Reactive System sendiri merupakan satu cara untuk membangun arsitektural sistem yang memungkin aplikasi-aplikasi atau servis-servis yang tersebar menjadi semacam satu unit, bereaksi ke sistem yang ada di sekelilingnya, dan aware terhadap satu sistem dengan lainnya. Meetup ini menghadirkan pembicara Eko Kurniawan Principal Engineer dari blibli.com dan Andi Pangeran Senior Software Engineer dari jurnal.id. Jenius akan selalu mengadakan event-event yang bisa digunakan untuk komunitas (tidak terbatas tech), selain untuk menambah pengetahuan, kultur engineering di Jenius dan juga bermanfaat bagi komunitas.</summary>
       
 
       
