@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-09-19T17:27:55+00:00</updated>
+  <updated>2017-09-28T06:15:31+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,76 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #16</title>
+      
+      <link href="http://localhost:4000/2017/09/26/jeniustech-newsletter-16/" rel="alternate" type="text/html" title="Jenius Engineering weekly #16" />
+      <published>2017-09-26T00:00:00+00:00</published>
+      <updated>2017-09-26T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/09/26/jeniustech-newsletter-16</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/26/jeniustech-newsletter-16/">&lt;p&gt;Welcome to Jenius Engineering newsletter #16, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here are few reading list and news that we read over the week.&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/front-end-hacking/redux-for-lazy-people-2315cec79ae2&quot;&gt;Remodule — Redux for Lazy People&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/javascript/choosing-best-front-end-framework&quot;&gt;How to Choose the Best Front-end Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/software/creating-modular-code-with-no-dependencies&quot;&gt;Creating Truly Modular Code with No Dependencies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackoverflow.blog/2017/09/14/python-growing-quickly/&quot;&gt;Why is Python Growing So Quickly?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://circleci.com/blog/write-less-code-use-more-tools/&quot;&gt;Write Less Code, Use More Tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/7-helpful-http-tools/&quot;&gt;7 Helpful HTTP Tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/&quot;&gt;Publishing with Apache Kafka at The New York Times&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.postgresql.org/wiki/New_in_postgres_10&quot;&gt;New in postgres 10&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spuz.me/blog/zine/3Qu1F4x.html&quot;&gt;How Equifax got Hacked&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/renderedtext/render_async&quot;&gt;Render Async&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/marak/Faker.js/&quot;&gt;Fakerjs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/marcuswestin/store.js&quot;&gt;Storejs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&quot;&gt;Git Lens&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kennethreitz/pipenv&quot;&gt;Python Development Workflow for Humans&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #16, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are few reading list and news that we read over the week. Reading list Remodule — Redux for Lazy People How to Choose the Best Front-end Framework Creating Truly Modular Code with No Dependencies Why is Python Growing So Quickly? Write Less Code, Use More Tools 7 Helpful HTTP Tools Publishing with Apache Kafka at The New York Times News New in postgres 10 How Equifax got Hacked Tools Render Async Fakerjs Storejs Git Lens Python Development Workflow for Humans</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1220,72 +1290,6 @@ Untuk terus menjaga kualitas dan kekinian dalam dunia keamanan, terutama keamana
 
       
         <summary type="html">Jenius sebagai institusi finansial, sangat konsern dengan keamanan, dan keamanan membawa kenyamanan dalam menggunakan aplikasi Jenius, untuk transaksi atau kebutuhan lainnya. Untuk terus menjaga kualitas dan kekinian dalam dunia keamanan, terutama keamanan siber, Jenius mengadakan acara Security Code Warrior Challenge. dimana, developer Jenius diberikan tantangan dalam programming dan juga tantangan untuk memperbaiki kode sumber yang diindikasikan terdapat lubang keamanan.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jeniustech newsletter weekly #2</title>
-      
-      <link href="http://localhost:4000/2017/05/30/jeniustech-newsletter-2/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #2" />
-      <published>2017-05-30T00:00:00+00:00</published>
-      <updated>2017-05-30T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/05/30/jeniustech-newsletter-2</id>
-      <content type="html" xml:base="http://localhost:4000/2017/05/30/jeniustech-newsletter-2/">&lt;p&gt;Jenius Engineering newsletter #2 edition, we are gonna do this weekly, every Tuesday, you can subscribe to our &lt;a href=&quot;/newsletter&quot;&gt;newsletter&lt;/a&gt;, we’ll send the newsletter to your inbox.&lt;/p&gt;
-
-&lt;!--break--&gt;
-
-&lt;h3&gt;Reading list&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/&quot;&gt;The largest Git repo on the planet&lt;/a&gt;, and from Ars: 
-&lt;a href=&quot;https://arstechnica.com/information-technology/2017/05/90-of-windows-devs-now-using-git-creating-1760-windows-builds-per-day/&quot;&gt;Windows switch to Git almost complete: 8,500 commits and 1,760 builds each day&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.bbc.com/news/business-39947942
-https://www.theatlantic.com/magazine/archive/2017/01/how-to-sleep/508781/&quot;&gt;How Facebook’s tentacles reach further than you think&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3A73G5xntJI&quot;&gt;Take Data Validation Seriously (Video)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=uB7m9T7ymn8&quot;&gt;How to Write Better Code Using Mutation Testing (Video)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bundler.io/blog/2017/05/19/bundler-1-15-bundle-oh-so-fast.html&quot;&gt;Bundler 1.15: Bundle Oh So Fast&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.rubyroidlabs.com/2017/04/19-ruby-on-rails-gems/&quot;&gt;19 Ruby on Rails Gems which Can Amaze&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/load-balancing-nodejs-applications-with-nginx-and-docker/&quot;&gt;Load Balancing Node.js Applications with NGINX and Docker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4&quot;&gt;Debugging Node.js with Google Chrome&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.classdojo.com/blog/2017/05/21/Running-4558-tests-in-1m-55sec/&quot;&gt;Running 4558 Tests in 1m 55sec (or Saving 50 Hours/week)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://diveintodocker.com/blog/docker-and-ansible-solve-2-different-problems-and-they-can-be-used-together&quot;&gt;Docker and Ansible Solve 2 Different Problems and They Can Be Used Together&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2&quot;&gt;Rearchitecting Airbnb’s Frontend&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Tools&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@marcosnils/showcasing-your-applications-with-docker-in-a-single-click-9e9fa2908c51&quot;&gt;Play With Docker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/captainsafia/goops&quot;&gt;Goops&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <summary type="html">Jenius Engineering newsletter #2 edition, we are gonna do this weekly, every Tuesday, you can subscribe to our newsletter, we’ll send the newsletter to your inbox. Reading list The largest Git repo on the planet, and from Ars: Windows switch to Git almost complete: 8,500 commits and 1,760 builds each day How Facebook’s tentacles reach further than you think Take Data Validation Seriously (Video) How to Write Better Code Using Mutation Testing (Video) Bundler 1.15: Bundle Oh So Fast 19 Ruby on Rails Gems which Can Amaze Load Balancing Node.js Applications with NGINX and Docker Debugging Node.js with Google Chrome Running 4558 Tests in 1m 55sec (or Saving 50 Hours/week) Docker and Ansible Solve 2 Different Problems and They Can Be Used Together Rearchitecting Airbnb’s Frontend Tools Play With Docker Goops</summary>
       
 
       
