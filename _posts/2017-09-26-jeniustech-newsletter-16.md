@@ -31,3 +31,5 @@ Here are few reading list and news that we read over the week.
 - [Storejs](https://github.com/marcuswestin/store.js)
 - [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Python Development Workflow for Humans](https://github.com/kennethreitz/pipenv)
+
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com   

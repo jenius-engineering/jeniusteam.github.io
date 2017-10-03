@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-09-28T06:15:31+00:00</updated>
+  <updated>2017-10-03T09:38:32+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,182 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius X Product Tank Jakarta Meetup</title>
+      
+      <link href="http://localhost:4000/2017/10/03/product-tank-x-jenius-meetup/" rel="alternate" type="text/html" title="Jenius X Product Tank Jakarta Meetup" />
+      <published>2017-10-03T00:00:00+00:00</published>
+      <updated>2017-10-03T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/10/03/product-tank-x-jenius-meetup</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/03/product-tank-x-jenius-meetup/">&lt;p&gt;&lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; sebagai produk &lt;em&gt;digital banking&lt;/em&gt; dari BTPN tentu saja tidak lahir dengan sendirinya, ada banyak proses yang dilakukan sebelum akhirnya diluncurkan, dari &lt;em&gt;research&lt;/em&gt;, &lt;em&gt;design&lt;/em&gt;, arsitektur sistem, semua itu bagian dari proses pembuatan produk, kompleks, menyenangkan. di dalam &lt;em&gt;framework&lt;/em&gt; scrum/agile, dikenal &lt;em&gt;role&lt;/em&gt; yang bernama &lt;em&gt;Product Owner&lt;/em&gt;, &lt;em&gt;role&lt;/em&gt; dari PO ini adalah mendefinisikan produk yang akan dibagun, baik dari product yang sudah ada kemudian dikembangkan, atau yang belum ada sebelumnya.&lt;/p&gt;
+
+&lt;p&gt;Jenius mengadopsi Scrum/Agile dalam pembuatan produk, dan acara meetup dengan komunitas &lt;a href=&quot;http://www.producttank.com&quot;&gt;Product Tank&lt;/a&gt; jakarta merupakan salah satu bentuk komitmen Jenius yang lebih &lt;em&gt;agile&lt;/em&gt;, transparan. dan di acara ini merupakan ajang berkumpulnya &lt;em&gt;Product Managers&lt;/em&gt; untuk saling bertukar pikiran dan juga saling belajar dari pengalaman masing-masing, banyak juga peserta dari perusahaan-perusahaan rintisan. 
+&lt;!-- more --&gt;
+Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“What makes a great product manager: Communication”&lt;/strong&gt;, di acara ini yang menjadi narasumber adalah Artanto Ishaam, Senior Scrum master &lt;a href=&quot;https://www.happyfresh.id/&quot;&gt;HappyFresh&lt;/a&gt; dan Tri Nugraha, &lt;em&gt;Product Owner&lt;/em&gt; &lt;a href=&quot;https://www.tokopedia.com/&quot;&gt;Tokopedia&lt;/a&gt;, beberapa hal yang dibahas di meetup ini adalah&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;How tokopedia structure the organization&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;How the team and the management communicate company’s vision &amp;amp; mission&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;How to communicate with: Product Owners, Designers, Engineers, Business &amp;amp; other teams&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Communication techniques and tools&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;foto dari event&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/images/posts/product-tank/prodtank.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/product-tank/prodtank.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/product-tank/prodtank2.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/product-tank/prodtank2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="meetup" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Jenius sebagai produk digital banking dari BTPN tentu saja tidak lahir dengan sendirinya, ada banyak proses yang dilakukan sebelum akhirnya diluncurkan, dari research, design, arsitektur sistem, semua itu bagian dari proses pembuatan produk, kompleks, menyenangkan. di dalam framework scrum/agile, dikenal role yang bernama Product Owner, role dari PO ini adalah mendefinisikan produk yang akan dibagun, baik dari product yang sudah ada kemudian dikembangkan, atau yang belum ada sebelumnya. Jenius mengadopsi Scrum/Agile dalam pembuatan produk, dan acara meetup dengan komunitas Product Tank jakarta merupakan salah satu bentuk komitmen Jenius yang lebih agile, transparan. dan di acara ini merupakan ajang berkumpulnya Product Managers untuk saling bertukar pikiran dan juga saling belajar dari pengalaman masing-masing, banyak juga peserta dari perusahaan-perusahaan rintisan.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #17</title>
+      
+      <link href="http://localhost:4000/2017/10/03/jeniustech-newsletter-17/" rel="alternate" type="text/html" title="Jenius Engineering weekly #17" />
+      <published>2017-10-03T00:00:00+00:00</published>
+      <updated>2017-10-03T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/10/03/jeniustech-newsletter-17</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/03/jeniustech-newsletter-17/">&lt;p&gt;Welcome to Jenius Engineering newsletter #17, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;couple reading list are docker related, we are in for &lt;a href=&quot;https://en.wikipedia.org/wiki/Containerization&quot;&gt;containerization&lt;/a&gt;, it’s a lot of fun implementing it!&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sixeyed.com/docker-healthchecks-why-not-to-use-curl-or-iwr/&quot;&gt;Docker Healthchecks: Why Not To Use &lt;code class=&quot;highlighter-rouge&quot;&gt;curl&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;iwr&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://container-solutions.com/tagging-docker-images-the-right-way/&quot;&gt;Tagging Docker images the right way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rcpaterson.co.uk/blog/test/setting-up-an-elk-stack-with-docker/&quot;&gt;Setting up an ELK Stack with Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://objectpartners.com/2017/09/20/docker-parameterized-builds-using-git-tags-part-1-of-2/&quot;&gt;Docker Parameterized Builds Using Git Tags, Part 1 of 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.drivendata.org/2017/09/20/docker-for-concept-to-clinic-challenge/&quot;&gt;How the Concept to Clinic challenge uses Docker for reproducibility and orchestration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ameyalokare.com/docker/2017/09/20/nginx-flask-postgres-docker-compose.html&quot;&gt;Nginx+Flask+Postgres multi-container setup with Docker Compose&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/100-million-members-125-hours-watched-per-day-hundreds-probst/&quot;&gt;100+ Million members. 125+ Million hours watched per day. Hundreds of microservices. Hundreds of thousands of instances. Less than 10 Core SREs.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.duodesign.co.uk/blog/from-node-to-crystal/&quot;&gt;Journey From Node To Crystal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jwilm/alacritty&quot;&gt;Alacritty – A cross-platform, GPU-accelerated terminal emulator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://micro-editor.github.io/index.html&quot;&gt;Micro - intuitive terminal-based text editor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/baverman/vial-http&quot;&gt;Vial - Simple http rest tool for vim&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #17, this newsletter published every tuesday-ish. please subscribe to our newsletter. couple reading list are docker related, we are in for containerization, it’s a lot of fun implementing it! Reading list Docker Healthchecks: Why Not To Use curl or iwr Tagging Docker images the right way Setting up an ELK Stack with Docker Docker Parameterized Builds Using Git Tags, Part 1 of 2 How the Concept to Clinic challenge uses Docker for reproducibility and orchestration Nginx+Flask+Postgres multi-container setup with Docker Compose 100+ Million members. 125+ Million hours watched per day. Hundreds of microservices. Hundreds of thousands of instances. Less than 10 Core SREs. Journey From Node To Crystal Tools Alacritty – A cross-platform, GPU-accelerated terminal emulator Micro - intuitive terminal-based text editor Vial - Simple http rest tool for vim These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius X Scrum Meetup</title>
+      
+      <link href="http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks/" rel="alternate" type="text/html" title="Jenius X Scrum Meetup" />
+      <published>2017-09-27T00:00:00+00:00</published>
+      <updated>2017-09-27T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks/">&lt;p&gt;Kata ‘&lt;em&gt;Agile&lt;/em&gt;’, ‘&lt;em&gt;Scrum&lt;/em&gt;’, saat ini memang sedang menjadi pembicaraan yang &lt;em&gt;hot&lt;/em&gt;, banyak lowongan pekerjaan untuk menjadi &lt;em&gt;scrum master&lt;/em&gt;, Scrum/Agile dalam dunia development amat sangat membantu, untuk akselerasi project, dan juga koordinasi antar team, membangun kultur tim yang &lt;em&gt;agile&lt;/em&gt; sangat penting bagi kelangsungan organisasi dan pengembangan dari masing-masing individu.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+&lt;p&gt;Di Jenius mengadopsi Scrum/Agile untuk proses &lt;em&gt;development&lt;/em&gt; dan bahkan untuk proses kreatif yang bisa dilihat di akun media sosial jenius, &lt;a href=&quot;https://twitter.com/jeniusConnect&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/jeniusconnect&quot;&gt;instagram&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/jeniusconnect&quot;&gt;facebook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;foto dari meetup&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/scrum/IMG_4637.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/scrum/IMG_4640.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/scrum/IMG_4641.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="meetup" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Kata ‘Agile’, ‘Scrum’, saat ini memang sedang menjadi pembicaraan yang hot, banyak lowongan pekerjaan untuk menjadi scrum master, Scrum/Agile dalam dunia development amat sangat membantu, untuk akselerasi project, dan juga koordinasi antar team, membangun kultur tim yang agile sangat penting bagi kelangsungan organisasi dan pengembangan dari masing-masing individu.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -62,7 +238,9 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/marcuswestin/store.js&quot;&gt;Storejs&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&quot;&gt;Git Lens&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kennethreitz/pipenv&quot;&gt;Python Development Workflow for Humans&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
 
       
       
@@ -87,7 +265,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #16, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are few reading list and news that we read over the week. Reading list Remodule — Redux for Lazy People How to Choose the Best Front-end Framework Creating Truly Modular Code with No Dependencies Why is Python Growing So Quickly? Write Less Code, Use More Tools 7 Helpful HTTP Tools Publishing with Apache Kafka at The New York Times News New in postgres 10 How Equifax got Hacked Tools Render Async Fakerjs Storejs Git Lens Python Development Workflow for Humans</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #16, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are few reading list and news that we read over the week. Reading list Remodule — Redux for Lazy People How to Choose the Best Front-end Framework Creating Truly Modular Code with No Dependencies Why is Python Growing So Quickly? Write Less Code, Use More Tools 7 Helpful HTTP Tools Publishing with Apache Kafka at The New York Times News New in postgres 10 How Equifax got Hacked Tools Render Async Fakerjs Storejs Git Lens Python Development Workflow for Humans These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
@@ -130,7 +308,9 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/ansible/awx&quot;&gt;AWX provides a browser-based user interface and API for Ansible&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://blog.terranillius.com/post/pumba_docker_chaos_testing/&quot;&gt;Pumba - Chaos testing for Docker&lt;/a&gt; &lt;a href=&quot;https://github.com/gaia-adm/pumba&quot;&gt;project link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/adnanh/webhook&quot;&gt;Webhook&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
 
       
       
@@ -155,7 +335,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #15, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are couple Jenius Engineering team read this whole week, and this week we have ‘kejepit’ day Reading list Getting up and running with GraphQL Understanding &amp;amp; Measuring HTTP Timings with Node.js Writing Scripts with Go Microservice Principles: Smart Endpoints and Dumb Pipes GraphQL and Performance in Rails Optimizing web servers for high throughput and low latency Decisions, Decisions, Decisions: Driving Change at Mozilla 3 lessons learned from an Elasticsearch game day News Hackers hid malware in CCleaner software Tools AWX provides a browser-based user interface and API for Ansible Pumba - Chaos testing for Docker project link Webhook</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #15, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are couple Jenius Engineering team read this whole week, and this week we have ‘kejepit’ day Reading list Getting up and running with GraphQL Understanding &amp;amp; Measuring HTTP Timings with Node.js Writing Scripts with Go Microservice Principles: Smart Endpoints and Dumb Pipes GraphQL and Performance in Rails Optimizing web servers for high throughput and low latency Decisions, Decisions, Decisions: Driving Change at Mozilla 3 lessons learned from an Elasticsearch game day News Hackers hid malware in CCleaner software Tools AWX provides a browser-based user interface and API for Ansible Pumba - Chaos testing for Docker project link Webhook These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
@@ -1094,202 +1274,6 @@ have to say it, Kotlin has taken up to the edge, and getting big with Google sup
 
       
         <summary type="html">Hi welcome to Jenius Engineering newsletter #5, this newsletter published every tuesday. please subscribe to our newsletter. not much of a news right now, but this is what Jenius Engineering team read this week! Reading list Working with APIs the Pythonic Way Don’t use a blockchain unless you need to Python Package Management for the Paranoid macOS High Sierra tech preview: A quick look at the stuff you can’t see Kubernetes Rolling Upgrades One By One News 🍾🚀 webpack 3: Official Release!! 🚀🍾 Tools Grab Front End Guide Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jeniustech newsletter weekly #4</title>
-      
-      <link href="http://localhost:4000/2017/06/13/jeniustech-newsletter-4/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #4" />
-      <published>2017-06-13T00:00:00+00:00</published>
-      <updated>2017-06-13T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/06/13/jeniustech-newsletter-4</id>
-      <content type="html" xml:base="http://localhost:4000/2017/06/13/jeniustech-newsletter-4/">&lt;p&gt;Hi welcome to Jenius Engineering newsletter #4, this newsletter published every tuesday. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Reading list&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.craigkerstiens.com/2017/06/08/working-with-time-in-postgres/&quot;&gt;Working With Time in Postgres&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://theintercept.com/2017/06/05/be-careful-celebrating-googles-new-ad-blocker-heres-whats-really-going-on/&quot;&gt;About that Google Ad blocker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.romexsoft.com/blog/java-8-vs-java-9/&quot;&gt;Java 8 Vs. Java 9: Get Ready for a New Era&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fly.io/articles/pragmatic-api-versioning/&quot;&gt;Pragmatic API Versioning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quid.com/feed/how-big-data-can-help-you-pick-better-wine&quot;&gt;How big data can help a better wine&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://neo4j.com/blog/graphql-neo4j-graph-database-integration/&quot;&gt;GraphQL Meets Graph Database: A GraphQL + Neo4j Integration&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358&quot;&gt;The state of JavaScript modules&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://segment.com/blog/a-brief-history-of-the-uuid/&quot;&gt;A Brief History of the UUID&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.dwmkerr.com/effective-shell-part-1-navigating-the-command-line/&quot;&gt;Navigating the Command Line, Effective Shell Part 1&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;News&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://eslint.org/blog/2017/06/eslint-v4.0.0-released&quot;&gt;ESLint v4.0.0 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Tools&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://lnav.org/&quot;&gt;The log file navigator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://gitup.co/&quot;&gt;Visualize and work with GIT&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/oklog/oklog/&quot;&gt;A distributed and coördination-free log management system&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Curated by Jenius Engineering Team published on jenius.tech, &lt;br /&gt;
-feedback please send to hi@jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <summary type="html">Hi welcome to Jenius Engineering newsletter #4, this newsletter published every tuesday. please subscribe to our newsletter. Reading list Working With Time in Postgres About that Google Ad blocker Java 8 Vs. Java 9: Get Ready for a New Era Pragmatic API Versioning How big data can help a better wine GraphQL Meets Graph Database: A GraphQL + Neo4j Integration The state of JavaScript modules A Brief History of the UUID Navigating the Command Line, Effective Shell Part 1 News ESLint v4.0.0 released Tools The log file navigator Visualize and work with GIT A distributed and coördination-free log management system Curated by Jenius Engineering Team published on jenius.tech, feedback please send to hi@jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jeniustech newsletter weekly #3</title>
-      
-      <link href="http://localhost:4000/2017/06/07/jeniustech-newsletter-3/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #3" />
-      <published>2017-06-07T00:00:00+00:00</published>
-      <updated>2017-06-07T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/06/07/jeniustech-newsletter-3</id>
-      <content type="html" xml:base="http://localhost:4000/2017/06/07/jeniustech-newsletter-3/">&lt;p&gt;Jenius Engineering newsletter #3 edition, we are gonna do this weekly, every Tuesday, you can subscribe to our &lt;a href=&quot;/newsletter&quot;&gt;newsletter&lt;/a&gt;, we’ll send the newsletter to your inbox.&lt;/p&gt;
-
-&lt;!--break--&gt;
-
-&lt;h3&gt;Reading list&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/a-look-at-apollo-from-a-relay-perspective-d89cf76c263c&quot;&gt;A Look at Apollo, From a Relay Perspective&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://np.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/&quot;&gt;Accidentally destroyed production_database&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://githubengineering.com/dns-infrastructure-at-github/&quot;&gt;DNS Infrastructure at GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://cloudinary.com/blog/getting_a_better_react_ion_with_progressive_web_apps&quot;&gt;Getting a Better React-ion with Progressive Web Apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://molily.de/amp/&quot;&gt;What Google AMP means for the JavaScript community&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23&quot;&gt;Exploring the new Android Architecture Components library&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://neo4j.com/blog/graphql-neo4j-graph-database-integration/&quot;&gt;GraphQL Meets Graph Database: A GraphQL + Neo4j Integration&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ebaytech.berlin/into-the-great-unknown-migrating-from-mocha-to-jest-3baced083c7e&quot;&gt;Into the Great Unknown — Migrating from Mocha to Jest&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358&quot;&gt;The state of JavaScript modules&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.raywenderlich.com/162654/scrum-one-bring-scrum-one-person-operation&quot;&gt;Scrum Of One: How to Bring Scrum into your One-Person Operation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;News&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/161081169345/v500&quot;&gt;npm v5&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v8.0.0/&quot;&gt;Node v8.0.0&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Tools&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/LazoCoder/Pokemon-Terminal&quot;&gt;Pokemon Terminal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/remerge/micro-http-client&quot;&gt;micro-http-client (JS)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://zalando.github.io/PGObserver/&quot;&gt;PGObserver&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Patrick-Kladek/CocoaDebugKit&quot;&gt;CocoaDebugKit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;curated by JeniusTech Engineering team published on jenius.tech, &lt;br /&gt;
-feedback send to hi@jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <summary type="html">Jenius Engineering newsletter #3 edition, we are gonna do this weekly, every Tuesday, you can subscribe to our newsletter, we’ll send the newsletter to your inbox. Reading list A Look at Apollo, From a Relay Perspective Accidentally destroyed production_database DNS Infrastructure at GitHub Getting a Better React-ion with Progressive Web Apps What Google AMP means for the JavaScript community Exploring the new Android Architecture Components library GraphQL Meets Graph Database: A GraphQL + Neo4j Integration Into the Great Unknown — Migrating from Mocha to Jest The state of JavaScript modules Scrum Of One: How to Bring Scrum into your One-Person Operation News npm v5 Node v8.0.0 Tools Pokemon Terminal micro-http-client (JS) PGObserver CocoaDebugKit curated by JeniusTech Engineering team published on jenius.tech, feedback send to hi@jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Security Code Warrior</title>
-      
-      <link href="http://localhost:4000/2017/06/05/jenius-security-code-warrior/" rel="alternate" type="text/html" title="Jenius Security Code Warrior" />
-      <published>2017-06-05T00:00:00+00:00</published>
-      <updated>2017-06-05T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/06/05/jenius-security-code-warrior</id>
-      <content type="html" xml:base="http://localhost:4000/2017/06/05/jenius-security-code-warrior/">&lt;p&gt;Jenius sebagai institusi finansial, sangat konsern dengan keamanan, dan keamanan membawa kenyamanan dalam menggunakan aplikasi Jenius, untuk transaksi atau kebutuhan lainnya. &lt;br /&gt;
-Untuk terus menjaga kualitas dan kekinian dalam dunia keamanan, terutama keamanan siber, Jenius mengadakan acara &lt;strong&gt;Security Code Warrior Challenge&lt;/strong&gt;. dimana, &lt;em&gt;developer&lt;/em&gt; Jenius diberikan tantangan dalam &lt;em&gt;programming&lt;/em&gt; dan juga tantangan untuk memperbaiki kode sumber yang diindikasikan terdapat lubang keamanan.
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;h3&gt;photo dari event&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/images/posts/sec/IMG_2641.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
-&lt;img src=&quot;/images/posts/sec/IMG_2645.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
-&lt;img src=&quot;/images/posts/sec/IMG_2648.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
-&lt;img src=&quot;/images/posts/sec/IMG_2650.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
-&lt;img src=&quot;/images/posts/sec/IMG_2662.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
-&lt;img src=&quot;/images/posts/sec/IMG_2651.jpg&quot; alt=&quot;security code warrior&quot; /&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="event" />
-      
-
-      
-        <category term="event" />
-      
-        <category term="Jenius" />
-      
-        <category term="engineering" />
-      
-
-      
-        <summary type="html">Jenius sebagai institusi finansial, sangat konsern dengan keamanan, dan keamanan membawa kenyamanan dalam menggunakan aplikasi Jenius, untuk transaksi atau kebutuhan lainnya. Untuk terus menjaga kualitas dan kekinian dalam dunia keamanan, terutama keamanan siber, Jenius mengadakan acara Security Code Warrior Challenge. dimana, developer Jenius diberikan tantangan dalam programming dan juga tantangan untuk memperbaiki kode sumber yang diindikasikan terdapat lubang keamanan.</summary>
       
 
       
