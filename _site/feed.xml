@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-10-03T08:39:20+00:00</updated>
+  <updated>2017-10-03T09:38:32+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,64 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius X Product Tank Jakarta Meetup</title>
+      
+      <link href="http://localhost:4000/2017/10/03/product-tank-x-jenius-meetup/" rel="alternate" type="text/html" title="Jenius X Product Tank Jakarta Meetup" />
+      <published>2017-10-03T00:00:00+00:00</published>
+      <updated>2017-10-03T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/10/03/product-tank-x-jenius-meetup</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/03/product-tank-x-jenius-meetup/">&lt;p&gt;&lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; sebagai produk &lt;em&gt;digital banking&lt;/em&gt; dari BTPN tentu saja tidak lahir dengan sendirinya, ada banyak proses yang dilakukan sebelum akhirnya diluncurkan, dari &lt;em&gt;research&lt;/em&gt;, &lt;em&gt;design&lt;/em&gt;, arsitektur sistem, semua itu bagian dari proses pembuatan produk, kompleks, menyenangkan. di dalam &lt;em&gt;framework&lt;/em&gt; scrum/agile, dikenal &lt;em&gt;role&lt;/em&gt; yang bernama &lt;em&gt;Product Owner&lt;/em&gt;, &lt;em&gt;role&lt;/em&gt; dari PO ini adalah mendefinisikan produk yang akan dibagun, baik dari product yang sudah ada kemudian dikembangkan, atau yang belum ada sebelumnya.&lt;/p&gt;
+
+&lt;p&gt;Jenius mengadopsi Scrum/Agile dalam pembuatan produk, dan acara meetup dengan komunitas &lt;a href=&quot;http://www.producttank.com&quot;&gt;Product Tank&lt;/a&gt; jakarta merupakan salah satu bentuk komitmen Jenius yang lebih &lt;em&gt;agile&lt;/em&gt;, transparan. dan di acara ini merupakan ajang berkumpulnya &lt;em&gt;Product Managers&lt;/em&gt; untuk saling bertukar pikiran dan juga saling belajar dari pengalaman masing-masing, banyak juga peserta dari perusahaan-perusahaan rintisan. 
+&lt;!-- more --&gt;
+Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“What makes a great product manager: Communication”&lt;/strong&gt;, di acara ini yang menjadi narasumber adalah Artanto Ishaam, Senior Scrum master &lt;a href=&quot;https://www.happyfresh.id/&quot;&gt;HappyFresh&lt;/a&gt; dan Tri Nugraha, &lt;em&gt;Product Owner&lt;/em&gt; &lt;a href=&quot;https://www.tokopedia.com/&quot;&gt;Tokopedia&lt;/a&gt;, beberapa hal yang dibahas di meetup ini adalah&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;How tokopedia structure the organization&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;How the team and the management communicate company’s vision &amp;amp; mission&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;How to communicate with: Product Owners, Designers, Engineers, Business &amp;amp; other teams&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Communication techniques and tools&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;foto dari event&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/images/posts/product-tank/prodtank.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/product-tank/prodtank.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/product-tank/prodtank2.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/product-tank/prodtank2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="meetup" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Jenius sebagai produk digital banking dari BTPN tentu saja tidak lahir dengan sendirinya, ada banyak proses yang dilakukan sebelum akhirnya diluncurkan, dari research, design, arsitektur sistem, semua itu bagian dari proses pembuatan produk, kompleks, menyenangkan. di dalam framework scrum/agile, dikenal role yang bernama Product Owner, role dari PO ini adalah mendefinisikan produk yang akan dibagun, baik dari product yang sudah ada kemudian dikembangkan, atau yang belum ada sebelumnya. Jenius mengadopsi Scrum/Agile dalam pembuatan produk, dan acara meetup dengan komunitas Product Tank jakarta merupakan salah satu bentuk komitmen Jenius yang lebih agile, transparan. dan di acara ini merupakan ajang berkumpulnya Product Managers untuk saling bertukar pikiran dan juga saling belajar dari pengalaman masing-masing, banyak juga peserta dari perusahaan-perusahaan rintisan.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1216,74 +1274,6 @@ have to say it, Kotlin has taken up to the edge, and getting big with Google sup
 
       
         <summary type="html">Hi welcome to Jenius Engineering newsletter #5, this newsletter published every tuesday. please subscribe to our newsletter. not much of a news right now, but this is what Jenius Engineering team read this week! Reading list Working with APIs the Pythonic Way Don’t use a blockchain unless you need to Python Package Management for the Paranoid macOS High Sierra tech preview: A quick look at the stuff you can’t see Kubernetes Rolling Upgrades One By One News 🍾🚀 webpack 3: Official Release!! 🚀🍾 Tools Grab Front End Guide Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jeniustech newsletter weekly #4</title>
-      
-      <link href="http://localhost:4000/2017/06/13/jeniustech-newsletter-4/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #4" />
-      <published>2017-06-13T00:00:00+00:00</published>
-      <updated>2017-06-13T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/06/13/jeniustech-newsletter-4</id>
-      <content type="html" xml:base="http://localhost:4000/2017/06/13/jeniustech-newsletter-4/">&lt;p&gt;Hi welcome to Jenius Engineering newsletter #4, this newsletter published every tuesday. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Reading list&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.craigkerstiens.com/2017/06/08/working-with-time-in-postgres/&quot;&gt;Working With Time in Postgres&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://theintercept.com/2017/06/05/be-careful-celebrating-googles-new-ad-blocker-heres-whats-really-going-on/&quot;&gt;About that Google Ad blocker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.romexsoft.com/blog/java-8-vs-java-9/&quot;&gt;Java 8 Vs. Java 9: Get Ready for a New Era&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fly.io/articles/pragmatic-api-versioning/&quot;&gt;Pragmatic API Versioning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quid.com/feed/how-big-data-can-help-you-pick-better-wine&quot;&gt;How big data can help a better wine&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://neo4j.com/blog/graphql-neo4j-graph-database-integration/&quot;&gt;GraphQL Meets Graph Database: A GraphQL + Neo4j Integration&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358&quot;&gt;The state of JavaScript modules&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://segment.com/blog/a-brief-history-of-the-uuid/&quot;&gt;A Brief History of the UUID&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.dwmkerr.com/effective-shell-part-1-navigating-the-command-line/&quot;&gt;Navigating the Command Line, Effective Shell Part 1&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;News&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://eslint.org/blog/2017/06/eslint-v4.0.0-released&quot;&gt;ESLint v4.0.0 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Tools&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://lnav.org/&quot;&gt;The log file navigator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://gitup.co/&quot;&gt;Visualize and work with GIT&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/oklog/oklog/&quot;&gt;A distributed and coördination-free log management system&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Curated by Jenius Engineering Team published on jenius.tech, &lt;br /&gt;
-feedback please send to hi@jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <summary type="html">Hi welcome to Jenius Engineering newsletter #4, this newsletter published every tuesday. please subscribe to our newsletter. Reading list Working With Time in Postgres About that Google Ad blocker Java 8 Vs. Java 9: Get Ready for a New Era Pragmatic API Versioning How big data can help a better wine GraphQL Meets Graph Database: A GraphQL + Neo4j Integration The state of JavaScript modules A Brief History of the UUID Navigating the Command Line, Effective Shell Part 1 News ESLint v4.0.0 released Tools The log file navigator Visualize and work with GIT A distributed and coördination-free log management system Curated by Jenius Engineering Team published on jenius.tech, feedback please send to hi@jenius.com</summary>
       
 
       
