@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-10-03T05:10:46+00:00</updated>
+  <updated>2017-10-03T08:39:20+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,72 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #17</title>
+      
+      <link href="http://localhost:4000/2017/10/03/jeniustech-newsletter-17/" rel="alternate" type="text/html" title="Jenius Engineering weekly #17" />
+      <published>2017-10-03T00:00:00+00:00</published>
+      <updated>2017-10-03T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/10/03/jeniustech-newsletter-17</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/03/jeniustech-newsletter-17/">&lt;p&gt;Welcome to Jenius Engineering newsletter #17, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;couple reading list are docker related, we are in for &lt;a href=&quot;https://en.wikipedia.org/wiki/Containerization&quot;&gt;containerization&lt;/a&gt;, it’s a lot of fun implementing it!&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sixeyed.com/docker-healthchecks-why-not-to-use-curl-or-iwr/&quot;&gt;Docker Healthchecks: Why Not To Use &lt;code class=&quot;highlighter-rouge&quot;&gt;curl&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;iwr&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://container-solutions.com/tagging-docker-images-the-right-way/&quot;&gt;Tagging Docker images the right way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rcpaterson.co.uk/blog/test/setting-up-an-elk-stack-with-docker/&quot;&gt;Setting up an ELK Stack with Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://objectpartners.com/2017/09/20/docker-parameterized-builds-using-git-tags-part-1-of-2/&quot;&gt;Docker Parameterized Builds Using Git Tags, Part 1 of 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.drivendata.org/2017/09/20/docker-for-concept-to-clinic-challenge/&quot;&gt;How the Concept to Clinic challenge uses Docker for reproducibility and orchestration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ameyalokare.com/docker/2017/09/20/nginx-flask-postgres-docker-compose.html&quot;&gt;Nginx+Flask+Postgres multi-container setup with Docker Compose&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/100-million-members-125-hours-watched-per-day-hundreds-probst/&quot;&gt;100+ Million members. 125+ Million hours watched per day. Hundreds of microservices. Hundreds of thousands of instances. Less than 10 Core SREs.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.duodesign.co.uk/blog/from-node-to-crystal/&quot;&gt;Journey From Node To Crystal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jwilm/alacritty&quot;&gt;Alacritty – A cross-platform, GPU-accelerated terminal emulator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://micro-editor.github.io/index.html&quot;&gt;Micro - intuitive terminal-based text editor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/baverman/vial-http&quot;&gt;Vial - Simple http rest tool for vim&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #17, this newsletter published every tuesday-ish. please subscribe to our newsletter. couple reading list are docker related, we are in for containerization, it’s a lot of fun implementing it! Reading list Docker Healthchecks: Why Not To Use curl or iwr Tagging Docker images the right way Setting up an ELK Stack with Docker Docker Parameterized Builds Using Git Tags, Part 1 of 2 How the Concept to Clinic challenge uses Docker for reproducibility and orchestration Nginx+Flask+Postgres multi-container setup with Docker Compose 100+ Million members. 125+ Million hours watched per day. Hundreds of microservices. Hundreds of thousands of instances. Less than 10 Core SREs. Journey From Node To Crystal Tools Alacritty – A cross-platform, GPU-accelerated terminal emulator Micro - intuitive terminal-based text editor Vial - Simple http rest tool for vim These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -114,7 +180,9 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/marcuswestin/store.js&quot;&gt;Storejs&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&quot;&gt;Git Lens&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kennethreitz/pipenv&quot;&gt;Python Development Workflow for Humans&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
 
       
       
@@ -139,7 +207,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #16, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are few reading list and news that we read over the week. Reading list Remodule — Redux for Lazy People How to Choose the Best Front-end Framework Creating Truly Modular Code with No Dependencies Why is Python Growing So Quickly? Write Less Code, Use More Tools 7 Helpful HTTP Tools Publishing with Apache Kafka at The New York Times News New in postgres 10 How Equifax got Hacked Tools Render Async Fakerjs Storejs Git Lens Python Development Workflow for Humans</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #16, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are few reading list and news that we read over the week. Reading list Remodule — Redux for Lazy People How to Choose the Best Front-end Framework Creating Truly Modular Code with No Dependencies Why is Python Growing So Quickly? Write Less Code, Use More Tools 7 Helpful HTTP Tools Publishing with Apache Kafka at The New York Times News New in postgres 10 How Equifax got Hacked Tools Render Async Fakerjs Storejs Git Lens Python Development Workflow for Humans These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
@@ -182,7 +250,9 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/ansible/awx&quot;&gt;AWX provides a browser-based user interface and API for Ansible&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://blog.terranillius.com/post/pumba_docker_chaos_testing/&quot;&gt;Pumba - Chaos testing for Docker&lt;/a&gt; &lt;a href=&quot;https://github.com/gaia-adm/pumba&quot;&gt;project link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/adnanh/webhook&quot;&gt;Webhook&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
 
       
       
@@ -207,7 +277,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #15, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are couple Jenius Engineering team read this whole week, and this week we have ‘kejepit’ day Reading list Getting up and running with GraphQL Understanding &amp;amp; Measuring HTTP Timings with Node.js Writing Scripts with Go Microservice Principles: Smart Endpoints and Dumb Pipes GraphQL and Performance in Rails Optimizing web servers for high throughput and low latency Decisions, Decisions, Decisions: Driving Change at Mozilla 3 lessons learned from an Elasticsearch game day News Hackers hid malware in CCleaner software Tools AWX provides a browser-based user interface and API for Ansible Pumba - Chaos testing for Docker project link Webhook</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #15, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are couple Jenius Engineering team read this whole week, and this week we have ‘kejepit’ day Reading list Getting up and running with GraphQL Understanding &amp;amp; Measuring HTTP Timings with Node.js Writing Scripts with Go Microservice Principles: Smart Endpoints and Dumb Pipes GraphQL and Performance in Rails Optimizing web servers for high throughput and low latency Decisions, Decisions, Decisions: Driving Change at Mozilla 3 lessons learned from an Elasticsearch game day News Hackers hid malware in CCleaner software Tools AWX provides a browser-based user interface and API for Ansible Pumba - Chaos testing for Docker project link Webhook These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
@@ -1214,79 +1284,6 @@ feedback please send to hi@jenius.com&lt;/p&gt;</content>
 
       
         <summary type="html">Hi welcome to Jenius Engineering newsletter #4, this newsletter published every tuesday. please subscribe to our newsletter. Reading list Working With Time in Postgres About that Google Ad blocker Java 8 Vs. Java 9: Get Ready for a New Era Pragmatic API Versioning How big data can help a better wine GraphQL Meets Graph Database: A GraphQL + Neo4j Integration The state of JavaScript modules A Brief History of the UUID Navigating the Command Line, Effective Shell Part 1 News ESLint v4.0.0 released Tools The log file navigator Visualize and work with GIT A distributed and coördination-free log management system Curated by Jenius Engineering Team published on jenius.tech, feedback please send to hi@jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jeniustech newsletter weekly #3</title>
-      
-      <link href="http://localhost:4000/2017/06/07/jeniustech-newsletter-3/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #3" />
-      <published>2017-06-07T00:00:00+00:00</published>
-      <updated>2017-06-07T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/06/07/jeniustech-newsletter-3</id>
-      <content type="html" xml:base="http://localhost:4000/2017/06/07/jeniustech-newsletter-3/">&lt;p&gt;Jenius Engineering newsletter #3 edition, we are gonna do this weekly, every Tuesday, you can subscribe to our &lt;a href=&quot;/newsletter&quot;&gt;newsletter&lt;/a&gt;, we’ll send the newsletter to your inbox.&lt;/p&gt;
-
-&lt;!--break--&gt;
-
-&lt;h3&gt;Reading list&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/a-look-at-apollo-from-a-relay-perspective-d89cf76c263c&quot;&gt;A Look at Apollo, From a Relay Perspective&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://np.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/&quot;&gt;Accidentally destroyed production_database&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://githubengineering.com/dns-infrastructure-at-github/&quot;&gt;DNS Infrastructure at GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://cloudinary.com/blog/getting_a_better_react_ion_with_progressive_web_apps&quot;&gt;Getting a Better React-ion with Progressive Web Apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://molily.de/amp/&quot;&gt;What Google AMP means for the JavaScript community&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23&quot;&gt;Exploring the new Android Architecture Components library&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://neo4j.com/blog/graphql-neo4j-graph-database-integration/&quot;&gt;GraphQL Meets Graph Database: A GraphQL + Neo4j Integration&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ebaytech.berlin/into-the-great-unknown-migrating-from-mocha-to-jest-3baced083c7e&quot;&gt;Into the Great Unknown — Migrating from Mocha to Jest&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358&quot;&gt;The state of JavaScript modules&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.raywenderlich.com/162654/scrum-one-bring-scrum-one-person-operation&quot;&gt;Scrum Of One: How to Bring Scrum into your One-Person Operation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;News&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/161081169345/v500&quot;&gt;npm v5&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v8.0.0/&quot;&gt;Node v8.0.0&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Tools&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/LazoCoder/Pokemon-Terminal&quot;&gt;Pokemon Terminal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/remerge/micro-http-client&quot;&gt;micro-http-client (JS)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://zalando.github.io/PGObserver/&quot;&gt;PGObserver&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Patrick-Kladek/CocoaDebugKit&quot;&gt;CocoaDebugKit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;curated by JeniusTech Engineering team published on jenius.tech, &lt;br /&gt;
-feedback send to hi@jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <summary type="html">Jenius Engineering newsletter #3 edition, we are gonna do this weekly, every Tuesday, you can subscribe to our newsletter, we’ll send the newsletter to your inbox. Reading list A Look at Apollo, From a Relay Perspective Accidentally destroyed production_database DNS Infrastructure at GitHub Getting a Better React-ion with Progressive Web Apps What Google AMP means for the JavaScript community Exploring the new Android Architecture Components library GraphQL Meets Graph Database: A GraphQL + Neo4j Integration Into the Great Unknown — Migrating from Mocha to Jest The state of JavaScript modules Scrum Of One: How to Bring Scrum into your One-Person Operation News npm v5 Node v8.0.0 Tools Pokemon Terminal micro-http-client (JS) PGObserver CocoaDebugKit curated by JeniusTech Engineering team published on jenius.tech, feedback send to hi@jenius.com</summary>
       
 
       
