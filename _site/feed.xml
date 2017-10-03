@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-09-28T06:15:31+00:00</updated>
+  <updated>2017-10-03T05:10:46+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius X Scrum Meetup</title>
+      
+      <link href="http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks/" rel="alternate" type="text/html" title="Jenius X Scrum Meetup" />
+      <published>2017-09-27T00:00:00+00:00</published>
+      <updated>2017-09-27T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks/">&lt;p&gt;Kata ‘&lt;em&gt;Agile&lt;/em&gt;’, ‘&lt;em&gt;Scrum&lt;/em&gt;’, saat ini memang sedang menjadi pembicaraan yang &lt;em&gt;hot&lt;/em&gt;, banyak lowongan pekerjaan untuk menjadi &lt;em&gt;scrum master&lt;/em&gt;, Scrum/Agile dalam dunia development amat sangat membantu, untuk akselerasi project, dan juga koordinasi antar team, membangun kultur tim yang &lt;em&gt;agile&lt;/em&gt; sangat penting bagi kelangsungan organisasi dan pengembangan dari masing-masing individu.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+&lt;p&gt;Di Jenius mengadopsi Scrum/Agile untuk proses &lt;em&gt;development&lt;/em&gt; dan bahkan untuk proses kreatif yang bisa dilihat di akun media sosial jenius, &lt;a href=&quot;https://twitter.com/jeniusConnect&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/jeniusconnect&quot;&gt;instagram&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/jeniusconnect&quot;&gt;facebook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;foto dari meetup&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/scrum/IMG_4637.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/scrum/IMG_4640.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/scrum/IMG_4641.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="meetup" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Kata ‘Agile’, ‘Scrum’, saat ini memang sedang menjadi pembicaraan yang hot, banyak lowongan pekerjaan untuk menjadi scrum master, Scrum/Agile dalam dunia development amat sangat membantu, untuk akselerasi project, dan juga koordinasi antar team, membangun kultur tim yang agile sangat penting bagi kelangsungan organisasi dan pengembangan dari masing-masing individu.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1235,61 +1287,6 @@ feedback send to hi@jenius.com&lt;/p&gt;</content>
 
       
         <summary type="html">Jenius Engineering newsletter #3 edition, we are gonna do this weekly, every Tuesday, you can subscribe to our newsletter, we’ll send the newsletter to your inbox. Reading list A Look at Apollo, From a Relay Perspective Accidentally destroyed production_database DNS Infrastructure at GitHub Getting a Better React-ion with Progressive Web Apps What Google AMP means for the JavaScript community Exploring the new Android Architecture Components library GraphQL Meets Graph Database: A GraphQL + Neo4j Integration Into the Great Unknown — Migrating from Mocha to Jest The state of JavaScript modules Scrum Of One: How to Bring Scrum into your One-Person Operation News npm v5 Node v8.0.0 Tools Pokemon Terminal micro-http-client (JS) PGObserver CocoaDebugKit curated by JeniusTech Engineering team published on jenius.tech, feedback send to hi@jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Security Code Warrior</title>
-      
-      <link href="http://localhost:4000/2017/06/05/jenius-security-code-warrior/" rel="alternate" type="text/html" title="Jenius Security Code Warrior" />
-      <published>2017-06-05T00:00:00+00:00</published>
-      <updated>2017-06-05T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/06/05/jenius-security-code-warrior</id>
-      <content type="html" xml:base="http://localhost:4000/2017/06/05/jenius-security-code-warrior/">&lt;p&gt;Jenius sebagai institusi finansial, sangat konsern dengan keamanan, dan keamanan membawa kenyamanan dalam menggunakan aplikasi Jenius, untuk transaksi atau kebutuhan lainnya. &lt;br /&gt;
-Untuk terus menjaga kualitas dan kekinian dalam dunia keamanan, terutama keamanan siber, Jenius mengadakan acara &lt;strong&gt;Security Code Warrior Challenge&lt;/strong&gt;. dimana, &lt;em&gt;developer&lt;/em&gt; Jenius diberikan tantangan dalam &lt;em&gt;programming&lt;/em&gt; dan juga tantangan untuk memperbaiki kode sumber yang diindikasikan terdapat lubang keamanan.
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;h3&gt;photo dari event&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/images/posts/sec/IMG_2641.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
-&lt;img src=&quot;/images/posts/sec/IMG_2645.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
-&lt;img src=&quot;/images/posts/sec/IMG_2648.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
-&lt;img src=&quot;/images/posts/sec/IMG_2650.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
-&lt;img src=&quot;/images/posts/sec/IMG_2662.jpg&quot; alt=&quot;security code warrior&quot; /&gt;
-&lt;img src=&quot;/images/posts/sec/IMG_2651.jpg&quot; alt=&quot;security code warrior&quot; /&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="event" />
-      
-
-      
-        <category term="event" />
-      
-        <category term="Jenius" />
-      
-        <category term="engineering" />
-      
-
-      
-        <summary type="html">Jenius sebagai institusi finansial, sangat konsern dengan keamanan, dan keamanan membawa kenyamanan dalam menggunakan aplikasi Jenius, untuk transaksi atau kebutuhan lainnya. Untuk terus menjaga kualitas dan kekinian dalam dunia keamanan, terutama keamanan siber, Jenius mengadakan acara Security Code Warrior Challenge. dimana, developer Jenius diberikan tantangan dalam programming dan juga tantangan untuk memperbaiki kode sumber yang diindikasikan terdapat lubang keamanan.</summary>
       
 
       
