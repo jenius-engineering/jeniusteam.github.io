@@ -22,9 +22,10 @@ Jenius sebagai penyedia layanan teknologi finansial, mendukung pembayaran dengan
 
 Kita dapat dengan mudah menghubungkan Jenius dengan akun Paypal yang dimiliki, simak cara menghubungkan akun Jenius dan akun Paypal
 
-#### Menghubungkan Jenius dengan Paypal
-
 ![](/images/posts/paypal/1.jpg)
+<!-- more -->
+
+#### Menghubungkan Jenius dengan Paypal
 
 <p style="text-align: center;font-style:italic;"> tampilan depan Paypal </p>
 

@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-10-09T03:35:37+00:00</updated>
+  <updated>2017-10-10T04:31:37+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -43,9 +43,10 @@
 
 &lt;p&gt;Kita dapat dengan mudah menghubungkan Jenius dengan akun Paypal yang dimiliki, simak cara menghubungkan akun Jenius dan akun Paypal&lt;/p&gt;
 
-&lt;h4&gt;Menghubungkan Jenius dengan Paypal&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/paypal/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;!-- more --&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/paypal/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;Menghubungkan Jenius dengan Paypal&lt;/h4&gt;
 
 &lt;p style=&quot;text-align: center;font-style:italic;&quot;&gt; tampilan depan Paypal &lt;/p&gt;
 
@@ -97,7 +98,7 @@
       
 
       
-        <summary type="html">Apa itu Paypal? Paypal merupakan salah satu online payment terbesar, yang melayani payment processor untuk produk-produk online seperti ecommerce. Kelebihan Paypal yang sering orang gunakan adalah proteksi terhadap fraud-fraud yang mungkin ada di dunia digital. Jenius sebagai penyedia layanan teknologi finansial, mendukung pembayaran dengan menggunakan Paypal melalui Visa debit yang dimiliki Jenius. Kita dapat dengan mudah menghubungkan Jenius dengan akun Paypal yang dimiliki, simak cara menghubungkan akun Jenius dan akun Paypal Menghubungkan Jenius dengan Paypal tampilan depan Paypal login ke akun Paypal anda Di Dashboard, terlihat link “Hubungkan Kartu” Pada halaman ini, anda akan dihadapkan dengan menu hubungkan kartu dan bank, klik Hubungkan Kartu Isi form dengan informasi yang dibutuhkan setelah semua sukses, kartu Jenius anda sudah terdaftar di Paypal!</summary>
+        <summary type="html">Apa itu Paypal? Paypal merupakan salah satu online payment terbesar, yang melayani payment processor untuk produk-produk online seperti ecommerce. Kelebihan Paypal yang sering orang gunakan adalah proteksi terhadap fraud-fraud yang mungkin ada di dunia digital. Jenius sebagai penyedia layanan teknologi finansial, mendukung pembayaran dengan menggunakan Paypal melalui Visa debit yang dimiliki Jenius. Kita dapat dengan mudah menghubungkan Jenius dengan akun Paypal yang dimiliki, simak cara menghubungkan akun Jenius dan akun Paypal</summary>
       
 
       
