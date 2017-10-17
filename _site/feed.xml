@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-10-10T04:31:37+00:00</updated>
+  <updated>2017-10-17T02:13:44+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,79 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #18</title>
+      
+      <link href="http://localhost:4000/2017/10/17/jeniustech-newsletter18/" rel="alternate" type="text/html" title="Jenius Engineering weekly #18" />
+      <published>2017-10-17T00:00:00+00:00</published>
+      <updated>2017-10-17T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/10/17/jeniustech-newsletter18</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/17/jeniustech-newsletter18/">&lt;p&gt;Welcome to Jenius Engineering newsletter #18, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Apologize for last week, there’s no newsletter published, we are brewing something cool on our stack!
+here are couple reading list that Jenius tech team currently digging&lt;/p&gt;
+
+&lt;h4&gt;reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.techinasia.com/carousell-runs-product-team&quot;&gt;How Carousell runs its product team&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uxdesign.cc/the-surprising-relationship-between-gamification-and-modern-persuasion-b27c270fd646&quot;&gt;The Surprising Relationship Between Gamification And Modern Persuasion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.christianposta.com/microservices/the-hardest-part-of-microservices-calling-your-services/&quot;&gt;The Hardest Part of Microservices: Calling Your Services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/&quot;&gt;Understanding JavaScript Function Invocation and “this”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/magnetis-backstage/how-to-write-your-first-cli-with-thor-9da6636bf744&quot;&gt;How to write your first CLI with Thor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://udarajay.com/applied-machine-learning-the-less-confusing-guide/&quot;&gt;Applied Machine Learning: The Less Confusing Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.devnetcreate.io/serverless-at-the-helm-in-kubernetes-in-the-devnet-sandbox-2038031a3f4b&quot;&gt;OpenFaaS At The Helm w/ Kubernetes in the DevNet Sandbox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html&quot;&gt;An Interview with the Creator of Ruby - 2001&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jaak.io/crossing-over-to-web3-an-introduction-to-decentralised-development-53de470da331&quot;&gt;Crossing Over to Web3 — An Introduction to Decentralised Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://henricodesjava.blog/2017/10/06/design-patterns-decorator-pattern/&quot;&gt;Design Patterns: Decorator Pattern&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2017/10/12/announcing-typescript-2-6-rc/&quot;&gt;TypeScript 2.6 RC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/draios/sysdig-inspect&quot;&gt;Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kz26/mailproxy&quot;&gt;Mailproxy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sdwolfe32/trumail&quot;&gt;Trumail&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #18, this newsletter published every tuesday-ish. please subscribe to our newsletter. Apologize for last week, there’s no newsletter published, we are brewing something cool on our stack! here are couple reading list that Jenius tech team currently digging reading list How Carousell runs its product team The Surprising Relationship Between Gamification And Modern Persuasion The Hardest Part of Microservices: Calling Your Services Understanding JavaScript Function Invocation and “this” How to write your first CLI with Thor Applied Machine Learning: The Less Confusing Guide OpenFaaS At The Helm w/ Kubernetes in the DevNet Sandbox An Interview with the Creator of Ruby - 2001 Crossing Over to Web3 — An Introduction to Decentralised Development Design Patterns: Decorator Pattern News TypeScript 2.6 RC Tools Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation Mailproxy Trumail These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1229,69 +1302,6 @@ have to say it, Kotlin has taken up to the edge, and getting big with Google sup
 
       
         <summary type="html">Hi welcome to Jenius Engineering newsletter #6, this newsletter published every tuesday-ish. please subscribe to our newsletter. how’s the holiday? here’s some of the link that Jenius developer team currently digging Reading list The SMACK Stack is the New LAMP Stack A set of best practices for JavaScript projects Your first service worker Lesser known Git commands Linux tracing systems &amp;amp; how they fit together Kubernetes workflow Improving Critical Infrastructure Rollouts Tools API Security Checklist deputize Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jeniustech newsletter weekly #5</title>
-      
-      <link href="http://localhost:4000/2017/06/20/jeniustech-newsletter-5/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #5" />
-      <published>2017-06-20T00:00:00+00:00</published>
-      <updated>2017-06-20T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/06/20/jeniustech-newsletter-5</id>
-      <content type="html" xml:base="http://localhost:4000/2017/06/20/jeniustech-newsletter-5/">&lt;p&gt;Hi welcome to Jenius Engineering newsletter #5, this newsletter published every tuesday. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;not much of a news right now, but this is what Jenius Engineering team read this week!&lt;/p&gt;
-
-&lt;h3&gt;Reading list&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@hakibenita/working-with-apis-the-pythonic-way-484784ed1ce0&quot;&gt;Working with APIs the Pythonic Way&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/dont-use-a-blockchain-unless-you-need-to-bc063d0f9a80&quot;&gt;Don’t use a blockchain unless you need to&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/python-pandemonium/python-package-management-for-the-paranoid-52c23f6aba6a&quot;&gt;Python Package Management for the Paranoid&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/apple/2017/06/macos-high-sierra-tech-preview-a-quick-look-at-the-stuff-you-cant-see/&quot;&gt;macOS High Sierra tech preview: A quick look at the stuff you can’t see&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/kubernetes-rolling-upgrades-one-by-one/&quot;&gt;Kubernetes Rolling Upgrades One By One&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;News&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b&quot;&gt;🍾🚀 webpack 3: Official Release!! 🚀🍾&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Tools&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/grab/front-end-guide&quot;&gt;Grab Front End Guide&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <summary type="html">Hi welcome to Jenius Engineering newsletter #5, this newsletter published every tuesday. please subscribe to our newsletter. not much of a news right now, but this is what Jenius Engineering team read this week! Reading list Working with APIs the Pythonic Way Don’t use a blockchain unless you need to Python Package Management for the Paranoid macOS High Sierra tech preview: A quick look at the stuff you can’t see Kubernetes Rolling Upgrades One By One News 🍾🚀 webpack 3: Official Release!! 🚀🍾 Tools Grab Front End Guide Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
