@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-10-17T02:13:44+00:00</updated>
+  <updated>2017-10-18T17:52:00+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,112 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer: Marchell Imanuel</title>
+      
+      <link href="http://localhost:4000/2017/10/18/engineer-marchell-immanuel/" rel="alternate" type="text/html" title="Jenius Engineer: Marchell Imanuel" />
+      <published>2017-10-18T00:00:00+00:00</published>
+      <updated>2017-10-18T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/10/18/engineer-marchell-immanuel</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/18/engineer-marchell-immanuel/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/marchell.jpg&quot; alt=&quot;Marchell Immanuel&quot; /&gt;&lt;/p&gt;
+&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
+
+&lt;p&gt;Saya &lt;a href=&quot;https://github.com/marchellll&quot;&gt;Marchell Imanuel&lt;/a&gt;. Saya Jenius Software Engineer yang sekarang fokus di backend development. &lt;br /&gt;
+Bahasa pemograman iOS (swift, obj-c), Javascript (&lt;em&gt;plain&lt;/em&gt;, react-native, reactjs, nodejs)&lt;/p&gt;
+
+&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/kb/SP715?locale=id_ID&quot;&gt;MacBook pro 13” 2015&lt;/a&gt;: main playground&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://oneplus.net/global/5&quot;&gt;OnePlus 5&lt;/a&gt;: main communication&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/id/ipad-mini-4/specs/&quot;&gt;iPad Mini 4&lt;/a&gt;: main entertainment&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/id/ipod-touch/&quot;&gt;iPod Touch&lt;/a&gt;: main muse&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
+&lt;h4&gt;Desktop&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/idea/&quot;&gt;IntelliJ IDEA Ultimate&lt;/a&gt; – &lt;em&gt;Development&lt;/em&gt;, &lt;em&gt;coding&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm2&lt;/a&gt; – Untuk menjalankan &lt;em&gt;docker&lt;/em&gt;, &lt;em&gt;testing, _code coverage&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.zsh.org/&quot;&gt;ZSH&lt;/a&gt; – Shell selain bash, interaksi dengan sistem.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gitkraken.com/&quot;&gt;GitKraken&lt;/a&gt; – GIT GUI dengan antarmuka yang keren.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://insomnia.rest/&quot;&gt;Insomnia REST client&lt;/a&gt; – REST client, digunakan untuk &lt;em&gt;testing&lt;/em&gt; API &lt;em&gt;call&lt;/em&gt; ke &lt;em&gt;microservice&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker&lt;/a&gt; – Teknologi container yang digunakan untuk keperluan &lt;em&gt;microservice&lt;/em&gt; di Jenius.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://justgetflux.com/&quot;&gt;Flux&lt;/a&gt; – Warna monitor jadi lebih teduh dimalam hari&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.duetdisplay.com/&quot;&gt;Duet&lt;/a&gt; – Membuat iPad menjadi tampilan ekstra dari Mac&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kekaosx.com/en/&quot;&gt;Keka&lt;/a&gt; – File archiver untuk macOS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.spotify.com/i&quot;&gt;Spotify&lt;/a&gt; – Music streaming&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Mobile&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=yuku.alkitab&amp;amp;hl=in&quot;&gt;Alkitab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.btpn.dc&amp;amp;hl=in&quot;&gt;Jenius&lt;/a&gt; – &lt;em&gt;tentu!&lt;/em&gt;, aplikasi finansial.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/books&quot;&gt;Play Books&lt;/a&gt; – Baca buku dan literatur&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; – Untuk komunikasi internal Jenius&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/keep/&quot;&gt;Google Keep&lt;/a&gt; – Menyimpan &lt;em&gt;todo list&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.uber.com/en-ID/&quot;&gt;Uber&lt;/a&gt; – Ojek atau taksi online&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netflix.com/&quot;&gt;Netflix&lt;/a&gt; – Nonton film terbaru atau lama.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/software/jira&quot;&gt;Jira&lt;/a&gt; – Platform komunikasi project, dimana semua developer, product, agile/scrum berkolaborasi.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/software/confluence&quot;&gt;Confluence&lt;/a&gt; – Kolaborasi konten dimana semua member yang terlibat di Jenius bisa mengakses, membuat dokumentasi, &lt;em&gt;knowledge base&lt;/em&gt;, atau kolaborasi project.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shazam.com/&quot;&gt;Shazam&lt;/a&gt; – Identifikasi lagu.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://1password.com/&quot;&gt;1Password&lt;/a&gt; – Manajemen password.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://authy.com/&quot;&gt;Authy&lt;/a&gt; – Manajemen token (2FA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/kb/SP715?locale=id_ID&quot;&gt;MacBook pro 13” 2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/id/ipad-mini-4/specs/&quot;&gt;iPad Mini 4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/id/ipod-touch/&quot;&gt;iPod Touch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/&quot;&gt;Audio Technica ATH-M50x&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zeroaudio.jp/product_ZH-DWX10_01.html&quot;&gt;Zero Audio DUOZA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Hardware Tokens&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/marchell-hs.jpg&quot; alt=&quot;marchell homescreen&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="backstage" />
+      
+
+      
+        <category term="jenius engineer" />
+      
+        <category term="backstage" />
+      
+
+      
+        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Marchell Imanuel. Saya Jenius Software Engineer yang sekarang fokus di backend development. Bahasa pemograman iOS (swift, obj-c), Javascript (plain, react-native, reactjs, nodejs) Hardware yang digunakan MacBook pro 13” 2015: main playground OnePlus 5: main communication iPad Mini 4: main entertainment iPod Touch: main muse</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -81,6 +187,8 @@ here are couple reading list that Jenius tech team currently digging&lt;/p&gt;
         </author>
       
 
+      
+        <category term="newsletter" />
       
 
       
@@ -161,6 +269,8 @@ here are couple reading list that Jenius tech team currently digging&lt;/p&gt;
       
 
       
+        <category term="post" />
+      
 
       
         <category term="paypal" />
@@ -220,6 +330,8 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
         </author>
       
 
+      
+        <category term="meetup" />
       
 
       
@@ -287,6 +399,8 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
       
 
       
+        <category term="newsletter" />
+      
 
       
         <category term="newsletter" />
@@ -338,6 +452,8 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
         </author>
       
 
+      
+        <category term="meetup" />
       
 
       
@@ -411,6 +527,8 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
       
 
       
+        <category term="newsletter" />
+      
 
       
         <category term="newsletter" />
@@ -481,6 +599,8 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
       
 
       
+        <category term="newsletter" />
+      
 
       
         <category term="newsletter" />
@@ -545,6 +665,8 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
       
 
       
+        <category term="newsletter" />
+      
 
       
         <category term="newsletter" />
@@ -599,6 +721,8 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
         </author>
       
 
+      
+        <category term="meetup" />
       
 
       
@@ -667,6 +791,8 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
       
 
       
+        <category term="newsletter" />
+      
 
       
         <category term="newsletter" />
@@ -725,6 +851,8 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
         </author>
       
 
+      
+        <category term="meetup" />
       
 
       
@@ -794,6 +922,8 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
       
 
       
+        <category term="newsletter" />
+      
 
       
         <category term="newsletter" />
@@ -858,6 +988,8 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
       
 
       
+        <category term="meetup" />
+      
 
       
         <category term="meetup" />
@@ -921,6 +1053,8 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
         </author>
       
 
+      
+        <category term="newsletter" />
       
 
       
@@ -996,6 +1130,8 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
       
 
       
+        <category term="newsletter" />
+      
 
       
         <category term="newsletter" />
@@ -1045,6 +1181,8 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
         </author>
       
 
+      
+        <category term="post" />
       
 
       
@@ -1115,6 +1253,8 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
       
 
       
+        <category term="newsletter" />
+      
 
       
         <category term="newsletter" />
@@ -1175,6 +1315,8 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
       
 
       
+        <category term="newsletter" />
+      
 
       
         <category term="newsletter" />
@@ -1234,6 +1376,8 @@ have to say it, Kotlin has taken up to the edge, and getting big with Google sup
       
 
       
+        <category term="newsletter" />
+      
 
       
         <category term="newsletter" />
@@ -1241,67 +1385,6 @@ have to say it, Kotlin has taken up to the edge, and getting big with Google sup
 
       
         <summary type="html">welcome to Jenius Engineering newsletter #7, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are couple things that we read this past week, a lot thing that interest us, for example the Kotlin part An Introduction to Let’s Encrypt Kotlin: the Upstart Coding Language Conquering Silicon Valley have to say it, Kotlin has taken up to the edge, and getting big with Google support. Postmortem: Codeship Basic Platform Build Processing Incident this is important, especially for reliability engineer The App That Does Nothing a light reading Serverless computing has landed: How IT Ops can adapt Building Docker Images Without Docker Traefik &amp;amp; Docker — reverse proxy and much much more these article were curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com happy hacking!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jeniustech newsletter weekly #6</title>
-      
-      <link href="http://localhost:4000/2017/07/11/jeniustech-newsletter-6/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #6" />
-      <published>2017-07-11T00:00:00+00:00</published>
-      <updated>2017-07-11T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/07/11/jeniustech-newsletter-6</id>
-      <content type="html" xml:base="http://localhost:4000/2017/07/11/jeniustech-newsletter-6/">&lt;p&gt;Hi welcome to Jenius Engineering newsletter #6, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;how’s the holiday? here’s some of the link that Jenius developer team currently digging&lt;/p&gt;
-
-&lt;h3&gt;Reading list&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mesosphere.com/blog/2017/06/21/smack-stack-new-lamp-stack/&quot;&gt;The SMACK Stack is the New LAMP Stack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/wearehive/project-guidelines&quot;&gt;A set of best practices for JavaScript projects&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hacklabo.com/your-first-service-worker/&quot;&gt;Your first service worker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/lesser-known-git-commands-151a1918a60&quot;&gt;Lesser known Git commands&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2017/07/05/linux-tracing-systems/&quot;&gt;Linux tracing systems &amp;amp; how they fit together&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.atlassian.com/blog/2017/07/kubernetes-workflow/&quot;&gt;Kubernetes workflow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://labs.spotify.com/2017/06/22/improving-critical-infrastructure-rollouts/&quot;&gt;Improving Critical Infrastructure Rollouts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Tools&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/shieldfy/API-Security-Checklist&quot;&gt;API Security Checklist&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/threatstack/deputize&quot;&gt;deputize&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <summary type="html">Hi welcome to Jenius Engineering newsletter #6, this newsletter published every tuesday-ish. please subscribe to our newsletter. how’s the holiday? here’s some of the link that Jenius developer team currently digging Reading list The SMACK Stack is the New LAMP Stack A set of best practices for JavaScript projects Your first service worker Lesser known Git commands Linux tracing systems &amp;amp; how they fit together Kubernetes workflow Improving Critical Infrastructure Rollouts Tools API Security Checklist deputize Curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       

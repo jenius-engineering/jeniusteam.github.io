@@ -5,6 +5,9 @@ author: "dedenf"
 tags:
     - meetup
     - jenius
+categories:
+    - meetup
+
 image:
   feature: images/posts/scrum/IMG_4637.jpg
   teaser: images/posts/scrum/IMG_4637.jpg

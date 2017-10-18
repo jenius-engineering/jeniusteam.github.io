@@ -5,6 +5,9 @@ author: dedenf
 tags:
     - newsletter
     - jenius
+categories:
+    - newsletter
+    
 published: true
 ---
 

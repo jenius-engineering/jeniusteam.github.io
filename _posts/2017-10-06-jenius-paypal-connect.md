@@ -6,6 +6,10 @@ tags:
     - paypal
     - jenius
     - "online payment"
+
+categories:
+    - post
+
 image:
   feature: "/images/posts/paypal/1.1.png"
   teaser: "/images/posts/paypal/1.1.png"
