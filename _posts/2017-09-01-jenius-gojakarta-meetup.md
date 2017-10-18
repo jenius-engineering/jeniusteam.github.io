@@ -5,6 +5,8 @@ author: dedenf
 tags:
     - meetup
     - jenius
+categories:
+    - meetup
 published: true
 ---
 

@@ -6,6 +6,8 @@ tags:
     - event
     - Jenius
     - newsletter
+categories:
+    - newsletter
 published: true
 ---
 

@@ -5,6 +5,8 @@ author: "dedenf"
 tags:
     - meetup
     - jenius
+categories:
+    - meetup
 image:
   feature: images/posts/product-tank/prodtank-2.jpeg
   teaser: images/posts/product-tank/prodtank-2.jpeg
