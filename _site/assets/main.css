@@ -282,6 +282,10 @@ pre {
   .pagination .next {
     float: right; }
 
+/* category */
+.category-head {
+  text-transform: capitalize; }
+
 /**
  * Syntax highlighting styles
  */

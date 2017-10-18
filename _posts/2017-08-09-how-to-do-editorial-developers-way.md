@@ -5,6 +5,8 @@ author: dedenf
 tags:
     - "how to"
     - jenius
+categories:
+    - post
 published: true
 ---
 

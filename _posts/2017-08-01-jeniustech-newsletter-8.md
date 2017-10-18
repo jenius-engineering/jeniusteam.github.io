@@ -4,6 +4,8 @@ title: "Jeniustech newsletter weekly #8"
 author: dedenf
 tags:
     - newsletter
+categories:
+    - newsletter
 published: true
 ---
 

@@ -19,7 +19,7 @@ layout: default
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
           </h1>
 
-          <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.categories != empty %} • {% include category_links.html categories=post.categories %}{% endif %}</p>
+          <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}{% if post.categories != empty %} • {% include category_links.html categories=post.categories %}{% endif %}</p>
         </header>
 
         <div class="post-content">
@@ -30,6 +30,7 @@ layout: default
             <a href="{{ post.url | relative_url }}">Read more &rarr;</a>
           </p>
         {% endif %}
+        {% if post.tags != empty %} {% include tags.html tags=post.tags %}{% endif %}
       </li>
     {% endfor %}
   </ul>
