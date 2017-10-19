@@ -8,7 +8,7 @@ tags:
 
 categories: 
     - backstage
-
+image: /images/posts/engineers/marchell.jpg
 published: true
 ---
 
