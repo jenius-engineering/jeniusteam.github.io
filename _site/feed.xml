@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-10-18T17:52:00+00:00</updated>
+  <updated>2017-10-19T09:56:32+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,101 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Topup eMoney menggunakan Jenius</title>
+      
+      <link href="http://localhost:4000/2017/10/19/jenius-topup-emoney/" rel="alternate" type="text/html" title="Topup eMoney menggunakan Jenius" />
+      <published>2017-10-19T00:00:00+00:00</published>
+      <updated>2017-10-19T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/10/19/jenius-topup-emoney</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/19/jenius-topup-emoney/">&lt;p&gt;&lt;em&gt;E-Money&lt;/em&gt; atau uang-el (&lt;em&gt;iya, serius&lt;/em&gt;) menurut definisi &lt;em&gt;Bank for international Settlement (BIS)&lt;/em&gt; adalah produk &lt;em&gt;stored-value&lt;/em&gt; atau &lt;em&gt;prepaid&lt;/em&gt; dimana
+sejumlah nilai uang disimpan dalam suatu media elektronis yang dimiliki seseorang&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, penggunaan E-Money di indonesia sangat masif, karena memang di- &lt;em&gt;endorse&lt;/em&gt; oleh pemerintah, dan juga diinstruksikan agar semua transaksi di jalan tol menggunakan E-Money sebagai alat.&lt;/p&gt;
+
+&lt;p&gt;Pengisian saldo E-Money dari bank penerbit E-Money hampir mirip, bisa dilakukan melalui ATM yang mendukung pengisian saldo, atau dengan mengunjungi swalayan seperti indomaret atau alfamaret.&lt;/p&gt;
+
+&lt;p&gt;Tapi ada cara yang bisa dilakukan tanpa harus keluar rumah, &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt; sebagai layanan finansial terdepan yang bahkan untuk &lt;em&gt;onboard&lt;/em&gt; pun bisa dilakukan di rumah atau dimanapun selama jaringan internet ada.  &lt;br /&gt;
+Pengisian saldo E-Money bisa dilakukan melalui aplikasi Jenius, di Jenius ada satu fitur yang digunakan untuk mengirimkan uang dari satu akun Jenius ke Jenius lain atau ke bank lain (&lt;em&gt;free&lt;/em&gt;), yaitu fitur &lt;a href=&quot;https://www.jenius.com/features/send-it/&quot;&gt;&lt;strong&gt;&lt;em&gt;Send It&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;. Juga kita akan membutuh kan perangkat &lt;em&gt;Smartphone&lt;/em&gt; yang memiliki NFC (Near Field Communication), di sini menggunakan Samsung S8.&lt;/p&gt;
+
+&lt;p&gt;ikuti caranya berikut&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h4&gt;Topup&lt;/h4&gt;
+&lt;p&gt;Di aplikasi Jenius, pilih menu &lt;strong&gt;Send It&lt;/strong&gt;
+&lt;img src=&quot;/images/posts/emoney/001.jpg&quot; alt=&quot;Send It&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jika dilihat di belakang kartu E-Money (mandiri), akan ada nomor kartu, nomor ini yang akan kita gunakan sebagai rekening tujuan ketika melakukan &lt;strong&gt;Send it&lt;/strong&gt; dan topup.
+Di sini, kita masukkan nomor kartu dengan memilih Mandiri sebagai bank tujuan sebelumnya, kemudian klik ‘&lt;strong&gt;CHECK&lt;/strong&gt;’ kemudian klik ‘&lt;strong&gt;NEXT&lt;/strong&gt;’.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;dilangkah ini biasanya nasabah diminta untuk memasukkan password, karena proses ini juga menambahkan nomor tersebut sebagai Jenius Contact&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/12.jpg&quot; alt=&quot;Send It &amp;gt; check account&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kita masukkan jumlah nilai topup E-Money.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/02.jpg&quot; alt=&quot;Send It &amp;gt; masukkan nilai topup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Confirm nilai yang diinput.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/03.jpg&quot; alt=&quot;Send It &amp;gt; Topup &amp;gt; confirm&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ketika sukses, bisa dilihat di menu &lt;strong&gt;In &amp;amp; Out&lt;/strong&gt;, di &lt;strong&gt;In &amp;amp; Out&lt;/strong&gt; bisa terlihat transaksi-transaksi yang kita lakukan, dalam kasus ini topup E-Money.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/002.jpg&quot; alt=&quot;transaction history, topup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Langkah berikutnya adalah melihat saldo E-Money kita sesudah kita lakukan topup, di sini terlihat saldo sebelum aktivasi.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/003.jpg&quot; alt=&quot;topup result&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dan E-Money anda sudah terisi saldonya!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/004.jpg&quot; alt=&quot;topup result&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Semua bisa dilakukan tanpa perlu anda keluar rumah atau beranjak dari kursi.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.bi.go.id/id/publikasi/sistem-pembayaran/riset/Documents/4a79ad4a8dbe4ebca2c0f86a5a2f1c69KajianEMoney.pdf&quot;&gt;Kajian Operasional E-Money &lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="post" />
+      
+
+      
+        <category term="emoney" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">E-Money atau uang-el (iya, serius) menurut definisi Bank for international Settlement (BIS) adalah produk stored-value atau prepaid dimana sejumlah nilai uang disimpan dalam suatu media elektronis yang dimiliki seseorang1, penggunaan E-Money di indonesia sangat masif, karena memang di- endorse oleh pemerintah, dan juga diinstruksikan agar semua transaksi di jalan tol menggunakan E-Money sebagai alat. Pengisian saldo E-Money dari bank penerbit E-Money hampir mirip, bisa dilakukan melalui ATM yang mendukung pengisian saldo, atau dengan mengunjungi swalayan seperti indomaret atau alfamaret. Tapi ada cara yang bisa dilakukan tanpa harus keluar rumah, Jenius sebagai layanan finansial terdepan yang bahkan untuk onboard pun bisa dilakukan di rumah atau dimanapun selama jaringan internet ada. Pengisian saldo E-Money bisa dilakukan melalui aplikasi Jenius, di Jenius ada satu fitur yang digunakan untuk mengirimkan uang dari satu akun Jenius ke Jenius lain atau ke bank lain (free), yaitu fitur Send It. Juga kita akan membutuh kan perangkat Smartphone yang memiliki NFC (Near Field Communication), di sini menggunakan Samsung S8. ikuti caranya berikut Kajian Operasional E-Money &amp;nbsp;&amp;#8617;</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1324,67 +1419,6 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #8, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are few reading list that Jenius Tech team are excited about, and Javascript has more and more dominating the development world. Reading list Error Handling in React 16 AWS RDS benchmark — MariaDB vs MySQL Extracting Logic from React Components Hidden messages in JavaScript property names Learning From Failure and Success Tool Glimpse These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com happy coding!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jeniustech newsletter weekly #7</title>
-      
-      <link href="http://localhost:4000/2017/07/25/jeniustech-newsletter-7/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #7" />
-      <published>2017-07-25T00:00:00+00:00</published>
-      <updated>2017-07-25T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/07/25/jeniustech-newsletter-7</id>
-      <content type="html" xml:base="http://localhost:4000/2017/07/25/jeniustech-newsletter-7/">&lt;p&gt;welcome to Jenius Engineering newsletter #7, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;here are couple things that we read this past week, a lot thing that interest us, for example the Kotlin part&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/an-introduction-to-let-s-encrypt&quot;&gt;An Introduction to Let’s Encrypt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/kotlin-the-upstart-coding-language-conquering-silicon-valley&quot;&gt;Kotlin: the Upstart Coding Language Conquering Silicon Valley&lt;/a&gt;&lt;br /&gt;
-have to say it, Kotlin has taken up to the edge, and getting big with Google support.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/post-mortem-codeship-basic-platform-build-processing-incident/&quot;&gt;Postmortem: Codeship Basic Platform Build Processing Incident&lt;/a&gt;&lt;br /&gt;
- this is important, especially for reliability engineer&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theatlantic.com/technology/archive/2017/06/the-app-that-does-nothing/529764/&quot;&gt;The App That Does Nothing&lt;/a&gt; &lt;br /&gt;
- a light reading&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/serverless-computing-has-landed-how-it-ops-can-adapt&quot;&gt;Serverless computing has landed: How IT Ops can adapt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/bitnami-perspectives/building-docker-images-without-docker-c619061b13a9&quot;&gt;Building Docker Images Without Docker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@lukastosic/traefik-docker-reverse-proxy-and-much-much-more-a39b24b9d959&quot;&gt;Traefik &amp;amp; Docker — reverse proxy and much much more&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;these article were curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;
-
-&lt;p&gt;happy hacking!&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <summary type="html">welcome to Jenius Engineering newsletter #7, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are couple things that we read this past week, a lot thing that interest us, for example the Kotlin part An Introduction to Let’s Encrypt Kotlin: the Upstart Coding Language Conquering Silicon Valley have to say it, Kotlin has taken up to the edge, and getting big with Google support. Postmortem: Codeship Basic Platform Build Processing Incident this is important, especially for reliability engineer The App That Does Nothing a light reading Serverless computing has landed: How IT Ops can adapt Building Docker Images Without Docker Traefik &amp;amp; Docker — reverse proxy and much much more these article were curated by Jenius Engineering Team published on jenius.tech, feedback please send to engineer(at)jenius.com happy hacking!</summary>
       
 
       
