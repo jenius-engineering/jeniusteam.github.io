@@ -1,6 +1,6 @@
-<small>tagged: 
+<small style="display:none;">tagged: 
 {% for tag in include.tags %}
 {% assign no_comma = forloop.last %}
-    <strong>{{ tag }}</strong>{% unless no_comma %},{% endunless %}
+    <strong>{{ tag | escape }}</strong>{% unless no_comma %},{% endunless %}
 {% endfor %}
 </small>
