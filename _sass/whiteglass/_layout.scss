@@ -222,3 +222,28 @@
 .category-head {
   text-transform: capitalize;
 }
+
+.share-page {
+  text-align: center;
+  background: $background-color;
+  color: $text-color;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 1.5 * $spacing-unit 0;
+
+  a {
+      font-weight: 700;
+      color: #666;
+      margin-left: 10px;
+
+      &:hover {
+          border-bottom: 1px dashed #fff;
+      }
+  }
+}
+.center-text {
+  text-align: center;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 1.5 * $spacing-unit 0;
+}

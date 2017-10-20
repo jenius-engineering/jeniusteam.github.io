@@ -15,7 +15,15 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-  <p>
+
+  <div class="share-page">
+    Share this on &rarr;
+    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i> Facebook</a>
+    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+"><i class="fa fa-google-plus-official" aria-hidden="true"></i> Google+</a>
+  </div>
+
+  <p class="center-text">
     didn't have our apps yet? download it from <a href="https://app.appsflyer.com/id1079340119?pid=jenius.com&c=2017HomePage-bottom">App Store</a> and <a href="https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&c=2017HomePage-bottom">Play Store</a>.
   </p>
   {% if site.comments != false and page.comments != false %}

@@ -286,6 +286,26 @@ pre {
 .category-head {
   text-transform: capitalize; }
 
+.share-page {
+  text-align: center;
+  background: #fdfdfd;
+  color: #111;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 45px 0; }
+  .share-page a {
+    font-weight: 700;
+    color: #666;
+    margin-left: 10px; }
+    .share-page a:hover {
+      border-bottom: 1px dashed #fff; }
+
+.center-text {
+  text-align: center;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 45px 0; }
+
 /**
  * Syntax highlighting styles
  */
