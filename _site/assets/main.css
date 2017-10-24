@@ -306,6 +306,38 @@ pre {
   border-radius: 5px;
   margin: 45px 0; }
 
+#mailchimp {
+  background: #f8f8f8;
+  color: #3D6392;
+  padding: 20px 15px; }
+
+#mailchimp input {
+  border: medium none;
+  color: gray;
+  font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding: 8px 10px;
+  width: 300px; }
+
+#mailchimp input.email {
+  background: #fff; }
+
+#mailchimp input.name {
+  background: #fff; }
+
+#mailchimp input[type="submit"] {
+  background: #00a4de;
+  color: #fff;
+  cursor: pointer;
+  font-size: 15px;
+  width: 35%;
+  padding: 8px 0;
+  font-weight: bold; }
+
+#mailchimp input[type="submit"]:hover {
+  color: #000000; }
+
 /**
  * Syntax highlighting styles
  */
