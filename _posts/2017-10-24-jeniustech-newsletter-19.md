@@ -13,7 +13,7 @@ published: true
 
 Welcome to Jenius Engineering newsletter #19, this newsletter published every tuesday-*ish*. please subscribe to our [newsletter](http://jenius.tech/newsletter).
 
-Here are lists of what JeniusTech Engineering reading, and watch this week.
+Here are lists of what JeniusTech Engineer read, and watch this week.
 
 
 #### Reading list

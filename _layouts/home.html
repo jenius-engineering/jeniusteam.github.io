@@ -25,7 +25,7 @@ layout: default
                 {% assign no_comma = forloop.last %}
                 <a href="/categories/{{ category | escape }}/" title="View posts with category &quot;{{ category }}&quot;">{{ category }}</a>{% unless no_comma %},{% endunless %}
               {% endfor %}
-            {% endif %}
+            {% endif %} •
           </p>
         </header>
 
