@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-10-24T11:41:07+00:00</updated>
+  <updated>2017-10-24T13:39:29+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -36,7 +36,7 @@
       <id>http://localhost:4000/2017/10/24/jeniustech-newsletter-19</id>
       <content type="html" xml:base="http://localhost:4000/2017/10/24/jeniustech-newsletter-19/">&lt;p&gt;Welcome to Jenius Engineering newsletter #19, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Here are lists of what JeniusTech Engineering reading, and watch this week.&lt;/p&gt;
+&lt;p&gt;Here are lists of what JeniusTech Engineer read, and watch this week.&lt;/p&gt;
 
 &lt;h4&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -94,7 +94,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #19, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are lists of what JeniusTech Engineering reading, and watch this week. Reading list Configuring Puma, Unicorn and Passenger for Maximum Efficiency Why Ruby app servers break on macOS High Sierra and what can be done about it Security and Fundamentals at Scale with Vault [video] How I Socially Engineer Myself Into High Security Facilities Our team broke up with instant-legacy releases — and you can too We fired our top talent. Best decision we ever made. ButterCMS Architecture: a Mission-Critical API Serving Millions of Requests per Month Improved stacktrace display in Ruby 2.5 Rebuilding slack.com How I’m (Not) Using jQuery Introducing PayPal’s open-source cross-domain javascript suite News PhantomJS replaced with Chrome headless Passenger 5.1.11: support for High Sierra, HTTP/2, new features &amp;amp; fixes HashiCorp Consul 1.0 realeased Vue 2.5 released Tools Super simple PDF invoicing in Ruby ES2015+ cheatsheet These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #19, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are lists of what JeniusTech Engineer read, and watch this week. Reading list Configuring Puma, Unicorn and Passenger for Maximum Efficiency Why Ruby app servers break on macOS High Sierra and what can be done about it Security and Fundamentals at Scale with Vault [video] How I Socially Engineer Myself Into High Security Facilities Our team broke up with instant-legacy releases — and you can too We fired our top talent. Best decision we ever made. ButterCMS Architecture: a Mission-Critical API Serving Millions of Requests per Month Improved stacktrace display in Ruby 2.5 Rebuilding slack.com How I’m (Not) Using jQuery Introducing PayPal’s open-source cross-domain javascript suite News PhantomJS replaced with Chrome headless Passenger 5.1.11: support for High Sierra, HTTP/2, new features &amp;amp; fixes HashiCorp Consul 1.0 realeased Vue 2.5 released Tools Super simple PDF invoicing in Ruby ES2015+ cheatsheet These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
