@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-10-23T13:53:18+00:00</updated>
+  <updated>2017-10-24T10:11:19+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,81 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #19</title>
+      
+      <link href="http://localhost:4000/2017/10/24/jeniustech-newsletter-19/" rel="alternate" type="text/html" title="Jenius Engineering weekly #19" />
+      <published>2017-10-24T00:00:00+00:00</published>
+      <updated>2017-10-24T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/10/24/jeniustech-newsletter-19</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/24/jeniustech-newsletter-19/">&lt;p&gt;Welcome to Jenius Engineering newsletter #19, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here are lists of what JeniusTech Engineering reading, and watch this past week.&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.speedshop.co/2017/10/12/appserver.html?utm_source=jeniustech&quot;&gt;Configuring Puma, Unicorn and Passenger for Maximum Efficiency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.phusion.nl/2017/10/13/why-ruby-app-servers-break-on-macos-high-sierra-and-what-can-be-done-about-it/?utm_source=jeniustech&quot;&gt;Why Ruby app servers break on macOS High Sierra and what can be done about it&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=yiPbKICFkvQ&amp;amp;utm_source=jeniustech&quot;&gt;Security and Fundamentals at Scale with Vault [video] &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://motherboard.vice.com/en_us/article/qv34zb/how-i-socially-engineer-myself-into-high-security-facilities?utm_source=jeniustech&quot;&gt;How I Socially Engineer Myself Into High Security Facilities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/our-team-broke-up-with-instant-legacy-releases-and-you-can-too-d129d7ae96bb?utm_source=jeniustech&quot;&gt;Our team broke up with instant-legacy releases — and you can too&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde?utm_source=jeniustech&quot;&gt;We fired our top talent. Best decision we ever made.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2017/10/16/buttercms-architecture-a-mission-critical-api-serving-millio.html?utm_source=jeniustech&quot;&gt;ButterCMS Architecture: a Mission-Critical API Serving Millions of Requests per Month&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mlomnicki.com/improved-stascktrace-display-in-ruby25/?utm_source=jeniustech&quot;&gt;Improved stacktrace display in Ruby 2.5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/rebuilding-slack-com-b124c405c193?utm_source=jeniustech&quot;&gt;https://slack.engineering/rebuilding-slack-com-b124c405c193&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/&quot;&gt;How I’m (Not) Using jQuery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d&quot;&gt;Introducing PayPal’s open-source cross-domain javascript suite&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://weblog.rubyonrails.org/2017/10/21/this-week-in-rails-phantomjs-replaced-with-chrome-headless-bugfixes-and-more/&quot;&gt;PhantomJS replaced with Chrome headless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.phusion.nl/2017/10/16/passenger-5-1-11/&quot;&gt;Passenger 5.1.11: support for High Sierra, HTTP/2, new features &amp;amp; fixes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hashicorp.com/blog/hashicorp-consul-1-0&quot;&gt;HashiCorp Consul 1.0 realeased&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-vue-point/vue-2-5-released-14bd65bf030b&quot;&gt;Vue 2.5 released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/strzibny/invoice_printer&quot;&gt;Super simple PDF invoicing in Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devhints.io/es6&quot;&gt;ES2015+ cheatsheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>deden fathurahman</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #19, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are lists of what JeniusTech Engineering reading, and watch this past week. Reading list Configuring Puma, Unicorn and Passenger for Maximum Efficiency Why Ruby app servers break on macOS High Sierra and what can be done about it Security and Fundamentals at Scale with Vault [video] How I Socially Engineer Myself Into High Security Facilities Our team broke up with instant-legacy releases — and you can too We fired our top talent. Best decision we ever made. ButterCMS Architecture: a Mission-Critical API Serving Millions of Requests per Month Improved stacktrace display in Ruby 2.5 https://slack.engineering/rebuilding-slack-com-b124c405c193 How I’m (Not) Using jQuery Introducing PayPal’s open-source cross-domain javascript suite News PhantomJS replaced with Chrome headless Passenger 5.1.11: support for High Sierra, HTTP/2, new features &amp;amp; fixes HashiCorp Consul 1.0 realeased Vue 2.5 released Tools Super simple PDF invoicing in Ruby ES2015+ cheatsheet</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1357,68 +1432,6 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #9, this newsletter published every tuesday-ish. please subscribe to our newsletter. How’s the weekend? this week we are trying to bring up on Jenius Engineering team to have a discussion about products and of course development! here are our reading lists Reading list When production is your test lab – what is “canarying”? Support Driven Development: Listen now so you don’t hear it later ChAP: Chaos Automation Platform Software Engineering ≠ Computer Science Facebook now uses Caffe2 deep learning for the site’s 4.5 billion daily translations Learning From Failure and Success HTTP/2 introduction from High Performance Browser Networking Tools Availability Calculator Delve, Debugger for GO programming language URL-friendly unique string ID generator for JavaScript 5 Chrome usefull extension for frontend developer These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com happy coding!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jeniustech newsletter weekly #8</title>
-      
-      <link href="http://localhost:4000/2017/08/01/jeniustech-newsletter-8/" rel="alternate" type="text/html" title="Jeniustech newsletter weekly #8" />
-      <published>2017-08-01T00:00:00+00:00</published>
-      <updated>2017-08-01T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/08/01/jeniustech-newsletter-8</id>
-      <content type="html" xml:base="http://localhost:4000/2017/08/01/jeniustech-newsletter-8/">&lt;p&gt;Welcome to Jenius Engineering newsletter #8, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;here are few reading list that Jenius Tech team are excited about, and Javascript has more and more dominating the development world.&lt;/p&gt;
-
-&lt;h4&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html&quot;&gt;Error Handling in React 16&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@ttaranto/aws-rds-benchmark-mariadb-vs-mysql-47af70602bb8&quot;&gt;AWS RDS benchmark — MariaDB vs MySQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://javascriptplayground.com/blog/2017/07/react-extracting-logic/&quot;&gt;Extracting Logic from React Components&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.stefanjudis.de/hidden-messages-in-javascript-property-names.html&quot;&gt;Hidden messages in JavaScript property names&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/production-ready/learning-from-failure-and-success-955a2ef1405&quot;&gt;Learning From Failure and Success&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tool&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://node.getglimpse.com/&quot;&gt;Glimpse&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;
-
-&lt;p&gt;happy coding!&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #8, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are few reading list that Jenius Tech team are excited about, and Javascript has more and more dominating the development world. Reading list Error Handling in React 16 AWS RDS benchmark — MariaDB vs MySQL Extracting Logic from React Components Hidden messages in JavaScript property names Learning From Failure and Success Tool Glimpse These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com happy coding!</summary>
       
 
       
