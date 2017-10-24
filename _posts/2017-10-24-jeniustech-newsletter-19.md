@@ -25,7 +25,7 @@ Here are lists of what JeniusTech Engineering reading, and watch this week.
 - [We fired our top talent. Best decision we ever made.](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde?utm_source=jeniustech)
 - [ButterCMS Architecture: a Mission-Critical API Serving Millions of Requests per Month](http://highscalability.com/blog/2017/10/16/buttercms-architecture-a-mission-critical-api-serving-millio.html?utm_source=jeniustech)
 - [Improved stacktrace display in Ruby 2.5](https://mlomnicki.com/improved-stascktrace-display-in-ruby25/?utm_source=jeniustech)
-- [https://slack.engineering/rebuilding-slack-com-b124c405c193](https://slack.engineering/rebuilding-slack-com-b124c405c193?utm_source=jeniustech)
+- [Rebuilding slack.com](https://slack.engineering/rebuilding-slack-com-b124c405c193?utm_source=jeniustech)
 - [How I’m (Not) Using jQuery](https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/)
 - [Introducing PayPal’s open-source cross-domain javascript suite](https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d)
 
@@ -39,3 +39,5 @@ Here are lists of what JeniusTech Engineering reading, and watch this week.
 #### Tools
 - [Super simple PDF invoicing in Ruby](https://github.com/strzibny/invoice_printer)
 - [ES2015+ cheatsheet](https://devhints.io/es6)
+
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com   
