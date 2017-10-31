@@ -15,7 +15,7 @@ published: false
 ![Sidigdoyo Pribadi](/images/posts/engineers/sidigg.jpg)
 
 #### Siapa dan apa yang dilakukan di Jenius?
-Saya Sidigdoyo Pribadi, di Jenius sebagai Frontend engineer, _develop_ untuk mobile app Jenius, Android dan juga iOS, dan juga sebagai technical lead yang bertanggung jawab untuk _source code_ yang masuk ke _repo_ untuk dilakukan review dan _merge_?
+Saya Sidigdoyo Pribadi, di Jenius sebagai Frontend engineer, _develop_ untuk mobile app Jenius, Android dan juga iOS, dan juga sebagai technical lead yang bertanggung jawab untuk _source code_ yang masuk ke _repo_ untuk dilakukan review dan _merge_.
 
 #### Hardware yang digunakan
 [Macbook Pro](https://support.apple.com/kb/SP747) digunakan sebagai _device_ utama untuk _coding_ dan _development_, [iPhone SE](https://en.wikipedia.org/wiki/IPhone_SE) untuk komunikasi, [iPad mini](https://en.wikipedia.org/wiki/IPad_Mini) untuk baca berita, game dan entertainment.
