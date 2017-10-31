@@ -13,6 +13,7 @@ published: true
 
 Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-*ish*. please subscribe to our [newsletter](http://jenius.tech/newsletter).
 
+last day in October, and here's what the Jenius Engineer been reading.
 #### Reading lists
 - [A Quick Guide to Rails System Tests in RSpec](https://medium.com/table-xi/a-quick-guide-to-rails-system-tests-in-rspec-b6e9e8a8b5f6?utm_source=jeniustech)
 - [Online browser-based API docs](http://devdocs.io/?utm_source=jeniustech)
@@ -27,8 +28,9 @@ Welcome to Jenius Engineering newsletter #20, this newsletter published every tu
 ### News
 - [10 new features in Ruby 2.5](https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/?utm_source=jeniustech)
 - [ Hanami v1.1.0](http://hanamirb.org/blog/2017/10/25/annoucing-hanami-110.html?utm_source=jeniustech)
-- [PhantomJS to be replaced by Selenium/Chrome headless](https://github.com/rails/rails/pull/30930?utm_source=jeniustech)
 #### Tools
 - [Faktory](http://www.mikeperham.com/2017/10/24/introducing-faktory/?utm_source=jeniustech)
 - [tileDB](http://www.tiledb.io/?utm_source=jeniustech)
 - [dataSqueeze](https://expediaincecommerceplatform.github.io/dataSqueeze/?utm_source=jeniustech)
+
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com   
