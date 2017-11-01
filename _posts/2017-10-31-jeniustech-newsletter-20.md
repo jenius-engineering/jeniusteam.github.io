@@ -25,7 +25,7 @@ last day in October, and here's what the Jenius Engineer been reading.
 - [Relative Testing vs Absolute Testing](http://blog.arkency.com/relative-testing-vs-absolute-testing/?utm_source=jeniustech)
 - [Integrating React in a 6+ Year Old Rails App](https://blog.codeship.com/integrating-react-in-a-6-year-old-rails-app/?utm_source=jeniustech)
 - [Please stop calling it "magic"](http://zverok.github.io/blog/2017-10-22-stop-magic.html?utm_source=jeniustech)
-### News
+#### News
 - [10 new features in Ruby 2.5](https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/?utm_source=jeniustech)
 - [ Hanami v1.1.0](http://hanamirb.org/blog/2017/10/25/annoucing-hanami-110.html?utm_source=jeniustech)
 #### Tools
