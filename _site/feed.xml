@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.6.2">Jekyll</generator>
   
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-10-31T02:39:22+00:00</updated>
+  <updated>2017-11-01T03:34:40+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,85 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer: Sidigdoyo Pribadi</title>
+      
+      <link href="http://localhost:4000/2017/11/01/engineer-sidigdoyo/" rel="alternate" type="text/html" title="Jenius Engineer: Sidigdoyo Pribadi" />
+      <published>2017-11-01T00:00:00+00:00</published>
+      <updated>2017-11-01T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/11/01/engineer-sidigdoyo</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/01/engineer-sidigdoyo/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/sidigg.jpg&quot; alt=&quot;Sidigdoyo Pribadi&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
+&lt;p&gt;Saya Sidigdoyo Pribadi, di Jenius sebagai Frontend engineer, &lt;em&gt;develop&lt;/em&gt; untuk mobile app Jenius, Android dan juga iOS, dan juga sebagai technical lead yang bertanggung jawab untuk &lt;em&gt;source code&lt;/em&gt; yang masuk ke &lt;em&gt;repo&lt;/em&gt; untuk dilakukan review dan &lt;em&gt;merge&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;Macbook Pro&lt;/a&gt; digunakan sebagai &lt;em&gt;device&lt;/em&gt; utama untuk &lt;em&gt;coding&lt;/em&gt; dan &lt;em&gt;development&lt;/em&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/IPhone_SE&quot;&gt;iPhone SE&lt;/a&gt; untuk komunikasi, &lt;a href=&quot;https://en.wikipedia.org/wiki/IPad_Mini&quot;&gt;iPad mini&lt;/a&gt; untuk baca berita, game dan entertainment.
+&lt;!-- more --&gt;&lt;/p&gt;
+&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
+&lt;h4&gt;Desktop&lt;/h4&gt;
+&lt;p&gt;Untuk &lt;em&gt;coding&lt;/em&gt; menggunakan &lt;a href=&quot;https://www.jetbrains.com/idea/&quot;&gt;IntelliJ Idea&lt;/a&gt; sebagai editor, dan &lt;a href=&quot;https://www.sourcetreeapp.com/&quot;&gt;Source Tree&lt;/a&gt; untuk mengatur dan melakukan aktivitas di &lt;em&gt;Source code management&lt;/em&gt; &lt;a href=&quot;https://git-scm.com/&quot;&gt;GIT&lt;/a&gt;.  &lt;br /&gt;
+Untuk interaksi dengan API server menggunakan &lt;a href=&quot;https://insomnia.rest/&quot;&gt;Insomnia REST client&lt;/a&gt;, &lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker&lt;/a&gt; digunakan untuk containerized &lt;em&gt;app, service&lt;/em&gt; yang didevelop, dan &lt;a href=&quot;https://github.com/Bash-it/bash-it&quot;&gt;Bashit&lt;/a&gt; untuk melakukan kostumasi di Shell (Bash).&lt;/p&gt;
+
+&lt;p&gt;Mendengarkan musik melalui &lt;a href=&quot;https://www.spotify.com/&quot;&gt;Spotify&lt;/a&gt;, dan menggunakan &lt;a href=&quot;https://www.duetdisplay.com/&quot;&gt;Duet&lt;/a&gt; yang menjadikan iPad sebagai layar extra.&lt;/p&gt;
+
+&lt;h4&gt;Mobile&lt;/h4&gt;
+&lt;p&gt;Untuk keperluan keuangan tentu menggunakan &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt;, &lt;a href=&quot;https://authy.com/&quot;&gt;Authy&lt;/a&gt; untuk keperluan 2FA (github, gmail, dll), &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; untuk komunikasi internal Jenius, &lt;a href=&quot;https://www.atlassian.com/software/jira&quot;&gt;Jira&lt;/a&gt; untuk mengatur project, tiket, &lt;em&gt;bugs&lt;/em&gt; dan &lt;em&gt;sprint-sprint&lt;/em&gt; yang dilakukan di Jenius. Untuk keperluan dokumentasi project menggunakan &lt;a href=&quot;https://www.atlassian.com/software/confluence&quot;&gt;Confluence&lt;/a&gt;, dan &lt;a href=&quot;https://itunes.apple.com/us/app/scrum-time-planning-poker/id844162336?mt=8&quot;&gt;Scrum Time&lt;/a&gt; untuk membantu ketika &lt;a href=&quot;https://www.scrum.org/resources/what-is-sprint-planning&quot;&gt;&lt;em&gt;Sprint Planning&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.lastpass.com/&quot;&gt;LastPass&lt;/a&gt; untuk mengatur sekuriti password, untuk transportasi menggunakan &lt;a href=&quot;https://www.go-jek.com/&quot;&gt;GoJek&lt;/a&gt;, &lt;a href=&quot;https://www.grab.com/id/&quot;&gt;Grab&lt;/a&gt;, &lt;a href=&quot;https://www.uber.com/id/&quot;&gt;Uber&lt;/a&gt;. &lt;a href=&quot;https://www.google.com/keep/&quot;&gt;Google Keep&lt;/a&gt; sebagai penyimpanan tulisan yang disingkronisasi antar &lt;em&gt;device&lt;/em&gt;, &lt;a href=&quot;https://id.pinterest.com/&quot;&gt;Pinterest&lt;/a&gt; untuk melihat inspirasi, dan &lt;a href=&quot;https://www.waze.com/&quot;&gt;Waze&lt;/a&gt; - biar gak tersesat :smile:&lt;/p&gt;
+
+&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;Mackbook Pro 13”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/IPad_Mini&quot;&gt;iPad mini&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/&quot;&gt;Audio Technica ATH-M50x&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bekal Roti :))&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.adidas.com/us/pureboost&quot;&gt;Sepatu&lt;/a&gt; - macet?!! gym dulu&lt;/li&gt;
+  &lt;li&gt;Hardware Tokens&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/sidig-hs.jpg&quot; alt=&quot;marchell homescreen&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="backstage" />
+      
+
+      
+        <category term="jenius engineer" />
+      
+        <category term="backstage" />
+      
+
+      
+        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Sidigdoyo Pribadi, di Jenius sebagai Frontend engineer, develop untuk mobile app Jenius, Android dan juga iOS, dan juga sebagai technical lead yang bertanggung jawab untuk source code yang masuk ke repo untuk dilakukan review dan merge. Hardware yang digunakan Macbook Pro digunakan sebagai device utama untuk coding dan development, iPhone SE untuk komunikasi, iPad mini untuk baca berita, game dan entertainment.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -49,7 +128,7 @@
   &lt;li&gt;&lt;a href=&quot;http://blog.arkency.com/relative-testing-vs-absolute-testing/?utm_source=jeniustech&quot;&gt;Relative Testing vs Absolute Testing&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/integrating-react-in-a-6-year-old-rails-app/?utm_source=jeniustech&quot;&gt;Integrating React in a 6+ Year Old Rails App&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://zverok.github.io/blog/2017-10-22-stop-magic.html?utm_source=jeniustech&quot;&gt;Please stop calling it “magic”&lt;/a&gt;
-    &lt;h3&gt;News&lt;/h3&gt;
+    &lt;h4&gt;News&lt;/h4&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/?utm_source=jeniustech&quot;&gt;10 new features in Ruby 2.5&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://hanamirb.org/blog/2017/10/25/annoucing-hanami-110.html?utm_source=jeniustech&quot;&gt; Hanami v1.1.0&lt;/a&gt;
@@ -229,7 +308,7 @@ Di sini, kita masukkan nomor kartu dengan memilih Mandiri sebagai bank tujuan se
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.bi.go.id/id/publikasi/sistem-pembayaran/riset/Documents/4a79ad4a8dbe4ebca2c0f86a5a2f1c69KajianEMoney.pdf&quot;&gt;Kajian Operasional E-Money &lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.bi.go.id/id/publikasi/sistem-pembayaran/riset/Documents/4a79ad4a8dbe4ebca2c0f86a5a2f1c69KajianEMoney.pdf&quot;&gt;Kajian Operasional E-Money &lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content>
@@ -259,7 +338,7 @@ Di sini, kita masukkan nomor kartu dengan memilih Mandiri sebagai bank tujuan se
       
 
       
-        <summary type="html">E-Money atau uang-el (iya, serius) menurut definisi Bank for international Settlement (BIS) adalah produk stored-value atau prepaid dimana sejumlah nilai uang disimpan dalam suatu media elektronis yang dimiliki seseorang1, penggunaan E-Money di indonesia sangat masif, karena memang di- endorse oleh pemerintah, dan juga diinstruksikan agar semua transaksi di jalan tol menggunakan E-Money sebagai alat. Pengisian saldo E-Money dari bank penerbit E-Money hampir mirip, bisa dilakukan melalui ATM yang mendukung pengisian saldo, atau dengan mengunjungi swalayan seperti indomaret atau alfamaret. Tapi ada cara yang bisa dilakukan tanpa harus keluar rumah, Jenius sebagai layanan finansial terdepan yang bahkan untuk onboard pun bisa dilakukan di rumah atau dimanapun selama jaringan internet ada. Pengisian saldo E-Money bisa dilakukan melalui aplikasi Jenius, di Jenius ada satu fitur yang digunakan untuk mengirimkan uang dari satu akun Jenius ke Jenius lain atau ke bank lain (free), yaitu fitur Send It. Juga kita akan membutuh kan perangkat Smartphone yang memiliki NFC (Near Field Communication), di sini menggunakan Samsung S8. ikuti caranya berikut Kajian Operasional E-Money &amp;nbsp;&amp;#8617;</summary>
+        <summary type="html">E-Money atau uang-el (iya, serius) menurut definisi Bank for international Settlement (BIS) adalah produk stored-value atau prepaid dimana sejumlah nilai uang disimpan dalam suatu media elektronis yang dimiliki seseorang1, penggunaan E-Money di indonesia sangat masif, karena memang di- endorse oleh pemerintah, dan juga diinstruksikan agar semua transaksi di jalan tol menggunakan E-Money sebagai alat. Pengisian saldo E-Money dari bank penerbit E-Money hampir mirip, bisa dilakukan melalui ATM yang mendukung pengisian saldo, atau dengan mengunjungi swalayan seperti indomaret atau alfamaret. Tapi ada cara yang bisa dilakukan tanpa harus keluar rumah, Jenius sebagai layanan finansial terdepan yang bahkan untuk onboard pun bisa dilakukan di rumah atau dimanapun selama jaringan internet ada. Pengisian saldo E-Money bisa dilakukan melalui aplikasi Jenius, di Jenius ada satu fitur yang digunakan untuk mengirimkan uang dari satu akun Jenius ke Jenius lain atau ke bank lain (free), yaitu fitur Send It. Juga kita akan membutuh kan perangkat Smartphone yang memiliki NFC (Near Field Communication), di sini menggunakan Samsung S8. ikuti caranya berikut Kajian Operasional E-Money  &amp;#8617;</summary>
       
 
       
@@ -1383,58 +1462,6 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #10, this newsletter published every tuesday-ish. please subscribe to our newsletter, this newsletter is a bit late. :pray: Later this week we will celebrating our independence day! here are reading lists for your brain for this almost long weekend. Reading List Handle sidekiq processing when one job saturates your workers and the rest queue up APIs as infrastructure: future-proofing Stripe with versioning Beyond Observing Behavior Why Morningstar Moved To The Cloud: 97% Cost Reduction Node.js Errors — Changes you need to know about The 80/20 Guide to Express Error Handling An Introduction to Web Scraping with Node JS Building A Simple AI Chatbot With Web Speech API And Node.js What is Containerd? Effective Shell Part 1: Navigating the Command Line Designing a Microservices Architecture for Failure News Node v8.4.0 (Current) Tools Ream: Framework for building universal Vue.js app Immediately Open Chrome DevTools when debugging Node.js apps A simple JavaScript framework for building ambitious UIs Britecharts v2.0 Released These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Editorial, developer’s way</title>
-      
-      <link href="http://localhost:4000/2017/08/09/how-to-do-editorial-developers-way/" rel="alternate" type="text/html" title="Editorial, developer's way" />
-      <published>2017-08-09T00:00:00+00:00</published>
-      <updated>2017-08-09T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/08/09/how-to-do-editorial-developers-way</id>
-      <content type="html" xml:base="http://localhost:4000/2017/08/09/how-to-do-editorial-developers-way/">&lt;p&gt;Dalam penulisan satu artikel selalu terdapat setidaknya penulis dan editor yang akan me-&lt;em&gt;review&lt;/em&gt; tulisan yang dibuat oleh penulis, artikel yang ditulis bisa berupa artikel, &lt;em&gt;how to&lt;/em&gt; dan lainnya. Kalau dirunut, hal ini mirip dengan yang dilakukan di Jenius sendiri di kalangan &lt;em&gt;developer&lt;/em&gt;, yaitu &lt;em&gt;code review&lt;/em&gt;, dimana &lt;em&gt;developer&lt;/em&gt; &lt;em&gt;commit&lt;/em&gt; kode mereka ke &lt;em&gt;source code management&lt;/em&gt; (bisa Github, Gitlab, Bitbucket) sesuai dengan &lt;em&gt;branch&lt;/em&gt; mereka masing-masing, kemudian melakukan &lt;em&gt;pull request&lt;/em&gt; terhadap &lt;em&gt;techlead&lt;/em&gt; atau orang yang ditunjuk untuk melakukan &lt;em&gt;review&lt;/em&gt; tersebut.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Hal ini tentu bisa diimplementasikan dengan proses &lt;em&gt;editorial&lt;/em&gt;, Jenius.tech melakukan proses &lt;em&gt;editorial&lt;/em&gt; ini dengan menggunakan cara &lt;a href=&quot;https://github.com/nvie/gitflow&quot;&gt;git-flow&lt;/a&gt; (tidak 100% tentunya), artikel yang &lt;em&gt;live&lt;/em&gt; di jenius.tech adalah bentuk dari branch &lt;em&gt;master&lt;/em&gt;, dan &lt;em&gt;branch&lt;/em&gt; &lt;em&gt;develop&lt;/em&gt; adalah &lt;em&gt;branch&lt;/em&gt; yang digunakan untuk pengumpulan artikel yang ditulis dari branch &lt;em&gt;post&lt;/em&gt;, kurang lebih alurnya sebagai berikut:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/article-published.jpg&quot; alt=&quot;article flows&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Semua artikel yang dibuat diblog ini disimpan di &lt;em&gt;repository&lt;/em&gt; &lt;a href=&quot;https://github.com/jeniusTeam/jeniusteam.github.io&quot;&gt;Jenius Team&lt;/a&gt;, dengan menggunakan Jekyll sebagai mesin blog-nya, dirasa sangat fleksibel dan juga memenuhi kebutuhan dalam mem-&lt;em&gt;publish&lt;/em&gt; artikel.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="post" />
-      
-
-      
-        <category term="how to" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Dalam penulisan satu artikel selalu terdapat setidaknya penulis dan editor yang akan me-review tulisan yang dibuat oleh penulis, artikel yang ditulis bisa berupa artikel, how to dan lainnya. Kalau dirunut, hal ini mirip dengan yang dilakukan di Jenius sendiri di kalangan developer, yaitu code review, dimana developer commit kode mereka ke source code management (bisa Github, Gitlab, Bitbucket) sesuai dengan branch mereka masing-masing, kemudian melakukan pull request terhadap techlead atau orang yang ditunjuk untuk melakukan review tersebut.</summary>
       
 
       
