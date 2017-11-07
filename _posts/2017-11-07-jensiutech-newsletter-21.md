@@ -34,4 +34,4 @@ published: true
 - [PostCSS plugin to keep CSS grids stupidly simple ](https://github.com/sylvainpolletvillard/postcss-grid-kiss?utm_source=jeniustech)
 - [A CLI dashboard for webpack dev server](https://github.com/FormidableLabs/webpack-dashboard)
 
-These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com   
+{: .share-page}These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com   
