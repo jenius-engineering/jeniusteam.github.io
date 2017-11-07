@@ -1,0 +1,23 @@
+---
+layout: page
+permalink: /categories/backstage/
+title: Backstage
+---
+
+
+<div id="archives">
+        <p><strong>Engineer Backstage</strong> adalah seri yang akan menampilkan <em>engineer</em>  yang ada di Jenius dan orang-orang kreatif dan berdedikasi membangun Jenius.</p>
+    {% for post in site.categories.backstage %}
+    <div id="#{{ category_name | slugize }}"></div>
+    
+    <a name="{{ category_name | slugize }}"></a>
+   
+    <article class="archive-item">
+    <ul>
+        <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    </ul>
+    </article>
+    {% endfor %}
+
+
+</div>
