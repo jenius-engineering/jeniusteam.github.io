@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-11-01T03:34:40+00:00</updated>
+  <updated>2017-11-07T13:15:28+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,78 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #21</title>
+      
+      <link href="http://localhost:4000/2017/11/07/jensiutech-newsletter-21/" rel="alternate" type="text/html" title="Jenius Engineering weekly #21" />
+      <published>2017-11-07T00:00:00+00:00</published>
+      <updated>2017-11-07T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/11/07/jensiutech-newsletter-21</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/07/jensiutech-newsletter-21/">&lt;h4&gt;Reading List&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-habits-made-me-a-better-software-engineer-47e7d54b8fa&quot;&gt;What habits made me a better Software Engineer?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85&quot;&gt;How to use Apache Kafka to transform a batch pipeline into a real-time one&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.acolyer.org/2017/11/03/log20-fully-automated-optimal-placement-of-log-printing-statements-under-specified-overhead-threshold/&quot;&gt;Log20: Fully automated optimal placement of log printing statements under specified overhead threshold&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2017/10/10/operating-a-kubernetes-network/&quot;&gt;Operating a Kubernetes network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mattklein123/lyfts-envoy-dashboards-5c91738816b1?utm_source=jeniustech&quot;&gt;Lyft’s Envoy dashboards&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.newrelic.com/2017/10/30/site-reliability-engineer-sre/&quot;&gt;The Rise of the Site Reliability Engineer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/web-typography-tables&quot;&gt;Web Typography: Designing Tables to be Read, Not Looked At&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/apache-kafka-goes-1-0/&quot;&gt;Apache Kafka Goes 1.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bundler.io/blog/2017/10/31/bundler-1-16.html&quot;&gt;Bundler 1.16&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.rubygems.org/2017/11/01/2.7.0-released.html&quot;&gt;2.7.0 Released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced&quot;&gt;Angular 5.0 Released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-node-js-collection/news-node-js-8-moves-into-long-term-support-and-node-js-9-becomes-the-new-current-release-line-74cf754a10a0&quot;&gt;Node.js 8 Moves into Long-Term Support and Node.js 9 Becomes the New Current Release Line&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2017/10/31/announcing-typescript-2-6/&quot;&gt;TypeScript 2.6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open-indy.github.io/Koa11y/&quot;&gt;Koa11y, Open Source Web Accessibility Tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sylvainpolletvillard/postcss-grid-kiss?utm_source=jeniustech&quot;&gt;PostCSS plugin to keep CSS grids stupidly simple &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/FormidableLabs/webpack-dashboard&quot;&gt;A CLI dashboard for webpack dev server&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>deden fathurahman</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Reading List What habits made me a better Software Engineer? How to use Apache Kafka to transform a batch pipeline into a real-time one Log20: Fully automated optimal placement of log printing statements under specified overhead threshold Operating a Kubernetes network Lyft’s Envoy dashboards The Rise of the Site Reliability Engineer Web Typography: Designing Tables to be Read, Not Looked At News Apache Kafka Goes 1.0 Bundler 1.16 2.7.0 Released Angular 5.0 Released Node.js 8 Moves into Long-Term Support and Node.js 9 Becomes the New Current Release Line TypeScript 2.6 Tools Koa11y, Open Source Web Accessibility Tool PostCSS plugin to keep CSS grids stupidly simple A CLI dashboard for webpack dev server These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1386,82 +1458,6 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #11, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are what the Jenius Engineering team read this week! Reading lists Ten Principles for Growth as an Engineer Beyond Google SRE: What is Site Reliability Engineering like at Medium? Migrating Existing Datastores Ops: It’s everyone’s job now 5 Ways to Make HTTP Requests in Node.js Working with Environment Variables in Node.js Kubernetes at GitHub Tools VSCode Extension: Import cost Headless Chrome Node API gTop These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #10</title>
-      
-      <link href="http://localhost:4000/2017/08/16/jeniustech-newsletter-10/" rel="alternate" type="text/html" title="Jenius Engineering weekly #10" />
-      <published>2017-08-16T00:00:00+00:00</published>
-      <updated>2017-08-16T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/08/16/jeniustech-newsletter-10</id>
-      <content type="html" xml:base="http://localhost:4000/2017/08/16/jeniustech-newsletter-10/">&lt;p&gt;Welcome to Jenius Engineering newsletter #10, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;, this newsletter is a bit late. :pray:&lt;/p&gt;
-
-&lt;p&gt;Later this week we will celebrating our independence day! here are reading lists for your brain for this &lt;em&gt;almost&lt;/em&gt; long weekend.&lt;/p&gt;
-
-&lt;h4&gt;Reading List&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.arkency.com/2017/07/sidekiq-slow-processing-one-job-saturates-workers-rest-queue-up/&quot;&gt;Handle sidekiq processing when one job saturates your workers and the rest queue up&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stripe.com/blog/api-versioning&quot;&gt;APIs as infrastructure: future-proofing Stripe with versioning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.turbinelabs.io/beyond-observing-behavior-a0887fe0d3ca&quot;&gt;Beyond Observing Behavior&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2017/8/14/why-morningstar-moved-to-the-cloud-97-cost-reduction.html&quot;&gt;Why Morningstar Moved To The Cloud: 97% Cost Reduction&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-node-js-collection/node-js-errors-changes-you-need-to-know-about-dc8c82417f65&quot;&gt;Node.js Errors — Changes you need to know about&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://thecodebarbarian.com/80-20-guide-to-express-error-handling.html&quot;&gt;The 80/20 Guide to Express Error Handling&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/an-introduction-to-web-scraping-with-node-js-1045b55c63f7&quot;&gt;An Introduction to Web Scraping with Node JS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/&quot;&gt;Building A Simple AI Chatbot With Web Speech API And Node.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2017/08/what-is-containerd-runtime/&quot;&gt;What is Containerd?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.dwmkerr.com/effective-shell-part-1-navigating-the-command-line/&quot;&gt;Effective Shell Part 1: Navigating the Command Line&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/designing-microservices-architecture-for-failure/&quot;&gt;Designing a Microservices Architecture for Failure&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v8.4.0/&quot;&gt;Node v8.4.0 (Current)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tools&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ream/ream&quot;&gt;Ream: Framework for building universal Vue.js app&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/darcyclarke/rawkit&quot;&gt;Immediately Open Chrome DevTools when debugging Node.js apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://display.js.org/&quot;&gt;A simple JavaScript framework for building ambitious UIs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/britecharts-v2-0-released/&quot;&gt;Britecharts v2.0 Released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #10, this newsletter published every tuesday-ish. please subscribe to our newsletter, this newsletter is a bit late. :pray: Later this week we will celebrating our independence day! here are reading lists for your brain for this almost long weekend. Reading List Handle sidekiq processing when one job saturates your workers and the rest queue up APIs as infrastructure: future-proofing Stripe with versioning Beyond Observing Behavior Why Morningstar Moved To The Cloud: 97% Cost Reduction Node.js Errors — Changes you need to know about The 80/20 Guide to Express Error Handling An Introduction to Web Scraping with Node JS Building A Simple AI Chatbot With Web Speech API And Node.js What is Containerd? Effective Shell Part 1: Navigating the Command Line Designing a Microservices Architecture for Failure News Node v8.4.0 (Current) Tools Ream: Framework for building universal Vue.js app Immediately Open Chrome DevTools when debugging Node.js apps A simple JavaScript framework for building ambitious UIs Britecharts v2.0 Released These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
