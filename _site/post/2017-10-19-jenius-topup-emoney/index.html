@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  
+  
+  
+  <title>Topup eMoney menggunakan Jenius</title>
+  <meta name="description" content="E-Money atau uang-el (iya, serius) menurut definisi Bank for international Settlement (BIS) adalah produk stored-value atau prepaid dimana sejumlah nilai uang disimpan dalam suatu media elektronis yang dimiliki seseorang1, penggunaan E-Money di indonesia sangat masif, karena memang di- endorse oleh pemerintah, dan juga diinstruksikan agar semua transaksi di jalan tol menggunakan E-Money sebagai alat. Pengisian saldo E-Money dari bank penerbit E-Money hampir mirip, bisa dilakukan melalui ATM yang mendukung pengisian saldo, atau dengan mengunjungi swalayan seperti indomaret atau alfamaret. Tapi ada cara yang bisa dilakukan tanpa harus keluar rumah, Jenius sebagai layanan finansial terdepan yang bahkan untuk onboard pun bisa dilakukan di rumah atau dimanapun selama jaringan internet ada. Pengisian saldo E-Money bisa dilakukan melalui aplikasi Jenius, di Jenius ada satu fitur yang digunakan untuk mengirimkan uang dari satu akun Jenius ke Jenius lain atau ke bank lain (free), yaitu fitur Send It. Juga kita akan membutuh kan perangkat Smartphone yang memiliki NFC (Near Field Communication), di sini menggunakan Samsung S8. ikuti caranya berikut Kajian Operasional E-Money  &amp;#8617;">
+  
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="canonical" href="http://localhost:4000/post/2017-10-19-jenius-topup-emoney/">
+  <link rel="icon" type="image/png" href="https://assets.jenius.com/assets/themes/jenius/20170608131821/assets/images/favicon.png">
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="JeniusTech Engineering" href="http://localhost:4000/feed.xml">
+
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="jeniusTech">
+  <meta name="twitter:title" content="Topup eMoney menggunakan Jenius">
+  <meta name="twitter:description" content="E-Money atau uang-el (iya, serius) menurut definisi Bank for international Settlement (BIS) adalah produk stored-value atau prepaid dimana sejumlah nilai uang disimpan dalam suatu media elektronis ...">
+  
+    <meta name="twitter:creator" content="jeniusTech">
+  
+  
+  
+
+  <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Bitter:400,700,400italic:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
+  
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-100082437-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">JeniusTech Engineering</a>
+
+    <nav class="site-nav">
+      
+        
+        <a class="page-link" href="/about/">About</a>
+      
+        
+        <a class="page-link" href="/archives/">Archives</a>
+      
+        
+        <a class="page-link" href="https://github.com/jeniusTeam"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a>
+      
+        
+        <a class="page-link" href="https://www.jenius.com">Get Jenius!</a>
+      
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    
+      <h1 class="post-title" itemprop="name headline">Topup eMoney menggunakan Jenius</h1>
+    
+    <p class="post-meta"><time datetime="2017-10-19T00:00:00+00:00" itemprop="datePublished">Oct 19, 2017</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">dedenf</span></span> • 
+  
+  
+
+</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p><em>E-Money</em> atau uang-el (<em>iya, serius</em>) menurut definisi <em>Bank for international Settlement (BIS)</em> adalah produk <em>stored-value</em> atau <em>prepaid</em> dimana
+sejumlah nilai uang disimpan dalam suatu media elektronis yang dimiliki seseorang<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>, penggunaan E-Money di indonesia sangat masif, karena memang di- <em>endorse</em> oleh pemerintah, dan juga diinstruksikan agar semua transaksi di jalan tol menggunakan E-Money sebagai alat.</p>
+
+<p>Pengisian saldo E-Money dari bank penerbit E-Money hampir mirip, bisa dilakukan melalui ATM yang mendukung pengisian saldo, atau dengan mengunjungi swalayan seperti indomaret atau alfamaret.</p>
+
+<p>Tapi ada cara yang bisa dilakukan tanpa harus keluar rumah, <a href="https://www.jenius.com/">Jenius</a> sebagai layanan finansial terdepan yang bahkan untuk <em>onboard</em> pun bisa dilakukan di rumah atau dimanapun selama jaringan internet ada.  <br>
+Pengisian saldo E-Money bisa dilakukan melalui aplikasi Jenius, di Jenius ada satu fitur yang digunakan untuk mengirimkan uang dari satu akun Jenius ke Jenius lain atau ke bank lain (<em>free</em>), yaitu fitur <a href="https://www.jenius.com/features/send-it/"><strong><em>Send It</em></strong></a>. Juga kita akan membutuh kan perangkat <em>Smartphone</em> yang memiliki NFC (Near Field Communication), di sini menggunakan Samsung S8.</p>
+
+<p>ikuti caranya berikut</p>
+
+<!-- more -->
+
+<h4>Topup</h4>
+<p>Di aplikasi Jenius, pilih menu <strong>Send It</strong>
+<img src="/images/posts/emoney/001.jpg" alt="Send It"></p>
+
+<p>Jika dilihat di belakang kartu E-Money (mandiri), akan ada nomor kartu, nomor ini yang akan kita gunakan sebagai rekening tujuan ketika melakukan <strong>Send it</strong> dan topup.
+Di sini, kita masukkan nomor kartu dengan memilih Mandiri sebagai bank tujuan sebelumnya, kemudian klik ‘<strong>CHECK</strong>’ kemudian klik ‘<strong>NEXT</strong>’.</p>
+
+<p><em>dilangkah ini biasanya nasabah diminta untuk memasukkan password, karena proses ini juga menambahkan nomor tersebut sebagai Jenius Contact</em>.</p>
+
+<p><img src="/images/posts/emoney/12.jpg" alt="Send It &gt; check account"></p>
+
+<p>Kita masukkan jumlah nilai topup E-Money.</p>
+
+<p><img src="/images/posts/emoney/02.jpg" alt="Send It &gt; masukkan nilai topup"></p>
+
+<p>Confirm nilai yang diinput.</p>
+
+<p><img src="/images/posts/emoney/03.jpg" alt="Send It &gt; Topup &gt; confirm"></p>
+
+<p>Ketika sukses, bisa dilihat di menu <strong>In &amp; Out</strong>, di <strong>In &amp; Out</strong> bisa terlihat transaksi-transaksi yang kita lakukan, dalam kasus ini topup E-Money.</p>
+
+<p><img src="/images/posts/emoney/002.jpg" alt="transaction history, topup"></p>
+
+<p>Langkah berikutnya adalah melihat saldo E-Money kita sesudah kita lakukan topup, di sini terlihat saldo sebelum aktivasi.</p>
+
+<p><img src="/images/posts/emoney/003.jpg" alt="topup result"></p>
+
+<p>Dan E-Money anda sudah terisi saldonya!</p>
+
+<p><img src="/images/posts/emoney/004.jpg" alt="topup result"></p>
+
+<p>Semua bisa dilakukan tanpa perlu anda keluar rumah atau beranjak dari kursi.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><a href="http://www.bi.go.id/id/publikasi/sistem-pembayaran/riset/Documents/4a79ad4a8dbe4ebca2c0f86a5a2f1c69KajianEMoney.pdf">Kajian Operasional E-Money </a> <a href="#fnref:1" class="reversefootnote">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <div class="share-page">
+    Share this on →
+    <a href="https://twitter.com/intent/tweet?text=Topup%20eMoney%20menggunakan%20Jenius&amp;url=http://localhost:4000/post/2017-10-19-jenius-topup-emoney/&amp;via=jeniusTech&amp;related=jeniusTech" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+    <a href="https://facebook.com/sharer.php?u=http://localhost:4000/post/2017-10-19-jenius-topup-emoney/" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i> Facebook</a>
+    <a href="https://plus.google.com/share?url=http://localhost:4000/post/2017-10-19-jenius-topup-emoney/" rel="nofollow" target="_blank" title="Share on Google+"><i class="fa fa-google-plus-official" aria-hidden="true"></i> Google+</a>
+  </div>
+
+  <p class="center-text">
+    didn't have our apps yet? download it from <a href="https://app.appsflyer.com/id1079340119?pid=jenius.com&amp;c=2017HomePage-bottom">App Store</a> and <a href="https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&amp;c=2017HomePage-bottom">Play Store</a>.
+  </p>
+  
+    <div class="post-comments" itemprop="comment">
+      
+<hr>
+
+<h1>Comments</h1>
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+this.page.url = "http://localhost:4000/post/2017-10-19-jenius-topup-emoney/";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "http://localhost:4000/post/jenius-topup-emoney"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://jeniustech-engineering.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+                            
+    </div>
+  
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <p>
+      
+
+© JeniusTech Engineering <img class="emoji" title=":heart:" alt=":heart:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png" height="20" width="20"> Jekyll - Subscribe via <a href="http://localhost:4000/feed.xml"><i class="fa fa-rss" aria-hidden="true"></i> RSS</a>
+
+    </p>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

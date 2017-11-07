@@ -41,7 +41,6 @@ comments: true
 
 # Plugins
 gems:
-  - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
@@ -65,9 +64,5 @@ kramdown:
   toc_levels: 1..6
 
 # jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: category_archives
-  permalinks:
-    category: /categories/:name/
+#jekyll-archives:
+permalink: /:categories/:name/
