@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-11-07T14:34:32+00:00</updated>
+  <updated>2017-11-09T00:49:41+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,81 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer: Gabriel Lintang Sore</title>
+      
+      <link href="http://localhost:4000/2017/11/09/engineer-gabriel-lintang/" rel="alternate" type="text/html" title="Jenius Engineer: Gabriel Lintang Sore" />
+      <published>2017-11-09T00:00:00+00:00</published>
+      <updated>2017-11-09T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/11/09/engineer-gabriel-lintang</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/09/engineer-gabriel-lintang/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/lintang.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
+&lt;p&gt;Saya &lt;a href=&quot;https://twitter.com/Gabrielintang&quot;&gt;Gabriel Lintang Sore&lt;/a&gt;, sebagai &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; Software Engineer, saat ini mengerjakan Jenius app untuk Android. Dalam bertanggung jawab bugfixing issue dan defect, develop story dan task dalam sprint, review code dan release apps untuk testing.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;Mackbook Pro 13”&lt;/a&gt; untuk kebutuhan &lt;em&gt;development code&lt;/em&gt;, rilis, testing dan publish baik di internal environment maupun untuk &lt;em&gt;production&lt;/em&gt; dan &lt;a href=&quot;http://www.dell.com/hr/business/p/dell-u2414h/pd&quot;&gt;Dell U2471H&lt;/a&gt; sebagai monitor kedua.
+&lt;a href=&quot;http://www.samsung.com/id/smartphones/galaxy-a7-2016-a720/SM-A720FZBDXID/&quot;&gt;Samsung Galaxy A7&lt;/a&gt; untuk keperluan testing di &lt;em&gt;device&lt;/em&gt; dan &lt;em&gt;debugging&lt;/em&gt;, &lt;a href=&quot;https://www.asus.com/id/Phone/ZenFone_2_ZE551ML/&quot;&gt;Asus zenfone 2&lt;/a&gt; komunikasi dan hiburan.&lt;/p&gt;
+
+&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
+&lt;h4&gt;Desktop&lt;/h4&gt;
+&lt;p&gt;Untuk develop aplikasi menggunakan &lt;a href=&quot;https://developer.android.com/studio/preview/index.html?hl=id&quot;&gt;Android Studio 3.0&lt;/a&gt; sebagai editor utama, manajemen repositori menggunakan &lt;a href=&quot;https://www.gitkraken.com/&quot;&gt;GitKraken&lt;/a&gt; + &lt;a href=&quot;https://www.iterm2.com/&quot;&gt;Iterm2&lt;/a&gt; + &lt;a href=&quot;http://www.zsh.org/&quot;&gt;Zsh&lt;/a&gt; untuk shell nya. Untuk proses debugging network call menggunakan &lt;a href=&quot;https://developer.chrome.com/devtools&quot;&gt;DevTools&lt;/a&gt; dari &lt;a href=&quot;https://www.google.com/chrome/browser/desktop/index.html&quot;&gt;Google Chrome&lt;/a&gt;.
+untuk mailing menggunakan &lt;a href=&quot;https://sparkmailapp.com/&quot;&gt;Spark&lt;/a&gt;, all messaging(wa, slack, dll) menggunakan &lt;a href=&quot;https://meetfranz.com/&quot;&gt;Franz&lt;/a&gt;, mendengarkan musik menggunakan &lt;a href=&quot;https://www.spotify.com/id/&quot;&gt;Spotify&lt;/a&gt; + &lt;a href=&quot;http://www.globaldelight.com/boom3d/index.php&quot;&gt;Boom 3D&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Mobile&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt;! jelas untuk keperluan keuangan. &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&quot;&gt;Jira Cloud&lt;/a&gt; untuk monitor ticket, issue, story dan bug. &lt;a href=&quot;https://slack.com/?utm_source=jeniustech&quot;&gt;Slack&lt;/a&gt; untuk komunikasi internal Jenius. &lt;a href=&quot;https://www.google.com/keep/&quot;&gt;Google Keep&lt;/a&gt; untuk menyimpan catatan penting antar perangkat. &lt;a href=&quot;https://twitter.com&quot;&gt;Twitter&lt;/a&gt; untuk berita dan sumber informasi. &lt;a href=&quot;https://www.grab.com/id/&quot;&gt;Grab&lt;/a&gt; untuk transportasi. &lt;a href=&quot;https://9gag.com&quot;&gt;9gag&lt;/a&gt;, &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.freerange360.mpp.GOAL&quot;&gt;Goal&lt;/a&gt;, &lt;a href=&quot;http://mangazoneapp.com/&quot;&gt;Mangazone&lt;/a&gt; untuk hiburan.&lt;/p&gt;
+
+&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;Mackbook Pro 13”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.audio-technica.com/cms/headphones/2d52765b7d84656c/index.html&quot;&gt;Audio Technica ATH-M20X&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vitamin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Homescreen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/lintang-hs.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="backstage" />
+      
+
+      
+        <category term="jenius engineer" />
+      
+        <category term="backstage" />
+      
+
+      
+        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Gabriel Lintang Sore, sebagai Jenius Software Engineer, saat ini mengerjakan Jenius app untuk Android. Dalam bertanggung jawab bugfixing issue dan defect, develop story dan task dalam sprint, review code dan release apps untuk testing.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -72,7 +147,7 @@
 
       
         <author>
-            <name>deden fathurahman</name>
+            <name>dedenf</name>
           
           
         </author>
@@ -221,7 +296,7 @@ Untuk interaksi dengan API server menggunakan &lt;a href=&quot;https://insomnia.
 
       
         <author>
-            <name>deden fathurahman</name>
+            <name>dedenf</name>
           
           
         </author>
@@ -298,7 +373,7 @@ Untuk interaksi dengan API server menggunakan &lt;a href=&quot;https://insomnia.
 
       
         <author>
-            <name>deden fathurahman</name>
+            <name>dedenf</name>
           
           
         </author>
@@ -1392,72 +1467,6 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
 
       
         <summary type="html">Selasa malam Jenius dan komunitas JakartaJS mengadakan meetup yang dihadiri oleh banyak Javascript enthusiast yang manjadi member JakartaJS, topik yang dibahas antara lain How to Use Graphql with React Native, Bagaimana implementasi React-Native dan GraphQL dalam membangun project mobile app sederhana Serverless Using Google Cloud Function And Node.JS, topik ini cukup menarik karena bahasan serverless masih belum populer Automate Task Runner with Gulp.js, bagaimana melakukan automasi dari mulai kompresi gambar sampai bisa juga melakukan backup. lighting talk kali ini membawa topik membuat custom charts photo dari meetup berikut beberapa photo dari acara meetup Jenius X JakartaJS</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #11</title>
-      
-      <link href="http://localhost:4000/2017/08/22/jeniustech-newsletter-11/" rel="alternate" type="text/html" title="Jenius Engineering weekly #11" />
-      <published>2017-08-22T00:00:00+00:00</published>
-      <updated>2017-08-22T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/08/22/jeniustech-newsletter-11</id>
-      <content type="html" xml:base="http://localhost:4000/2017/08/22/jeniustech-newsletter-11/">&lt;p&gt;Welcome to Jenius Engineering newsletter #11, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;here are what the Jenius Engineering team read this week!&lt;/p&gt;
-
-&lt;h4&gt;Reading lists&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b&quot;&gt;Ten Principles for Growth as an Engineer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.netsil.com/beyond-google-sre-what-is-site-reliability-engineering-like-at-medium-71c65bd35f4e&quot;&gt;Beyond Google SRE: What is Site Reliability Engineering like at Medium?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://engineering.grab.com/migrating-existing-datastores&quot;&gt;Migrating Existing Datastores&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/17/7/state-systems-administration&quot;&gt;Ops: It’s everyone’s job now&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html&quot;&gt;5 Ways to Make HTTP Requests in Node.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html&quot;&gt;Working with Environment Variables in Node.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://githubengineering.com/kubernetes-at-github/&quot;&gt;Kubernetes at GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tools&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost&quot;&gt;VSCode Extension: Import cost&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleChrome/puppeteer&quot;&gt;Headless Chrome Node API&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/aksakalli/gtop&quot;&gt;gTop&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #11, this newsletter published every tuesday-ish. please subscribe to our newsletter. here are what the Jenius Engineering team read this week! Reading lists Ten Principles for Growth as an Engineer Beyond Google SRE: What is Site Reliability Engineering like at Medium? Migrating Existing Datastores Ops: It’s everyone’s job now 5 Ways to Make HTTP Requests in Node.js Working with Environment Variables in Node.js Kubernetes at GitHub Tools VSCode Extension: Import cost Headless Chrome Node API gTop These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
