@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jenius Engineering weekly #19"
-author: "deden fathurahman"
+author: "dedenf"
 tags:
     - newsletter
     - jenius
