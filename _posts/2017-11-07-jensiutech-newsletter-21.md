@@ -11,6 +11,8 @@ categories:
 published: true
 ---
 
+Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-*ish*. please subscribe to our [newsletter](http://jenius.tech/newsletter).
+
 #### Reading List
 - [What habits made me a better Software Engineer?](https://hackernoon.com/what-habits-made-me-a-better-software-engineer-47e7d54b8fa)
 - [How to use Apache Kafka to transform a batch pipeline into a real-time one](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
@@ -34,4 +36,4 @@ published: true
 - [PostCSS plugin to keep CSS grids stupidly simple ](https://github.com/sylvainpolletvillard/postcss-grid-kiss?utm_source=jeniustech)
 - [A CLI dashboard for webpack dev server](https://github.com/FormidableLabs/webpack-dashboard)
 
-{: .share-page}These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com   
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com   
