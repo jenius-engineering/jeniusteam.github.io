@@ -11,7 +11,7 @@ categories:
 published: true
 ---
 
-Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-*ish*. please subscribe to our [newsletter](http://jenius.tech/newsletter).
+Welcome to Jenius Engineering newsletter #22, this newsletter published every tuesday-*ish*. please subscribe to our [newsletter](http://jenius.tech/newsletter).
 
 #### Reading list
 - [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
