@@ -31,3 +31,5 @@ Welcome to Jenius Engineering newsletter #23, this newsletter published every tu
 - [List of free tools for dev -- offering free tier](https://github.com/ripienaar/free-for-dev)
 - [Beego -- GO Framework](https://beego.me/)
 - [AWS-Amplify --  A declarative library for application development using Cloud services with JavaScript](https://github.com/aws/aws-amplify)
+
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com 
