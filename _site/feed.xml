@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.6.2">Jekyll</generator>
   
   
-  <link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4001/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-11-24T06:31:02+00:00</updated>
-  <id>http://localhost:4001//</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2017-12-12T07:44:55+00:00</updated>
+  <id>http://localhost:4000//</id>
 
   
     <title type="html">JeniusTech Engineering</title>
@@ -28,36 +28,50 @@
   
     <entry>
       
-      <title type="html">Jenius Engineering weekly #23</title>
+      <title type="html">Jenius Engineering weekly #24</title>
       
-      <link href="http://localhost:4001/2017/11/24/jeniustech-newsletter-23/" rel="alternate" type="text/html" title="Jenius Engineering weekly #23" />
-      <published>2017-11-24T00:00:00+00:00</published>
-      <updated>2017-11-24T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/11/24/jeniustech-newsletter-23</id>
-      <content type="html" xml:base="http://localhost:4001/2017/11/24/jeniustech-newsletter-23/">&lt;p&gt;Welcome to Jenius Engineering newsletter #23, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <link href="http://localhost:4000/2017/12/12/jeniustech-newsletter-24/" rel="alternate" type="text/html" title="Jenius Engineering weekly #24" />
+      <published>2017-12-12T00:00:00+00:00</published>
+      <updated>2017-12-12T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/12/12/jeniustech-newsletter-24</id>
+      <content type="html" xml:base="http://localhost:4000/2017/12/12/jeniustech-newsletter-24/">&lt;p&gt;Welcome to Jenius Engineering newsletter #24, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h4&gt;Reading List&lt;/h4&gt;
+&lt;h4&gt;Reading Lists&lt;/h4&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.fugue.co/2015-11-11-guide-to-emacs.html&quot;&gt;A CEO’s Guide to Emacs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.keras.io/user-experience-design-for-apis.html&quot;&gt;User experience design for APIs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/mobile/announcing-aws-amplify-and-the-aws-mobile-cli/&quot;&gt;Announcing AWS Amplify and the AWS Mobile CLI&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.acunetix.com/blog/articles/email-header-injection/&quot;&gt;What is Email Header Injection?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e&quot;&gt;The Cost Of JavaScript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/pragmatic-releasing/&quot;&gt;Pragmatic Releasing: Less Worry, More Shipping&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.ntpsec.org/2017/02/07/grappling-with-go.html&quot;&gt;Grappling with Go&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/opensource/better-random-number-generation-for-openssl-libc-and-linux-mainline/&quot;&gt;Better Random Number Generation for OpenSSL, libc, and Linux Mainline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lwn.net/SubscriberLink/738649/81007748bf15c1e5/&quot;&gt;Replacing x86 firmware with Linux and Go&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1&quot;&gt;I just don’t want to be a software developer anymore&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amplitude.engineering/how-a-single-postgresql-config-change-improved-slow-query-performance-by-50x-85593b8991b0&quot;&gt;How a single PostgreSQL config change improved slow query performance by 50x&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2017/12/microsofts-q-quantum-programming-language-out-now-in-preview/&quot;&gt;Microsoft’s Q# quantum programming language out now in preview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://2ality.com/2017/12/alternate-this.html&quot;&gt;A different way of understanding this in JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.google/topics/research/makings-smart-cookie/&quot;&gt;The makings of a smart cookie&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buoyant.io/2017/12/05/introducing-conduit/&quot;&gt;Introducing Conduit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bash-prompt.net/guides/server-hacked/&quot;&gt;How To Tell If Your Linux Server Has Been Compromised&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.targetprocess.com/blog/2017/12/every-feature-considered-harmful-debts-in-software-development/&quot;&gt;Every feature considered harmful: Debts in software development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/201x/2017/11/27/Software-Reality&quot;&gt;Unapocalyptic Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/maker-to-manager/why-your-programmers-just-want-to-code-36da9973388e&quot;&gt;Why your programmers just want to code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-i-automated-my-teams-agile-and-scrum-processes-with-scrumile-6e497895ecf5&quot;&gt;How I automated my team’s agile and Scrum processes with Scrumile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devel.tech/tips/n/tMuXz2lj/the-power-of-tmux-hooks/&quot;&gt;The Power Of tmux Hooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/sophiedebenedetto/smarter-rails-services-with-active-model-modules-17o&quot;&gt;Smarter Rails Services with Active Model Modules &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://magoo.github.io/Blockchain-Graveyard/&quot;&gt;Blockchain Graveyard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/apis-explorer/#s/&quot;&gt;Google APIs Explorer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://martinfowler.com/articles/products-over-projects.html&quot;&gt;Products Over Projects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.backerkit.com/blog/distributed-teams&quot;&gt;Developer’s Guide to Successful Distributed Teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/empowering-teams-to-build-great-products-4b457cafc1&quot;&gt;Empowering teams to build great products&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.djangoproject.com/en/2.0/releases/2.0/&quot;&gt;Django 2.0 &lt;em&gt;released&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;Tools&lt;/h4&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/moment/luxon&quot;&gt;Luxon – A library for working with dates and times in JS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ripienaar/free-for-dev&quot;&gt;List of free tools for dev – offering free tier&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://beego.me/&quot;&gt;Beego – GO Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/aws/aws-amplify&quot;&gt;AWS-Amplify –  A declarative library for application development using Cloud services with JavaScript&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+  &lt;li&gt;&lt;a href=&quot;https://conduit.io/&quot;&gt;Conduit – next-generation ultralight service mesh for Kubernetes.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://parceljs.org/&quot;&gt;ParcelJS – Blazing fast, zero configuration web application bundler&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nebula-orchestrator.github.io/&quot;&gt;Nebula – Nebula container orchestrator aims to help devs and ops treat IoT devices just like distributed Dockerized apps.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jrnl.sh/&quot;&gt;jrnl.sh - write your journal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://myrocks.io/&quot;&gt;MyRock – A RocksDB storage engine with MySQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/laurent22/joplin&quot;&gt;Joplin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
 
       
       
@@ -84,7 +98,76 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #23, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading List A CEO’s Guide to Emacs User experience design for APIs Announcing AWS Amplify and the AWS Mobile CLI What is Email Header Injection? The Cost Of JavaScript Pragmatic Releasing: Less Worry, More Shipping Grappling with Go Better Random Number Generation for OpenSSL, libc, and Linux Mainline Replacing x86 firmware with Linux and Go I just don’t want to be a software developer anymore How a single PostgreSQL config change improved slow query performance by 50x Tools Luxon – A library for working with dates and times in JS List of free tools for dev – offering free tier Beego – GO Framework AWS-Amplify – A declarative library for application development using Cloud services with JavaScript</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #24, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading Lists Microsoft’s Q# quantum programming language out now in preview A different way of understanding this in JavaScript The makings of a smart cookie Introducing Conduit How To Tell If Your Linux Server Has Been Compromised Every feature considered harmful: Debts in software development Unapocalyptic Software Why your programmers just want to code How I automated my team’s agile and Scrum processes with Scrumile The Power Of tmux Hooks Smarter Rails Services with Active Model Modules Blockchain Graveyard Google APIs Explorer Products Over Projects Developer’s Guide to Successful Distributed Teams Empowering teams to build great products News Django 2.0 released Tools Conduit – next-generation ultralight service mesh for Kubernetes. ParcelJS – Blazing fast, zero configuration web application bundler Nebula – Nebula container orchestrator aims to help devs and ops treat IoT devices just like distributed Dockerized apps. jrnl.sh - write your journal MyRock – A RocksDB storage engine with MySQL Joplin These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #23</title>
+      
+      <link href="http://localhost:4000/2017/11/24/jeniustech-newsletter-23/" rel="alternate" type="text/html" title="Jenius Engineering weekly #23" />
+      <published>2017-11-24T00:00:00+00:00</published>
+      <updated>2017-11-24T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/11/24/jeniustech-newsletter-23</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/24/jeniustech-newsletter-23/">&lt;p&gt;Welcome to Jenius Engineering newsletter #23, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Reading List&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.fugue.co/2015-11-11-guide-to-emacs.html&quot;&gt;A CEO’s Guide to Emacs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.keras.io/user-experience-design-for-apis.html&quot;&gt;User experience design for APIs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/mobile/announcing-aws-amplify-and-the-aws-mobile-cli/&quot;&gt;Announcing AWS Amplify and the AWS Mobile CLI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.acunetix.com/blog/articles/email-header-injection/&quot;&gt;What is Email Header Injection?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e&quot;&gt;The Cost Of JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/pragmatic-releasing/&quot;&gt;Pragmatic Releasing: Less Worry, More Shipping&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.ntpsec.org/2017/02/07/grappling-with-go.html&quot;&gt;Grappling with Go&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/opensource/better-random-number-generation-for-openssl-libc-and-linux-mainline/&quot;&gt;Better Random Number Generation for OpenSSL, libc, and Linux Mainline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lwn.net/SubscriberLink/738649/81007748bf15c1e5/&quot;&gt;Replacing x86 firmware with Linux and Go&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1&quot;&gt;I just don’t want to be a software developer anymore&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amplitude.engineering/how-a-single-postgresql-config-change-improved-slow-query-performance-by-50x-85593b8991b0&quot;&gt;How a single PostgreSQL config change improved slow query performance by 50x&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/moment/luxon&quot;&gt;Luxon – A library for working with dates and times in JS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ripienaar/free-for-dev&quot;&gt;List of free tools for dev – offering free tier&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://beego.me/&quot;&gt;Beego – GO Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/aws/aws-amplify&quot;&gt;AWS-Amplify –  A declarative library for application development using Cloud services with JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #23, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading List A CEO’s Guide to Emacs User experience design for APIs Announcing AWS Amplify and the AWS Mobile CLI What is Email Header Injection? The Cost Of JavaScript Pragmatic Releasing: Less Worry, More Shipping Grappling with Go Better Random Number Generation for OpenSSL, libc, and Linux Mainline Replacing x86 firmware with Linux and Go I just don’t want to be a software developer anymore How a single PostgreSQL config change improved slow query performance by 50x Tools Luxon – A library for working with dates and times in JS List of free tools for dev – offering free tier Beego – GO Framework AWS-Amplify – A declarative library for application development using Cloud services with JavaScript These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
@@ -97,11 +180,11 @@
       
       <title type="html">Firefox Quantum</title>
       
-      <link href="http://localhost:4001/2017/11/16/firefox-quantum/" rel="alternate" type="text/html" title="Firefox Quantum" />
+      <link href="http://localhost:4000/2017/11/16/firefox-quantum/" rel="alternate" type="text/html" title="Firefox Quantum" />
       <published>2017-11-16T00:00:00+00:00</published>
       <updated>2017-11-16T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/11/16/firefox-quantum</id>
-      <content type="html" xml:base="http://localhost:4001/2017/11/16/firefox-quantum/">&lt;p&gt;&lt;img src=&quot;/images/posts/firefox-quantum/1.png&quot; alt=&quot;firefox quantum&quot; /&gt;
+      <id>http://localhost:4000/2017/11/16/firefox-quantum</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/16/firefox-quantum/">&lt;p&gt;&lt;img src=&quot;/images/posts/firefox-quantum/1.png&quot; alt=&quot;firefox quantum&quot; /&gt;
 Baru-baru ini Firefox meluncurkan versi terbarunya, disebut Firefox Quantum, menjanjikan banyak perbaikan, bahkan &lt;em&gt;UI&lt;/em&gt; yang baru dari versi sebelumnya. Menurut &lt;a href=&quot;https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/&quot;&gt;&lt;em&gt;press rilis&lt;/em&gt;&lt;/a&gt;, Firefox Quantum dibuat menggunakan inti yang baru untuk menampilkan halaman &lt;em&gt;web&lt;/em&gt;, dan juga &lt;a href=&quot;http://design.firefox.com/photon/welcome.html&quot;&gt;desain&lt;/a&gt; &lt;em&gt;UI&lt;/em&gt; yang baru dan penggunaan memory yang irit.
 Beberapa hal dari rilis terbaru ini yang hendak di &lt;em&gt;highlight&lt;/em&gt; antara lain&lt;/p&gt;
 
@@ -164,11 +247,11 @@ Beberapa hal dari rilis terbaru ini yang hendak di &lt;em&gt;highlight&lt;/em&gt
       
       <title type="html">Jenius Engineering weekly #22</title>
       
-      <link href="http://localhost:4001/2017/11/15/jeniustech-newsletter-22/" rel="alternate" type="text/html" title="Jenius Engineering weekly #22" />
+      <link href="http://localhost:4000/2017/11/15/jeniustech-newsletter-22/" rel="alternate" type="text/html" title="Jenius Engineering weekly #22" />
       <published>2017-11-15T00:00:00+00:00</published>
       <updated>2017-11-15T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/11/15/jeniustech-newsletter-22</id>
-      <content type="html" xml:base="http://localhost:4001/2017/11/15/jeniustech-newsletter-22/">&lt;p&gt;Welcome to Jenius Engineering newsletter #22, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2017/11/15/jeniustech-newsletter-22</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/15/jeniustech-newsletter-22/">&lt;p&gt;Welcome to Jenius Engineering newsletter #22, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -235,11 +318,11 @@ Beberapa hal dari rilis terbaru ini yang hendak di &lt;em&gt;highlight&lt;/em&gt
       
       <title type="html">Jenius Engineer: Gabriel Lintang Sore</title>
       
-      <link href="http://localhost:4001/2017/11/09/engineer-gabriel-lintang/" rel="alternate" type="text/html" title="Jenius Engineer: Gabriel Lintang Sore" />
+      <link href="http://localhost:4000/2017/11/09/engineer-gabriel-lintang/" rel="alternate" type="text/html" title="Jenius Engineer: Gabriel Lintang Sore" />
       <published>2017-11-09T00:00:00+00:00</published>
       <updated>2017-11-09T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/11/09/engineer-gabriel-lintang</id>
-      <content type="html" xml:base="http://localhost:4001/2017/11/09/engineer-gabriel-lintang/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/lintang.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+      <id>http://localhost:4000/2017/11/09/engineer-gabriel-lintang</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/09/engineer-gabriel-lintang/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/lintang.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Saya &lt;a href=&quot;https://twitter.com/Gabrielintang&quot;&gt;Gabriel Lintang Sore&lt;/a&gt;, sebagai &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; Software Engineer, saat ini mengerjakan Jenius app untuk Android. Dalam bertanggung jawab bugfixing issue dan defect, develop story dan task dalam sprint, review code dan release apps untuk testing.&lt;/p&gt;
@@ -310,11 +393,11 @@ untuk mailing menggunakan &lt;a href=&quot;https://sparkmailapp.com/&quot;&gt;Sp
       
       <title type="html">Jenius Engineering weekly #21</title>
       
-      <link href="http://localhost:4001/2017/11/07/jensiutech-newsletter-21/" rel="alternate" type="text/html" title="Jenius Engineering weekly #21" />
+      <link href="http://localhost:4000/2017/11/07/jensiutech-newsletter-21/" rel="alternate" type="text/html" title="Jenius Engineering weekly #21" />
       <published>2017-11-07T00:00:00+00:00</published>
       <updated>2017-11-07T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/11/07/jensiutech-newsletter-21</id>
-      <content type="html" xml:base="http://localhost:4001/2017/11/07/jensiutech-newsletter-21/">&lt;p&gt;Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2017/11/07/jensiutech-newsletter-21</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/07/jensiutech-newsletter-21/">&lt;p&gt;Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading List&lt;/h4&gt;
 &lt;ul&gt;
@@ -384,11 +467,11 @@ untuk mailing menggunakan &lt;a href=&quot;https://sparkmailapp.com/&quot;&gt;Sp
       
       <title type="html">Jenius Engineer: Sidigdoyo Pribadi</title>
       
-      <link href="http://localhost:4001/2017/11/01/engineer-sidigdoyo/" rel="alternate" type="text/html" title="Jenius Engineer: Sidigdoyo Pribadi" />
+      <link href="http://localhost:4000/2017/11/01/engineer-sidigdoyo/" rel="alternate" type="text/html" title="Jenius Engineer: Sidigdoyo Pribadi" />
       <published>2017-11-01T00:00:00+00:00</published>
       <updated>2017-11-01T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/11/01/engineer-sidigdoyo</id>
-      <content type="html" xml:base="http://localhost:4001/2017/11/01/engineer-sidigdoyo/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/sidigg.jpg&quot; alt=&quot;Sidigdoyo Pribadi&quot; /&gt;&lt;/p&gt;
+      <id>http://localhost:4000/2017/11/01/engineer-sidigdoyo</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/01/engineer-sidigdoyo/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/sidigg.jpg&quot; alt=&quot;Sidigdoyo Pribadi&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Saya Sidigdoyo Pribadi, di Jenius sebagai Frontend engineer, &lt;em&gt;develop&lt;/em&gt; untuk mobile app Jenius, Android dan juga iOS, dan juga sebagai technical lead yang bertanggung jawab untuk &lt;em&gt;source code&lt;/em&gt; yang masuk ke &lt;em&gt;repo&lt;/em&gt; untuk dilakukan review dan &lt;em&gt;merge&lt;/em&gt;.&lt;/p&gt;
@@ -463,11 +546,11 @@ Untuk interaksi dengan API server menggunakan &lt;a href=&quot;https://insomnia.
       
       <title type="html">Jenius Engineering weekly #20</title>
       
-      <link href="http://localhost:4001/2017/10/31/jeniustech-newsletter-20/" rel="alternate" type="text/html" title="Jenius Engineering weekly #20" />
+      <link href="http://localhost:4000/2017/10/31/jeniustech-newsletter-20/" rel="alternate" type="text/html" title="Jenius Engineering weekly #20" />
       <published>2017-10-31T00:00:00+00:00</published>
       <updated>2017-10-31T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/10/31/jeniustech-newsletter-20</id>
-      <content type="html" xml:base="http://localhost:4001/2017/10/31/jeniustech-newsletter-20/">&lt;p&gt;Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2017/10/31/jeniustech-newsletter-20</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/31/jeniustech-newsletter-20/">&lt;p&gt;Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;last day in October, and here’s what the Jenius Engineer been reading.&lt;/p&gt;
 &lt;h4&gt;Reading lists&lt;/h4&gt;
@@ -533,11 +616,11 @@ Untuk interaksi dengan API server menggunakan &lt;a href=&quot;https://insomnia.
       
       <title type="html">Jenius Engineering weekly #19</title>
       
-      <link href="http://localhost:4001/2017/10/24/jeniustech-newsletter-19/" rel="alternate" type="text/html" title="Jenius Engineering weekly #19" />
+      <link href="http://localhost:4000/2017/10/24/jeniustech-newsletter-19/" rel="alternate" type="text/html" title="Jenius Engineering weekly #19" />
       <published>2017-10-24T00:00:00+00:00</published>
       <updated>2017-10-24T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/10/24/jeniustech-newsletter-19</id>
-      <content type="html" xml:base="http://localhost:4001/2017/10/24/jeniustech-newsletter-19/">&lt;p&gt;Welcome to Jenius Engineering newsletter #19, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2017/10/24/jeniustech-newsletter-19</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/24/jeniustech-newsletter-19/">&lt;p&gt;Welcome to Jenius Engineering newsletter #19, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here are lists of what JeniusTech Engineer read, and watch this week.&lt;/p&gt;
 
@@ -610,11 +693,11 @@ Untuk interaksi dengan API server menggunakan &lt;a href=&quot;https://insomnia.
       
       <title type="html">Topup eMoney menggunakan Jenius</title>
       
-      <link href="http://localhost:4001/2017/10/19/jenius-topup-emoney/" rel="alternate" type="text/html" title="Topup eMoney menggunakan Jenius" />
+      <link href="http://localhost:4000/2017/10/19/jenius-topup-emoney/" rel="alternate" type="text/html" title="Topup eMoney menggunakan Jenius" />
       <published>2017-10-19T00:00:00+00:00</published>
       <updated>2017-10-19T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/10/19/jenius-topup-emoney</id>
-      <content type="html" xml:base="http://localhost:4001/2017/10/19/jenius-topup-emoney/">&lt;p&gt;&lt;em&gt;E-Money&lt;/em&gt; atau uang-el (&lt;em&gt;iya, serius&lt;/em&gt;) menurut definisi &lt;em&gt;Bank for international Settlement (BIS)&lt;/em&gt; adalah produk &lt;em&gt;stored-value&lt;/em&gt; atau &lt;em&gt;prepaid&lt;/em&gt; dimana
+      <id>http://localhost:4000/2017/10/19/jenius-topup-emoney</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/19/jenius-topup-emoney/">&lt;p&gt;&lt;em&gt;E-Money&lt;/em&gt; atau uang-el (&lt;em&gt;iya, serius&lt;/em&gt;) menurut definisi &lt;em&gt;Bank for international Settlement (BIS)&lt;/em&gt; adalah produk &lt;em&gt;stored-value&lt;/em&gt; atau &lt;em&gt;prepaid&lt;/em&gt; dimana
 sejumlah nilai uang disimpan dalam suatu media elektronis yang dimiliki seseorang&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, penggunaan E-Money di indonesia sangat masif, karena memang di- &lt;em&gt;endorse&lt;/em&gt; oleh pemerintah, dan juga diinstruksikan agar semua transaksi di jalan tol menggunakan E-Money sebagai alat.&lt;/p&gt;
 
 &lt;p&gt;Pengisian saldo E-Money dari bank penerbit E-Money hampir mirip, bisa dilakukan melalui ATM yang mendukung pengisian saldo, atau dengan mengunjungi swalayan seperti indomaret atau alfamaret.&lt;/p&gt;
@@ -705,11 +788,11 @@ Di sini, kita masukkan nomor kartu dengan memilih Mandiri sebagai bank tujuan se
       
       <title type="html">Jenius Engineer: Marchell Imanuel</title>
       
-      <link href="http://localhost:4001/2017/10/18/engineer-marchell-immanuel/" rel="alternate" type="text/html" title="Jenius Engineer: Marchell Imanuel" />
+      <link href="http://localhost:4000/2017/10/18/engineer-marchell-immanuel/" rel="alternate" type="text/html" title="Jenius Engineer: Marchell Imanuel" />
       <published>2017-10-18T00:00:00+00:00</published>
       <updated>2017-10-18T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/10/18/engineer-marchell-immanuel</id>
-      <content type="html" xml:base="http://localhost:4001/2017/10/18/engineer-marchell-immanuel/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/marchell.jpg&quot; alt=&quot;Marchell Immanuel&quot; /&gt;&lt;/p&gt;
+      <id>http://localhost:4000/2017/10/18/engineer-marchell-immanuel</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/18/engineer-marchell-immanuel/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/marchell.jpg&quot; alt=&quot;Marchell Immanuel&quot; /&gt;&lt;/p&gt;
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 
 &lt;p&gt;Saya &lt;a href=&quot;https://github.com/marchellll&quot;&gt;Marchell Imanuel&lt;/a&gt;. Saya Jenius Software Engineer yang sekarang fokus di backend development. &lt;br /&gt;
@@ -811,11 +894,11 @@ Bahasa pemograman iOS (swift, obj-c), Javascript (&lt;em&gt;plain&lt;/em&gt;, re
       
       <title type="html">Jenius Engineering weekly #18</title>
       
-      <link href="http://localhost:4001/2017/10/17/jeniustech-newsletter18/" rel="alternate" type="text/html" title="Jenius Engineering weekly #18" />
+      <link href="http://localhost:4000/2017/10/17/jeniustech-newsletter18/" rel="alternate" type="text/html" title="Jenius Engineering weekly #18" />
       <published>2017-10-17T00:00:00+00:00</published>
       <updated>2017-10-17T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/10/17/jeniustech-newsletter18</id>
-      <content type="html" xml:base="http://localhost:4001/2017/10/17/jeniustech-newsletter18/">&lt;p&gt;Welcome to Jenius Engineering newsletter #18, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2017/10/17/jeniustech-newsletter18</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/17/jeniustech-newsletter18/">&lt;p&gt;Welcome to Jenius Engineering newsletter #18, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Apologize for last week, there’s no newsletter published, we are brewing something cool on our stack!
 here are couple reading list that Jenius tech team currently digging&lt;/p&gt;
@@ -886,11 +969,11 @@ here are couple reading list that Jenius tech team currently digging&lt;/p&gt;
       
       <title type="html">Menghubungkan Akun Jenius dengan Paypal</title>
       
-      <link href="http://localhost:4001/2017/10/06/jenius-paypal-connect/" rel="alternate" type="text/html" title="Menghubungkan Akun Jenius dengan Paypal" />
+      <link href="http://localhost:4000/2017/10/06/jenius-paypal-connect/" rel="alternate" type="text/html" title="Menghubungkan Akun Jenius dengan Paypal" />
       <published>2017-10-06T00:00:00+00:00</published>
       <updated>2017-10-06T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/10/06/jenius-paypal-connect</id>
-      <content type="html" xml:base="http://localhost:4001/2017/10/06/jenius-paypal-connect/">&lt;h4&gt;Apa itu Paypal?&lt;/h4&gt;
+      <id>http://localhost:4000/2017/10/06/jenius-paypal-connect</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/06/jenius-paypal-connect/">&lt;h4&gt;Apa itu Paypal?&lt;/h4&gt;
 &lt;p&gt;Paypal merupakan salah satu &lt;strong&gt;online payment&lt;/strong&gt; terbesar, yang melayani payment processor untuk produk-produk online seperti ecommerce.&lt;/p&gt;
 
 &lt;p&gt;Kelebihan Paypal yang sering orang gunakan adalah proteksi terhadap fraud-fraud yang mungkin ada di dunia digital.&lt;/p&gt;
@@ -969,11 +1052,11 @@ here are couple reading list that Jenius tech team currently digging&lt;/p&gt;
       
       <title type="html">Jenius X Product Tank Jakarta Meetup</title>
       
-      <link href="http://localhost:4001/2017/10/03/product-tank-x-jenius-meetup/" rel="alternate" type="text/html" title="Jenius X Product Tank Jakarta Meetup" />
+      <link href="http://localhost:4000/2017/10/03/product-tank-x-jenius-meetup/" rel="alternate" type="text/html" title="Jenius X Product Tank Jakarta Meetup" />
       <published>2017-10-03T00:00:00+00:00</published>
       <updated>2017-10-03T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/10/03/product-tank-x-jenius-meetup</id>
-      <content type="html" xml:base="http://localhost:4001/2017/10/03/product-tank-x-jenius-meetup/">&lt;p&gt;&lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; sebagai produk &lt;em&gt;digital banking&lt;/em&gt; dari BTPN tentu saja tidak lahir dengan sendirinya, ada banyak proses yang dilakukan sebelum akhirnya diluncurkan, dari &lt;em&gt;research&lt;/em&gt;, &lt;em&gt;design&lt;/em&gt;, arsitektur sistem, semua itu bagian dari proses pembuatan produk, kompleks, menyenangkan. di dalam &lt;em&gt;framework&lt;/em&gt; scrum/agile, dikenal &lt;em&gt;role&lt;/em&gt; yang bernama &lt;em&gt;Product Owner&lt;/em&gt;, &lt;em&gt;role&lt;/em&gt; dari PO ini adalah mendefinisikan produk yang akan dibagun, baik dari product yang sudah ada kemudian dikembangkan, atau yang belum ada sebelumnya.&lt;/p&gt;
+      <id>http://localhost:4000/2017/10/03/product-tank-x-jenius-meetup</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/03/product-tank-x-jenius-meetup/">&lt;p&gt;&lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; sebagai produk &lt;em&gt;digital banking&lt;/em&gt; dari BTPN tentu saja tidak lahir dengan sendirinya, ada banyak proses yang dilakukan sebelum akhirnya diluncurkan, dari &lt;em&gt;research&lt;/em&gt;, &lt;em&gt;design&lt;/em&gt;, arsitektur sistem, semua itu bagian dari proses pembuatan produk, kompleks, menyenangkan. di dalam &lt;em&gt;framework&lt;/em&gt; scrum/agile, dikenal &lt;em&gt;role&lt;/em&gt; yang bernama &lt;em&gt;Product Owner&lt;/em&gt;, &lt;em&gt;role&lt;/em&gt; dari PO ini adalah mendefinisikan produk yang akan dibagun, baik dari product yang sudah ada kemudian dikembangkan, atau yang belum ada sebelumnya.&lt;/p&gt;
 
 &lt;p&gt;Jenius mengadopsi Scrum/Agile dalam pembuatan produk, dan acara meetup dengan komunitas &lt;a href=&quot;http://www.producttank.com&quot;&gt;Product Tank&lt;/a&gt; jakarta merupakan salah satu bentuk komitmen Jenius yang lebih &lt;em&gt;agile&lt;/em&gt;, transparan. dan di acara ini merupakan ajang berkumpulnya &lt;em&gt;Product Managers&lt;/em&gt; untuk saling bertukar pikiran dan juga saling belajar dari pengalaman masing-masing, banyak juga peserta dari perusahaan-perusahaan rintisan. 
 &lt;!-- more --&gt;
@@ -1029,11 +1112,11 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
       
       <title type="html">Jenius Engineering weekly #17</title>
       
-      <link href="http://localhost:4001/2017/10/03/jeniustech-newsletter-17/" rel="alternate" type="text/html" title="Jenius Engineering weekly #17" />
+      <link href="http://localhost:4000/2017/10/03/jeniustech-newsletter-17/" rel="alternate" type="text/html" title="Jenius Engineering weekly #17" />
       <published>2017-10-03T00:00:00+00:00</published>
       <updated>2017-10-03T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/10/03/jeniustech-newsletter-17</id>
-      <content type="html" xml:base="http://localhost:4001/2017/10/03/jeniustech-newsletter-17/">&lt;p&gt;Welcome to Jenius Engineering newsletter #17, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2017/10/03/jeniustech-newsletter-17</id>
+      <content type="html" xml:base="http://localhost:4000/2017/10/03/jeniustech-newsletter-17/">&lt;p&gt;Welcome to Jenius Engineering newsletter #17, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;couple reading list are docker related, we are in for &lt;a href=&quot;https://en.wikipedia.org/wiki/Containerization&quot;&gt;containerization&lt;/a&gt;, it’s a lot of fun implementing it!&lt;/p&gt;
 
@@ -1097,11 +1180,11 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
       
       <title type="html">Jenius X Scrum Meetup</title>
       
-      <link href="http://localhost:4001/2017/09/27/jenius-scrum-why-your-scrum-master-sucks/" rel="alternate" type="text/html" title="Jenius X Scrum Meetup" />
+      <link href="http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks/" rel="alternate" type="text/html" title="Jenius X Scrum Meetup" />
       <published>2017-09-27T00:00:00+00:00</published>
       <updated>2017-09-27T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/09/27/jenius-scrum-why-your-scrum-master-sucks</id>
-      <content type="html" xml:base="http://localhost:4001/2017/09/27/jenius-scrum-why-your-scrum-master-sucks/">&lt;p&gt;Kata ‘&lt;em&gt;Agile&lt;/em&gt;’, ‘&lt;em&gt;Scrum&lt;/em&gt;’, saat ini memang sedang menjadi pembicaraan yang &lt;em&gt;hot&lt;/em&gt;, banyak lowongan pekerjaan untuk menjadi &lt;em&gt;scrum master&lt;/em&gt;, Scrum/Agile dalam dunia development amat sangat membantu, untuk akselerasi project, dan juga koordinasi antar team, membangun kultur tim yang &lt;em&gt;agile&lt;/em&gt; sangat penting bagi kelangsungan organisasi dan pengembangan dari masing-masing individu.&lt;/p&gt;
+      <id>http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks/">&lt;p&gt;Kata ‘&lt;em&gt;Agile&lt;/em&gt;’, ‘&lt;em&gt;Scrum&lt;/em&gt;’, saat ini memang sedang menjadi pembicaraan yang &lt;em&gt;hot&lt;/em&gt;, banyak lowongan pekerjaan untuk menjadi &lt;em&gt;scrum master&lt;/em&gt;, Scrum/Agile dalam dunia development amat sangat membantu, untuk akselerasi project, dan juga koordinasi antar team, membangun kultur tim yang &lt;em&gt;agile&lt;/em&gt; sangat penting bagi kelangsungan organisasi dan pengembangan dari masing-masing individu.&lt;/p&gt;
 
 &lt;!-- more --&gt;
 &lt;p&gt;Di Jenius mengadopsi Scrum/Agile untuk proses &lt;em&gt;development&lt;/em&gt; dan bahkan untuk proses kreatif yang bisa dilihat di akun media sosial jenius, &lt;a href=&quot;https://twitter.com/jeniusConnect&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/jeniusconnect&quot;&gt;instagram&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/jeniusconnect&quot;&gt;facebook&lt;/a&gt;.&lt;/p&gt;
@@ -1151,11 +1234,11 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
       
       <title type="html">Jenius Engineering weekly #16</title>
       
-      <link href="http://localhost:4001/2017/09/26/jeniustech-newsletter-16/" rel="alternate" type="text/html" title="Jenius Engineering weekly #16" />
+      <link href="http://localhost:4000/2017/09/26/jeniustech-newsletter-16/" rel="alternate" type="text/html" title="Jenius Engineering weekly #16" />
       <published>2017-09-26T00:00:00+00:00</published>
       <updated>2017-09-26T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/09/26/jeniustech-newsletter-16</id>
-      <content type="html" xml:base="http://localhost:4001/2017/09/26/jeniustech-newsletter-16/">&lt;p&gt;Welcome to Jenius Engineering newsletter #16, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2017/09/26/jeniustech-newsletter-16</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/26/jeniustech-newsletter-16/">&lt;p&gt;Welcome to Jenius Engineering newsletter #16, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here are few reading list and news that we read over the week.&lt;/p&gt;
 
@@ -1225,11 +1308,11 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
       
       <title type="html">Jenius Engineering weekly #15</title>
       
-      <link href="http://localhost:4001/2017/09/19/jeniustech-newsletter-15/" rel="alternate" type="text/html" title="Jenius Engineering weekly #15" />
+      <link href="http://localhost:4000/2017/09/19/jeniustech-newsletter-15/" rel="alternate" type="text/html" title="Jenius Engineering weekly #15" />
       <published>2017-09-19T00:00:00+00:00</published>
       <updated>2017-09-19T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/09/19/jeniustech-newsletter-15</id>
-      <content type="html" xml:base="http://localhost:4001/2017/09/19/jeniustech-newsletter-15/">&lt;p&gt;Welcome to Jenius Engineering newsletter #15, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2017/09/19/jeniustech-newsletter-15</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/19/jeniustech-newsletter-15/">&lt;p&gt;Welcome to Jenius Engineering newsletter #15, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here are couple Jenius Engineering team read this whole week, and this week we have ‘kejepit’ day&lt;/p&gt;
 
@@ -1297,11 +1380,11 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
       
       <title type="html">Jenius Engineering weekly #14</title>
       
-      <link href="http://localhost:4001/2017/09/12/jeniustech-newsletter-14/" rel="alternate" type="text/html" title="Jenius Engineering weekly #14" />
+      <link href="http://localhost:4000/2017/09/12/jeniustech-newsletter-14/" rel="alternate" type="text/html" title="Jenius Engineering weekly #14" />
       <published>2017-09-12T00:00:00+00:00</published>
       <updated>2017-09-12T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/09/12/jeniustech-newsletter-14</id>
-      <content type="html" xml:base="http://localhost:4001/2017/09/12/jeniustech-newsletter-14/">&lt;p&gt;Welcome to Jenius Engineering newsletter #14, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2017/09/12/jeniustech-newsletter-14</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/12/jeniustech-newsletter-14/">&lt;p&gt;Welcome to Jenius Engineering newsletter #14, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -1363,11 +1446,11 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
       
       <title type="html">Jenius X ID-Ruby meetup</title>
       
-      <link href="http://localhost:4001/2017/09/07/idruby-jenius-meetup/" rel="alternate" type="text/html" title="Jenius X ID-Ruby meetup" />
+      <link href="http://localhost:4000/2017/09/07/idruby-jenius-meetup/" rel="alternate" type="text/html" title="Jenius X ID-Ruby meetup" />
       <published>2017-09-07T00:00:00+00:00</published>
       <updated>2017-09-07T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/09/07/idruby-jenius-meetup</id>
-      <content type="html" xml:base="http://localhost:4001/2017/09/07/idruby-jenius-meetup/">&lt;p&gt;&lt;a href=&quot;/images/posts/idruby/idruby.jpg&quot;&gt;&lt;img src=&quot;/images/posts/idruby/idruby0.jpg&quot; alt=&quot;id ruby&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <id>http://localhost:4000/2017/09/07/idruby-jenius-meetup</id>
+      <content type="html" xml:base="http://localhost:4000/2017/09/07/idruby-jenius-meetup/">&lt;p&gt;&lt;a href=&quot;/images/posts/idruby/idruby.jpg&quot;&gt;&lt;img src=&quot;/images/posts/idruby/idruby0.jpg&quot; alt=&quot;id ruby&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Jenius kembali mengadakan Meetup dengan komunitas developer, kali ini dengan &lt;a href=&quot;http://ruby.id&quot;&gt;komunitas Ruby&lt;/a&gt;, dengan materi :
 &lt;!-- more --&gt;&lt;/p&gt;
@@ -1408,75 +1491,6 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
 
       
         <summary type="html">Jenius kembali mengadakan Meetup dengan komunitas developer, kali ini dengan komunitas Ruby, dengan materi :</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #13</title>
-      
-      <link href="http://localhost:4001/2017/09/05/jeniustech-newsletter-13/" rel="alternate" type="text/html" title="Jenius Engineering weekly #13" />
-      <published>2017-09-05T00:00:00+00:00</published>
-      <updated>2017-09-05T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/09/05/jeniustech-newsletter-13</id>
-      <content type="html" xml:base="http://localhost:4001/2017/09/05/jeniustech-newsletter-13/">&lt;p&gt;Welcome to Jenius Engineering newsletter #13, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.discordapp.com/how-discord-indexes-billions-of-messages-e3d5e9be866f&quot;&gt;How Discord Indexes Billions of Messages&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/270314900139291/rapid-release-at-massive-scale/&quot;&gt;Rapid release at massive scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/microservices-in-practice/microservices-in-practice-7a3e85b6624c&quot;&gt;Pragmatic Microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/comparing-elixir-go/&quot;&gt;Comparing Elixir and Go&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.jesse-anderson.com/2017/08/integration-testing-for-kafka/&quot;&gt;Integration Testing for Kafka&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://siliconangle.com/blog/2017/08/27/serverless-computing-functional-stateless-microservices/&quot;&gt;Serverless computing: It’s all about functional stateless microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kennethreitz/setup.py&quot;&gt;setup.py (for humans)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://joaorafaelm.github.io/blog/graphql-and-django-in-5-minutes&quot;&gt;GraphQL and Django in 5 minutes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://dtrace.org/blogs/bmc/2017/09/04/the-sudden-death-and-eternal-life-of-solaris/&quot;&gt;The sudden death and eternal life of Solaris&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://snowtechstuff.com/confirmed-slow-internet-se-asia-countries-due-to-broken-undersea-cables/&quot;&gt;CONFIRMED: Slow internet in most SE Asia countries due to broken undersea cables&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Tools&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zalandoresearch/fashion-mnist&quot;&gt;Fashion-MNIST&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #13, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list How Discord Indexes Billions of Messages Rapid release at massive scale Pragmatic Microservices Comparing Elixir and Go Integration Testing for Kafka Serverless computing: It’s all about functional stateless microservices setup.py (for humans) GraphQL and Django in 5 minutes News The sudden death and eternal life of Solaris CONFIRMED: Slow internet in most SE Asia countries due to broken undersea cables Tools Fashion-MNIST These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
