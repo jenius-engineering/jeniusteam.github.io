@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenius Engineer: Feizal Bari Asmoro"
+title: "Jenius Engineer: Feizal Badri Asmoro"
 author: "dedenf"
 tags:
     - "jenius engineer"

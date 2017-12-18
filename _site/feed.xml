@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-12-18T08:14:15+00:00</updated>
+  <updated>2017-12-18T09:11:16+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -28,9 +28,9 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer: Feizal Bari Asmoro</title>
+      <title type="html">Jenius Engineer: Feizal Badri Asmoro</title>
       
-      <link href="http://localhost:4000/2017/12/18/jenius-engineer-feizal/" rel="alternate" type="text/html" title="Jenius Engineer: Feizal Bari Asmoro" />
+      <link href="http://localhost:4000/2017/12/18/jenius-engineer-feizal/" rel="alternate" type="text/html" title="Jenius Engineer: Feizal Badri Asmoro" />
       <published>2017-12-18T00:00:00+00:00</published>
       <updated>2017-12-18T00:00:00+00:00</updated>
       <id>http://localhost:4000/2017/12/18/jenius-engineer-feizal</id>
