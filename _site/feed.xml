@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-12-12T07:44:55+00:00</updated>
+  <updated>2017-12-18T07:58:49+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,85 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer: Feizal Bari Asmoro</title>
+      
+      <link href="http://localhost:4000/2017/12/13/jenius-engineer-feizal/" rel="alternate" type="text/html" title="Jenius Engineer: Feizal Bari Asmoro" />
+      <published>2017-12-13T00:00:00+00:00</published>
+      <updated>2017-12-13T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/12/13/jenius-engineer-feizal</id>
+      <content type="html" xml:base="http://localhost:4000/2017/12/13/jenius-engineer-feizal/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/feizal.jpg&quot; alt=&quot;Feizal Badri Asmoro&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
+&lt;p&gt;Saya Feizal Badri Asmoro, software engineer yang bertanggung jawab atas frontend development untuk aplikasi dan website &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt;. Mengawali karir sebagai iOS dan android mobile application developer. Namun belakangan ini banyak menghabiskan waktu untuk mempelajari &lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;React Native&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sebagai seseorang yang mengawali karir sebagai native app developer dan sekarang bekerja dengan menggunakan React Native framework, I would love to recommend you to use React Native. React native is a very cool framework! Worth to try guys.&lt;/p&gt;
+
+&lt;p&gt;beberapa alasan kenapa Jenius tempat yang tepat untuk berkarya menurut saya adalah&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Reinvent bank industry is a very challenging and interesting job!&lt;/li&gt;
+  &lt;li&gt;Kesempatan untuk bekerja sama dengan banyak orang dari berbagai negara&lt;/li&gt;
+  &lt;li&gt;Good working environment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
+&lt;p&gt;Hardware yang digunakan untuk &lt;em&gt;development&lt;/em&gt; adalah - &lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;Mackbook Pro 13”&lt;/a&gt; mid 2016.&lt;/p&gt;
+
+&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
+&lt;h4&gt;Desktop&lt;/h4&gt;
+&lt;p&gt;Bahasa pemrograman yang saya sukai &lt;a href=&quot;https://developer.apple.com/swift/&quot;&gt;Swift&lt;/a&gt;, &lt;a href=&quot;https://developer.apple.com/documentation/objectivec&quot;&gt;objective-c&lt;/a&gt;, java, javascript dan python. Software atau tools yang selalu saya pakai sehari hari adalah &lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot;&gt;WebStorm&lt;/a&gt;, &lt;a href=&quot;https://developer.apple.com/xcode/&quot;&gt;Xcode&lt;/a&gt;, dan &lt;a href=&quot;https://developer.android.com/studio/index.html&quot;&gt;Android Studio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Mobile&lt;/h4&gt;
+&lt;p&gt;Favorite apps adalah &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt;, &lt;a href=&quot;https://spotify.com&quot;&gt;Spotify&lt;/a&gt; dan &lt;a href=&quot;https://netflix.com&quot;&gt;Netflix&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
+&lt;p&gt;Selalu menjaga agar tas tidak berat, tidak membawa banyak barang, barang yang selalu dibawa adalah &lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;Mackbook Pro 13”&lt;/a&gt;, Android phone dan chargers.&lt;/p&gt;
+
+&lt;h3&gt;Homescreen&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/feizal-hs.jpg&quot; alt=&quot;marchell homescreen&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt; dan orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="backstage" />
+      
+
+      
+        <category term="jenius engineer" />
+      
+        <category term="backstage" />
+      
+
+      
+        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Feizal Badri Asmoro, software engineer yang bertanggung jawab atas frontend development untuk aplikasi dan website Jenius. Mengawali karir sebagai iOS dan android mobile application developer. Namun belakangan ini banyak menghabiskan waktu untuk mempelajari React Native. Sebagai seseorang yang mengawali karir sebagai native app developer dan sekarang bekerja dengan menggunakan React Native framework, I would love to recommend you to use React Native. React native is a very cool framework! Worth to try guys. beberapa alasan kenapa Jenius tempat yang tepat untuk berkarya menurut saya adalah Reinvent bank industry is a very challenging and interesting job! Kesempatan untuk bekerja sama dengan banyak orang dari berbagai negara Good working environment</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1434,63 +1513,6 @@ A script to easily create and destroy an Apache Cassandra cluster on localhost&l
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #14, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Run your own Oauth2 server Keep Calm and Carry On - Scaling Your Org with Microservices Polymer 3.0 Preview — Building a mini card game</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius X ID-Ruby meetup</title>
-      
-      <link href="http://localhost:4000/2017/09/07/idruby-jenius-meetup/" rel="alternate" type="text/html" title="Jenius X ID-Ruby meetup" />
-      <published>2017-09-07T00:00:00+00:00</published>
-      <updated>2017-09-07T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/09/07/idruby-jenius-meetup</id>
-      <content type="html" xml:base="http://localhost:4000/2017/09/07/idruby-jenius-meetup/">&lt;p&gt;&lt;a href=&quot;/images/posts/idruby/idruby.jpg&quot;&gt;&lt;img src=&quot;/images/posts/idruby/idruby0.jpg&quot; alt=&quot;id ruby&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jenius kembali mengadakan Meetup dengan komunitas developer, kali ini dengan &lt;a href=&quot;http://ruby.id&quot;&gt;komunitas Ruby&lt;/a&gt;, dengan materi :
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;_Vim for Rubyist_&lt;/em&gt; yang dibawakan oleh Agung Setiawan&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;_How to give good meetup/conference talks_&lt;/em&gt; yang dibawakan oleh Abdullah&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Komunitas ID-Ruby akan mengadakan Rubyconf pertama di indonesia.&lt;/p&gt;
-
-&lt;p&gt;Jenius sebagai &lt;em&gt;technology company&lt;/em&gt; sangat antusias dengan acara &lt;em&gt;sharing&lt;/em&gt;, &lt;em&gt;meetup&lt;/em&gt; yang memang bagian dari &lt;em&gt;culture&lt;/em&gt; di jenius, yaitu &lt;em&gt;Continuous Learning&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;PS&lt;/em&gt;, kalo ada yang tertarik mengadakan event di Jenius, silakan kontak di deden@jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="meetup" />
-      
-
-      
-        <category term="meetup" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Jenius kembali mengadakan Meetup dengan komunitas developer, kali ini dengan komunitas Ruby, dengan materi :</summary>
       
 
       
