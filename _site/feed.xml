@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2017-12-19T09:56:58+00:00</updated>
+  <updated>2017-12-19T10:04:17+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -34,7 +34,7 @@
       <published>2017-12-19T00:00:00+00:00</published>
       <updated>2017-12-19T00:00:00+00:00</updated>
       <id>http://localhost:4000/2017/12/19/jeniustech-newsletter-25</id>
-      <content type="html" xml:base="http://localhost:4000/2017/12/19/jeniustech-newsletter-25/">&lt;p&gt;Welcome to Jenius Engineering newsletter #24, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/2017/12/19/jeniustech-newsletter-25/">&lt;p&gt;Welcome to Jenius Engineering newsletter #25, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading List&lt;/h4&gt;
 &lt;ul&gt;
@@ -90,7 +90,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #24, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading List Improving my productivity using Pomodoro: takeaways after 2 years of practice Finally understand Redux by building your own Store REST is the new SOAP What ORMs have taught me: just learn SQL The Amazon machine Downtime is important for business professionals and this is why. The Joel Test: 12 Steps to Better Code Getting Started with Metrics in Rails Modern Front-end in Rails The state of Javascript 2017 How Is React Different from Vue? News JRuby 9.1.15.0 Released Tools IntelliSense hint feature for GitHub Nexus.js: A multi-threaded JavaScript run-time Vue.js Inspector for Mobile Devices These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #25, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading List Improving my productivity using Pomodoro: takeaways after 2 years of practice Finally understand Redux by building your own Store REST is the new SOAP What ORMs have taught me: just learn SQL The Amazon machine Downtime is important for business professionals and this is why. The Joel Test: 12 Steps to Better Code Getting Started with Metrics in Rails Modern Front-end in Rails The state of Javascript 2017 How Is React Different from Vue? News JRuby 9.1.15.0 Released Tools IntelliSense hint feature for GitHub Nexus.js: A multi-threaded JavaScript run-time Vue.js Inspector for Mobile Devices These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
