@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-01-02T04:31:01+00:00</updated>
+  <updated>2018-01-04T10:37:47+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,65 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Tech Year In Review</title>
+      
+      <link href="http://localhost:4000/2018/01/04/jeniustech-year-in-review/" rel="alternate" type="text/html" title="Jenius Tech Year In Review" />
+      <published>2018-01-04T00:00:00+00:00</published>
+      <updated>2018-01-04T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/01/04/jeniustech-year-in-review</id>
+      <content type="html" xml:base="http://localhost:4000/2018/01/04/jeniustech-year-in-review/">&lt;p&gt;Jenius sebagai perusahaan berbasiskan teknologi, tidak lepas dari proses pengembangan &lt;em&gt;software&lt;/em&gt; yang dibangun dan digunakan di &lt;em&gt;internal&lt;/em&gt; Jenius, dari mulai &lt;em&gt;frontend&lt;/em&gt;, &lt;em&gt;backend&lt;/em&gt; hingga proses design yang digunakan.&lt;/p&gt;
+
+&lt;p&gt;Sepanjang tahun 2017, Jenius selalu melakukan iterasi produk, baik dari sisi fitur, maupun perbaikan-perbaikan yang dirasa penting untuk kenyamanan pengguna nasabah Jenius. Sepajang tahun 2017 juga kita mengumpulkan beberapa statistik &lt;em&gt;development&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;untuk Jenius mobile app Engineer &lt;strong&gt;31&lt;/strong&gt; developer untuk pengembangan aplikasi &lt;strong&gt;iOS&lt;/strong&gt;, &lt;strong&gt;Android&lt;/strong&gt; dan backend &lt;em&gt;system&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Android Total commit : &lt;strong&gt;7798&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4&gt;iOS Total commit : &lt;strong&gt;6660&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Microservice&lt;/em&gt; berjumlah &lt;strong&gt;24&lt;/strong&gt; dengan total commit &lt;strong&gt;12000&lt;/strong&gt;, &lt;em&gt;Microservice&lt;/em&gt; yang bertugas untuk melayani &lt;em&gt;request&lt;/em&gt; dan fungsi yang berbeda, dari mulai melayani manajemen user, informasi transaksi, berkomunikasi dengan &lt;em&gt;corebanking&lt;/em&gt;, berkomunikasi dengan pihak luar seperti &lt;em&gt;sms provider&lt;/em&gt; atau &lt;em&gt;email provider&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dan blog ini sejak April 2017 diluncurkan sudah menulis sekitar &lt;strong&gt;43&lt;/strong&gt; Artikel.&lt;/p&gt;
+
+&lt;p&gt;Di 2018 ini banyak pengembangan baik dari sisi frontend maupun backend, dengan modularisasi dan komunikasi data yang kita &lt;em&gt;revamp&lt;/em&gt; untuk efisiensi dan penambahan dari hasil &lt;em&gt;feedback&lt;/em&gt; dengan pengguna Jenius.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="post" />
+      
+
+      
+        <category term="jenius" />
+      
+        <category term="tech" />
+      
+        <category term="advance" />
+      
+
+      
+        <summary type="html">Jenius sebagai perusahaan berbasiskan teknologi, tidak lepas dari proses pengembangan software yang dibangun dan digunakan di internal Jenius, dari mulai frontend, backend hingga proses design yang digunakan. Sepanjang tahun 2017, Jenius selalu melakukan iterasi produk, baik dari sisi fitur, maupun perbaikan-perbaikan yang dirasa penting untuk kenyamanan pengguna nasabah Jenius. Sepajang tahun 2017 juga kita mengumpulkan beberapa statistik development untuk Jenius mobile app Engineer 31 developer untuk pengembangan aplikasi iOS, Android dan backend system. Android Total commit : 7798 iOS Total commit : 6660 Microservice berjumlah 24 dengan total commit 12000, Microservice yang bertugas untuk melayani request dan fungsi yang berbeda, dari mulai melayani manajemen user, informasi transaksi, berkomunikasi dengan corebanking, berkomunikasi dengan pihak luar seperti sms provider atau email provider. Dan blog ini sejak April 2017 diluncurkan sudah menulis sekitar 43 Artikel. Di 2018 ini banyak pengembangan baik dari sisi frontend maupun backend, dengan modularisasi dan komunikasi data yang kita revamp untuk efisiensi dan penambahan dari hasil feedback dengan pengguna Jenius.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -56,7 +115,7 @@
 &lt;h4&gt;news&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.theregister.co.uk/2017/12/21/ubuntu_lenovo_bios/?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Ubuntu 17.10 PULLED: Linux OS knackers laptop BIOSes, Intel kernel driver fingered&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.elastic.co/blog/elasticsearch-6-0-0-released&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.elastic.co/blog/elasticsearch-6-1-0-released&quot;&gt;Elasticsearch 6.1.0 released&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;tools&lt;/h4&gt;
@@ -94,7 +153,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #26, this newsletter published every tuesday-ish. please subscribe to our newsletter. First of all Happy new year!, may we reach our goals and everything that we planned come true. reading list Node.js as Backend: Best Use Cases, Tools &amp;amp; Limitations Ten Things A Serious JavaScript Developer Should Learn Minecraft From Bootstrap to CSS Grid How to visualize distributions Numerai walkthrough: Quantitative Analysis &amp;amp; Machine learning for fun and profit Kafka or RabbitMQ: depends on your messages nature Building a fast track for software development teams You must move from Product Information Management to Product Information Intelligence A Study on Email Marketing Copy-on-write friendly Python garbage collection news Ubuntu 17.10 PULLED: Linux OS knackers laptop BIOSes, Intel kernel driver fingered tools Element ready – Detect when an element is ready in the DOM Vuetify – Material Component Framework Awesome Ruby – list of awesome Ruby libraries Rails Panel – Chrome extension for Rails development These articles curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #26, this newsletter published every tuesday-ish. please subscribe to our newsletter. First of all Happy new year!, may we reach our goals and everything that we planned come true. reading list Node.js as Backend: Best Use Cases, Tools &amp;amp; Limitations Ten Things A Serious JavaScript Developer Should Learn Minecraft From Bootstrap to CSS Grid How to visualize distributions Numerai walkthrough: Quantitative Analysis &amp;amp; Machine learning for fun and profit Kafka or RabbitMQ: depends on your messages nature Building a fast track for software development teams You must move from Product Information Management to Product Information Intelligence A Study on Email Marketing Copy-on-write friendly Python garbage collection news Ubuntu 17.10 PULLED: Linux OS knackers laptop BIOSes, Intel kernel driver fingered Elasticsearch 6.1.0 released tools Element ready – Detect when an element is ready in the DOM Vuetify – Material Component Framework Awesome Ruby – list of awesome Ruby libraries Rails Panel – Chrome extension for Rails development These articles curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
@@ -1451,80 +1510,6 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
 
       
         <summary type="html">Kata ‘Agile’, ‘Scrum’, saat ini memang sedang menjadi pembicaraan yang hot, banyak lowongan pekerjaan untuk menjadi scrum master, Scrum/Agile dalam dunia development amat sangat membantu, untuk akselerasi project, dan juga koordinasi antar team, membangun kultur tim yang agile sangat penting bagi kelangsungan organisasi dan pengembangan dari masing-masing individu.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #16</title>
-      
-      <link href="http://localhost:4000/2017/09/26/jeniustech-newsletter-16/" rel="alternate" type="text/html" title="Jenius Engineering weekly #16" />
-      <published>2017-09-26T00:00:00+00:00</published>
-      <updated>2017-09-26T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/09/26/jeniustech-newsletter-16</id>
-      <content type="html" xml:base="http://localhost:4000/2017/09/26/jeniustech-newsletter-16/">&lt;p&gt;Welcome to Jenius Engineering newsletter #16, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here are few reading list and news that we read over the week.&lt;/p&gt;
-
-&lt;h4&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/front-end-hacking/redux-for-lazy-people-2315cec79ae2&quot;&gt;Remodule — Redux for Lazy People&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/javascript/choosing-best-front-end-framework&quot;&gt;How to Choose the Best Front-end Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/software/creating-modular-code-with-no-dependencies&quot;&gt;Creating Truly Modular Code with No Dependencies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackoverflow.blog/2017/09/14/python-growing-quickly/&quot;&gt;Why is Python Growing So Quickly?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://circleci.com/blog/write-less-code-use-more-tools/&quot;&gt;Write Less Code, Use More Tools&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/7-helpful-http-tools/&quot;&gt;7 Helpful HTTP Tools&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/&quot;&gt;Publishing with Apache Kafka at The New York Times&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wiki.postgresql.org/wiki/New_in_postgres_10&quot;&gt;New in postgres 10&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://spuz.me/blog/zine/3Qu1F4x.html&quot;&gt;How Equifax got Hacked&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tools&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/renderedtext/render_async&quot;&gt;Render Async&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/marak/Faker.js/&quot;&gt;Fakerjs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/marcuswestin/store.js&quot;&gt;Storejs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&quot;&gt;Git Lens&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kennethreitz/pipenv&quot;&gt;Python Development Workflow for Humans&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #16, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are few reading list and news that we read over the week. Reading list Remodule — Redux for Lazy People How to Choose the Best Front-end Framework Creating Truly Modular Code with No Dependencies Why is Python Growing So Quickly? Write Less Code, Use More Tools 7 Helpful HTTP Tools Publishing with Apache Kafka at The New York Times News New in postgres 10 How Equifax got Hacked Tools Render Async Fakerjs Storejs Git Lens Python Development Workflow for Humans These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
