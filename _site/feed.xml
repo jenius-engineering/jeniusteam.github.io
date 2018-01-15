@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-01-04T10:37:47+00:00</updated>
+  <updated>2018-01-15T07:37:08+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,110 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Selfie Commit</title>
+      
+      <link href="http://localhost:4000/2018/01/11/hipster-commit/" rel="alternate" type="text/html" title="Selfie Commit" />
+      <published>2018-01-11T00:00:00+00:00</published>
+      <updated>2018-01-11T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/01/11/hipster-commit</id>
+      <content type="html" xml:base="http://localhost:4000/2018/01/11/hipster-commit/">&lt;p&gt;Sebagai &lt;em&gt;developer&lt;/em&gt; tentu sudah terbiasa dengan &lt;em&gt;Source Code Management&lt;/em&gt; seperti GIT, Mercurial, Bazaar, dan lainnya. pernah menggabungkan &lt;em&gt;Selfie&lt;/em&gt; atau swafoto berbarengan dengan dengan commit kode kita? di sini kita akan fokus dengan GIT sebagai &lt;em&gt;SCM&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Langkah-langkah yang ditulis dilakukan di komputer berbasis Mac, belum dicoba di Linux atau Windows.&lt;/p&gt;
+
+&lt;h4&gt;Kebutuhan&lt;/h4&gt;
+&lt;p&gt;Untuk menginstall paket-paket yang bisa dijalankan di &lt;em&gt;command line&lt;/em&gt; kita membutuhkan manajemen paket yang bernama &lt;a href=&quot;https://brew.sh/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;homebrew&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;install &lt;code class=&quot;highlighter-rouge&quot;&gt;brew&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Jalankan perintah ini&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ curl -fsS 'https://raw.githubusercontent.com/Homebrew/install/master/install' | ruby&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Perintah di atas akan menginstall beberapa &lt;em&gt;library&lt;/em&gt; tambahan untuk macOS.&lt;/p&gt;
+
+&lt;h4&gt;Install paket&lt;/h4&gt;
+&lt;p&gt;Setelah selesai proses instalasi &lt;code class=&quot;highlighter-rouge&quot;&gt;homebrew&lt;/code&gt; dilanjutkan dengan instalasi paket berikut &lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;$ brew install ffmpeg&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Opsional &lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;$ brew install imagemagick&lt;/code&gt;   &lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;$ brew install tlassemble&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Setelah selesai semua, &lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt; ke folder project GIT, lihat apakah ada file &lt;code class=&quot;highlighter-rouge&quot;&gt;post-commit&lt;/code&gt; di folder &lt;code class=&quot;highlighter-rouge&quot;&gt;.git/hooks/&lt;/code&gt;, kalo gak ada bisa ditambahkan melalui &lt;code class=&quot;highlighter-rouge&quot;&gt;$ vim .git/hooks/post-commit&lt;/code&gt;, tambahkan line berikut (jangan lupa &lt;code class=&quot;highlighter-rouge&quot;&gt;:set paste&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;i&lt;/code&gt;)&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;#!/bin/bash&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;### start post commit ###&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;command&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;ls&lt;/span&gt; .gitsnap &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;/dev/null&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;then
+  &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;printf&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;creating selfie folder...&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+  mkdir ~/.gitsnap
+&lt;span class=&quot;k&quot;&gt;fi
+
+&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;FILENAME&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;''&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;command&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt; git rev-parse HEAD  &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; /dev/null&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;then
+    &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;FILENAME&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;date +%Y-%m-%d-%H-%M-%s&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;_FIRST
+&lt;span class=&quot;k&quot;&gt;else
+    &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;FILENAME&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;date +%Y-%m-%d-%H-%M-%S&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;_&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;git rev-parse HEAD&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;fi&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;### take a selfie!&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;printf&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;📸  trying to take your awesome selfie..... 📸&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span class=&quot;nt&quot;&gt;-framerate&lt;/span&gt; 30 &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-vframes&lt;/span&gt; 1 ~/.gitsnap/&lt;span class=&quot;nv&quot;&gt;$FILENAME&lt;/span&gt;.jpg &lt;span class=&quot;nt&quot;&gt;-loglevel&lt;/span&gt; quiet &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; /dev/null
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Line di atas akan membuat folder &lt;code class=&quot;highlighter-rouge&quot;&gt;.gitsnap&lt;/code&gt; di &lt;code class=&quot;highlighter-rouge&quot;&gt;homedir&lt;/code&gt; (atau bisa manual membuat folder sendiri di &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; anda)&lt;/p&gt;
+
+&lt;h4&gt;Selfie!&lt;/h4&gt;
+&lt;p&gt;Dengan menambahkan line tersebut di &lt;code class=&quot;highlighter-rouge&quot;&gt;hooks post-commit&lt;/code&gt;, line tersebut akan dijalankan setiap kali melakukan &lt;code class=&quot;highlighter-rouge&quot;&gt;commit&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;push&lt;/code&gt; ke &lt;em&gt;repo&lt;/em&gt; git project, dan menyimpan foto &lt;em&gt;selfie&lt;/em&gt; di folder &lt;code class=&quot;highlighter-rouge&quot;&gt;.gitsnap&lt;/code&gt;, nama &lt;em&gt;file&lt;/em&gt; foto yang diambil dengan fortmat &lt;strong&gt;&lt;em&gt;TAN-GG-AL_commitid.jpg&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Untuk menyimpan selfie berdasarkan project, buat folder &lt;code class=&quot;highlighter-rouge&quot;&gt;.gitsnap&lt;/code&gt; di masing-masing folder project yang sedang ada kerjakan.&lt;/p&gt;
+
+&lt;h4&gt;Bonus&lt;/h4&gt;
+&lt;p&gt;Kita bisa membuat video dari file foto &lt;em&gt;selfie&lt;/em&gt; tersebut, kalau sudah banyak tentunya dengan perintah berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ tlassemble ~/.gitsnap commit_timelapse.mov -fps 30 -codec h264 -quality high&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Dengan ini akan tercipta &lt;em&gt;file&lt;/em&gt; .mov yang bisa dimainkan atau di-share ke media sosial.&lt;/p&gt;
+
+&lt;p&gt;!TODO: insert recording video, colek &lt;a href=&quot;/2017/10/18/engineer-marchell-immanuel/&quot;&gt;@marchell&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="post" />
+      
+
+      
+        <category term="jenius" />
+      
+        <category term="scm" />
+      
+        <category term="git" />
+      
+        <category term="commits" />
+      
+
+      
+        <summary type="html">Sebagai developer tentu sudah terbiasa dengan Source Code Management seperti GIT, Mercurial, Bazaar, dan lainnya. pernah menggabungkan Selfie atau swafoto berbarengan dengan dengan commit kode kita? di sini kita akan fokus dengan GIT sebagai SCM. Langkah-langkah yang ditulis dilakukan di komputer berbasis Mac, belum dicoba di Linux atau Windows. Kebutuhan Untuk menginstall paket-paket yang bisa dijalankan di command line kita membutuhkan manajemen paket yang bernama homebrew install brew Jalankan perintah ini $ curl -fsS 'https://raw.githubusercontent.com/Homebrew/install/master/install' | ruby Perintah di atas akan menginstall beberapa library tambahan untuk macOS. Install paket Setelah selesai proses instalasi homebrew dilanjutkan dengan instalasi paket berikut $ brew install ffmpeg Opsional $ brew install imagemagick $ brew install tlassemble Setelah selesai semua, cd ke folder project GIT, lihat apakah ada file post-commit di folder .git/hooks/, kalo gak ada bisa ditambahkan melalui $ vim .git/hooks/post-commit, tambahkan line berikut (jangan lupa :set paste + i) #!/bin/bash ### start post commit ### if ! command -v ls .gitsnap &amp;gt;/dev/null; then printf &quot;creating selfie folder...\n&quot; mkdir ~/.gitsnap fi FILENAME='' if command -v git rev-parse HEAD &amp;gt; /dev/null; then FILENAME=$(date +%Y-%m-%d-%H-%M-%s)_FIRST else FILENAME=$(date +%Y-%m-%d-%H-%M-%S)_$(git rev-parse HEAD) fi ### take a selfie! printf &quot;📸 trying to take your awesome selfie..... 📸\n&quot; ffmpeg -f avfoundation -framerate 30 -i &quot;0&quot; -vframes 1 ~/.gitsnap/$FILENAME.jpg -loglevel quiet &amp;gt;&amp;gt; /dev/null Line di atas akan membuat folder .gitsnap di homedir (atau bisa manual membuat folder sendiri di home anda) Selfie! Dengan menambahkan line tersebut di hooks post-commit, line tersebut akan dijalankan setiap kali melakukan commit dan push ke repo git project, dan menyimpan foto selfie di folder .gitsnap, nama file foto yang diambil dengan fortmat TAN-GG-AL_commitid.jpg. Untuk menyimpan selfie berdasarkan project, buat folder .gitsnap di masing-masing folder project yang sedang ada kerjakan. Bonus Kita bisa membuat video dari file foto selfie tersebut, kalau sudah banyak tentunya dengan perintah berikut $ tlassemble ~/.gitsnap commit_timelapse.mov -fps 30 -codec h264 -quality high Dengan ini akan tercipta file .mov yang bisa dimainkan atau di-share ke media sosial. !TODO: insert recording video, colek @marchell</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -47,7 +151,7 @@
 
 &lt;p&gt;Dan blog ini sejak April 2017 diluncurkan sudah menulis sekitar &lt;strong&gt;43&lt;/strong&gt; Artikel.&lt;/p&gt;
 
-&lt;p&gt;Di 2018 ini banyak pengembangan baik dari sisi frontend maupun backend, dengan modularisasi dan komunikasi data yang kita &lt;em&gt;revamp&lt;/em&gt; untuk efisiensi dan penambahan dari hasil &lt;em&gt;feedback&lt;/em&gt; dengan pengguna Jenius.&lt;/p&gt;</content>
+&lt;p&gt;Di 2018 ini banyak pengembangan baik dari sisi frontend maupun backend, dengan modularisasi dan komunikasi data yang kita &lt;em&gt;revamp&lt;/em&gt; untuk efisiensi dan penambahan fitur dari hasil &lt;em&gt;feedback&lt;/em&gt; dengan pengguna Jenius.&lt;/p&gt;</content>
 
       
       
@@ -76,7 +180,7 @@
       
 
       
-        <summary type="html">Jenius sebagai perusahaan berbasiskan teknologi, tidak lepas dari proses pengembangan software yang dibangun dan digunakan di internal Jenius, dari mulai frontend, backend hingga proses design yang digunakan. Sepanjang tahun 2017, Jenius selalu melakukan iterasi produk, baik dari sisi fitur, maupun perbaikan-perbaikan yang dirasa penting untuk kenyamanan pengguna nasabah Jenius. Sepajang tahun 2017 juga kita mengumpulkan beberapa statistik development untuk Jenius mobile app Engineer 31 developer untuk pengembangan aplikasi iOS, Android dan backend system. Android Total commit : 7798 iOS Total commit : 6660 Microservice berjumlah 24 dengan total commit 12000, Microservice yang bertugas untuk melayani request dan fungsi yang berbeda, dari mulai melayani manajemen user, informasi transaksi, berkomunikasi dengan corebanking, berkomunikasi dengan pihak luar seperti sms provider atau email provider. Dan blog ini sejak April 2017 diluncurkan sudah menulis sekitar 43 Artikel. Di 2018 ini banyak pengembangan baik dari sisi frontend maupun backend, dengan modularisasi dan komunikasi data yang kita revamp untuk efisiensi dan penambahan dari hasil feedback dengan pengguna Jenius.</summary>
+        <summary type="html">Jenius sebagai perusahaan berbasiskan teknologi, tidak lepas dari proses pengembangan software yang dibangun dan digunakan di internal Jenius, dari mulai frontend, backend hingga proses design yang digunakan. Sepanjang tahun 2017, Jenius selalu melakukan iterasi produk, baik dari sisi fitur, maupun perbaikan-perbaikan yang dirasa penting untuk kenyamanan pengguna nasabah Jenius. Sepajang tahun 2017 juga kita mengumpulkan beberapa statistik development untuk Jenius mobile app Engineer 31 developer untuk pengembangan aplikasi iOS, Android dan backend system. Android Total commit : 7798 iOS Total commit : 6660 Microservice berjumlah 24 dengan total commit 12000, Microservice yang bertugas untuk melayani request dan fungsi yang berbeda, dari mulai melayani manajemen user, informasi transaksi, berkomunikasi dengan corebanking, berkomunikasi dengan pihak luar seperti sms provider atau email provider. Dan blog ini sejak April 2017 diluncurkan sudah menulis sekitar 43 Artikel. Di 2018 ini banyak pengembangan baik dari sisi frontend maupun backend, dengan modularisasi dan komunikasi data yang kita revamp untuk efisiensi dan penambahan fitur dari hasil feedback dengan pengguna Jenius.</summary>
       
 
       
@@ -1456,60 +1560,6 @@ Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #17, this newsletter published every tuesday-ish. please subscribe to our newsletter. couple reading list are docker related, we are in for containerization, it’s a lot of fun implementing it! Reading list Docker Healthchecks: Why Not To Use curl or iwr Tagging Docker images the right way Setting up an ELK Stack with Docker Docker Parameterized Builds Using Git Tags, Part 1 of 2 How the Concept to Clinic challenge uses Docker for reproducibility and orchestration Nginx+Flask+Postgres multi-container setup with Docker Compose 100+ Million members. 125+ Million hours watched per day. Hundreds of microservices. Hundreds of thousands of instances. Less than 10 Core SREs. Journey From Node To Crystal Tools Alacritty – A cross-platform, GPU-accelerated terminal emulator Micro - intuitive terminal-based text editor Vial - Simple http rest tool for vim These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius X Scrum Meetup</title>
-      
-      <link href="http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks/" rel="alternate" type="text/html" title="Jenius X Scrum Meetup" />
-      <published>2017-09-27T00:00:00+00:00</published>
-      <updated>2017-09-27T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks</id>
-      <content type="html" xml:base="http://localhost:4000/2017/09/27/jenius-scrum-why-your-scrum-master-sucks/">&lt;p&gt;Kata ‘&lt;em&gt;Agile&lt;/em&gt;’, ‘&lt;em&gt;Scrum&lt;/em&gt;’, saat ini memang sedang menjadi pembicaraan yang &lt;em&gt;hot&lt;/em&gt;, banyak lowongan pekerjaan untuk menjadi &lt;em&gt;scrum master&lt;/em&gt;, Scrum/Agile dalam dunia development amat sangat membantu, untuk akselerasi project, dan juga koordinasi antar team, membangun kultur tim yang &lt;em&gt;agile&lt;/em&gt; sangat penting bagi kelangsungan organisasi dan pengembangan dari masing-masing individu.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-&lt;p&gt;Di Jenius mengadopsi Scrum/Agile untuk proses &lt;em&gt;development&lt;/em&gt; dan bahkan untuk proses kreatif yang bisa dilihat di akun media sosial jenius, &lt;a href=&quot;https://twitter.com/jeniusConnect&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/jeniusconnect&quot;&gt;instagram&lt;/a&gt;, &lt;a href=&quot;https://facebook.com/jeniusconnect&quot;&gt;facebook&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;foto dari meetup&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/images/posts/scrum/IMG_4637.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/scrum/IMG_4640.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/scrum/IMG_4641.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="meetup" />
-      
-
-      
-        <category term="meetup" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Kata ‘Agile’, ‘Scrum’, saat ini memang sedang menjadi pembicaraan yang hot, banyak lowongan pekerjaan untuk menjadi scrum master, Scrum/Agile dalam dunia development amat sangat membantu, untuk akselerasi project, dan juga koordinasi antar team, membangun kultur tim yang agile sangat penting bagi kelangsungan organisasi dan pengembangan dari masing-masing individu.</summary>
       
 
       
