@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <generator uri="http://jekyllrb.com" version="3.6.2">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.7.0">Jekyll</generator>
   
   
   <link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4001/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-01-16T05:45:05+00:00</updated>
+  <updated>2018-01-23T06:11:29+00:00</updated>
   <id>http://localhost:4001//</id>
 
   
@@ -28,13 +28,89 @@
   
     <entry>
       
+      <title type="html">Jenius Engineering weekly #28</title>
+      
+      <link href="http://localhost:4001/2018/01/23/jeniustech-newsletter-28/" rel="alternate" type="text/html" title="Jenius Engineering weekly #28" />
+      <published>2018-01-23T00:00:00+00:00</published>
+      <updated>2018-01-23T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2018/01/23/jeniustech-newsletter-28</id>
+      <content type="html" xml:base="http://localhost:4001/2018/01/23/jeniustech-newsletter-28/">&lt;p&gt;Welcome to Jenius Engineering newsletter #28, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users&quot;&gt;Stream &amp;amp; Go: News Feeds for Over 300 Million End Users&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/what-really-happened-with-vista-an-insiders-retrospective-f713ee77c239&quot;&gt;What Really Happened with Vista: An Insider’s Retrospective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards&quot;&gt;Chrome is turning into the new Internet Explorer 6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/implications-tech-stack-complexity-executives&quot;&gt;Implications of Tech Stack Complexity for Executives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.agile-code.com/blog/refactoring-with-composed-method-pattern/&quot;&gt;Refactoring with Composed Method pattern&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/how-we-design-enterprise-software-916124fb73db&quot;&gt;How we design enterprise software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.scoutapp.com/articles/2018/01/17/tutorial-distributed-tracing-in-ruby-with-opentracing&quot;&gt;Tutorial: Distributed Tracing in Ruby with OpenTracing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/why-factories&quot;&gt;Why Factories?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/&quot;&gt;How do Ruby &amp;amp; Python profilers work?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.kontena.io/event-driven-microservices-with-rabbitmq-and-ruby/&quot;&gt;Event-Driven Microservices with RabbitMQ and Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@coorasse/the-ruby-2-5-0-feature-nobody-talks-about-38e6c4585fdd&quot;&gt;The Ruby 2.5.0 feature nobody talks about&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial&quot;&gt;Asynchronous JavaScript: From Callback Hell to Async and Await&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.javascriptjanuary.com/blog/building-your-first-node-app-using-docker&quot;&gt;Building Your First Node App Using Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring&quot;&gt;Paying Technical Debt - How To Rescue Legacy Code through Refactoring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nodejs/announcing-the-node-js-application-showcase-9fbaaa3e4824&quot;&gt;Announcing The Node.js Application Showcase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.4.0/&quot;&gt;Node v9.4.0 released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools &amp;amp; code&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.minimesos.org/&quot;&gt;Minimesos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plan.io/redmine-security-scanner/&quot;&gt;Redmine Security Scanner&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/lukeed/polka&quot;&gt;Polka – micro web server&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mongoosejs.com/&quot;&gt;Mongoose 5.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #28, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Stream &amp;amp; Go: News Feeds for Over 300 Million End Users What Really Happened with Vista: An Insider’s Retrospective Chrome is turning into the new Internet Explorer 6 Implications of Tech Stack Complexity for Executives Refactoring with Composed Method pattern How we design enterprise software Tutorial: Distributed Tracing in Ruby with OpenTracing Why Factories? How do Ruby &amp;amp; Python profilers work? Event-Driven Microservices with RabbitMQ and Ruby The Ruby 2.5.0 feature nobody talks about Asynchronous JavaScript: From Callback Hell to Async and Await Building Your First Node App Using Docker Paying Technical Debt - How To Rescue Legacy Code through Refactoring News Announcing The Node.js Application Showcase Node v9.4.0 released Tools &amp;amp; code Minimesos Redmine Security Scanner Polka – micro web server Mongoose 5.0</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Jenius Engineering weekly #27</title>
       
       <link href="http://localhost:4001/2018/01/16/jeniustech-newsletter-27/" rel="alternate" type="text/html" title="Jenius Engineering weekly #27" />
       <published>2018-01-16T00:00:00+00:00</published>
       <updated>2018-01-16T00:00:00+00:00</updated>
       <id>http://localhost:4001/2018/01/16/jeniustech-newsletter-27</id>
-      <content type="html" xml:base="http://localhost:4001/2018/01/16/jeniustech-newsletter-27/">&lt;p&gt;Welcome to Jenius Engineering newsletter #26, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4001/2018/01/16/jeniustech-newsletter-27/">&lt;p&gt;Welcome to Jenius Engineering newsletter #27, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -89,7 +165,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #26, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list O’Reilly Free ebooks Viewing migration SQL without running the migration Build Your First Vue.js Component SequelTools – Rake Tasks for Sequel Migrations and database management The Brutal Lifecycle of JavaScript Frameworks React, Redux and JavaScript Architecture New Package Moniker rules Node.js + face-recognition.js : Simple and Robust Face Recognition using Deep Learning Convert A Node.js RESTful API To Serverless With OpenWhisk PostgreSQL is the DBMS of the Year 2017 News Leaflet 1.3.0 released Ruby 2.5.0 released Nodejs v9.4.0 released Tools PostGraphile – Instant GraphQL API for PostgreSQL database Speedometer 2.0 Sweet Alert</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #27, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list O’Reilly Free ebooks Viewing migration SQL without running the migration Build Your First Vue.js Component SequelTools – Rake Tasks for Sequel Migrations and database management The Brutal Lifecycle of JavaScript Frameworks React, Redux and JavaScript Architecture New Package Moniker rules Node.js + face-recognition.js : Simple and Robust Face Recognition using Deep Learning Convert A Node.js RESTful API To Serverless With OpenWhisk PostgreSQL is the DBMS of the Year 2017 News Leaflet 1.3.0 released Ruby 2.5.0 released Nodejs v9.4.0 released Tools PostGraphile – Instant GraphQL API for PostgreSQL database Speedometer 2.0 Sweet Alert</summary>
       
 
       
@@ -135,14 +211,14 @@
 &lt;span class=&quot;c&quot;&gt;### start post commit ###&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;command&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;ls&lt;/span&gt; .gitsnap &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;/dev/null&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;then
   &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;printf&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;creating selfie folder...&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-  mkdir ~/.gitsnap
+  &lt;span class=&quot;nb&quot;&gt;mkdir&lt;/span&gt; ~/.gitsnap
 &lt;span class=&quot;k&quot;&gt;fi
 
 &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;FILENAME&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;''&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;command&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt; git rev-parse HEAD  &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; /dev/null&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;then
-    &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;FILENAME&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;date +%Y-%m-%d-%H-%M-%s&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;_FIRST
+    &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;FILENAME&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt; +%Y-%m-%d-%H-%M-%s&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;_FIRST
 &lt;span class=&quot;k&quot;&gt;else
-    &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;FILENAME&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;date +%Y-%m-%d-%H-%M-%S&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;_&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;git rev-parse HEAD&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;
+    &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;FILENAME&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt; +%Y-%m-%d-%H-%M-%S&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;_&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;git rev-parse HEAD&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;fi&lt;/span&gt;
 &lt;span class=&quot;c&quot;&gt;### take a selfie!&lt;/span&gt;
 &lt;span class=&quot;nb&quot;&gt;printf&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;📸  trying to take your awesome selfie..... 📸&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
@@ -1504,66 +1580,6 @@ here are couple reading list that Jenius tech team currently digging&lt;/p&gt;
 
       
         <summary type="html">Apa itu Paypal? Paypal merupakan salah satu online payment terbesar, yang melayani payment processor untuk produk-produk online seperti ecommerce. Kelebihan Paypal yang sering orang gunakan adalah proteksi terhadap fraud-fraud yang mungkin ada di dunia digital. Jenius sebagai penyedia layanan teknologi finansial, mendukung pembayaran dengan menggunakan Paypal melalui Visa debit yang dimiliki Jenius. Kita dapat dengan mudah menghubungkan Jenius dengan akun Paypal yang dimiliki, simak cara menghubungkan akun Jenius dan akun Paypal</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius X Product Tank Jakarta Meetup</title>
-      
-      <link href="http://localhost:4001/2017/10/03/product-tank-x-jenius-meetup/" rel="alternate" type="text/html" title="Jenius X Product Tank Jakarta Meetup" />
-      <published>2017-10-03T00:00:00+00:00</published>
-      <updated>2017-10-03T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/10/03/product-tank-x-jenius-meetup</id>
-      <content type="html" xml:base="http://localhost:4001/2017/10/03/product-tank-x-jenius-meetup/">&lt;p&gt;&lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; sebagai produk &lt;em&gt;digital banking&lt;/em&gt; dari BTPN tentu saja tidak lahir dengan sendirinya, ada banyak proses yang dilakukan sebelum akhirnya diluncurkan, dari &lt;em&gt;research&lt;/em&gt;, &lt;em&gt;design&lt;/em&gt;, arsitektur sistem, semua itu bagian dari proses pembuatan produk, kompleks, menyenangkan. di dalam &lt;em&gt;framework&lt;/em&gt; scrum/agile, dikenal &lt;em&gt;role&lt;/em&gt; yang bernama &lt;em&gt;Product Owner&lt;/em&gt;, &lt;em&gt;role&lt;/em&gt; dari PO ini adalah mendefinisikan produk yang akan dibagun, baik dari product yang sudah ada kemudian dikembangkan, atau yang belum ada sebelumnya.&lt;/p&gt;
-
-&lt;p&gt;Jenius mengadopsi Scrum/Agile dalam pembuatan produk, dan acara meetup dengan komunitas &lt;a href=&quot;http://www.producttank.com&quot;&gt;Product Tank&lt;/a&gt; jakarta merupakan salah satu bentuk komitmen Jenius yang lebih &lt;em&gt;agile&lt;/em&gt;, transparan. dan di acara ini merupakan ajang berkumpulnya &lt;em&gt;Product Managers&lt;/em&gt; untuk saling bertukar pikiran dan juga saling belajar dari pengalaman masing-masing, banyak juga peserta dari perusahaan-perusahaan rintisan. 
-&lt;!-- more --&gt;
-Topik yang diambil pada &lt;em&gt;meetup&lt;/em&gt; ini adalah &lt;strong&gt;“What makes a great product manager: Communication”&lt;/strong&gt;, di acara ini yang menjadi narasumber adalah Artanto Ishaam, Senior Scrum master &lt;a href=&quot;https://www.happyfresh.id/&quot;&gt;HappyFresh&lt;/a&gt; dan Tri Nugraha, &lt;em&gt;Product Owner&lt;/em&gt; &lt;a href=&quot;https://www.tokopedia.com/&quot;&gt;Tokopedia&lt;/a&gt;, beberapa hal yang dibahas di meetup ini adalah&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;How tokopedia structure the organization&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;How the team and the management communicate company’s vision &amp;amp; mission&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;How to communicate with: Product Owners, Designers, Engineers, Business &amp;amp; other teams&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Communication techniques and tools&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4&gt;foto dari event&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;/images/posts/product-tank/prodtank.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/product-tank/prodtank.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/images/posts/product-tank/prodtank2.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/product-tank/prodtank2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="meetup" />
-      
-
-      
-        <category term="meetup" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Jenius sebagai produk digital banking dari BTPN tentu saja tidak lahir dengan sendirinya, ada banyak proses yang dilakukan sebelum akhirnya diluncurkan, dari research, design, arsitektur sistem, semua itu bagian dari proses pembuatan produk, kompleks, menyenangkan. di dalam framework scrum/agile, dikenal role yang bernama Product Owner, role dari PO ini adalah mendefinisikan produk yang akan dibagun, baik dari product yang sudah ada kemudian dikembangkan, atau yang belum ada sebelumnya. Jenius mengadopsi Scrum/Agile dalam pembuatan produk, dan acara meetup dengan komunitas Product Tank jakarta merupakan salah satu bentuk komitmen Jenius yang lebih agile, transparan. dan di acara ini merupakan ajang berkumpulnya Product Managers untuk saling bertukar pikiran dan juga saling belajar dari pengalaman masing-masing, banyak juga peserta dari perusahaan-perusahaan rintisan.</summary>
       
 
       
