@@ -11,7 +11,7 @@ categories:
 published: true
 ---
 
-Welcome to Jenius Engineering newsletter #26, this newsletter published every tuesday-*ish*. please subscribe to our [newsletter](http://jenius.tech/newsletter).
+Welcome to Jenius Engineering newsletter #27, this newsletter published every tuesday-*ish*. please subscribe to our [newsletter](http://jenius.tech/newsletter).
 
 #### Reading list
 - [O’Reilly Free ebooks](http://www.oreilly.com/free/reports.html)
