@@ -40,3 +40,5 @@ Welcome to Jenius Engineering newsletter #28, this newsletter published every tu
 - [Redmine Security Scanner](https://plan.io/redmine-security-scanner/)
 - [Polka -- micro web server](https://github.com/lukeed/polka)
 - [Mongoose 5.0](http://mongoosejs.com/)
+
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com 
