@@ -8,13 +8,14 @@ tags:
 
 categories: 
     - post
-    
+image: /images/posts/tmux.png
 published: true
 ---
 
 Sering menggunakan banyak window atau tab? misalkan membuka `vim`, `ssh` ke server, koneksi ke database server, `docker` di tab yang lain, dan akhirnya akan banyak tab atau _window_ yang dibuka. di Jenius khususnya dan sebagai developer pada umumnya, hal ini pasti terjadi hampir setiap hari.
 
-Agar tidak perlu mengatur banyak window atau tab, hal ini bisa diatur oleh `tmux` atau Terminal Multiplexter, sebuah *command line tool* yang berguna diantaranya untuk. 
+Agar tidak perlu mengatur banyak window atau tab, hal ini bisa diatur oleh [`tmux`](https://tmux.github.io/) atau Terminal Multiplexer, sebuah *command line tool* yang berguna diantaranya untuk,
+<!-- more --> 
 
 1. Mengatur multiple window/pane dalam satu window terminal.
 2. Mengatur session dalam terminal tersebut.
