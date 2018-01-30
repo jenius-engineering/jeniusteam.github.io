@@ -113,6 +113,117 @@
       <li>
         <header class="post-header">
           <h1 class="post-title">
+            <a class="post-link" href="/2018/01/30/pengenalan-tmux/">Pengenalan tmux</a>
+          </h1>
+
+          <p class="post-meta"><time datetime="2018-01-30T00:00:00+00:00" itemprop="datePublished">Jan 30, 2018</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">dedenf</span></span>
+             • 
+              
+                
+                <a href="/categories/post/" title='View posts with category "post"'>post</a>
+              
+             •
+          </p>
+        </header>
+
+        <div class="post-content">
+          <p>Sering menggunakan banyak window atau tab? misalkan membuka <code class="highlighter-rouge">vim</code>, <code class="highlighter-rouge">ssh</code> ke server, koneksi ke database server, <code class="highlighter-rouge">docker</code> di tab yang lain, dan akhirnya akan banyak tab atau <em>window</em> yang dibuka. di Jenius khususnya dan sebagai developer pada umumnya, hal ini pasti terjadi hampir setiap hari.</p>
+
+<p>Agar tidak perlu mengatur banyak window atau tab, hal ini bisa diatur oleh <code class="highlighter-rouge">tmux</code> atau Terminal Multiplexter, sebuah <em>command line tool</em> yang berguna diantaranya untuk.</p>
+
+<ol>
+  <li>Mengatur multiple window/pane dalam satu window terminal.</li>
+  <li>Mengatur session dalam terminal tersebut.</li>
+  <li>Mencegah session yang hilang karena tidak sengaja menutup aplikasi terminal.</li>
+</ol>
+
+<p>dan kegunaan lainnya, untuk <em>sysadmin</em> dan <em>developer</em> hal ini akan sangat membantu.</p>
+
+<h4>Memulai</h4>
+<p>Untuk memulai menggunakan <code class="highlighter-rouge">tmux</code>, install terlebih dahulu aplikasinya melalui <code class="highlighter-rouge">brew</code>, <code class="highlighter-rouge">apt</code> atau package manager yang ada, <code class="highlighter-rouge">$ brew install tmux</code>.</p>
+
+<p>Setelah berhasil diinstall, jalankan perintah <code class="highlighter-rouge">tmux</code> di terminal</p>
+
+<p><code class="highlighter-rouge">$ tmux</code></p>
+
+<p>Di terminal akan muncul seperti ini (note: terminal ini menggunakan iTerm)
+<img src="/images/posts/tmux.png" alt="tmux"></p>
+
+<p>di sini session tmux server sudah jalan, dan kita bisa memanggil banyak tmux session yang akan hidup dalam server tersebut.</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ tmux list-sessions
+0: 2 windows (created Tue Jan 30 11:28:59 2018) [133x38] (attached)
+1: 1 windows (created Tue Jan 30 14:23:28 2018) [204x69]
+</code></pre></div></div>
+<p>Perintah di atas adalah untuk melihat session yang aktif di tmux saat ini, ini bisa menjadi banyak ketika kita membuka banyak session tmux, lakukan perintah <code class="highlighter-rouge">tmux</code> di window lain dan akan terdaftar jika kita melakukan <code class="highlighter-rouge">tmux list-sessions</code>.</p>
+
+<h4>Mengatur session</h4>
+<p>Untuk mengatur session di dalam tmux, ada perintah yang bisa digunakan, diantaranya:</p>
+<ul>
+  <li>
+<code class="highlighter-rouge">&lt;prefix&gt; + c</code> membuka tab baru di session tmux yang sedang aktif</li>
+  <li>
+<code class="highlighter-rouge">&lt;prefix&gt; + [0,1,etc]</code> untuk pindah dari tab satu ke tab lain, sesuai dengan sekuen-nya.</li>
+  <li>
+<code class="highlighter-rouge">&lt;prefix&gt; + x</code> untuk menutup tab yang sedang aktif</li>
+  <li>
+<code class="highlighter-rouge">&lt;prefix&gt; + d</code> untuk detach dari tmux session yang aktif, dan kembali ke normal <em>command line interface</em>.</li>
+</ul>
+
+<p><code class="highlighter-rouge">&lt;prefix&gt;</code> default yang dipakai oleh tmux adalah <code class="highlighter-rouge">ctrl+b</code>, <code class="highlighter-rouge">ctrl + c</code> misalkan untuk membuka tab baru.</p>
+
+<p>Dan untuk mengatur session tmux sendiri salah satunya <code class="highlighter-rouge">list-sessions</code> seperti yang dibahas di atas, peritah lain antara lain:</p>
+<ul>
+  <li>
+<code class="highlighter-rouge">tmux kill-session -t nomor-session</code> akan menutup session nomor x yang ditulis.</li>
+  <li>
+<code class="highlighter-rouge">tmux attach-session -t nomor-session</code> atau <code class="highlighter-rouge">tmux a</code> akan memanggil session yang sebelumnya sudah di<em>detach</em> atau memanggil session tmux yang terakhir digunakan.</li>
+</ul>
+
+<p>dan masih banyak perintah lainnya yang bisa di<em>explore</em> untuk mengatur tmux.</p>
+
+<h4>Kostumasi tmux</h4>
+<p>Tmux bisa dikostumasi sesuai dengan kebutuhan kita, yang biasanya banyak dikostumasi ada prefix yang digunakan, karena <code class="highlighter-rouge">ctrl+b</code> terkadang tidak kompatibel dengan vim, kita bisa mengganti dengan <code class="highlighter-rouge">ctrl+a</code>, juga untuk sekuen dari tab/window tmux yang default-nya dimulai di sekuen <code class="highlighter-rouge">0</code>, diubah menjadi <code class="highlighter-rouge">1</code> agar lebih gampang mengaturnya.</p>
+
+<p>kita bisa memulai kostumasi di file konfigurasi tmux, yang terletak biasanya di home folder, jika tidak ada, bisa mulai dengan membuat file <code class="highlighter-rouge">.tmux.conf</code>.</p>
+
+<p><code class="highlighter-rouge">$ vim ~/.tmux.conf</code></p>
+
+<p>tambahkan baris berikut</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># unbind ctrl+b, ubah ke ctrl+a
+unbind C-b
+set-option -g prefix C-a
+bind-key C-a send-prefix
+
+# atur agar sekuen dimulai dari 1
+set -g base-index 1
+</code></pre></div></div>
+
+<p>Hasil tampilan terminal dari hasil setting konfigurasi <code class="highlighter-rouge">.tmux.conf</code> di atas seperti di bawah.</p>
+
+<p><img src="/images/posts/tmux2.png" alt="tmux new setting"></p>
+
+<p>source bisa dilihat di repo <a href="https://github.com/jeniusTeam/dotfiles">dotfiles</a> Jenius Tech team (repo ini akan bertambah dengan dotfiles aplikasi lain).</p>
+
+        </div>
+        
+         <small style="display:none;">tagged: 
+
+
+    <strong>tmux</strong>,
+
+
+    <strong>unix</strong>
+
+</small>
+      </li>
+    
+      
+      
+
+      <li>
+        <header class="post-header">
+          <h1 class="post-title">
             <a class="post-link" href="/2018/01/30/jeniustech-newsletter-29/">Jenius Engineering weekly #29</a>
           </h1>
 
@@ -400,60 +511,6 @@ ffmpeg <span class="nt">-f</span> avfoundation <span class="nt">-framerate</span
 
 
     <strong>commits</strong>
-
-</small>
-      </li>
-    
-      
-      
-
-      <li>
-        <header class="post-header">
-          <h1 class="post-title">
-            <a class="post-link" href="/2018/01/04/jeniustech-year-in-review/">Jenius Tech Year In Review</a>
-          </h1>
-
-          <p class="post-meta"><time datetime="2018-01-04T00:00:00+00:00" itemprop="datePublished">Jan 4, 2018</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">dedenf</span></span>
-             • 
-              
-                
-                <a href="/categories/post/" title='View posts with category "post"'>post</a>
-              
-             •
-          </p>
-        </header>
-
-        <div class="post-content">
-          <p>Jenius sebagai perusahaan berbasiskan teknologi, tidak lepas dari proses pengembangan <em>software</em> yang dibangun dan digunakan di <em>internal</em> Jenius, dari mulai <em>frontend</em>, <em>backend</em> hingga proses design yang digunakan.</p>
-
-<p>Sepanjang tahun 2017, Jenius selalu melakukan iterasi produk, baik dari sisi fitur, maupun perbaikan-perbaikan yang dirasa penting untuk kenyamanan pengguna nasabah Jenius. Sepajang tahun 2017 juga kita mengumpulkan beberapa statistik <em>development</em></p>
-
-<p>untuk Jenius mobile app Engineer <strong>31</strong> developer untuk pengembangan aplikasi <strong>iOS</strong>, <strong>Android</strong> dan backend <em>system</em>.</p>
-
-<h4>Android Total commit : <strong>7798</strong>
-</h4>
-<h4>iOS Total commit : <strong>6660</strong>
-</h4>
-
-<p><em>Microservice</em> berjumlah <strong>24</strong> dengan total commit <strong>12000</strong>, <em>Microservice</em> yang bertugas untuk melayani <em>request</em> dan fungsi yang berbeda, dari mulai melayani manajemen user, informasi transaksi, berkomunikasi dengan <em>corebanking</em>, berkomunikasi dengan pihak luar seperti <em>sms provider</em> atau <em>email provider</em>.</p>
-
-<p>Dan blog ini sejak April 2017 diluncurkan sudah menulis sekitar <strong>43</strong> Artikel.</p>
-
-<p>Di 2018 ini banyak pengembangan baik dari sisi frontend maupun backend, dengan modularisasi dan komunikasi data yang kita <em>revamp</em> untuk efisiensi dan penambahan fitur dari hasil <em>feedback</em> dengan pengguna Jenius.</p>
-
-
-        </div>
-        
-         <small style="display:none;">tagged: 
-
-
-    <strong>jenius</strong>,
-
-
-    <strong>tech</strong>,
-
-
-    <strong>advance</strong>
 
 </small>
       </li>
