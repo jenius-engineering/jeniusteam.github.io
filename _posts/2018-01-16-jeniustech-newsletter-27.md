@@ -35,3 +35,5 @@ Welcome to Jenius Engineering newsletter #27, this newsletter published every tu
 - [PostGraphile -- Instant GraphQL API for PostgreSQL database](https://www.graphile.org/)
 - [Speedometer 2.0](https://webkit.org/blog/8063/speedometer-2-0-a-benchmark-for-modern-web-app-responsiveness/)
 - [Sweet Alert](https://sweetalert.js.org/)
+
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com 

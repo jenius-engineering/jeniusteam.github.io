@@ -38,4 +38,4 @@ First of all **Happy new year!**, may we reach our goals and everything that we 
 - [Awesome Ruby -- list of awesome Ruby libraries](http://awesome-ruby.com/?utm_source=jeniustech&utm_medium=newsletter)
 - [Rails Panel -- Chrome extension for Rails development](https://github.com/dejan/rails_panel?utm_source=jeniustech&utm_medium=newsletter)
 
-These articles curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com 
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com 
