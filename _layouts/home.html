@@ -30,6 +30,9 @@ layout: default
         </header>
 
         <div class="post-content">
+          {% if post.content contains post.image %}
+            <img src="{{ post.image }}">
+          {% endif %}
           {{ post.excerpt }}
         </div>
         {% if post.content contains site.excerpt_separator %}
