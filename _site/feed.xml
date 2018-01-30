@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-01-30T04:07:38+00:00</updated>
+  <updated>2018-01-30T07:46:02+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,120 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Pengenalan tmux</title>
+      
+      <link href="http://localhost:4000/2018/01/30/pengenalan-tmux/" rel="alternate" type="text/html" title="Pengenalan tmux" />
+      <published>2018-01-30T00:00:00+00:00</published>
+      <updated>2018-01-30T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/01/30/pengenalan-tmux</id>
+      <content type="html" xml:base="http://localhost:4000/2018/01/30/pengenalan-tmux/">&lt;p&gt;Sering menggunakan banyak window atau tab? misalkan membuka &lt;code class=&quot;highlighter-rouge&quot;&gt;vim&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ssh&lt;/code&gt; ke server, koneksi ke database server, &lt;code class=&quot;highlighter-rouge&quot;&gt;docker&lt;/code&gt; di tab yang lain, dan akhirnya akan banyak tab atau &lt;em&gt;window&lt;/em&gt; yang dibuka. di Jenius khususnya dan sebagai developer pada umumnya, hal ini pasti terjadi hampir setiap hari.&lt;/p&gt;
+
+&lt;p&gt;Agar tidak perlu mengatur banyak window atau tab, hal ini bisa diatur oleh &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt; atau Terminal Multiplexter, sebuah &lt;em&gt;command line tool&lt;/em&gt; yang berguna diantaranya untuk.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Mengatur multiple window/pane dalam satu window terminal.&lt;/li&gt;
+  &lt;li&gt;Mengatur session dalam terminal tersebut.&lt;/li&gt;
+  &lt;li&gt;Mencegah session yang hilang karena tidak sengaja menutup aplikasi terminal.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;dan kegunaan lainnya, untuk &lt;em&gt;sysadmin&lt;/em&gt; dan &lt;em&gt;developer&lt;/em&gt; hal ini akan sangat membantu.&lt;/p&gt;
+
+&lt;h4&gt;Memulai&lt;/h4&gt;
+&lt;p&gt;Untuk memulai menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;, install terlebih dahulu aplikasinya melalui &lt;code class=&quot;highlighter-rouge&quot;&gt;brew&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;apt&lt;/code&gt; atau package manager yang ada, &lt;code class=&quot;highlighter-rouge&quot;&gt;$ brew install tmux&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Setelah berhasil diinstall, jalankan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt; di terminal&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ tmux&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Di terminal akan muncul seperti ini (note: terminal ini menggunakan iTerm)
+&lt;img src=&quot;/images/posts/tmux.png&quot; alt=&quot;tmux&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;di sini session tmux server sudah jalan, dan kita bisa memanggil banyak tmux session yang akan hidup dalam server tersebut.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ tmux list-sessions
+0: 2 windows (created Tue Jan 30 11:28:59 2018) [133x38] (attached)
+1: 1 windows (created Tue Jan 30 14:23:28 2018) [204x69]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Perintah di atas adalah untuk melihat session yang aktif di tmux saat ini, ini bisa menjadi banyak ketika kita membuka banyak session tmux, lakukan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt; di window lain dan akan terdaftar jika kita melakukan &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux list-sessions&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Mengatur session&lt;/h4&gt;
+&lt;p&gt;Untuk mengatur session di dalam tmux, ada perintah yang bisa digunakan, diantaranya:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;prefix&amp;gt; + c&lt;/code&gt; membuka tab baru di session tmux yang sedang aktif&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;prefix&amp;gt; + [0,1,etc]&lt;/code&gt; untuk pindah dari tab satu ke tab lain, sesuai dengan sekuen-nya.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;prefix&amp;gt; + x&lt;/code&gt; untuk menutup tab yang sedang aktif&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;prefix&amp;gt; + d&lt;/code&gt; untuk detach dari tmux session yang aktif, dan kembali ke normal &lt;em&gt;command line interface&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;prefix&amp;gt;&lt;/code&gt; default yang dipakai oleh tmux adalah &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl+b&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl + c&lt;/code&gt; misalkan untuk membuka tab baru.&lt;/p&gt;
+
+&lt;p&gt;Dan untuk mengatur session tmux sendiri salah satunya &lt;code class=&quot;highlighter-rouge&quot;&gt;list-sessions&lt;/code&gt; seperti yang dibahas di atas, peritah lain antara lain:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux kill-session -t nomor-session&lt;/code&gt; akan menutup session nomor x yang ditulis.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux attach-session -t nomor-session&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;tmux a&lt;/code&gt; akan memanggil session yang sebelumnya sudah di&lt;em&gt;detach&lt;/em&gt; atau memanggil session tmux yang terakhir digunakan.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;dan masih banyak perintah lainnya yang bisa di&lt;em&gt;explore&lt;/em&gt; untuk mengatur tmux.&lt;/p&gt;
+
+&lt;h4&gt;Kostumasi tmux&lt;/h4&gt;
+&lt;p&gt;Tmux bisa dikostumasi sesuai dengan kebutuhan kita, yang biasanya banyak dikostumasi ada prefix yang digunakan, karena &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl+b&lt;/code&gt; terkadang tidak kompatibel dengan vim, kita bisa mengganti dengan &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl+a&lt;/code&gt;, juga untuk sekuen dari tab/window tmux yang default-nya dimulai di sekuen &lt;code class=&quot;highlighter-rouge&quot;&gt;0&lt;/code&gt;, diubah menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;1&lt;/code&gt; agar lebih gampang mengaturnya.&lt;/p&gt;
+
+&lt;p&gt;kita bisa memulai kostumasi di file konfigurasi tmux, yang terletak biasanya di home folder, jika tidak ada, bisa mulai dengan membuat file &lt;code class=&quot;highlighter-rouge&quot;&gt;.tmux.conf&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ vim ~/.tmux.conf&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;tambahkan baris berikut&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# unbind ctrl+b, ubah ke ctrl+a
+unbind C-b
+set-option -g prefix C-a
+bind-key C-a send-prefix
+
+# atur agar sekuen dimulai dari 1
+set -g base-index 1
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Hasil tampilan terminal dari hasil setting konfigurasi &lt;code class=&quot;highlighter-rouge&quot;&gt;.tmux.conf&lt;/code&gt; di atas seperti di bawah.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/tmux2.png&quot; alt=&quot;tmux new setting&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;source bisa dilihat di repo &lt;a href=&quot;https://github.com/jeniusTeam/dotfiles&quot;&gt;dotfiles&lt;/a&gt; Jenius Tech team (repo ini akan bertambah dengan dotfiles aplikasi lain).&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="post" />
+      
+
+      
+        <category term="tmux" />
+      
+        <category term="unix" />
+      
+
+      
+        <summary type="html">Sering menggunakan banyak window atau tab? misalkan membuka vim, ssh ke server, koneksi ke database server, docker di tab yang lain, dan akhirnya akan banyak tab atau window yang dibuka. di Jenius khususnya dan sebagai developer pada umumnya, hal ini pasti terjadi hampir setiap hari. Agar tidak perlu mengatur banyak window atau tab, hal ini bisa diatur oleh tmux atau Terminal Multiplexter, sebuah command line tool yang berguna diantaranya untuk. Mengatur multiple window/pane dalam satu window terminal. Mengatur session dalam terminal tersebut. Mencegah session yang hilang karena tidak sengaja menutup aplikasi terminal. dan kegunaan lainnya, untuk sysadmin dan developer hal ini akan sangat membantu. Memulai Untuk memulai menggunakan tmux, install terlebih dahulu aplikasinya melalui brew, apt atau package manager yang ada, $ brew install tmux. Setelah berhasil diinstall, jalankan perintah tmux di terminal $ tmux Di terminal akan muncul seperti ini (note: terminal ini menggunakan iTerm) di sini session tmux server sudah jalan, dan kita bisa memanggil banyak tmux session yang akan hidup dalam server tersebut. $ tmux list-sessions 0: 2 windows (created Tue Jan 30 11:28:59 2018) [133x38] (attached) 1: 1 windows (created Tue Jan 30 14:23:28 2018) [204x69] Perintah di atas adalah untuk melihat session yang aktif di tmux saat ini, ini bisa menjadi banyak ketika kita membuka banyak session tmux, lakukan perintah tmux di window lain dan akan terdaftar jika kita melakukan tmux list-sessions. Mengatur session Untuk mengatur session di dalam tmux, ada perintah yang bisa digunakan, diantaranya: &amp;lt;prefix&amp;gt; + c membuka tab baru di session tmux yang sedang aktif &amp;lt;prefix&amp;gt; + [0,1,etc] untuk pindah dari tab satu ke tab lain, sesuai dengan sekuen-nya. &amp;lt;prefix&amp;gt; + x untuk menutup tab yang sedang aktif &amp;lt;prefix&amp;gt; + d untuk detach dari tmux session yang aktif, dan kembali ke normal command line interface. &amp;lt;prefix&amp;gt; default yang dipakai oleh tmux adalah ctrl+b, ctrl + c misalkan untuk membuka tab baru. Dan untuk mengatur session tmux sendiri salah satunya list-sessions seperti yang dibahas di atas, peritah lain antara lain: tmux kill-session -t nomor-session akan menutup session nomor x yang ditulis. tmux attach-session -t nomor-session atau tmux a akan memanggil session yang sebelumnya sudah didetach atau memanggil session tmux yang terakhir digunakan. dan masih banyak perintah lainnya yang bisa diexplore untuk mengatur tmux. Kostumasi tmux Tmux bisa dikostumasi sesuai dengan kebutuhan kita, yang biasanya banyak dikostumasi ada prefix yang digunakan, karena ctrl+b terkadang tidak kompatibel dengan vim, kita bisa mengganti dengan ctrl+a, juga untuk sekuen dari tab/window tmux yang default-nya dimulai di sekuen 0, diubah menjadi 1 agar lebih gampang mengaturnya. kita bisa memulai kostumasi di file konfigurasi tmux, yang terletak biasanya di home folder, jika tidak ada, bisa mulai dengan membuat file .tmux.conf. $ vim ~/.tmux.conf tambahkan baris berikut # unbind ctrl+b, ubah ke ctrl+a unbind C-b set-option -g prefix C-a bind-key C-a send-prefix # atur agar sekuen dimulai dari 1 set -g base-index 1 Hasil tampilan terminal dari hasil setting konfigurasi .tmux.conf di atas seperti di bawah. source bisa dilihat di repo dotfiles Jenius Tech team (repo ini akan bertambah dengan dotfiles aplikasi lain).</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1500,81 +1614,6 @@ Bahasa pemograman iOS (swift, obj-c), Javascript (&lt;em&gt;plain&lt;/em&gt;, re
 
       
         <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Marchell Imanuel. Saya Jenius Software Engineer yang sekarang fokus di backend development. Bahasa pemograman iOS (swift, obj-c), Javascript (plain, react-native, reactjs, nodejs) Hardware yang digunakan MacBook pro 13” 2015: main playground OnePlus 5: main communication iPad Mini 4: main entertainment iPod Touch: main muse</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #18</title>
-      
-      <link href="http://localhost:4000/2017/10/17/jeniustech-newsletter18/" rel="alternate" type="text/html" title="Jenius Engineering weekly #18" />
-      <published>2017-10-17T00:00:00+00:00</published>
-      <updated>2017-10-17T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/10/17/jeniustech-newsletter18</id>
-      <content type="html" xml:base="http://localhost:4000/2017/10/17/jeniustech-newsletter18/">&lt;p&gt;Welcome to Jenius Engineering newsletter #18, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Apologize for last week, there’s no newsletter published, we are brewing something cool on our stack!
-here are couple reading list that Jenius tech team currently digging&lt;/p&gt;
-
-&lt;h4&gt;reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.techinasia.com/carousell-runs-product-team&quot;&gt;How Carousell runs its product team&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://uxdesign.cc/the-surprising-relationship-between-gamification-and-modern-persuasion-b27c270fd646&quot;&gt;The Surprising Relationship Between Gamification And Modern Persuasion&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.christianposta.com/microservices/the-hardest-part-of-microservices-calling-your-services/&quot;&gt;The Hardest Part of Microservices: Calling Your Services&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/&quot;&gt;Understanding JavaScript Function Invocation and “this”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/magnetis-backstage/how-to-write-your-first-cli-with-thor-9da6636bf744&quot;&gt;How to write your first CLI with Thor&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://udarajay.com/applied-machine-learning-the-less-confusing-guide/&quot;&gt;Applied Machine Learning: The Less Confusing Guide&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.devnetcreate.io/serverless-at-the-helm-in-kubernetes-in-the-devnet-sandbox-2038031a3f4b&quot;&gt;OpenFaaS At The Helm w/ Kubernetes in the DevNet Sandbox&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html&quot;&gt;An Interview with the Creator of Ruby - 2001&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.jaak.io/crossing-over-to-web3-an-introduction-to-decentralised-development-53de470da331&quot;&gt;Crossing Over to Web3 — An Introduction to Decentralised Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://henricodesjava.blog/2017/10/06/design-patterns-decorator-pattern/&quot;&gt;Design Patterns: Decorator Pattern&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2017/10/12/announcing-typescript-2-6-rc/&quot;&gt;TypeScript 2.6 RC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tools&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/draios/sysdig-inspect&quot;&gt;Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kz26/mailproxy&quot;&gt;Mailproxy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/sdwolfe32/trumail&quot;&gt;Trumail&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #18, this newsletter published every tuesday-ish. please subscribe to our newsletter. Apologize for last week, there’s no newsletter published, we are brewing something cool on our stack! here are couple reading list that Jenius tech team currently digging reading list How Carousell runs its product team The Surprising Relationship Between Gamification And Modern Persuasion The Hardest Part of Microservices: Calling Your Services Understanding JavaScript Function Invocation and “this” How to write your first CLI with Thor Applied Machine Learning: The Less Confusing Guide OpenFaaS At The Helm w/ Kubernetes in the DevNet Sandbox An Interview with the Creator of Ruby - 2001 Crossing Over to Web3 — An Introduction to Decentralised Development Design Patterns: Decorator Pattern News TypeScript 2.6 RC Tools Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation Mailproxy Trumail These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
