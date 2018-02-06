@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.0">Jekyll</generator>
   
   
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-01-30T07:57:10+00:00</updated>
-  <id>http://localhost:4000//</id>
+  <link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4001/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2018-02-06T11:32:13+00:00</updated>
+  <id>http://localhost:4001//</id>
 
   
     <title type="html">JeniusTech Engineering</title>
@@ -28,13 +28,88 @@
   
     <entry>
       
+      <title type="html">Jenius Engineering weekly #30</title>
+      
+      <link href="http://localhost:4001/2018/02/06/jeniustech-newsletter-30/" rel="alternate" type="text/html" title="Jenius Engineering weekly #30" />
+      <published>2018-02-06T00:00:00+00:00</published>
+      <updated>2018-02-06T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2018/02/06/jeniustech-newsletter-30</id>
+      <content type="html" xml:base="http://localhost:4001/2018/02/06/jeniustech-newsletter-30/">&lt;p&gt;Welcome to Jenius Engineering newsletter #30, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/rails-5-2-active-storage-and-beyond?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Rails 5.2: Active Storage and beyond&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zachary.com/posts/how-to-data/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How I Manage My Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ruby.libhunt.com/&quot;&gt;A collection of awesome Ruby gems, tools, frameworks and software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How we improved webpack build performance by 95%&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.openshift.com/up-and-running-with-the-openshift-ansible-broker/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Up and Running with the OpenShift Ansible Broker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.openshift.com/prometheus-alerts-on-openshift/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Prometheus Alerts on OpenShift&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rdegges.com/2018/please-stop-using-local-storage/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Please Stop Using Local Storage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/practical-motivation-science/how-to-design-motivating-push-notifications-d25ef3874e42?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;How to Design Motivating Push Notifications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/introducing-mongobot-a-slackbot-that-can-run-mongodb-queries-8dda660fa17e?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Introducing Mongobot: a Slackbot that can run MongoDB queries&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@strapi/testing-your-npm-package-before-releasing-it-using-verdaccio-ngrok-28e2832c850a?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Testing your npm package before releasing it using Verdaccio + ngrok&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Introducing Node Clinic - A performance toolkit for Node.js developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/blog/python/python-memcache-efficient-caching/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Python + Memcached: Efficient Caching in Distributed Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@singhpratyush/the-taste-of-media-streaming-with-flask-cdce35908a50?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;The Taste of Media Streaming with Flask&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.5.0/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Node v9.5.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Code &amp;amp; Tools&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trestle.io/?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;trestle – A modern, responsive admin framework for Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/e-oj/Fawn?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Fawn – Promise based Library for transactions in MongoDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/antonmedv/fx?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;fx – Command-line JSON processing tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/josecolella/Redis-With-JSON-Node?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Using Redis as a JSON store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/shopnilsazal/simple-bcrypt?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Simple-bcrypt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #30, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Rails 5.2: Active Storage and beyond How I Manage My Data A collection of awesome Ruby gems, tools, frameworks and software How we improved webpack build performance by 95% Up and Running with the OpenShift Ansible Broker Prometheus Alerts on OpenShift Please Stop Using Local Storage How to Design Motivating Push Notifications Introducing Mongobot: a Slackbot that can run MongoDB queries Testing your npm package before releasing it using Verdaccio + ngrok Introducing Node Clinic - A performance toolkit for Node.js developers Python + Memcached: Efficient Caching in Distributed Applications The Taste of Media Streaming with Flask News Node v9.5.0 Code &amp;amp; Tools trestle – A modern, responsive admin framework for Ruby on Rails Fawn – Promise based Library for transactions in MongoDB fx – Command-line JSON processing tool Using Redis as a JSON store Simple-bcrypt</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Pengenalan tmux</title>
       
-      <link href="http://localhost:4000/2018/01/30/pengenalan-tmux/" rel="alternate" type="text/html" title="Pengenalan tmux" />
+      <link href="http://localhost:4001/2018/01/30/pengenalan-tmux/" rel="alternate" type="text/html" title="Pengenalan tmux" />
       <published>2018-01-30T00:00:00+00:00</published>
       <updated>2018-01-30T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/01/30/pengenalan-tmux</id>
-      <content type="html" xml:base="http://localhost:4000/2018/01/30/pengenalan-tmux/">&lt;p&gt;Sering menggunakan banyak window atau tab? misalkan membuka &lt;code class=&quot;highlighter-rouge&quot;&gt;vim&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ssh&lt;/code&gt; ke server, koneksi ke database server, &lt;code class=&quot;highlighter-rouge&quot;&gt;docker&lt;/code&gt; di tab yang lain, dan akhirnya akan banyak tab atau &lt;em&gt;window&lt;/em&gt; yang dibuka. di Jenius khususnya dan sebagai developer pada umumnya, hal ini pasti terjadi hampir setiap hari.&lt;/p&gt;
+      <id>http://localhost:4001/2018/01/30/pengenalan-tmux</id>
+      <content type="html" xml:base="http://localhost:4001/2018/01/30/pengenalan-tmux/">&lt;p&gt;Sering menggunakan banyak window atau tab? misalkan membuka &lt;code class=&quot;highlighter-rouge&quot;&gt;vim&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ssh&lt;/code&gt; ke server, koneksi ke database server, &lt;code class=&quot;highlighter-rouge&quot;&gt;docker&lt;/code&gt; di tab yang lain, dan akhirnya akan banyak tab atau &lt;em&gt;window&lt;/em&gt; yang dibuka. di Jenius khususnya dan sebagai developer pada umumnya, hal ini pasti terjadi hampir setiap hari.&lt;/p&gt;
 
 &lt;p&gt;Agar tidak perlu mengatur banyak window atau tab, hal ini bisa diatur oleh &lt;a href=&quot;https://tmux.github.io/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;&lt;/a&gt; atau Terminal Multiplexer, sebuah &lt;em&gt;command line tool&lt;/em&gt; yang berguna diantaranya untuk,
 &lt;!-- more --&gt;&lt;/p&gt;
@@ -145,11 +220,11 @@ set -g base-index 1
       
       <title type="html">Jenius Engineering weekly #29</title>
       
-      <link href="http://localhost:4000/2018/01/30/jeniustech-newsletter-29/" rel="alternate" type="text/html" title="Jenius Engineering weekly #29" />
+      <link href="http://localhost:4001/2018/01/30/jeniustech-newsletter-29/" rel="alternate" type="text/html" title="Jenius Engineering weekly #29" />
       <published>2018-01-30T00:00:00+00:00</published>
       <updated>2018-01-30T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/01/30/jeniustech-newsletter-29</id>
-      <content type="html" xml:base="http://localhost:4000/2018/01/30/jeniustech-newsletter-29/">&lt;p&gt;Welcome to Jenius Engineering newsletter #29, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2018/01/30/jeniustech-newsletter-29</id>
+      <content type="html" xml:base="http://localhost:4001/2018/01/30/jeniustech-newsletter-29/">&lt;p&gt;Welcome to Jenius Engineering newsletter #29, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -219,11 +294,11 @@ set -g base-index 1
       
       <title type="html">Jenius Engineering weekly #28</title>
       
-      <link href="http://localhost:4000/2018/01/23/jeniustech-newsletter-28/" rel="alternate" type="text/html" title="Jenius Engineering weekly #28" />
+      <link href="http://localhost:4001/2018/01/23/jeniustech-newsletter-28/" rel="alternate" type="text/html" title="Jenius Engineering weekly #28" />
       <published>2018-01-23T00:00:00+00:00</published>
       <updated>2018-01-23T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/01/23/jeniustech-newsletter-28</id>
-      <content type="html" xml:base="http://localhost:4000/2018/01/23/jeniustech-newsletter-28/">&lt;p&gt;Welcome to Jenius Engineering newsletter #28, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2018/01/23/jeniustech-newsletter-28</id>
+      <content type="html" xml:base="http://localhost:4001/2018/01/23/jeniustech-newsletter-28/">&lt;p&gt;Welcome to Jenius Engineering newsletter #28, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -297,11 +372,11 @@ set -g base-index 1
       
       <title type="html">Jenius Engineering weekly #27</title>
       
-      <link href="http://localhost:4000/2018/01/16/jeniustech-newsletter-27/" rel="alternate" type="text/html" title="Jenius Engineering weekly #27" />
+      <link href="http://localhost:4001/2018/01/16/jeniustech-newsletter-27/" rel="alternate" type="text/html" title="Jenius Engineering weekly #27" />
       <published>2018-01-16T00:00:00+00:00</published>
       <updated>2018-01-16T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/01/16/jeniustech-newsletter-27</id>
-      <content type="html" xml:base="http://localhost:4000/2018/01/16/jeniustech-newsletter-27/">&lt;p&gt;Welcome to Jenius Engineering newsletter #27, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2018/01/16/jeniustech-newsletter-27</id>
+      <content type="html" xml:base="http://localhost:4001/2018/01/16/jeniustech-newsletter-27/">&lt;p&gt;Welcome to Jenius Engineering newsletter #27, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -371,11 +446,11 @@ set -g base-index 1
       
       <title type="html">Selfie Commit</title>
       
-      <link href="http://localhost:4000/2018/01/11/hipster-commit/" rel="alternate" type="text/html" title="Selfie Commit" />
+      <link href="http://localhost:4001/2018/01/11/hipster-commit/" rel="alternate" type="text/html" title="Selfie Commit" />
       <published>2018-01-11T00:00:00+00:00</published>
       <updated>2018-01-11T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/01/11/hipster-commit</id>
-      <content type="html" xml:base="http://localhost:4000/2018/01/11/hipster-commit/">&lt;p&gt;Sebagai &lt;em&gt;developer&lt;/em&gt; tentu sudah terbiasa dengan &lt;em&gt;Source Code Management&lt;/em&gt; seperti GIT, Mercurial, Bazaar, dan lainnya. pernah menggabungkan &lt;em&gt;Selfie&lt;/em&gt; atau swafoto berbarengan dengan dengan commit kode kita? di sini kita akan fokus dengan GIT sebagai &lt;em&gt;SCM&lt;/em&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2018/01/11/hipster-commit</id>
+      <content type="html" xml:base="http://localhost:4001/2018/01/11/hipster-commit/">&lt;p&gt;Sebagai &lt;em&gt;developer&lt;/em&gt; tentu sudah terbiasa dengan &lt;em&gt;Source Code Management&lt;/em&gt; seperti GIT, Mercurial, Bazaar, dan lainnya. pernah menggabungkan &lt;em&gt;Selfie&lt;/em&gt; atau swafoto berbarengan dengan dengan commit kode kita? di sini kita akan fokus dengan GIT sebagai &lt;em&gt;SCM&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Langkah-langkah yang ditulis dilakukan di komputer berbasis Mac, belum dicoba di Linux atau Windows.&lt;/p&gt;
 
@@ -475,11 +550,11 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
       
       <title type="html">Jenius Tech Year In Review</title>
       
-      <link href="http://localhost:4000/2018/01/04/jeniustech-year-in-review/" rel="alternate" type="text/html" title="Jenius Tech Year In Review" />
+      <link href="http://localhost:4001/2018/01/04/jeniustech-year-in-review/" rel="alternate" type="text/html" title="Jenius Tech Year In Review" />
       <published>2018-01-04T00:00:00+00:00</published>
       <updated>2018-01-04T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/01/04/jeniustech-year-in-review</id>
-      <content type="html" xml:base="http://localhost:4000/2018/01/04/jeniustech-year-in-review/">&lt;p&gt;Jenius sebagai perusahaan berbasiskan teknologi, tidak lepas dari proses pengembangan &lt;em&gt;software&lt;/em&gt; yang dibangun dan digunakan di &lt;em&gt;internal&lt;/em&gt; Jenius, dari mulai &lt;em&gt;frontend&lt;/em&gt;, &lt;em&gt;backend&lt;/em&gt; hingga proses design yang digunakan.&lt;/p&gt;
+      <id>http://localhost:4001/2018/01/04/jeniustech-year-in-review</id>
+      <content type="html" xml:base="http://localhost:4001/2018/01/04/jeniustech-year-in-review/">&lt;p&gt;Jenius sebagai perusahaan berbasiskan teknologi, tidak lepas dari proses pengembangan &lt;em&gt;software&lt;/em&gt; yang dibangun dan digunakan di &lt;em&gt;internal&lt;/em&gt; Jenius, dari mulai &lt;em&gt;frontend&lt;/em&gt;, &lt;em&gt;backend&lt;/em&gt; hingga proses design yang digunakan.&lt;/p&gt;
 
 &lt;p&gt;Sepanjang tahun 2017, Jenius selalu melakukan iterasi produk, baik dari sisi fitur, maupun perbaikan-perbaikan yang dirasa penting untuk kenyamanan pengguna nasabah Jenius. Sepajang tahun 2017 juga kita mengumpulkan beberapa statistik &lt;em&gt;development&lt;/em&gt;&lt;/p&gt;
 
@@ -534,11 +609,11 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
       
       <title type="html">Jenius Engineering weekly #26</title>
       
-      <link href="http://localhost:4000/2018/01/02/jeniustech-newsletter-26/" rel="alternate" type="text/html" title="Jenius Engineering weekly #26" />
+      <link href="http://localhost:4001/2018/01/02/jeniustech-newsletter-26/" rel="alternate" type="text/html" title="Jenius Engineering weekly #26" />
       <published>2018-01-02T00:00:00+00:00</published>
       <updated>2018-01-02T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/01/02/jeniustech-newsletter-26</id>
-      <content type="html" xml:base="http://localhost:4000/2018/01/02/jeniustech-newsletter-26/">&lt;p&gt;Welcome to Jenius Engineering newsletter #26, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2018/01/02/jeniustech-newsletter-26</id>
+      <content type="html" xml:base="http://localhost:4001/2018/01/02/jeniustech-newsletter-26/">&lt;p&gt;Welcome to Jenius Engineering newsletter #26, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;First of all &lt;strong&gt;Happy new year!&lt;/strong&gt;, may we reach our goals and everything that we planned come true.&lt;/p&gt;
 
@@ -611,11 +686,11 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
       
       <title type="html">Jenius Engineering weekly #25</title>
       
-      <link href="http://localhost:4000/2017/12/19/jeniustech-newsletter-25/" rel="alternate" type="text/html" title="Jenius Engineering weekly #25" />
+      <link href="http://localhost:4001/2017/12/19/jeniustech-newsletter-25/" rel="alternate" type="text/html" title="Jenius Engineering weekly #25" />
       <published>2017-12-19T00:00:00+00:00</published>
       <updated>2017-12-19T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/12/19/jeniustech-newsletter-25</id>
-      <content type="html" xml:base="http://localhost:4000/2017/12/19/jeniustech-newsletter-25/">&lt;p&gt;Welcome to Jenius Engineering newsletter #25, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2017/12/19/jeniustech-newsletter-25</id>
+      <content type="html" xml:base="http://localhost:4001/2017/12/19/jeniustech-newsletter-25/">&lt;p&gt;Welcome to Jenius Engineering newsletter #25, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading List&lt;/h4&gt;
 &lt;ul&gt;
@@ -684,11 +759,11 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
       
       <title type="html">Jenius Engineer: Feizal Badri Asmoro</title>
       
-      <link href="http://localhost:4000/2017/12/18/jenius-engineer-feizal/" rel="alternate" type="text/html" title="Jenius Engineer: Feizal Badri Asmoro" />
+      <link href="http://localhost:4001/2017/12/18/jenius-engineer-feizal/" rel="alternate" type="text/html" title="Jenius Engineer: Feizal Badri Asmoro" />
       <published>2017-12-18T00:00:00+00:00</published>
       <updated>2017-12-18T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/12/18/jenius-engineer-feizal</id>
-      <content type="html" xml:base="http://localhost:4000/2017/12/18/jenius-engineer-feizal/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/feizal.jpg&quot; alt=&quot;Feizal Badri Asmoro&quot; /&gt;&lt;/p&gt;
+      <id>http://localhost:4001/2017/12/18/jenius-engineer-feizal</id>
+      <content type="html" xml:base="http://localhost:4001/2017/12/18/jenius-engineer-feizal/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/feizal.jpg&quot; alt=&quot;Feizal Badri Asmoro&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Saya Feizal Badri Asmoro, software engineer yang bertanggung jawab atas frontend development untuk aplikasi dan website &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt;. Mengawali karir sebagai iOS dan android mobile application developer. Namun belakangan ini banyak menghabiskan waktu untuk mempelajari &lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;React Native&lt;/a&gt;.&lt;/p&gt;
@@ -763,11 +838,11 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
       
       <title type="html">Jenius Engineering weekly #24</title>
       
-      <link href="http://localhost:4000/2017/12/12/jeniustech-newsletter-24/" rel="alternate" type="text/html" title="Jenius Engineering weekly #24" />
+      <link href="http://localhost:4001/2017/12/12/jeniustech-newsletter-24/" rel="alternate" type="text/html" title="Jenius Engineering weekly #24" />
       <published>2017-12-12T00:00:00+00:00</published>
       <updated>2017-12-12T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/12/12/jeniustech-newsletter-24</id>
-      <content type="html" xml:base="http://localhost:4000/2017/12/12/jeniustech-newsletter-24/">&lt;p&gt;Welcome to Jenius Engineering newsletter #24, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2017/12/12/jeniustech-newsletter-24</id>
+      <content type="html" xml:base="http://localhost:4001/2017/12/12/jeniustech-newsletter-24/">&lt;p&gt;Welcome to Jenius Engineering newsletter #24, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading Lists&lt;/h4&gt;
 &lt;ul&gt;
@@ -844,11 +919,11 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
       
       <title type="html">Jenius Engineering weekly #23</title>
       
-      <link href="http://localhost:4000/2017/11/24/jeniustech-newsletter-23/" rel="alternate" type="text/html" title="Jenius Engineering weekly #23" />
+      <link href="http://localhost:4001/2017/11/24/jeniustech-newsletter-23/" rel="alternate" type="text/html" title="Jenius Engineering weekly #23" />
       <published>2017-11-24T00:00:00+00:00</published>
       <updated>2017-11-24T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/11/24/jeniustech-newsletter-23</id>
-      <content type="html" xml:base="http://localhost:4000/2017/11/24/jeniustech-newsletter-23/">&lt;p&gt;Welcome to Jenius Engineering newsletter #23, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2017/11/24/jeniustech-newsletter-23</id>
+      <content type="html" xml:base="http://localhost:4001/2017/11/24/jeniustech-newsletter-23/">&lt;p&gt;Welcome to Jenius Engineering newsletter #23, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading List&lt;/h4&gt;
 &lt;ul&gt;
@@ -913,11 +988,11 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
       
       <title type="html">Firefox Quantum</title>
       
-      <link href="http://localhost:4000/2017/11/16/firefox-quantum/" rel="alternate" type="text/html" title="Firefox Quantum" />
+      <link href="http://localhost:4001/2017/11/16/firefox-quantum/" rel="alternate" type="text/html" title="Firefox Quantum" />
       <published>2017-11-16T00:00:00+00:00</published>
       <updated>2017-11-16T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/11/16/firefox-quantum</id>
-      <content type="html" xml:base="http://localhost:4000/2017/11/16/firefox-quantum/">&lt;p&gt;&lt;img src=&quot;/images/posts/firefox-quantum/1.png&quot; alt=&quot;firefox quantum&quot; /&gt;
+      <id>http://localhost:4001/2017/11/16/firefox-quantum</id>
+      <content type="html" xml:base="http://localhost:4001/2017/11/16/firefox-quantum/">&lt;p&gt;&lt;img src=&quot;/images/posts/firefox-quantum/1.png&quot; alt=&quot;firefox quantum&quot; /&gt;
 Baru-baru ini Firefox meluncurkan versi terbarunya, disebut Firefox Quantum, menjanjikan banyak perbaikan, bahkan &lt;em&gt;UI&lt;/em&gt; yang baru dari versi sebelumnya. Menurut &lt;a href=&quot;https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/&quot;&gt;&lt;em&gt;press rilis&lt;/em&gt;&lt;/a&gt;, Firefox Quantum dibuat menggunakan inti yang baru untuk menampilkan halaman &lt;em&gt;web&lt;/em&gt;, dan juga &lt;a href=&quot;http://design.firefox.com/photon/welcome.html&quot;&gt;desain&lt;/a&gt; &lt;em&gt;UI&lt;/em&gt; yang baru dan penggunaan memory yang irit.
 Beberapa hal dari rilis terbaru ini yang hendak di &lt;em&gt;highlight&lt;/em&gt; antara lain&lt;/p&gt;
 
@@ -980,11 +1055,11 @@ Beberapa hal dari rilis terbaru ini yang hendak di &lt;em&gt;highlight&lt;/em&gt
       
       <title type="html">Jenius Engineering weekly #22</title>
       
-      <link href="http://localhost:4000/2017/11/15/jeniustech-newsletter-22/" rel="alternate" type="text/html" title="Jenius Engineering weekly #22" />
+      <link href="http://localhost:4001/2017/11/15/jeniustech-newsletter-22/" rel="alternate" type="text/html" title="Jenius Engineering weekly #22" />
       <published>2017-11-15T00:00:00+00:00</published>
       <updated>2017-11-15T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/11/15/jeniustech-newsletter-22</id>
-      <content type="html" xml:base="http://localhost:4000/2017/11/15/jeniustech-newsletter-22/">&lt;p&gt;Welcome to Jenius Engineering newsletter #22, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2017/11/15/jeniustech-newsletter-22</id>
+      <content type="html" xml:base="http://localhost:4001/2017/11/15/jeniustech-newsletter-22/">&lt;p&gt;Welcome to Jenius Engineering newsletter #22, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading list&lt;/h4&gt;
 &lt;ul&gt;
@@ -1051,11 +1126,11 @@ Beberapa hal dari rilis terbaru ini yang hendak di &lt;em&gt;highlight&lt;/em&gt
       
       <title type="html">Jenius Engineer: Gabriel Lintang Sore</title>
       
-      <link href="http://localhost:4000/2017/11/09/engineer-gabriel-lintang/" rel="alternate" type="text/html" title="Jenius Engineer: Gabriel Lintang Sore" />
+      <link href="http://localhost:4001/2017/11/09/engineer-gabriel-lintang/" rel="alternate" type="text/html" title="Jenius Engineer: Gabriel Lintang Sore" />
       <published>2017-11-09T00:00:00+00:00</published>
       <updated>2017-11-09T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/11/09/engineer-gabriel-lintang</id>
-      <content type="html" xml:base="http://localhost:4000/2017/11/09/engineer-gabriel-lintang/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/lintang.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+      <id>http://localhost:4001/2017/11/09/engineer-gabriel-lintang</id>
+      <content type="html" xml:base="http://localhost:4001/2017/11/09/engineer-gabriel-lintang/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/lintang.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Saya &lt;a href=&quot;https://twitter.com/Gabrielintang&quot;&gt;Gabriel Lintang Sore&lt;/a&gt;, sebagai &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; Software Engineer, saat ini mengerjakan Jenius app untuk Android. Dalam bertanggung jawab bugfixing issue dan defect, develop story dan task dalam sprint, review code dan release apps untuk testing.&lt;/p&gt;
@@ -1126,11 +1201,11 @@ untuk mailing menggunakan &lt;a href=&quot;https://sparkmailapp.com/&quot;&gt;Sp
       
       <title type="html">Jenius Engineering weekly #21</title>
       
-      <link href="http://localhost:4000/2017/11/07/jensiutech-newsletter-21/" rel="alternate" type="text/html" title="Jenius Engineering weekly #21" />
+      <link href="http://localhost:4001/2017/11/07/jensiutech-newsletter-21/" rel="alternate" type="text/html" title="Jenius Engineering weekly #21" />
       <published>2017-11-07T00:00:00+00:00</published>
       <updated>2017-11-07T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/11/07/jensiutech-newsletter-21</id>
-      <content type="html" xml:base="http://localhost:4000/2017/11/07/jensiutech-newsletter-21/">&lt;p&gt;Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2017/11/07/jensiutech-newsletter-21</id>
+      <content type="html" xml:base="http://localhost:4001/2017/11/07/jensiutech-newsletter-21/">&lt;p&gt;Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Reading List&lt;/h4&gt;
 &lt;ul&gt;
@@ -1200,11 +1275,11 @@ untuk mailing menggunakan &lt;a href=&quot;https://sparkmailapp.com/&quot;&gt;Sp
       
       <title type="html">Jenius Engineer: Sidigdoyo Pribadi</title>
       
-      <link href="http://localhost:4000/2017/11/01/engineer-sidigdoyo/" rel="alternate" type="text/html" title="Jenius Engineer: Sidigdoyo Pribadi" />
+      <link href="http://localhost:4001/2017/11/01/engineer-sidigdoyo/" rel="alternate" type="text/html" title="Jenius Engineer: Sidigdoyo Pribadi" />
       <published>2017-11-01T00:00:00+00:00</published>
       <updated>2017-11-01T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/11/01/engineer-sidigdoyo</id>
-      <content type="html" xml:base="http://localhost:4000/2017/11/01/engineer-sidigdoyo/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/sidigg.jpg&quot; alt=&quot;Sidigdoyo Pribadi&quot; /&gt;&lt;/p&gt;
+      <id>http://localhost:4001/2017/11/01/engineer-sidigdoyo</id>
+      <content type="html" xml:base="http://localhost:4001/2017/11/01/engineer-sidigdoyo/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/sidigg.jpg&quot; alt=&quot;Sidigdoyo Pribadi&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Saya Sidigdoyo Pribadi, di Jenius sebagai Frontend engineer, &lt;em&gt;develop&lt;/em&gt; untuk mobile app Jenius, Android dan juga iOS, dan juga sebagai technical lead yang bertanggung jawab untuk &lt;em&gt;source code&lt;/em&gt; yang masuk ke &lt;em&gt;repo&lt;/em&gt; untuk dilakukan review dan &lt;em&gt;merge&lt;/em&gt;.&lt;/p&gt;
@@ -1279,11 +1354,11 @@ Untuk interaksi dengan API server menggunakan &lt;a href=&quot;https://insomnia.
       
       <title type="html">Jenius Engineering weekly #20</title>
       
-      <link href="http://localhost:4000/2017/10/31/jeniustech-newsletter-20/" rel="alternate" type="text/html" title="Jenius Engineering weekly #20" />
+      <link href="http://localhost:4001/2017/10/31/jeniustech-newsletter-20/" rel="alternate" type="text/html" title="Jenius Engineering weekly #20" />
       <published>2017-10-31T00:00:00+00:00</published>
       <updated>2017-10-31T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/10/31/jeniustech-newsletter-20</id>
-      <content type="html" xml:base="http://localhost:4000/2017/10/31/jeniustech-newsletter-20/">&lt;p&gt;Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2017/10/31/jeniustech-newsletter-20</id>
+      <content type="html" xml:base="http://localhost:4001/2017/10/31/jeniustech-newsletter-20/">&lt;p&gt;Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;last day in October, and here’s what the Jenius Engineer been reading.&lt;/p&gt;
 &lt;h4&gt;Reading lists&lt;/h4&gt;
@@ -1349,11 +1424,11 @@ Untuk interaksi dengan API server menggunakan &lt;a href=&quot;https://insomnia.
       
       <title type="html">Jenius Engineering weekly #19</title>
       
-      <link href="http://localhost:4000/2017/10/24/jeniustech-newsletter-19/" rel="alternate" type="text/html" title="Jenius Engineering weekly #19" />
+      <link href="http://localhost:4001/2017/10/24/jeniustech-newsletter-19/" rel="alternate" type="text/html" title="Jenius Engineering weekly #19" />
       <published>2017-10-24T00:00:00+00:00</published>
       <updated>2017-10-24T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/10/24/jeniustech-newsletter-19</id>
-      <content type="html" xml:base="http://localhost:4000/2017/10/24/jeniustech-newsletter-19/">&lt;p&gt;Welcome to Jenius Engineering newsletter #19, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+      <id>http://localhost:4001/2017/10/24/jeniustech-newsletter-19</id>
+      <content type="html" xml:base="http://localhost:4001/2017/10/24/jeniustech-newsletter-19/">&lt;p&gt;Welcome to Jenius Engineering newsletter #19, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here are lists of what JeniusTech Engineer read, and watch this week.&lt;/p&gt;
 
@@ -1426,11 +1501,11 @@ Untuk interaksi dengan API server menggunakan &lt;a href=&quot;https://insomnia.
       
       <title type="html">Topup eMoney menggunakan Jenius</title>
       
-      <link href="http://localhost:4000/2017/10/19/jenius-topup-emoney/" rel="alternate" type="text/html" title="Topup eMoney menggunakan Jenius" />
+      <link href="http://localhost:4001/2017/10/19/jenius-topup-emoney/" rel="alternate" type="text/html" title="Topup eMoney menggunakan Jenius" />
       <published>2017-10-19T00:00:00+00:00</published>
       <updated>2017-10-19T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/10/19/jenius-topup-emoney</id>
-      <content type="html" xml:base="http://localhost:4000/2017/10/19/jenius-topup-emoney/">&lt;p&gt;&lt;em&gt;E-Money&lt;/em&gt; atau uang-el (&lt;em&gt;iya, serius&lt;/em&gt;) menurut definisi &lt;em&gt;Bank for international Settlement (BIS)&lt;/em&gt; adalah produk &lt;em&gt;stored-value&lt;/em&gt; atau &lt;em&gt;prepaid&lt;/em&gt; dimana
+      <id>http://localhost:4001/2017/10/19/jenius-topup-emoney</id>
+      <content type="html" xml:base="http://localhost:4001/2017/10/19/jenius-topup-emoney/">&lt;p&gt;&lt;em&gt;E-Money&lt;/em&gt; atau uang-el (&lt;em&gt;iya, serius&lt;/em&gt;) menurut definisi &lt;em&gt;Bank for international Settlement (BIS)&lt;/em&gt; adalah produk &lt;em&gt;stored-value&lt;/em&gt; atau &lt;em&gt;prepaid&lt;/em&gt; dimana
 sejumlah nilai uang disimpan dalam suatu media elektronis yang dimiliki seseorang&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, penggunaan E-Money di indonesia sangat masif, karena memang di- &lt;em&gt;endorse&lt;/em&gt; oleh pemerintah, dan juga diinstruksikan agar semua transaksi di jalan tol menggunakan E-Money sebagai alat.&lt;/p&gt;
 
 &lt;p&gt;Pengisian saldo E-Money dari bank penerbit E-Money hampir mirip, bisa dilakukan melalui ATM yang mendukung pengisian saldo, atau dengan mengunjungi swalayan seperti indomaret atau alfamaret.&lt;/p&gt;
@@ -1509,112 +1584,6 @@ Di sini, kita masukkan nomor kartu dengan memilih Mandiri sebagai bank tujuan se
 
       
         <summary type="html">E-Money atau uang-el (iya, serius) menurut definisi Bank for international Settlement (BIS) adalah produk stored-value atau prepaid dimana sejumlah nilai uang disimpan dalam suatu media elektronis yang dimiliki seseorang1, penggunaan E-Money di indonesia sangat masif, karena memang di- endorse oleh pemerintah, dan juga diinstruksikan agar semua transaksi di jalan tol menggunakan E-Money sebagai alat. Pengisian saldo E-Money dari bank penerbit E-Money hampir mirip, bisa dilakukan melalui ATM yang mendukung pengisian saldo, atau dengan mengunjungi swalayan seperti indomaret atau alfamaret. Tapi ada cara yang bisa dilakukan tanpa harus keluar rumah, Jenius sebagai layanan finansial terdepan yang bahkan untuk onboard pun bisa dilakukan di rumah atau dimanapun selama jaringan internet ada. Pengisian saldo E-Money bisa dilakukan melalui aplikasi Jenius, di Jenius ada satu fitur yang digunakan untuk mengirimkan uang dari satu akun Jenius ke Jenius lain atau ke bank lain (free), yaitu fitur Send It. Juga kita akan membutuh kan perangkat Smartphone yang memiliki NFC (Near Field Communication), di sini menggunakan Samsung S8. ikuti caranya berikut Kajian Operasional E-Money  &amp;#8617;</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer: Marchell Imanuel</title>
-      
-      <link href="http://localhost:4000/2017/10/18/engineer-marchell-immanuel/" rel="alternate" type="text/html" title="Jenius Engineer: Marchell Imanuel" />
-      <published>2017-10-18T00:00:00+00:00</published>
-      <updated>2017-10-18T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/10/18/engineer-marchell-immanuel</id>
-      <content type="html" xml:base="http://localhost:4000/2017/10/18/engineer-marchell-immanuel/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/marchell.jpg&quot; alt=&quot;Marchell Immanuel&quot; /&gt;&lt;/p&gt;
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-
-&lt;p&gt;Saya &lt;a href=&quot;https://github.com/marchellll&quot;&gt;Marchell Imanuel&lt;/a&gt;. Saya Jenius Software Engineer yang sekarang fokus di backend development. &lt;br /&gt;
-Bahasa pemograman iOS (swift, obj-c), Javascript (&lt;em&gt;plain&lt;/em&gt;, react-native, reactjs, nodejs)&lt;/p&gt;
-
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/kb/SP715?locale=id_ID&quot;&gt;MacBook pro 13” 2015&lt;/a&gt;: main playground&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://oneplus.net/global/5&quot;&gt;OnePlus 5&lt;/a&gt;: main communication&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/id/ipad-mini-4/specs/&quot;&gt;iPad Mini 4&lt;/a&gt;: main entertainment&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/id/ipod-touch/&quot;&gt;iPod Touch&lt;/a&gt;: main muse&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- more --&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/idea/&quot;&gt;IntelliJ IDEA Ultimate&lt;/a&gt; – &lt;em&gt;Development&lt;/em&gt;, &lt;em&gt;coding&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm2&lt;/a&gt; – Untuk menjalankan &lt;em&gt;docker&lt;/em&gt;, &lt;em&gt;testing, _code coverage&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.zsh.org/&quot;&gt;ZSH&lt;/a&gt; – Shell selain bash, interaksi dengan sistem.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gitkraken.com/&quot;&gt;GitKraken&lt;/a&gt; – GIT GUI dengan antarmuka yang keren.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://insomnia.rest/&quot;&gt;Insomnia REST client&lt;/a&gt; – REST client, digunakan untuk &lt;em&gt;testing&lt;/em&gt; API &lt;em&gt;call&lt;/em&gt; ke &lt;em&gt;microservice&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker&lt;/a&gt; – Teknologi container yang digunakan untuk keperluan &lt;em&gt;microservice&lt;/em&gt; di Jenius.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://justgetflux.com/&quot;&gt;Flux&lt;/a&gt; – Warna monitor jadi lebih teduh dimalam hari&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.duetdisplay.com/&quot;&gt;Duet&lt;/a&gt; – Membuat iPad menjadi tampilan ekstra dari Mac&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.kekaosx.com/en/&quot;&gt;Keka&lt;/a&gt; – File archiver untuk macOS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.spotify.com/i&quot;&gt;Spotify&lt;/a&gt; – Music streaming&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=yuku.alkitab&amp;amp;hl=in&quot;&gt;Alkitab&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.btpn.dc&amp;amp;hl=in&quot;&gt;Jenius&lt;/a&gt; – &lt;em&gt;tentu!&lt;/em&gt;, aplikasi finansial.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/books&quot;&gt;Play Books&lt;/a&gt; – Baca buku dan literatur&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; – Untuk komunikasi internal Jenius&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.google.com/keep/&quot;&gt;Google Keep&lt;/a&gt; – Menyimpan &lt;em&gt;todo list&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.uber.com/en-ID/&quot;&gt;Uber&lt;/a&gt; – Ojek atau taksi online&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.netflix.com/&quot;&gt;Netflix&lt;/a&gt; – Nonton film terbaru atau lama.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/software/jira&quot;&gt;Jira&lt;/a&gt; – Platform komunikasi project, dimana semua developer, product, agile/scrum berkolaborasi.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/software/confluence&quot;&gt;Confluence&lt;/a&gt; – Kolaborasi konten dimana semua member yang terlibat di Jenius bisa mengakses, membuat dokumentasi, &lt;em&gt;knowledge base&lt;/em&gt;, atau kolaborasi project.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.shazam.com/&quot;&gt;Shazam&lt;/a&gt; – Identifikasi lagu.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://1password.com/&quot;&gt;1Password&lt;/a&gt; – Manajemen password.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://authy.com/&quot;&gt;Authy&lt;/a&gt; – Manajemen token (2FA)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/kb/SP715?locale=id_ID&quot;&gt;MacBook pro 13” 2015&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/id/ipad-mini-4/specs/&quot;&gt;iPad Mini 4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/id/ipod-touch/&quot;&gt;iPod Touch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/&quot;&gt;Audio Technica ATH-M50x&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.zeroaudio.jp/product_ZH-DWX10_01.html&quot;&gt;Zero Audio DUOZA&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Hardware Tokens&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/marchell-hs.jpg&quot; alt=&quot;marchell homescreen&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius engineer" />
-      
-        <category term="backstage" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Marchell Imanuel. Saya Jenius Software Engineer yang sekarang fokus di backend development. Bahasa pemograman iOS (swift, obj-c), Javascript (plain, react-native, reactjs, nodejs) Hardware yang digunakan MacBook pro 13” 2015: main playground OnePlus 5: main communication iPad Mini 4: main entertainment iPod Touch: main muse</summary>
       
 
       
