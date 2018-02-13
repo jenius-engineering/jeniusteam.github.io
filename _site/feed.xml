@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4001/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-02-06T11:32:13+00:00</updated>
+  <updated>2018-02-13T07:56:36+00:00</updated>
   <id>http://localhost:4001//</id>
 
   
@@ -24,6 +24,81 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #31</title>
+      
+      <link href="http://localhost:4001/2018/02/13/jeniustech-newsletter-31/" rel="alternate" type="text/html" title="Jenius Engineering weekly #31" />
+      <published>2018-02-13T00:00:00+00:00</published>
+      <updated>2018-02-13T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2018/02/13/jeniustech-newsletter-31</id>
+      <content type="html" xml:base="http://localhost:4001/2018/02/13/jeniustech-newsletter-31/">&lt;p&gt;Welcome to Jenius Engineering newsletter #31, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/top-developer-tools-2017&quot;&gt;Stackshare Top 50 Developer tools of 2017&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://research.hackerrank.com/developer-skills/2018/&quot;&gt;2018 Developer Skills Report&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum&quot;&gt;Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/think-think-think-before-you-code-52890a917ffd&quot;&gt;Think, think, think… before you code!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.apisyouwonthate.com/the-many-amazing-uses-of-json-schema-client-side-validation-c78a11fbde45&quot;&gt;The Many Amazing Uses of JSON Schema: Client-side Validation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/&quot;&gt;GraphQL as an API Gateway to Microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/the-twelve-factors-kubernetes/&quot;&gt;The Twelve-Factors Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/02/making-30x-performance-improvements-on-yelps-mysqlstreamer.html&quot;&gt;Making 30x performance improvements on Yelp’s MySQLStreamer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/introducing-capsule-networks&quot;&gt;Introducing capsule networks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://engineering.appfolio.com/appfolio-engineering/2018/2/4/how-fast-is-ruby-250&quot;&gt;How Fast is Ruby 2.5.0?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4&quot;&gt;An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ayende.com/blog/181857-A/ravendb-4-0-is-out&quot;&gt;RavenDB 4.0 released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Tools &amp;amp; Codes&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zalando/tech-radar&quot;&gt;Zalando Tech Radar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jamesknelson/mdxc&quot;&gt;MDXC – React Components within Markdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kantord/just-dashboard&quot;&gt;Create dashboards using YAML/JSON files&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rbspy/rbspy&quot;&gt;Rbspy – Sampling profiler for Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nact.io/&quot;&gt;Redux but for the server.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #31, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Stackshare Top 50 Developer tools of 2017 2018 Developer Skills Report Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity Think, think, think… before you code! The Many Amazing Uses of JSON Schema: Client-side Validation GraphQL as an API Gateway to Microservices The Twelve-Factors Kubernetes Making 30x performance improvements on Yelp’s MySQLStreamer Introducing capsule networks How Fast is Ruby 2.5.0? An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps News RavenDB 4.0 released Tools &amp;amp; Codes Zalando Tech Radar MDXC – React Components within Markdown Create dashboards using YAML/JSON files Rbspy – Sampling profiler for Ruby Redux but for the server. These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -65,7 +140,9 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/antonmedv/fx?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;fx – Command-line JSON processing tool&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/josecolella/Redis-With-JSON-Node?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Using Redis as a JSON store&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/shopnilsazal/simple-bcrypt?utm_source=jeniustech&amp;amp;utm_medium=blog&quot;&gt;Simple-bcrypt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
 
       
       
@@ -92,7 +169,7 @@
       
 
       
-        <summary type="html">Welcome to Jenius Engineering newsletter #30, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Rails 5.2: Active Storage and beyond How I Manage My Data A collection of awesome Ruby gems, tools, frameworks and software How we improved webpack build performance by 95% Up and Running with the OpenShift Ansible Broker Prometheus Alerts on OpenShift Please Stop Using Local Storage How to Design Motivating Push Notifications Introducing Mongobot: a Slackbot that can run MongoDB queries Testing your npm package before releasing it using Verdaccio + ngrok Introducing Node Clinic - A performance toolkit for Node.js developers Python + Memcached: Efficient Caching in Distributed Applications The Taste of Media Streaming with Flask News Node v9.5.0 Code &amp;amp; Tools trestle – A modern, responsive admin framework for Ruby on Rails Fawn – Promise based Library for transactions in MongoDB fx – Command-line JSON processing tool Using Redis as a JSON store Simple-bcrypt</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #30, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Rails 5.2: Active Storage and beyond How I Manage My Data A collection of awesome Ruby gems, tools, frameworks and software How we improved webpack build performance by 95% Up and Running with the OpenShift Ansible Broker Prometheus Alerts on OpenShift Please Stop Using Local Storage How to Design Motivating Push Notifications Introducing Mongobot: a Slackbot that can run MongoDB queries Testing your npm package before releasing it using Verdaccio + ngrok Introducing Node Clinic - A performance toolkit for Node.js developers Python + Memcached: Efficient Caching in Distributed Applications The Taste of Media Streaming with Flask News Node v9.5.0 Code &amp;amp; Tools trestle – A modern, responsive admin framework for Ruby on Rails Fawn – Promise based Library for transactions in MongoDB fx – Command-line JSON processing tool Using Redis as a JSON store Simple-bcrypt These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
@@ -1489,101 +1566,6 @@ Untuk interaksi dengan API server menggunakan &lt;a href=&quot;https://insomnia.
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #19, this newsletter published every tuesday-ish. please subscribe to our newsletter. Here are lists of what JeniusTech Engineer read, and watch this week. Reading list Configuring Puma, Unicorn and Passenger for Maximum Efficiency Why Ruby app servers break on macOS High Sierra and what can be done about it Security and Fundamentals at Scale with Vault [video] How I Socially Engineer Myself Into High Security Facilities Our team broke up with instant-legacy releases — and you can too We fired our top talent. Best decision we ever made. ButterCMS Architecture: a Mission-Critical API Serving Millions of Requests per Month Improved stacktrace display in Ruby 2.5 Rebuilding slack.com How I’m (Not) Using jQuery Introducing PayPal’s open-source cross-domain javascript suite News PhantomJS replaced with Chrome headless Passenger 5.1.11: support for High Sierra, HTTP/2, new features &amp;amp; fixes HashiCorp Consul 1.0 realeased Vue 2.5 released Tools Super simple PDF invoicing in Ruby ES2015+ cheatsheet These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Topup eMoney menggunakan Jenius</title>
-      
-      <link href="http://localhost:4001/2017/10/19/jenius-topup-emoney/" rel="alternate" type="text/html" title="Topup eMoney menggunakan Jenius" />
-      <published>2017-10-19T00:00:00+00:00</published>
-      <updated>2017-10-19T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/10/19/jenius-topup-emoney</id>
-      <content type="html" xml:base="http://localhost:4001/2017/10/19/jenius-topup-emoney/">&lt;p&gt;&lt;em&gt;E-Money&lt;/em&gt; atau uang-el (&lt;em&gt;iya, serius&lt;/em&gt;) menurut definisi &lt;em&gt;Bank for international Settlement (BIS)&lt;/em&gt; adalah produk &lt;em&gt;stored-value&lt;/em&gt; atau &lt;em&gt;prepaid&lt;/em&gt; dimana
-sejumlah nilai uang disimpan dalam suatu media elektronis yang dimiliki seseorang&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, penggunaan E-Money di indonesia sangat masif, karena memang di- &lt;em&gt;endorse&lt;/em&gt; oleh pemerintah, dan juga diinstruksikan agar semua transaksi di jalan tol menggunakan E-Money sebagai alat.&lt;/p&gt;
-
-&lt;p&gt;Pengisian saldo E-Money dari bank penerbit E-Money hampir mirip, bisa dilakukan melalui ATM yang mendukung pengisian saldo, atau dengan mengunjungi swalayan seperti indomaret atau alfamaret.&lt;/p&gt;
-
-&lt;p&gt;Tapi ada cara yang bisa dilakukan tanpa harus keluar rumah, &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt; sebagai layanan finansial terdepan yang bahkan untuk &lt;em&gt;onboard&lt;/em&gt; pun bisa dilakukan di rumah atau dimanapun selama jaringan internet ada.  &lt;br /&gt;
-Pengisian saldo E-Money bisa dilakukan melalui aplikasi Jenius, di Jenius ada satu fitur yang digunakan untuk mengirimkan uang dari satu akun Jenius ke Jenius lain atau ke bank lain (&lt;em&gt;free&lt;/em&gt;), yaitu fitur &lt;a href=&quot;https://www.jenius.com/features/send-it/&quot;&gt;&lt;strong&gt;&lt;em&gt;Send It&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;. Juga kita akan membutuh kan perangkat &lt;em&gt;Smartphone&lt;/em&gt; yang memiliki NFC (Near Field Communication), di sini menggunakan Samsung S8.&lt;/p&gt;
-
-&lt;p&gt;ikuti caranya berikut&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;h4&gt;Topup&lt;/h4&gt;
-&lt;p&gt;Di aplikasi Jenius, pilih menu &lt;strong&gt;Send It&lt;/strong&gt;
-&lt;img src=&quot;/images/posts/emoney/001.jpg&quot; alt=&quot;Send It&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Jika dilihat di belakang kartu E-Money (mandiri), akan ada nomor kartu, nomor ini yang akan kita gunakan sebagai rekening tujuan ketika melakukan &lt;strong&gt;Send it&lt;/strong&gt; dan topup.
-Di sini, kita masukkan nomor kartu dengan memilih Mandiri sebagai bank tujuan sebelumnya, kemudian klik ‘&lt;strong&gt;CHECK&lt;/strong&gt;’ kemudian klik ‘&lt;strong&gt;NEXT&lt;/strong&gt;’.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;dilangkah ini biasanya nasabah diminta untuk memasukkan password, karena proses ini juga menambahkan nomor tersebut sebagai Jenius Contact&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/12.jpg&quot; alt=&quot;Send It &amp;gt; check account&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kita masukkan jumlah nilai topup E-Money.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/02.jpg&quot; alt=&quot;Send It &amp;gt; masukkan nilai topup&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Confirm nilai yang diinput.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/03.jpg&quot; alt=&quot;Send It &amp;gt; Topup &amp;gt; confirm&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ketika sukses, bisa dilihat di menu &lt;strong&gt;In &amp;amp; Out&lt;/strong&gt;, di &lt;strong&gt;In &amp;amp; Out&lt;/strong&gt; bisa terlihat transaksi-transaksi yang kita lakukan, dalam kasus ini topup E-Money.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/002.jpg&quot; alt=&quot;transaction history, topup&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Langkah berikutnya adalah melihat saldo E-Money kita sesudah kita lakukan topup, di sini terlihat saldo sebelum aktivasi.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/003.jpg&quot; alt=&quot;topup result&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dan E-Money anda sudah terisi saldonya!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/emoney/004.jpg&quot; alt=&quot;topup result&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Semua bisa dilakukan tanpa perlu anda keluar rumah atau beranjak dari kursi.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.bi.go.id/id/publikasi/sistem-pembayaran/riset/Documents/4a79ad4a8dbe4ebca2c0f86a5a2f1c69KajianEMoney.pdf&quot;&gt;Kajian Operasional E-Money &lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="post" />
-      
-
-      
-        <category term="emoney" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">E-Money atau uang-el (iya, serius) menurut definisi Bank for international Settlement (BIS) adalah produk stored-value atau prepaid dimana sejumlah nilai uang disimpan dalam suatu media elektronis yang dimiliki seseorang1, penggunaan E-Money di indonesia sangat masif, karena memang di- endorse oleh pemerintah, dan juga diinstruksikan agar semua transaksi di jalan tol menggunakan E-Money sebagai alat. Pengisian saldo E-Money dari bank penerbit E-Money hampir mirip, bisa dilakukan melalui ATM yang mendukung pengisian saldo, atau dengan mengunjungi swalayan seperti indomaret atau alfamaret. Tapi ada cara yang bisa dilakukan tanpa harus keluar rumah, Jenius sebagai layanan finansial terdepan yang bahkan untuk onboard pun bisa dilakukan di rumah atau dimanapun selama jaringan internet ada. Pengisian saldo E-Money bisa dilakukan melalui aplikasi Jenius, di Jenius ada satu fitur yang digunakan untuk mengirimkan uang dari satu akun Jenius ke Jenius lain atau ke bank lain (free), yaitu fitur Send It. Juga kita akan membutuh kan perangkat Smartphone yang memiliki NFC (Near Field Communication), di sini menggunakan Samsung S8. ikuti caranya berikut Kajian Operasional E-Money  &amp;#8617;</summary>
       
 
       
