@@ -38,3 +38,6 @@ Welcome to Jenius Engineering newsletter #30, this newsletter published every tu
 - [fx -- Command-line JSON processing tool](https://github.com/antonmedv/fx?utm_source=jeniustech&utm_medium=blog)
 - [Using Redis as a JSON store](https://github.com/josecolella/Redis-With-JSON-Node?utm_source=jeniustech&utm_medium=blog)
 - [Simple-bcrypt](https://github.com/shopnilsazal/simple-bcrypt?utm_source=jeniustech&utm_medium=blog)
+
+
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com 
