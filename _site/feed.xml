@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-02-20T03:31:04+00:00</updated>
+  <updated>2018-02-27T07:17:50+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,84 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #33</title>
+      
+      <link href="http://localhost:4000/2018/02/27/jeniustech-newsletter-33/" rel="alternate" type="text/html" title="Jenius Engineering weekly #33" />
+      <published>2018-02-27T00:00:00+00:00</published>
+      <updated>2018-02-27T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/02/27/jeniustech-newsletter-33</id>
+      <content type="html" xml:base="http://localhost:4000/2018/02/27/jeniustech-newsletter-33/">&lt;p&gt;Welcome to Jenius Engineering newsletter #33, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Reading list&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2018/02/21/application-deployment.html?utm_source=jeniustech&quot;&gt;Application Deployment at Deliveroo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/build-a-recurrent-neural-network-using-apache-mxnet?utm_source=jeniustech&quot;&gt;Build a recurrent neural network using Apache MXNet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pubnub.com/blog/what-is-functions-as-a-service-faas/?utm_source=jeniustech&quot;&gt;What’s All the FaaS About?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/chroot-the-magical-healing-powers-of-the-original-linux-virtualization-tool-9aa4c3928711?utm_source=jeniustech&quot;&gt;Chroot: the magical healing powers of the original Linux virtualization tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.minio.io/iot-data-storage-and-analysis-with-fluentd-minio-and-spark-26f183381183?utm_source=jeniustech&quot;&gt;IoT data storage and analysis with Fluentd, Minio and Spark&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/?utm_source=jeniustech&quot;&gt;How production engineers support global events on Facebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/?utm_source=jeniustech&quot;&gt;Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/running-a-scalable-reliable-graphql-endpoint-with-serverless-24c3bb5acb43?utm_source=jeniustech&quot;&gt;Running a scalable &amp;amp; reliable GraphQL endpoint with Serverless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/how-algolia-built-their-frontend-search-widgets-with-react-dot-js-by-following-redux-principles/?utm_source=jeniustech&quot;&gt;How Algolia built their frontend search widgets with React.js by following redux principles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/02/how-showmax-got-into-live-streaming/&quot;&gt;How Showmax got into live streaming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/visualizing-archer-bcb80e319625?utm_source=jeniustech&quot;&gt;Visualizing Archer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/kubernetes-scaler/?utm_source=jeniustech&quot;&gt; How to build a Kubernetes Horizontal Pod Autoscaler using custom metrics &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/continuous-delivery-for-static-sites/?utm_source=jeniustech&quot;&gt;Continuous Delivery for Static Sites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d?utm_source=jeniustech&quot;&gt;The best architecture with Docker and Kubernetes — myth or reality?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2018/02/20/ruby-magic-syntactic-sugar-methods.html?utm_source=jeniustech&quot;&gt;Syntactic sugar methods in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/171139955345/v570?utm_source=jeniustech&quot;&gt;npm v5.7.0 released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sinatrarb.com/2018/02/19/sinatra-2.0.1.html?utm_source=jeniustech&quot;&gt;Sinatra v2.0.1 released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;News &amp;amp; Codes&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kennethreitz/requests-html?utm_source=jeniustech&quot;&gt;requests-html – HTML Parsing for Humans™ &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/NVIDIA/FastPhotoStyle?utm_source=jeniustech&quot;&gt;FastPhotoStyle – Style transfer, deep learning, feature transform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/t4t5/sweetalert?utm_source=jeniustech&quot;&gt;SweetAlert – A beautiful replacement for JavaScript’s “alert”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #33, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Application Deployment at Deliveroo Build a recurrent neural network using Apache MXNet What’s All the FaaS About? Chroot: the magical healing powers of the original Linux virtualization tool IoT data storage and analysis with Fluentd, Minio and Spark How production engineers support global events on Facebook Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2 Running a scalable &amp;amp; reliable GraphQL endpoint with Serverless How Algolia built their frontend search widgets with React.js by following redux principles How Showmax got into live streaming Visualizing Archer How to build a Kubernetes Horizontal Pod Autoscaler using custom metrics Continuous Delivery for Static Sites The best architecture with Docker and Kubernetes — myth or reality? Syntactic sugar methods in Ruby News npm v5.7.0 released Sinatra v2.0.1 released News &amp;amp; Codes requests-html – HTML Parsing for Humans™ FastPhotoStyle – Style transfer, deep learning, feature transform SweetAlert – A beautiful replacement for JavaScript’s “alert” These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1496,76 +1574,6 @@ Untuk interaksi dengan API server menggunakan &lt;a href=&quot;https://insomnia.
 
       
         <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Sidigdoyo Pribadi, di Jenius sebagai Frontend engineer, develop untuk mobile app Jenius, Android dan juga iOS, dan juga sebagai technical lead yang bertanggung jawab untuk source code yang masuk ke repo untuk dilakukan review dan merge. Hardware yang digunakan Macbook Pro digunakan sebagai device utama untuk coding dan development, iPhone SE untuk komunikasi, iPad mini untuk baca berita, game dan entertainment.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #20</title>
-      
-      <link href="http://localhost:4000/2017/10/31/jeniustech-newsletter-20/" rel="alternate" type="text/html" title="Jenius Engineering weekly #20" />
-      <published>2017-10-31T00:00:00+00:00</published>
-      <updated>2017-10-31T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/10/31/jeniustech-newsletter-20</id>
-      <content type="html" xml:base="http://localhost:4000/2017/10/31/jeniustech-newsletter-20/">&lt;p&gt;Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;last day in October, and here’s what the Jenius Engineer been reading.&lt;/p&gt;
-&lt;h4&gt;Reading lists&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/table-xi/a-quick-guide-to-rails-system-tests-in-rspec-b6e9e8a8b5f6?utm_source=jeniustech&quot;&gt;A Quick Guide to Rails System Tests in RSpec&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://devdocs.io/?utm_source=jeniustech&quot;&gt;Online browser-based API docs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://movingpackets.net/2017/10/06/misinterpreting-traceroute/?utm_source=jeniustech&quot;&gt;Traceroute Lies! A Typical Misinterpretation Of Output&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.docker.com/kubernetes?utm_source=jeniustech&quot;&gt;Build with docker, deploy to Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/coding-with-clarity?utm_source=jeniustech&quot;&gt;Coding with Clarity&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.alexhudson.com/2017/10/14/software-architecture-failing/?utm_source=jeniustech&quot;&gt;Software architecture is failing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devops.com/microservice-usage-honeycomb/?utm_source=jeniustech&quot;&gt;Microservice Usage at Honeycomb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.arkency.com/relative-testing-vs-absolute-testing/?utm_source=jeniustech&quot;&gt;Relative Testing vs Absolute Testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/integrating-react-in-a-6-year-old-rails-app/?utm_source=jeniustech&quot;&gt;Integrating React in a 6+ Year Old Rails App&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://zverok.github.io/blog/2017-10-22-stop-magic.html?utm_source=jeniustech&quot;&gt;Please stop calling it “magic”&lt;/a&gt;
-    &lt;h4&gt;News&lt;/h4&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/?utm_source=jeniustech&quot;&gt;10 new features in Ruby 2.5&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hanamirb.org/blog/2017/10/25/annoucing-hanami-110.html?utm_source=jeniustech&quot;&gt; Hanami v1.1.0&lt;/a&gt;
-    &lt;h4&gt;Tools&lt;/h4&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.mikeperham.com/2017/10/24/introducing-faktory/?utm_source=jeniustech&quot;&gt;Faktory&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.tiledb.io/?utm_source=jeniustech&quot;&gt;tileDB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://expediaincecommerceplatform.github.io/dataSqueeze/?utm_source=jeniustech&quot;&gt;dataSqueeze&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #20, this newsletter published every tuesday-ish. please subscribe to our newsletter. last day in October, and here’s what the Jenius Engineer been reading. Reading lists A Quick Guide to Rails System Tests in RSpec Online browser-based API docs Traceroute Lies! A Typical Misinterpretation Of Output Build with docker, deploy to Kubernetes Coding with Clarity Software architecture is failing Microservice Usage at Honeycomb Relative Testing vs Absolute Testing Integrating React in a 6+ Year Old Rails App Please stop calling it “magic” News 10 new features in Ruby 2.5 Hanami v1.1.0 Tools Faktory tileDB dataSqueeze These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
