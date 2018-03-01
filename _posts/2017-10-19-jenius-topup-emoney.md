@@ -57,6 +57,17 @@ Dan E-Money anda sudah terisi saldonya!
 ![topup result](/images/posts/emoney/004.jpg)
 
 
+**Dalam urutan langkah mudah untuk top up saldo e-money menggunakan Jenius** 
+1. Di aplikasi Jenius, pilih menu **Send It**
+2. Pilih Mandiri sebagai bank tujuan 
+3. Masukkan nomor kartu e-money anda (tertera di kartu e-money)
+4. Masukkan jumlah uang yang akan anda isi
+5. klik **Confirm** (masukkan password jika diperlukan)
+6. Setelah sukses transfer, buka aplikasi e-money isi ulang.
+7. Tempelkan kartu e-money anda di belakang ponsel yang support NFC untuk aktivasi saldo.
+8. Kartu e-money anda sudah terisi.
+
+
 Semua bisa dilakukan tanpa perlu anda keluar rumah atau beranjak dari kursi.
 
 
