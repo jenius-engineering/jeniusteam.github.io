@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4002/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4002/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-03-06T05:41:44+00:00</updated>
+  <updated>2018-03-12T03:39:18+00:00</updated>
   <id>http://localhost:4002//</id>
 
   
@@ -24,6 +24,62 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Wargame</title>
+      
+      <link href="http://localhost:4002/2018/03/12/wargame/" rel="alternate" type="text/html" title="Wargame" />
+      <published>2018-03-12T00:00:00+00:00</published>
+      <updated>2018-03-12T00:00:00+00:00</updated>
+      <id>http://localhost:4002/2018/03/12/wargame</id>
+      <content type="html" xml:base="http://localhost:4002/2018/03/12/wargame/">&lt;p&gt;Jenius sebagai perusahaan fintech, melayani 24/7, 365 adalah waktu yang diberikan kepada nasabah, masalah teknikal akan selalu ada, dari mulai service, infrastruktur yang terganggu, atau terjadi human error. Dan sebagai team engineering, hal ini tentu sudah harus diantisipasi, tidak saja dengan modal pengetahuan, tapi juga pengalaman, karena pengalaman akan berbeda tergantung dari latar belakang developer/engineer tersebut sebelumnya.&lt;/p&gt;
+
+&lt;p&gt;Wargame adalah salah satu cara untuk mendapatkan pengalaman yang dibutuhkan untuk menghadapi kemungkinan-kemungkinan yang terjadi di production, Jenius selalu mengadakan sesi khusus untuk Wargame, di sini engineer ditantang untuk menyelesaikan issue yang terjadi baik di production ataupun environment lain seperti SIT, UAT atau Staging, engineer diharapkan dapat melakukan task yang ada di wargame tersebut. 
+&lt;!-- more --&gt;
+Wargame menjadi salah satu pendekatan lain terhadap konsep &lt;a href=&quot;https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey&quot;&gt;Chaos Monkey&lt;/a&gt;, dengan melakukan hal ini secara rutin, dapat meningkatkan keawasan dari team development, operation, infrastruktur, jika terjadi issue, maka tim akan bisa menemukan cara penyelesaian.&lt;/p&gt;
+
+&lt;p&gt;Dalam dunia development, terutama sebagai engineer yang bertanggung jawab terhadap production, latihan ini akan melatih analisa dan keputusan apa yang diambil untuk menyelesaikan issue yang terjadi, skenario bisa didapat dari apa yang terjadi di lapangan, laporan dari pengguna, atau ide-ide gila dari kemungkinan kegagalan yang terjadi dalam story yang dibuat ketika membangun fitur dan lainnya.&lt;/p&gt;
+
+&lt;p&gt;Dalam Wargame, bisa dilakuan banyak skenario untuk melakukan latihan ini dilakukan oleh penyelenggara/perusak biasanya, misalkan jika aplikasi yang dibangun ada frontend dan backend, bisa dilakukan ‘pengrusakan’ di sisi backend, karena ini yang sering terjadi dan lihat apa yang terjadi di frontend. misalkan putuskan koneksi ke database, mematikan load-balancer dan lainnya, hal ini tergantung dari imajinasi penyelenggara/perusak.&lt;/p&gt;
+
+&lt;p&gt;Dari kasus yang terjadi di wargame tersebut, hendaknya ditulis apa yang terjadi, kemudian dokumentasikan langkah-langkah yang diambil dalam penyelesaian. jika masalah sudah teratasi, buatlah semacam root cause analysis (RCA), rca ini dibuat sebagai bahan acuan team production jika hal yang sama terjadi, dan ini juga bisa menjadi hal baru untuk tim development agar membuat patch atau fixing untuk issue/bug yang terjadi.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="post" />
+      
+
+      
+        <category term="sre" />
+      
+        <category term="production" />
+      
+        <category term="chaos monkey" />
+      
+
+      
+        <summary type="html">Jenius sebagai perusahaan fintech, melayani 24/7, 365 adalah waktu yang diberikan kepada nasabah, masalah teknikal akan selalu ada, dari mulai service, infrastruktur yang terganggu, atau terjadi human error. Dan sebagai team engineering, hal ini tentu sudah harus diantisipasi, tidak saja dengan modal pengetahuan, tapi juga pengalaman, karena pengalaman akan berbeda tergantung dari latar belakang developer/engineer tersebut sebelumnya. Wargame adalah salah satu cara untuk mendapatkan pengalaman yang dibutuhkan untuk menghadapi kemungkinan-kemungkinan yang terjadi di production, Jenius selalu mengadakan sesi khusus untuk Wargame, di sini engineer ditantang untuk menyelesaikan issue yang terjadi baik di production ataupun environment lain seperti SIT, UAT atau Staging, engineer diharapkan dapat melakukan task yang ada di wargame tersebut.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1496,81 +1552,6 @@ Beberapa hal dari rilis terbaru ini yang hendak di &lt;em&gt;highlight&lt;/em&gt
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #22, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list How Discord Resizes 150 Million Images Every Day with Go and C++ Firefox Quantum Mikado Method FRP at Kickstarter and Kotlin The Case for RSS News Node 9.2.0 released Elasticsearch 6.0.0 GA released Vault 0.9 Tools AppPerf (Application Performance Monitoring) Ruby Agent for the AppPerf app System Agent for App Perf These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com Jenius sudah ada di Bandung!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer: Gabriel Lintang Sore</title>
-      
-      <link href="http://localhost:4002/2017/11/09/engineer-gabriel-lintang/" rel="alternate" type="text/html" title="Jenius Engineer: Gabriel Lintang Sore" />
-      <published>2017-11-09T00:00:00+00:00</published>
-      <updated>2017-11-09T00:00:00+00:00</updated>
-      <id>http://localhost:4002/2017/11/09/engineer-gabriel-lintang</id>
-      <content type="html" xml:base="http://localhost:4002/2017/11/09/engineer-gabriel-lintang/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/lintang.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Saya &lt;a href=&quot;https://twitter.com/Gabrielintang&quot;&gt;Gabriel Lintang Sore&lt;/a&gt;, sebagai &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; Software Engineer, saat ini mengerjakan Jenius app untuk Android. Dalam bertanggung jawab bugfixing issue dan defect, develop story dan task dalam sprint, review code dan release apps untuk testing.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;Mackbook Pro 13”&lt;/a&gt; untuk kebutuhan &lt;em&gt;development code&lt;/em&gt;, rilis, testing dan publish baik di internal environment maupun untuk &lt;em&gt;production&lt;/em&gt; dan &lt;a href=&quot;http://www.dell.com/hr/business/p/dell-u2414h/pd&quot;&gt;Dell U2471H&lt;/a&gt; sebagai monitor kedua.
-&lt;a href=&quot;http://www.samsung.com/id/smartphones/galaxy-a7-2016-a720/SM-A720FZBDXID/&quot;&gt;Samsung Galaxy A7&lt;/a&gt; untuk keperluan testing di &lt;em&gt;device&lt;/em&gt; dan &lt;em&gt;debugging&lt;/em&gt;, &lt;a href=&quot;https://www.asus.com/id/Phone/ZenFone_2_ZE551ML/&quot;&gt;Asus zenfone 2&lt;/a&gt; komunikasi dan hiburan.&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;Untuk develop aplikasi menggunakan &lt;a href=&quot;https://developer.android.com/studio/preview/index.html?hl=id&quot;&gt;Android Studio 3.0&lt;/a&gt; sebagai editor utama, manajemen repositori menggunakan &lt;a href=&quot;https://www.gitkraken.com/&quot;&gt;GitKraken&lt;/a&gt; + &lt;a href=&quot;https://www.iterm2.com/&quot;&gt;Iterm2&lt;/a&gt; + &lt;a href=&quot;http://www.zsh.org/&quot;&gt;Zsh&lt;/a&gt; untuk shell nya. Untuk proses debugging network call menggunakan &lt;a href=&quot;https://developer.chrome.com/devtools&quot;&gt;DevTools&lt;/a&gt; dari &lt;a href=&quot;https://www.google.com/chrome/browser/desktop/index.html&quot;&gt;Google Chrome&lt;/a&gt;.
-untuk mailing menggunakan &lt;a href=&quot;https://sparkmailapp.com/&quot;&gt;Spark&lt;/a&gt;, all messaging(wa, slack, dll) menggunakan &lt;a href=&quot;https://meetfranz.com/&quot;&gt;Franz&lt;/a&gt;, mendengarkan musik menggunakan &lt;a href=&quot;https://www.spotify.com/id/&quot;&gt;Spotify&lt;/a&gt; + &lt;a href=&quot;http://www.globaldelight.com/boom3d/index.php&quot;&gt;Boom 3D&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt;! jelas untuk keperluan keuangan. &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&quot;&gt;Jira Cloud&lt;/a&gt; untuk monitor ticket, issue, story dan bug. &lt;a href=&quot;https://slack.com/?utm_source=jeniustech&quot;&gt;Slack&lt;/a&gt; untuk komunikasi internal Jenius. &lt;a href=&quot;https://www.google.com/keep/&quot;&gt;Google Keep&lt;/a&gt; untuk menyimpan catatan penting antar perangkat. &lt;a href=&quot;https://twitter.com&quot;&gt;Twitter&lt;/a&gt; untuk berita dan sumber informasi. &lt;a href=&quot;https://www.grab.com/id/&quot;&gt;Grab&lt;/a&gt; untuk transportasi. &lt;a href=&quot;https://9gag.com&quot;&gt;9gag&lt;/a&gt;, &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.freerange360.mpp.GOAL&quot;&gt;Goal&lt;/a&gt;, &lt;a href=&quot;http://mangazoneapp.com/&quot;&gt;Mangazone&lt;/a&gt; untuk hiburan.&lt;/p&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;Mackbook Pro 13”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.audio-technica.com/cms/headphones/2d52765b7d84656c/index.html&quot;&gt;Audio Technica ATH-M20X&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;vitamin&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Homescreen&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/lintang-hs.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius engineer" />
-      
-        <category term="backstage" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Gabriel Lintang Sore, sebagai Jenius Software Engineer, saat ini mengerjakan Jenius app untuk Android. Dalam bertanggung jawab bugfixing issue dan defect, develop story dan task dalam sprint, review code dan release apps untuk testing.</summary>
       
 
       
