@@ -20,6 +20,9 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+      {% if post.image != empty %}
+      <img src="{{ page.image }}"><br><br>
+      {% endif %}
     {{ content }}
   </div>
 
