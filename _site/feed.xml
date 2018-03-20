@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4001/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-03-13T07:36:34+00:00</updated>
+  <updated>2018-03-20T04:21:52+00:00</updated>
   <id>http://localhost:4001//</id>
 
   
@@ -28,13 +28,99 @@
   
     <entry>
       
+      <title type="html">Jenius Engineering weekly #36</title>
+      
+      <link href="http://localhost:4001/2018/03/20/jeniustech-newsletter-36/" rel="alternate" type="text/html" title="Jenius Engineering weekly #36" />
+      <published>2018-03-20T00:00:00+00:00</published>
+      <updated>2018-03-20T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2018/03/20/jeniustech-newsletter-36</id>
+      <content type="html" xml:base="http://localhost:4001/2018/03/20/jeniustech-newsletter-36/">&lt;p&gt;Welcome to Jenius Engineering newsletter #36, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Reading list&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/&quot;&gt;Learn How to Build a Time Series Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401&quot;&gt;How JavaScript works: tracking changes in the DOM using MutationObserver&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams&quot;&gt;Transforming enterprise integration with reactive streams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.invisionapp.com/blog/accessibility-for-developers/?utm_campaign=Weekly%20Digest&amp;amp;utm_source=jakartadev.org&quot;&gt;Accessibility for developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.serverlessops.io/blog/serverless-ops-what-do-we-do-when-the-server-goes-away&quot;&gt;Serverless Ops: What do we do when the server goes away?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sanderknape.com/2018/03/secret-management-design-decisions-theory-plus-an-example/&quot;&gt;Secret management design decisions theory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/to-boldly-log-debug-docker-apps-effectively-using-logs-options-tail-and-grep-53d2e655abcb&quot;&gt;To boldly log: debug Docker apps effectively using logs options, tail and grep&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://testdriven.io/asynchronous-tasks-with-falcon-and-celery&quot;&gt;Asynchronous Tasks with Falcon and Celery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.valentinog.com/blog/tutorial-api-django-rest-react/&quot;&gt;Tutorial: Django REST with React (Django 2.0)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/effective-naming-in-data-science-ea847c04f51b&quot;&gt;The Effect of Naming in Data Science Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs&quot;&gt;Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.memsql.com/shattering-the-trillion-rows-per-second-barrier-with-memsql/?utm_source=jakartadev&quot;&gt;Shattering the Trillion-Rows-Per-Second Barrier With MemSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/monolithic-applications-into-services?utm_source=jakartadev&quot;&gt;SHIFT Commerce’s Journey: Deconstructing Monolithic Applications into Services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/grail/?utm_source=jakartadev&quot;&gt;Scaling Infrastructure Management with Grail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.trello.com/how-to-release-a-buggy-app-and-live-to-tell-the-story/?utm_source=jakartadev&quot;&gt;How to Release a Buggy App (And Live to Tell the Tale)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://insights.stackoverflow.com/survey/2018?utm_source=jakartadev&quot;&gt;Developer Survey Results&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4?utm_source=jakartadev&quot;&gt;Project Nimble: Region Evacuation Reimagined&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/event-sourcing-using-apache-kafka/?utm_source=jakartadev&quot;&gt;Event Sourcing Using Apache Kafka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/171813275740/v580-next0&quot;&gt;NPM v5.8.0-next.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Codes &amp;amp; Tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/boisgera/bitstream/&quot;&gt;Bitstream – Binary Data for Humans&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ajcr/rolling&quot;&gt;Rolling –  A collection of computationally efficient rolling window iterators (sum, min/max, variance, and more)
+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gene1wood/github-collaborator-manager&quot;&gt;GitHub collaborators managers  – A tool to manage GitHub repo collaborators with files&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/awesome-nodejs&quot;&gt;Awesome Nodejs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bitjson/typescript-starter&quot;&gt;TypeScript Starter – Quickly create and configure a new library or Node.js project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/maticzav/emma-cli&quot;&gt;Emma – Terminal assistant to find and install node packages.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #36, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Learn How to Build a Time Series Database How JavaScript works: tracking changes in the DOM using MutationObserver Transforming enterprise integration with reactive streams Accessibility for developers Serverless Ops: What do we do when the server goes away? Secret management design decisions theory To boldly log: debug Docker apps effectively using logs options, tail and grep Asynchronous Tasks with Falcon and Celery Tutorial: Django REST with React (Django 2.0) The Effect of Naming in Data Science Code Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js Shattering the Trillion-Rows-Per-Second Barrier With MemSQL SHIFT Commerce’s Journey: Deconstructing Monolithic Applications into Services Scaling Infrastructure Management with Grail How to Release a Buggy App (And Live to Tell the Tale) Developer Survey Results Project Nimble: Region Evacuation Reimagined Event Sourcing Using Apache Kafka News NPM v5.8.0-next.0 Codes &amp;amp; Tools Bitstream – Binary Data for Humans Rolling – A collection of computationally efficient rolling window iterators (sum, min/max, variance, and more) GitHub collaborators managers – A tool to manage GitHub repo collaborators with files Awesome Nodejs TypeScript Starter – Quickly create and configure a new library or Node.js project Emma – Terminal assistant to find and install node packages. These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Jenius Engineering weekly #35</title>
       
       <link href="http://localhost:4001/2018/03/13/jeniustech-newsletter-35/" rel="alternate" type="text/html" title="Jenius Engineering weekly #35" />
       <published>2018-03-13T00:00:00+00:00</published>
       <updated>2018-03-13T00:00:00+00:00</updated>
       <id>http://localhost:4001/2018/03/13/jeniustech-newsletter-35</id>
-      <content type="html" xml:base="http://localhost:4001/2018/03/13/jeniustech-newsletter-35/">&lt;h3&gt;Reading List&lt;/h3&gt;
+      <content type="html" xml:base="http://localhost:4001/2018/03/13/jeniustech-newsletter-35/">&lt;p&gt;Welcome to Jenius Engineering newsletter #35, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Reading List&lt;/h3&gt;
 &lt;h4&gt;&lt;a href=&quot;http://bitcannon.net/post/a-year-away-from-mac-os/&quot;&gt;A Year Away from macOS&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Terkadang untuk bisa lepas dari sistem yang membuat kita ‘nyaman’ itu susah, apalagi untuk menyamai, dan dalam artikel ini dibahas bagaimana untuk bisa terbiasa dengan GNU/Linux setelah sebelumnya terbiasa dengan macOS.&lt;/p&gt;
 
@@ -64,7 +150,9 @@
 &lt;h4&gt;&lt;a href=&quot;https://github.com/pantsel/konga&quot;&gt;GUI to Kong Admin API&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Kong saat ini banyak diadopsi oleh perusahaan-perusahaan, Kong salah satu solusi murah untuk me-&lt;em&gt;manage&lt;/em&gt; API yang disediakan, karena &lt;a href=&quot;https://getkong.org&quot;&gt;Kong&lt;/a&gt; selain open-source, juga mudah untuk digunakan, apalagi dengan bantuan Admin UI seperti Konga ini.&lt;/p&gt;
 
-&lt;h4&gt;&lt;a href=&quot;https://github.com/ariebovenberg/snug&quot;&gt;Snug – Write reusable web API interactions&lt;/a&gt;&lt;/h4&gt;</content>
+&lt;h4&gt;&lt;a href=&quot;https://github.com/ariebovenberg/snug&quot;&gt;Snug – Write reusable web API interactions&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
 
       
       
@@ -91,7 +179,7 @@
       
 
       
-        <summary type="html">Reading List A Year Away from macOS Terkadang untuk bisa lepas dari sistem yang membuat kita ‘nyaman’ itu susah, apalagi untuk menyamai, dan dalam artikel ini dibahas bagaimana untuk bisa terbiasa dengan GNU/Linux setelah sebelumnya terbiasa dengan macOS. Kumpulan artikel dan atau tutorial Rust Rust sebagai bahasa pemograman yang dibangun oleh Mozilla saat ini banyak diminati karena terhitung cepat dari sisi performance, dan juga kemududahan untuk diadopsi sebagai bahasa pembangun untuk microservice misalkan.</summary>
+        <summary type="html">Welcome to Jenius Engineering newsletter #35, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading List A Year Away from macOS Terkadang untuk bisa lepas dari sistem yang membuat kita ‘nyaman’ itu susah, apalagi untuk menyamai, dan dalam artikel ini dibahas bagaimana untuk bisa terbiasa dengan GNU/Linux setelah sebelumnya terbiasa dengan macOS. Kumpulan artikel dan atau tutorial Rust Rust sebagai bahasa pemograman yang dibangun oleh Mozilla saat ini banyak diminati karena terhitung cepat dari sisi performance, dan juga kemududahan untuk diadopsi sebagai bahasa pembangun untuk microservice misalkan.</summary>
       
 
       
@@ -1490,73 +1578,6 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #23, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading List A CEO’s Guide to Emacs User experience design for APIs Announcing AWS Amplify and the AWS Mobile CLI What is Email Header Injection? The Cost Of JavaScript Pragmatic Releasing: Less Worry, More Shipping Grappling with Go Better Random Number Generation for OpenSSL, libc, and Linux Mainline Replacing x86 firmware with Linux and Go I just don’t want to be a software developer anymore How a single PostgreSQL config change improved slow query performance by 50x Tools Luxon – A library for working with dates and times in JS List of free tools for dev – offering free tier Beego – GO Framework AWS-Amplify – A declarative library for application development using Cloud services with JavaScript These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Firefox Quantum</title>
-      
-      <link href="http://localhost:4001/2017/11/16/firefox-quantum/" rel="alternate" type="text/html" title="Firefox Quantum" />
-      <published>2017-11-16T00:00:00+00:00</published>
-      <updated>2017-11-16T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2017/11/16/firefox-quantum</id>
-      <content type="html" xml:base="http://localhost:4001/2017/11/16/firefox-quantum/">&lt;p&gt;&lt;img src=&quot;/images/posts/firefox-quantum/1.png&quot; alt=&quot;firefox quantum&quot; /&gt;
-Baru-baru ini Firefox meluncurkan versi terbarunya, disebut Firefox Quantum, menjanjikan banyak perbaikan, bahkan &lt;em&gt;UI&lt;/em&gt; yang baru dari versi sebelumnya. Menurut &lt;a href=&quot;https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/&quot;&gt;&lt;em&gt;press rilis&lt;/em&gt;&lt;/a&gt;, Firefox Quantum dibuat menggunakan inti yang baru untuk menampilkan halaman &lt;em&gt;web&lt;/em&gt;, dan juga &lt;a href=&quot;http://design.firefox.com/photon/welcome.html&quot;&gt;desain&lt;/a&gt; &lt;em&gt;UI&lt;/em&gt; yang baru dan penggunaan memory yang irit.
-Beberapa hal dari rilis terbaru ini yang hendak di &lt;em&gt;highlight&lt;/em&gt; antara lain&lt;/p&gt;
-
-&lt;!-- more --&gt;
-&lt;h4&gt;Pencarian&lt;/h4&gt;
-&lt;p&gt;Desain sistem pencarian yang baru sangat mudah digunakan, fungsi ini menampilkan opsi mesin pencari yang berbeda ketika kita mencoba melakukan pencarian, dengan &lt;em&gt;default&lt;/em&gt; mesin pencari tetap Google.
-&lt;img src=&quot;/images/posts/firefox-quantum/2.png&quot; alt=&quot;search engine&quot; /&gt;&lt;/p&gt;
-
-&lt;h4&gt;Manajemen &lt;em&gt;Addons&lt;/em&gt;&lt;/h4&gt;
-&lt;p&gt;Untuk fitur ini, tidak ada perubahan yang signifikan dibanding dengan yang lama, tetapi memang desain &lt;em&gt;UI&lt;/em&gt; sangat baru dan terkesan ‘segar’.
-&lt;img src=&quot;/images/posts/firefox-quantum/3.png&quot; alt=&quot;Addons Management&quot; /&gt;&lt;/p&gt;
-
-&lt;h4&gt;Kostumasi Firefox&lt;/h4&gt;
-&lt;p&gt;Fitur ini sudah didesain ulang, dan juga terlihat cantik.
-&lt;img src=&quot;/images/posts/firefox-quantum/4.png&quot; alt=&quot;Customize Firefox&quot; /&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;em&gt;Web Developer Tools&lt;/em&gt;&lt;/h4&gt;
-&lt;p&gt;Firefox Quantum seperti juga versi sebelumnya, dilengkapi dengan alat untuk membantu para &lt;em&gt;Web Developer&lt;/em&gt;, dengan aplikasi seperti &lt;em&gt;Eyedropper&lt;/em&gt;, &lt;em&gt;Scratchpad&lt;/em&gt;, WebIDE dan lain sebagainya. aplikasi-aplikasi pembantu yang ada di browser ini amat sangat berguna untk membangun baik aplikasi web atau membangun halamannya itu sendiri.&lt;/p&gt;
-
-&lt;h4&gt;Kesimpulan&lt;/h4&gt;
-&lt;p&gt;Rilis terbaru ini, Firefox Quantum memang terbukti cepat, membuka halaman sampai 30 tab tetap lancar, arsitektur 64bit, design &lt;em&gt;UI&lt;/em&gt; baru, &lt;em&gt;default&lt;/em&gt; instalasi dengan &lt;em&gt;bar&lt;/em&gt; hitam kalau terbiasa dengan browser Chrome terlihat seperti &lt;em&gt;Incognito Mode&lt;/em&gt;, sinkronisasi akun juga lancar.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="post" />
-      
-
-      
-        <category term="firefox" />
-      
-        <category term="browser" />
-      
-        <category term="review" />
-      
-
-      
-        <summary type="html">Baru-baru ini Firefox meluncurkan versi terbarunya, disebut Firefox Quantum, menjanjikan banyak perbaikan, bahkan UI yang baru dari versi sebelumnya. Menurut press rilis, Firefox Quantum dibuat menggunakan inti yang baru untuk menampilkan halaman web, dan juga desain UI yang baru dan penggunaan memory yang irit. Beberapa hal dari rilis terbaru ini yang hendak di highlight antara lain</summary>
       
 
       

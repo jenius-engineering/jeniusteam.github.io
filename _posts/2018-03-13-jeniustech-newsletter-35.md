@@ -11,6 +11,8 @@ categories:
 published: true
 ---
 
+Welcome to Jenius Engineering newsletter #35, this newsletter published every tuesday-*ish*. please subscribe to our [newsletter](http://jenius.tech/newsletter).
+
 
 ### Reading List
 #### [A Year Away from macOS](http://bitcannon.net/post/a-year-away-from-mac-os/)
@@ -45,3 +47,6 @@ Untuk tim develpment atau perusahaan yang terbiasa melakukan komunikasi teks, bi
 Kong saat ini banyak diadopsi oleh perusahaan-perusahaan, Kong salah satu solusi murah untuk me-*manage* API yang disediakan, karena [Kong](https://getkong.org) selain open-source, juga mudah untuk digunakan, apalagi dengan bantuan Admin UI seperti Konga ini.
 
 #### [Snug -- Write reusable web API interactions](https://github.com/ariebovenberg/snug)
+
+
+These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com 
