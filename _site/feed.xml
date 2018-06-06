@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <generator uri="http://jekyllrb.com" version="3.7.2">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.8.1">Jekyll</generator>
   
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-03-27T06:49:35+00:00</updated>
+  <updated>2018-06-06T04:29:36+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,76 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineering weekly #38</title>
+      
+      <link href="http://localhost:4000/2018/06/06/jeniustech-newsletter-38/" rel="alternate" type="text/html" title="Jenius Engineering weekly #38" />
+      <published>2018-06-06T00:00:00+00:00</published>
+      <updated>2018-06-06T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/06/06/jeniustech-newsletter-38</id>
+      <content type="html" xml:base="http://localhost:4000/2018/06/06/jeniustech-newsletter-38/">&lt;p&gt;Welcome to Jenius Engineering newsletter #38, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.
+Setelah Jenius meluncurkan Jenius 2.0 yang merupakan &lt;em&gt;upgrade&lt;/em&gt; yang berisi banyak &lt;em&gt;improvement&lt;/em&gt; dari versi sebelumnya, seperti mengadopsi konsep microservices, management service dengan docker, juga beberapa &lt;em&gt;improvement&lt;/em&gt; di sisi aplikasi mobile-nya.&lt;/p&gt;
+
+&lt;p&gt;Sekarang kembali lagi dengan berita/informasi di dunia &lt;em&gt;development&lt;/em&gt; dan teknologi! &lt;em&gt;Selamat membaca!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;Reading List&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stratechery.com/2018/the-cost-of-developers/&quot;&gt;The Cost of Developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/neshaz/git-merge-vs-git-rebase-5134&quot;&gt;Git Merge vs Git Rebase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@xevix/gaijin-engineer-in-tokyo-aaa9be8919b2&quot;&gt;Gaijin Engineer in Tokyo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/wwdc/&quot;&gt;WWDC 18&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gravitational.com/blog/hashing-for-anonymization/&quot;&gt;The False Allure of Hashing for Anonymization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://read.acloud.guru/serverless-application-with-flutter-lambda-aa0d264fbefd?source=rss----3a8144eabfe3---4&amp;amp;gi=c7e46642a702&quot;&gt;Google Flutter with AWS Lambda to build a serverless mobile app for movie listings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://distill.pub/2018/building-blocks/&quot;&gt;The Building Blocks of Interpretability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff&quot;&gt;Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;News&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/&quot;&gt;Microsoft acquired Github!&lt;/a&gt;, and &lt;a href=&quot;https://blog.github.com/2018-06-04-github-microsoft/&quot;&gt;blogpost from Github&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Tools &amp;amp; Codes&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/RohitAwate/Everest&quot;&gt;Everest – A beautiful and lightweight REST client built with JavaFX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/container-map/&quot;&gt;Container map view in Datadog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Welcome to Jenius Engineering newsletter #38, this newsletter published every tuesday-ish. please subscribe to our newsletter. Setelah Jenius meluncurkan Jenius 2.0 yang merupakan upgrade yang berisi banyak improvement dari versi sebelumnya, seperti mengadopsi konsep microservices, management service dengan docker, juga beberapa improvement di sisi aplikasi mobile-nya. Sekarang kembali lagi dengan berita/informasi di dunia development dan teknologi! Selamat membaca! Reading List The Cost of Developers Git Merge vs Git Rebase Gaijin Engineer in Tokyo WWDC 18 The False Allure of Hashing for Anonymization Google Flutter with AWS Lambda to build a serverless mobile app for movie listings The Building Blocks of Interpretability Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code News Microsoft acquired Github!, and blogpost from Github. Tools &amp;amp; Codes Everest – A beautiful and lightweight REST client built with JavaFX Container map view in Datadog</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1504,87 +1574,6 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
 
       
         <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Feizal Badri Asmoro, software engineer yang bertanggung jawab atas frontend development untuk aplikasi dan website Jenius. Mengawali karir sebagai iOS dan android mobile application developer. Namun belakangan ini banyak menghabiskan waktu untuk mempelajari React Native. Sebagai seseorang yang mengawali karir sebagai native app developer dan sekarang bekerja dengan menggunakan React Native framework, I would love to recommend you to use React Native. React native is a very cool framework! Worth to try guys. beberapa alasan kenapa Jenius tempat yang tepat untuk berkarya menurut saya adalah Reinvent bank industry is a very challenging and interesting job! Kesempatan untuk bekerja sama dengan banyak orang dari berbagai negara Good working environment</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #24</title>
-      
-      <link href="http://localhost:4000/2017/12/12/jeniustech-newsletter-24/" rel="alternate" type="text/html" title="Jenius Engineering weekly #24" />
-      <published>2017-12-12T00:00:00+00:00</published>
-      <updated>2017-12-12T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/12/12/jeniustech-newsletter-24</id>
-      <content type="html" xml:base="http://localhost:4000/2017/12/12/jeniustech-newsletter-24/">&lt;p&gt;Welcome to Jenius Engineering newsletter #24, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Reading Lists&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2017/12/microsofts-q-quantum-programming-language-out-now-in-preview/&quot;&gt;Microsoft’s Q# quantum programming language out now in preview&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://2ality.com/2017/12/alternate-this.html&quot;&gt;A different way of understanding this in JavaScript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.google/topics/research/makings-smart-cookie/&quot;&gt;The makings of a smart cookie&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://buoyant.io/2017/12/05/introducing-conduit/&quot;&gt;Introducing Conduit&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bash-prompt.net/guides/server-hacked/&quot;&gt;How To Tell If Your Linux Server Has Been Compromised&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.targetprocess.com/blog/2017/12/every-feature-considered-harmful-debts-in-software-development/&quot;&gt;Every feature considered harmful: Debts in software development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/201x/2017/11/27/Software-Reality&quot;&gt;Unapocalyptic Software&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/maker-to-manager/why-your-programmers-just-want-to-code-36da9973388e&quot;&gt;Why your programmers just want to code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-i-automated-my-teams-agile-and-scrum-processes-with-scrumile-6e497895ecf5&quot;&gt;How I automated my team’s agile and Scrum processes with Scrumile&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devel.tech/tips/n/tMuXz2lj/the-power-of-tmux-hooks/&quot;&gt;The Power Of tmux Hooks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/sophiedebenedetto/smarter-rails-services-with-active-model-modules-17o&quot;&gt;Smarter Rails Services with Active Model Modules &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://magoo.github.io/Blockchain-Graveyard/&quot;&gt;Blockchain Graveyard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/apis-explorer/#s/&quot;&gt;Google APIs Explorer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://martinfowler.com/articles/products-over-projects.html&quot;&gt;Products Over Projects&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.backerkit.com/blog/distributed-teams&quot;&gt;Developer’s Guide to Successful Distributed Teams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/empowering-teams-to-build-great-products-4b457cafc1&quot;&gt;Empowering teams to build great products&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.djangoproject.com/en/2.0/releases/2.0/&quot;&gt;Django 2.0 &lt;em&gt;released&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tools&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://conduit.io/&quot;&gt;Conduit – next-generation ultralight service mesh for Kubernetes.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://parceljs.org/&quot;&gt;ParcelJS – Blazing fast, zero configuration web application bundler&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nebula-orchestrator.github.io/&quot;&gt;Nebula – Nebula container orchestrator aims to help devs and ops treat IoT devices just like distributed Dockerized apps.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://jrnl.sh/&quot;&gt;jrnl.sh - write your journal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://myrocks.io/&quot;&gt;MyRock – A RocksDB storage engine with MySQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/laurent22/joplin&quot;&gt;Joplin&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #24, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading Lists Microsoft’s Q# quantum programming language out now in preview A different way of understanding this in JavaScript The makings of a smart cookie Introducing Conduit How To Tell If Your Linux Server Has Been Compromised Every feature considered harmful: Debts in software development Unapocalyptic Software Why your programmers just want to code How I automated my team’s agile and Scrum processes with Scrumile The Power Of tmux Hooks Smarter Rails Services with Active Model Modules Blockchain Graveyard Google APIs Explorer Products Over Projects Developer’s Guide to Successful Distributed Teams Empowering teams to build great products News Django 2.0 released Tools Conduit – next-generation ultralight service mesh for Kubernetes. ParcelJS – Blazing fast, zero configuration web application bundler Nebula – Nebula container orchestrator aims to help devs and ops treat IoT devices just like distributed Dockerized apps. jrnl.sh - write your journal MyRock – A RocksDB storage engine with MySQL Joplin These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
