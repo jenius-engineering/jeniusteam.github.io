@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-06-06T04:29:36+00:00</updated>
+  <updated>2018-07-09T06:39:21+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #1</title>
+      
+      <link href="http://localhost:4000/2018/07/09/engineer-readinglist/" rel="alternate" type="text/html" title="Jenius Engineer reading list #1" />
+      <published>2018-07-09T00:00:00+00:00</published>
+      <updated>2018-07-09T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/07/09/engineer-readinglist</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/09/engineer-readinglist/">&lt;p&gt;Segmen baru untuk mengakomodir berita, &lt;em&gt;how-to&lt;/em&gt; atau perkembangan teknologi &lt;em&gt;development&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/scale-part-i-task-queues/&quot;&gt;@Scale – Part I (Task Queues)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/04/05/learn-git-rebase-interactively/&quot;&gt;Learn Git Rebase Interactively&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/building-real-time-analytics-apis/&quot;&gt;Building Real Time Analytics APIs at Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2018/4/9/give-meaning-to-100-billion-events-a-day-the-analytics-pipel.html&quot;&gt;Give Meaning To 100 Billion Events A Day - The Analytics Pipeline At Teads&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/open-sourcing-design-system-react-9be45b8bb127&quot;&gt;Open Sourcing Design System React&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <category term="newsletter" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Segmen baru untuk mengakomodir berita, how-to atau perkembangan teknologi development. @Scale – Part I (Task Queues) Learn Git Rebase Interactively Building Real Time Analytics APIs at Scale Give Meaning To 100 Billion Events A Day - The Analytics Pipeline At Teads Open Sourcing Design System React</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1495,85 +1547,6 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #25, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading List Improving my productivity using Pomodoro: takeaways after 2 years of practice Finally understand Redux by building your own Store REST is the new SOAP What ORMs have taught me: just learn SQL The Amazon machine Downtime is important for business professionals and this is why. The Joel Test: 12 Steps to Better Code Getting Started with Metrics in Rails Modern Front-end in Rails The state of Javascript 2017 How Is React Different from Vue? News JRuby 9.1.15.0 Released Tools IntelliSense hint feature for GitHub Nexus.js: A multi-threaded JavaScript run-time Vue.js Inspector for Mobile Devices These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer: Feizal Badri Asmoro</title>
-      
-      <link href="http://localhost:4000/2017/12/18/jenius-engineer-feizal/" rel="alternate" type="text/html" title="Jenius Engineer: Feizal Badri Asmoro" />
-      <published>2017-12-18T00:00:00+00:00</published>
-      <updated>2017-12-18T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/12/18/jenius-engineer-feizal</id>
-      <content type="html" xml:base="http://localhost:4000/2017/12/18/jenius-engineer-feizal/">&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/feizal.jpg&quot; alt=&quot;Feizal Badri Asmoro&quot; /&gt;&lt;/p&gt;
-
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Saya Feizal Badri Asmoro, software engineer yang bertanggung jawab atas frontend development untuk aplikasi dan website &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt;. Mengawali karir sebagai iOS dan android mobile application developer. Namun belakangan ini banyak menghabiskan waktu untuk mempelajari &lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;React Native&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Sebagai seseorang yang mengawali karir sebagai native app developer dan sekarang bekerja dengan menggunakan React Native framework, I would love to recommend you to use React Native. React native is a very cool framework! Worth to try guys.&lt;/p&gt;
-
-&lt;p&gt;beberapa alasan kenapa Jenius tempat yang tepat untuk berkarya menurut saya adalah&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Reinvent bank industry is a very challenging and interesting job!&lt;/li&gt;
-  &lt;li&gt;Kesempatan untuk bekerja sama dengan banyak orang dari berbagai negara&lt;/li&gt;
-  &lt;li&gt;Good working environment&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- more --&gt;
-
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;Hardware yang digunakan untuk &lt;em&gt;development&lt;/em&gt; adalah - &lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;Mackbook Pro 13”&lt;/a&gt; mid 2016.&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;Bahasa pemrograman yang saya sukai &lt;a href=&quot;https://developer.apple.com/swift/&quot;&gt;Swift&lt;/a&gt;, &lt;a href=&quot;https://developer.apple.com/documentation/objectivec&quot;&gt;objective-c&lt;/a&gt;, java, javascript dan python. Software atau tools yang selalu saya pakai sehari hari adalah &lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot;&gt;WebStorm&lt;/a&gt;, &lt;a href=&quot;https://developer.apple.com/xcode/&quot;&gt;Xcode&lt;/a&gt;, dan &lt;a href=&quot;https://developer.android.com/studio/index.html&quot;&gt;Android Studio&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;p&gt;Favorite apps adalah &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt;, &lt;a href=&quot;https://spotify.com&quot;&gt;Spotify&lt;/a&gt; dan &lt;a href=&quot;https://netflix.com&quot;&gt;Netflix&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;p&gt;Selalu menjaga agar tas tidak berat, tidak membawa banyak barang, barang yang selalu dibawa adalah &lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;Mackbook Pro 13”&lt;/a&gt;, Android phone dan chargers.&lt;/p&gt;
-
-&lt;h3&gt;Homescreen&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/posts/engineers/feizal-hs.jpg&quot; alt=&quot;marchell homescreen&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt; dan orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius engineer" />
-      
-        <category term="backstage" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Feizal Badri Asmoro, software engineer yang bertanggung jawab atas frontend development untuk aplikasi dan website Jenius. Mengawali karir sebagai iOS dan android mobile application developer. Namun belakangan ini banyak menghabiskan waktu untuk mempelajari React Native. Sebagai seseorang yang mengawali karir sebagai native app developer dan sekarang bekerja dengan menggunakan React Native framework, I would love to recommend you to use React Native. React native is a very cool framework! Worth to try guys. beberapa alasan kenapa Jenius tempat yang tepat untuk berkarya menurut saya adalah Reinvent bank industry is a very challenging and interesting job! Kesempatan untuk bekerja sama dengan banyak orang dari berbagai negara Good working environment</summary>
       
 
       
