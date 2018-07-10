@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-07-09T06:39:21+00:00</updated>
+  <updated>2018-07-10T10:36:26+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -28,13 +28,64 @@
   
     <entry>
       
+      <title type="html">Jenius Engineer reading list #2</title>
+      
+      <link href="http://localhost:4000/2018/07/10/engineer-readinglist-1/" rel="alternate" type="text/html" title="Jenius Engineer reading list #2" />
+      <published>2018-07-10T00:00:00+00:00</published>
+      <updated>2018-07-10T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/07/10/engineer-readinglist-1</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/10/engineer-readinglist-1/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Fewbytes/rubber-docker&quot;&gt;Rebuild Docker from Scratch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/going-offline&quot;&gt;Going Offline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apiumhub.com/tech-blog-barcelona/devops-reading-list-devops-books/&quot;&gt;Devops reading list: top 30 best devops books you should read in 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.botreetechnologies.com/encrypted-credentials-a-new-way-to-use-secrets-in-rails-5-2-eca929629bb4&quot;&gt;Encrypted Credentials — A new way to use Secrets in Rails 5.2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tomnomnom/gron/&quot;&gt;Gron – JSON aware grep tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ronjeffries.com/articles/018-01ff/dark-ecology/&quot;&gt;The Agile Ecology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="newsletter" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Rebuild Docker from Scratch Going Offline Devops reading list: top 30 best devops books you should read in 2018 Encrypted Credentials — A new way to use Secrets in Rails 5.2 Gron – JSON aware grep tool The Agile Ecology</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Jenius Engineer reading list #1</title>
       
-      <link href="http://localhost:4000/2018/07/09/engineer-readinglist/" rel="alternate" type="text/html" title="Jenius Engineer reading list #1" />
+      <link href="http://localhost:4000/2018/07/09/engineer-readinglist-0/" rel="alternate" type="text/html" title="Jenius Engineer reading list #1" />
       <published>2018-07-09T00:00:00+00:00</published>
       <updated>2018-07-09T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/09/engineer-readinglist</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/09/engineer-readinglist/">&lt;p&gt;Segmen baru untuk mengakomodir berita, &lt;em&gt;how-to&lt;/em&gt; atau perkembangan teknologi &lt;em&gt;development&lt;/em&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2018/07/09/engineer-readinglist-0</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/09/engineer-readinglist-0/">&lt;p&gt;Segmen baru untuk mengakomodir berita, &lt;em&gt;how-to&lt;/em&gt; atau perkembangan teknologi &lt;em&gt;development&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/scale-part-i-task-queues/&quot;&gt;@Scale – Part I (Task Queues)&lt;/a&gt;&lt;/li&gt;
@@ -63,7 +114,7 @@
       
 
       
-        <category term="newsletter" />
+        <category term="news" />
       
         <category term="jenius" />
       
@@ -1474,79 +1525,6 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #26, this newsletter published every tuesday-ish. please subscribe to our newsletter. First of all Happy new year!, may we reach our goals and everything that we planned come true. reading list Node.js as Backend: Best Use Cases, Tools &amp;amp; Limitations Ten Things A Serious JavaScript Developer Should Learn Minecraft From Bootstrap to CSS Grid How to visualize distributions Numerai walkthrough: Quantitative Analysis &amp;amp; Machine learning for fun and profit Kafka or RabbitMQ: depends on your messages nature Building a fast track for software development teams You must move from Product Information Management to Product Information Intelligence A Study on Email Marketing Copy-on-write friendly Python garbage collection news Ubuntu 17.10 PULLED: Linux OS knackers laptop BIOSes, Intel kernel driver fingered Elasticsearch 6.1.0 released tools Element ready – Detect when an element is ready in the DOM Vuetify – Material Component Framework Awesome Ruby – list of awesome Ruby libraries Rails Panel – Chrome extension for Rails development These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #25</title>
-      
-      <link href="http://localhost:4000/2017/12/19/jeniustech-newsletter-25/" rel="alternate" type="text/html" title="Jenius Engineering weekly #25" />
-      <published>2017-12-19T00:00:00+00:00</published>
-      <updated>2017-12-19T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2017/12/19/jeniustech-newsletter-25</id>
-      <content type="html" xml:base="http://localhost:4000/2017/12/19/jeniustech-newsletter-25/">&lt;p&gt;Welcome to Jenius Engineering newsletter #25, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Reading List&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://mehdi.cherti.name/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html?utm_source=jeniustech&amp;amp;utm_medium=web&quot;&gt;Improving my productivity using Pomodoro: takeaways after 2 years of practice&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://toddmotto.com/redux-typescript-store?utm_source=jeniustech&amp;amp;utm_medium=web&quot;&gt;Finally understand Redux by building your own Store&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d?utm_source=jeniustech&amp;amp;utm_medium=web&quot;&gt;REST is the new SOAP&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql?utm_source=jeniustech&amp;amp;utm_medium=web&quot;&gt;What ORMs have taught me: just learn SQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ben-evans.com/benedictevans/2017/12/12/the-amazon-machine?utm_source=jeniustech&amp;amp;utm_medium=web&quot;&gt;The Amazon machine&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://avirtual.co.uk/uncategorized/the-importance-of-downtime/?utm_source=jeniustech&amp;amp;utm_medium=web&quot;&gt;Downtime is important for business professionals and this is why.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/?utm_source=jeniustech&amp;amp;utm_medium=web&quot;&gt;The Joel Test: 12 Steps to Better Code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.influxdata.com/blog/metrics-for-true-beginners/?utm_source=jeniustech&amp;amp;utm_medium=web&quot;&gt;Getting Started with Metrics in Rails&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/evil-front-part-2?utm_source=jeniustech&amp;amp;utm_medium=web&quot;&gt;Modern Front-end in Rails&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stateofjs.com/2017/introduction/&quot;&gt;The state of Javascript 2017&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://javascriptreport.com/how-is-react-different-from-vue/&quot;&gt;How Is React Different from Vue?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://jruby.org/2017/12/07/jruby-9-1-15-0.html?utm_source=jeniustech&amp;amp;utm_medium=web&quot;&gt;JRuby 9.1.15.0 Released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tools&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/pd4d10/octohint&quot;&gt;IntelliSense hint feature for GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/voodooattack/introducing-nexusjs-a-multi-threaded-javascript-run-time-3g6&quot;&gt;Nexus.js: A multi-threaded JavaScript run-time&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/calirojas506/vue-inspector&quot;&gt;Vue.js Inspector for Mobile Devices &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #25, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading List Improving my productivity using Pomodoro: takeaways after 2 years of practice Finally understand Redux by building your own Store REST is the new SOAP What ORMs have taught me: just learn SQL The Amazon machine Downtime is important for business professionals and this is why. The Joel Test: 12 Steps to Better Code Getting Started with Metrics in Rails Modern Front-end in Rails The state of Javascript 2017 How Is React Different from Vue? News JRuby 9.1.15.0 Released Tools IntelliSense hint feature for GitHub Nexus.js: A multi-threaded JavaScript run-time Vue.js Inspector for Mobile Devices These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
