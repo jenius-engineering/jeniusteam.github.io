@@ -3,7 +3,7 @@ layout: post
 title: "Jenius Engineer reading list #1"
 author: dedenf
 tags:
-    - newsletter
+    - news
     - jenius
 
 categories:
