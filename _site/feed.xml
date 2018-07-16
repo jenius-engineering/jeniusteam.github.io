@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-07-10T10:36:26+00:00</updated>
+  <updated>2018-07-16T05:49:25+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #3</title>
+      
+      <link href="http://localhost:4000/2018/07/16/engineer-readinglist-2/" rel="alternate" type="text/html" title="Jenius Engineer reading list #3" />
+      <published>2018-07-16T00:00:00+00:00</published>
+      <updated>2018-07-16T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/07/16/engineer-readinglist-2</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/16/engineer-readinglist-2/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/taxonomy-tech-debt&quot;&gt;A Taxonomy of tech debt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843&quot;&gt;Serverless monitoring — the good, the bad and the ugly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@lmatteis/on-user-interface-development-appending-to-the-event-log-8d8ca966795d&quot;&gt;On User Interface Development: appending to the event log&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/04/designing-emotional-interfaces-boring-apps/&quot;&gt;How To Design Emotional Interfaces For Boring Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526&quot;&gt;6 things I’ve learned in my first 6 months using serverless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e&quot;&gt;Useful tricks you might not know about Git stash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">A Taxonomy of tech debt Serverless monitoring — the good, the bad and the ugly On User Interface Development: appending to the event log How To Design Emotional Interfaces For Boring Apps 6 things I’ve learned in my first 6 months using serverless Useful tricks you might not know about Git stash</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1448,83 +1501,6 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
 
       
         <summary type="html">Jenius sebagai perusahaan berbasiskan teknologi, tidak lepas dari proses pengembangan software yang dibangun dan digunakan di internal Jenius, dari mulai frontend, backend hingga proses design yang digunakan. Sepanjang tahun 2017, Jenius selalu melakukan iterasi produk, baik dari sisi fitur, maupun perbaikan-perbaikan yang dirasa penting untuk kenyamanan pengguna nasabah Jenius. Sepajang tahun 2017 juga kita mengumpulkan beberapa statistik development untuk Jenius mobile app Engineer 31 developer untuk pengembangan aplikasi iOS, Android dan backend system. Android Total commit : 7798 iOS Total commit : 6660 Microservice berjumlah 24 dengan total commit 12000, Microservice yang bertugas untuk melayani request dan fungsi yang berbeda, dari mulai melayani manajemen user, informasi transaksi, berkomunikasi dengan corebanking, berkomunikasi dengan pihak luar seperti sms provider atau email provider. Dan blog ini sejak April 2017 diluncurkan sudah menulis sekitar 43 Artikel. Di 2018 ini banyak pengembangan baik dari sisi frontend maupun backend, dengan modularisasi dan komunikasi data yang kita revamp untuk efisiensi dan penambahan fitur dari hasil feedback dengan pengguna Jenius.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #26</title>
-      
-      <link href="http://localhost:4000/2018/01/02/jeniustech-newsletter-26/" rel="alternate" type="text/html" title="Jenius Engineering weekly #26" />
-      <published>2018-01-02T00:00:00+00:00</published>
-      <updated>2018-01-02T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/01/02/jeniustech-newsletter-26</id>
-      <content type="html" xml:base="http://localhost:4000/2018/01/02/jeniustech-newsletter-26/">&lt;p&gt;Welcome to Jenius Engineering newsletter #26, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;First of all &lt;strong&gt;Happy new year!&lt;/strong&gt;, may we reach our goals and everything that we planned come true.&lt;/p&gt;
-
-&lt;h4&gt;reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/dailyjs/node-js-as-backend-best-use-cases-tools-limitations-9c65165a5bac?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Node.js as Backend: Best Use Cases, Tools &amp;amp; Limitations&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://benmccormick.org/2017/07/19/ten-things-javascript/?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Ten Things A Serious JavaScript Developer Should Learn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.alicemaz.com/writing/minecraft.html?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Minecraft&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4?pagewanted=all&amp;amp;utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;From Bootstrap to CSS Grid&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/how-to-visualize-distributions-2cf2243c7b8e?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;How to visualize distributions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/numerai-walkthrough-quantitative-analysis-machine-learning-for-fun-and-profit-3dcdccabd920?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Numerai walkthrough: Quantitative Analysis &amp;amp; Machine learning for fun and profit&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/dekses/kafka-or-rabbitmq-depends-on-your-messages-nature-e22ca89918e2?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Kafka or RabbitMQ: depends on your messages nature&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/building-fast-track-software-development-teams-yves-junqueira/?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Building a fast track for software development teams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/you-must-move-from-product-information-management-jimmy-ekb%C3%A4ck/?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;You must move from Product Information Management to Product Information Intelligence&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/study-email-marketing-stephanie-seputra/?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;A Study on Email Marketing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.instagram.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Copy-on-write friendly Python garbage collection&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;news&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theregister.co.uk/2017/12/21/ubuntu_lenovo_bios/?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Ubuntu 17.10 PULLED: Linux OS knackers laptop BIOSes, Intel kernel driver fingered&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.elastic.co/blog/elasticsearch-6-1-0-released&quot;&gt;Elasticsearch 6.1.0 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;tools&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/element-ready?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Element ready – Detect when an element is ready in the DOM&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vuetifyjs.com/?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Vuetify – Material Component Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://awesome-ruby.com/?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Awesome Ruby – list of awesome Ruby libraries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/dejan/rails_panel?utm_source=jeniustech&amp;amp;utm_medium=newsletter&quot;&gt;Rails Panel – Chrome extension for Rails development&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #26, this newsletter published every tuesday-ish. please subscribe to our newsletter. First of all Happy new year!, may we reach our goals and everything that we planned come true. reading list Node.js as Backend: Best Use Cases, Tools &amp;amp; Limitations Ten Things A Serious JavaScript Developer Should Learn Minecraft From Bootstrap to CSS Grid How to visualize distributions Numerai walkthrough: Quantitative Analysis &amp;amp; Machine learning for fun and profit Kafka or RabbitMQ: depends on your messages nature Building a fast track for software development teams You must move from Product Information Management to Product Information Intelligence A Study on Email Marketing Copy-on-write friendly Python garbage collection news Ubuntu 17.10 PULLED: Linux OS knackers laptop BIOSes, Intel kernel driver fingered Elasticsearch 6.1.0 released tools Element ready – Detect when an element is ready in the DOM Vuetify – Material Component Framework Awesome Ruby – list of awesome Ruby libraries Rails Panel – Chrome extension for Rails development These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
