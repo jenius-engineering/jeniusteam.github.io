@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-07-16T05:49:25+00:00</updated>
+  <updated>2018-07-19T11:36:11+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 4</title>
+      
+      <link href="http://localhost:4000/2018/07/19/engineer-readinglist-3/" rel="alternate" type="text/html" title="Jenius Engineer reading list 4" />
+      <published>2018-07-19T00:00:00+00:00</published>
+      <updated>2018-07-19T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/07/19/engineer-readinglist-3</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/19/engineer-readinglist-3/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b&quot;&gt;The State of Cryptocurrency Mining&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://users.ece.utexas.edu/~adnan/pike.html&quot;&gt;Rob Pike’s 5 Rules of Programming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-does-your-company-approach-continuous-improvement-9fa7ec3545d3&quot;&gt;How Does Your Company Approach Continuous Improvement?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224&quot;&gt;Event Sourcing made Simple&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret&quot;&gt;Docker is the dangerous gamble which we will regret&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">The State of Cryptocurrency Mining Rob Pike’s 5 Rules of Programming How Does Your Company Approach Continuous Improvement? Event Sourcing made Simple Docker is the dangerous gamble which we will regret</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1442,65 +1494,6 @@ ffmpeg &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; avfoundation &lt;span cl
 
       
         <summary type="html">Sebagai developer tentu sudah terbiasa dengan Source Code Management seperti GIT, Mercurial, Bazaar, dan lainnya. pernah menggabungkan Selfie atau swafoto berbarengan dengan dengan commit kode kita? di sini kita akan fokus dengan GIT sebagai SCM. Langkah-langkah yang ditulis dilakukan di komputer berbasis Mac, belum dicoba di Linux atau Windows. Kebutuhan Untuk menginstall paket-paket yang bisa dijalankan di command line kita membutuhkan manajemen paket yang bernama homebrew install brew Jalankan perintah ini $ curl -fsS 'https://raw.githubusercontent.com/Homebrew/install/master/install' | ruby Perintah di atas akan menginstall beberapa library tambahan untuk macOS. Install paket Setelah selesai proses instalasi homebrew dilanjutkan dengan instalasi paket berikut $ brew install ffmpeg Opsional $ brew install imagemagick $ brew install tlassemble Setelah selesai semua, cd ke folder project GIT, lihat apakah ada file post-commit di folder .git/hooks/, kalo gak ada bisa ditambahkan melalui $ vim .git/hooks/post-commit, tambahkan line berikut (jangan lupa :set paste + i) #!/bin/bash ### start post commit ### if ! command -v ls .gitsnap &amp;gt;/dev/null; then printf &quot;creating selfie folder...\n&quot; mkdir ~/.gitsnap fi FILENAME='' if command -v git rev-parse HEAD &amp;gt; /dev/null; then FILENAME=$(date +%Y-%m-%d-%H-%M-%s)_FIRST else FILENAME=$(date +%Y-%m-%d-%H-%M-%S)_$(git rev-parse HEAD) fi ### take a selfie! printf &quot;📸 trying to take your awesome selfie..... 📸\n&quot; ffmpeg -f avfoundation -framerate 30 -i &quot;0&quot; -vframes 1 ~/.gitsnap/$FILENAME.jpg -loglevel quiet &amp;gt;&amp;gt; /dev/null Line di atas akan membuat folder .gitsnap di homedir (atau bisa manual membuat folder sendiri di home anda) Selfie! Dengan menambahkan line tersebut di hooks post-commit, line tersebut akan dijalankan setiap kali melakukan commit dan push ke repo git project, dan menyimpan foto selfie di folder .gitsnap, nama file foto yang diambil dengan fortmat TAN-GG-AL_commitid.jpg. Untuk menyimpan selfie berdasarkan project, buat folder .gitsnap di masing-masing folder project yang sedang ada kerjakan. Bonus Kita bisa membuat video dari file foto selfie tersebut, kalau sudah banyak tentunya dengan perintah berikut $ tlassemble ~/.gitsnap commit_timelapse.mov -fps 30 -codec h264 -quality high Dengan ini akan tercipta file .mov yang bisa dimainkan atau di-share ke media sosial. !TODO: insert recording video, colek @marchell</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Tech Year In Review</title>
-      
-      <link href="http://localhost:4000/2018/01/04/jeniustech-year-in-review/" rel="alternate" type="text/html" title="Jenius Tech Year In Review" />
-      <published>2018-01-04T00:00:00+00:00</published>
-      <updated>2018-01-04T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/01/04/jeniustech-year-in-review</id>
-      <content type="html" xml:base="http://localhost:4000/2018/01/04/jeniustech-year-in-review/">&lt;p&gt;Jenius sebagai perusahaan berbasiskan teknologi, tidak lepas dari proses pengembangan &lt;em&gt;software&lt;/em&gt; yang dibangun dan digunakan di &lt;em&gt;internal&lt;/em&gt; Jenius, dari mulai &lt;em&gt;frontend&lt;/em&gt;, &lt;em&gt;backend&lt;/em&gt; hingga proses design yang digunakan.&lt;/p&gt;
-
-&lt;p&gt;Sepanjang tahun 2017, Jenius selalu melakukan iterasi produk, baik dari sisi fitur, maupun perbaikan-perbaikan yang dirasa penting untuk kenyamanan pengguna nasabah Jenius. Sepajang tahun 2017 juga kita mengumpulkan beberapa statistik &lt;em&gt;development&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;untuk Jenius mobile app Engineer &lt;strong&gt;31&lt;/strong&gt; developer untuk pengembangan aplikasi &lt;strong&gt;iOS&lt;/strong&gt;, &lt;strong&gt;Android&lt;/strong&gt; dan backend &lt;em&gt;system&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Android Total commit : &lt;strong&gt;7798&lt;/strong&gt;&lt;/h4&gt;
-&lt;h4&gt;iOS Total commit : &lt;strong&gt;6660&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;em&gt;Microservice&lt;/em&gt; berjumlah &lt;strong&gt;24&lt;/strong&gt; dengan total commit &lt;strong&gt;12000&lt;/strong&gt;, &lt;em&gt;Microservice&lt;/em&gt; yang bertugas untuk melayani &lt;em&gt;request&lt;/em&gt; dan fungsi yang berbeda, dari mulai melayani manajemen user, informasi transaksi, berkomunikasi dengan &lt;em&gt;corebanking&lt;/em&gt;, berkomunikasi dengan pihak luar seperti &lt;em&gt;sms provider&lt;/em&gt; atau &lt;em&gt;email provider&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Dan blog ini sejak April 2017 diluncurkan sudah menulis sekitar &lt;strong&gt;43&lt;/strong&gt; Artikel.&lt;/p&gt;
-
-&lt;p&gt;Di 2018 ini banyak pengembangan baik dari sisi frontend maupun backend, dengan modularisasi dan komunikasi data yang kita &lt;em&gt;revamp&lt;/em&gt; untuk efisiensi dan penambahan fitur dari hasil &lt;em&gt;feedback&lt;/em&gt; dengan pengguna Jenius.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="post" />
-      
-
-      
-        <category term="jenius" />
-      
-        <category term="tech" />
-      
-        <category term="advance" />
-      
-
-      
-        <summary type="html">Jenius sebagai perusahaan berbasiskan teknologi, tidak lepas dari proses pengembangan software yang dibangun dan digunakan di internal Jenius, dari mulai frontend, backend hingga proses design yang digunakan. Sepanjang tahun 2017, Jenius selalu melakukan iterasi produk, baik dari sisi fitur, maupun perbaikan-perbaikan yang dirasa penting untuk kenyamanan pengguna nasabah Jenius. Sepajang tahun 2017 juga kita mengumpulkan beberapa statistik development untuk Jenius mobile app Engineer 31 developer untuk pengembangan aplikasi iOS, Android dan backend system. Android Total commit : 7798 iOS Total commit : 6660 Microservice berjumlah 24 dengan total commit 12000, Microservice yang bertugas untuk melayani request dan fungsi yang berbeda, dari mulai melayani manajemen user, informasi transaksi, berkomunikasi dengan corebanking, berkomunikasi dengan pihak luar seperti sms provider atau email provider. Dan blog ini sejak April 2017 diluncurkan sudah menulis sekitar 43 Artikel. Di 2018 ini banyak pengembangan baik dari sisi frontend maupun backend, dengan modularisasi dan komunikasi data yang kita revamp untuk efisiensi dan penambahan fitur dari hasil feedback dengan pengguna Jenius.</summary>
       
 
       
