@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-07-24T03:04:14+00:00</updated>
+  <updated>2018-07-24T03:07:21+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -28,13 +28,13 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 5</title>
+      <title type="html">Jenius Engineer reading list 6</title>
       
-      <link href="http://localhost:4000/2018/07/23/engineer-readinglist-4/" rel="alternate" type="text/html" title="Jenius Engineer reading list 5" />
+      <link href="http://localhost:4000/2018/07/23/engineer-readinglist-5/" rel="alternate" type="text/html" title="Jenius Engineer reading list 6" />
       <published>2018-07-23T00:00:00+00:00</published>
       <updated>2018-07-23T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/23/engineer-readinglist-4</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/23/engineer-readinglist-4/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/07/23/engineer-readinglist-5</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/23/engineer-readinglist-5/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.tecmint.com/manage-systemd-logs-using-journalctl/&quot;&gt;Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://drewdevault.com/2018/05/13/scdoc.html&quot;&gt;Introducing scdoc, a man page generator&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1805.04956&quot;&gt;Nethammer: Inducing Rowhammer Faults through Network Requests&lt;/a&gt;&lt;/li&gt;
