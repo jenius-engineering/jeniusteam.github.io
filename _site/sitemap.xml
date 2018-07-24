@@ -261,6 +261,10 @@
 <lastmod>2018-07-19T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2018/07/23/engineer-readinglist-4/</loc>
+<lastmod>2018-07-23T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -322,5 +326,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/13/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/posts/14/</loc>
 </url>
 </urlset>
