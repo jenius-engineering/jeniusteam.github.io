@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-07-23T08:39:44+00:00</updated>
+  <updated>2018-07-24T03:10:26+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 6</title>
+      
+      <link href="http://localhost:4000/2018/07/24/engineer-readinglist-5/" rel="alternate" type="text/html" title="Jenius Engineer reading list 6" />
+      <published>2018-07-24T00:00:00+00:00</published>
+      <updated>2018-07-24T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/07/24/engineer-readinglist-5</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/24/engineer-readinglist-5/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tecmint.com/manage-systemd-logs-using-journalctl/&quot;&gt;Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drewdevault.com/2018/05/13/scdoc.html&quot;&gt;Introducing scdoc, a man page generator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1805.04956&quot;&gt;Nethammer: Inducing Rowhammer Faults through Network Requests&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.hellofresh.com/how-to-hold-the-most-effective-meetings-aee4554404e0&quot;&gt;How to Hold the Most Effective Meetings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/guardicore/monkey&quot;&gt;Infection Monkey - An automated pentest tool&lt;/a&gt;  &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@leshchuk/zipem-all-61076c7da4c&quot;&gt;Zip’em ALL! – Optimizing Redis memory usage for strings, integers, jsons and anything you like&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide] Introducing scdoc, a man page generator Nethammer: Inducing Rowhammer Faults through Network Requests How to Hold the Most Effective Meetings Infection Monkey - An automated pentest tool tool Zip’em ALL! – Optimizing Redis memory usage for strings, integers, jsons and anything you like</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1368,80 +1421,6 @@ set -g base-index 1
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #28, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Stream &amp;amp; Go: News Feeds for Over 300 Million End Users What Really Happened with Vista: An Insider’s Retrospective Chrome is turning into the new Internet Explorer 6 Implications of Tech Stack Complexity for Executives Refactoring with Composed Method pattern How we design enterprise software Tutorial: Distributed Tracing in Ruby with OpenTracing Why Factories? How do Ruby &amp;amp; Python profilers work? Event-Driven Microservices with RabbitMQ and Ruby The Ruby 2.5.0 feature nobody talks about Asynchronous JavaScript: From Callback Hell to Async and Await Building Your First Node App Using Docker Paying Technical Debt - How To Rescue Legacy Code through Refactoring News Announcing The Node.js Application Showcase Node v9.4.0 released Tools &amp;amp; code Minimesos Redmine Security Scanner Polka – micro web server Mongoose 5.0 These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #27</title>
-      
-      <link href="http://localhost:4000/2018/01/16/jeniustech-newsletter-27/" rel="alternate" type="text/html" title="Jenius Engineering weekly #27" />
-      <published>2018-01-16T00:00:00+00:00</published>
-      <updated>2018-01-16T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/01/16/jeniustech-newsletter-27</id>
-      <content type="html" xml:base="http://localhost:4000/2018/01/16/jeniustech-newsletter-27/">&lt;p&gt;Welcome to Jenius Engineering newsletter #27, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.oreilly.com/free/reports.html&quot;&gt;O’Reilly Free ebooks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thomasleecopeland.com/2018/01/10/migration-sql.html&quot;&gt;Viewing migration SQL without running the migration&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://frontstuff.io/build-your-first-vue-js-component&quot;&gt;Build Your First Vue.js Component&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rosenfeld.herokuapp.com/en/articles/ruby-rails/2017-12-15-introducing-sequel_tools-rake-integration-over-sequel-migrations-and-related-tasks&quot;&gt;SequelTools – Rake Tasks for Sequel Migrations and database management&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/&quot;&gt;The Brutal Lifecycle of JavaScript Frameworks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/&quot;&gt;React, Redux and JavaScript Architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/168978377570/new-package-moniker-rules&quot;&gt;New Package Moniker rules&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@muehler.v/node-js-face-recognition-js-simple-and-robust-face-recognition-using-deep-learning-ea5ba8e852&quot;&gt;Node.js + face-recognition.js : Simple and Robust Face Recognition using Deep Learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.thepolyglotdeveloper.com/2017/12/convert-nodejs-restful-api-serverless-openwhisk/&quot;&gt;Convert A Node.js RESTful API To Serverless With OpenWhisk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://db-engines.com/en/blog_post/76&quot;&gt;PostgreSQL is the DBMS of the Year 2017&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://leafletjs.com/2018/01/15/leaflet-1.3.0.html&quot;&gt;Leaflet 1.3.0 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ruby-lang.org/en/news/2017/12/25/ruby-2-5-0-released/&quot;&gt;Ruby 2.5.0 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.4.0/&quot;&gt;Nodejs v9.4.0 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tools&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.graphile.org/&quot;&gt;PostGraphile – Instant GraphQL API for PostgreSQL database&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://webkit.org/blog/8063/speedometer-2-0-a-benchmark-for-modern-web-app-responsiveness/&quot;&gt;Speedometer 2.0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sweetalert.js.org/&quot;&gt;Sweet Alert&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #27, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list O’Reilly Free ebooks Viewing migration SQL without running the migration Build Your First Vue.js Component SequelTools – Rake Tasks for Sequel Migrations and database management The Brutal Lifecycle of JavaScript Frameworks React, Redux and JavaScript Architecture New Package Moniker rules Node.js + face-recognition.js : Simple and Robust Face Recognition using Deep Learning Convert A Node.js RESTful API To Serverless With OpenWhisk PostgreSQL is the DBMS of the Year 2017 News Leaflet 1.3.0 released Ruby 2.5.0 released Nodejs v9.4.0 released Tools PostGraphile – Instant GraphQL API for PostgreSQL database Speedometer 2.0 Sweet Alert These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
