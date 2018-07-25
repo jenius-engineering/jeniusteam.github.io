@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-07-24T03:10:26+00:00</updated>
+  <updated>2018-07-25T03:55:34+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 7</title>
+      
+      <link href="http://localhost:4000/2018/07/25/engineer-readinglist-6/" rel="alternate" type="text/html" title="Jenius Engineer reading list 7" />
+      <published>2018-07-25T00:00:00+00:00</published>
+      <updated>2018-07-25T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/07/25/engineer-readinglist-6</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/25/engineer-readinglist-6/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pmusolino/Wormholy&quot;&gt;Wormholy – iOS network debugging, like a wizard 🧙‍♂️&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.castsoftware.com/blog/devops-5-steps-to-get-derailed-projects-back-on-track&quot;&gt;DevOps: 5 Steps to Get Derailed Projects Back on Track&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops&quot;&gt;Kubernetes anti-patterns: Let’s do GitOps, not CIOps!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/blog/load-testing-round-up-8-tools-you-can-use-to-strengthen-your-stack&quot;&gt;Load Testing Round Up: 8 tools you can use to strengthen your stack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nextplatform.com/2018/07/17/when-does-kubernetes-become-invisible-and-ubiquitous/&quot;&gt;When does kubernetes become invisible and ubiquitous?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Wormholy – iOS network debugging, like a wizard 🧙‍♂️ DevOps: 5 Steps to Get Derailed Projects Back on Track Kubernetes anti-patterns: Let’s do GitOps, not CIOps! Load Testing Round Up: 8 tools you can use to strengthen your stack When does kubernetes become invisible and ubiquitous?</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1343,84 +1395,6 @@ set -g base-index 1
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #29, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Don’t be fooled by 100% code coverage. How to Make Your Code CLEAN and BEAUTIFUL Awesome Scalability, Availability, and Stability Back-end Design Patterns Some thoughts on Spectre and Meltdown Firefox 58: The Quantum Era Continues WIP Limit – A further study Amazon ElastiCache – easy to understand AWS service diagram SlackHQ – Keep webpack Fast: A Field Guide for Better Build Performance Canaries in Practice How We Simplified our Tooling Setup for Node.js Projects A set of best practices for JavaScript projects News Webpack 4 beta  Tools &amp;amp; Code Fir – the Friendly, Interactive Ruby REPL Bootstrap 4 Karmatic – Easy automatic browser testing Headless Chrome Node API from Google These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #28</title>
-      
-      <link href="http://localhost:4000/2018/01/23/jeniustech-newsletter-28/" rel="alternate" type="text/html" title="Jenius Engineering weekly #28" />
-      <published>2018-01-23T00:00:00+00:00</published>
-      <updated>2018-01-23T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/01/23/jeniustech-newsletter-28</id>
-      <content type="html" xml:base="http://localhost:4000/2018/01/23/jeniustech-newsletter-28/">&lt;p&gt;Welcome to Jenius Engineering newsletter #28, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users&quot;&gt;Stream &amp;amp; Go: News Feeds for Over 300 Million End Users&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/what-really-happened-with-vista-an-insiders-retrospective-f713ee77c239&quot;&gt;What Really Happened with Vista: An Insider’s Retrospective&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards&quot;&gt;Chrome is turning into the new Internet Explorer 6&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/implications-tech-stack-complexity-executives&quot;&gt;Implications of Tech Stack Complexity for Executives&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.agile-code.com/blog/refactoring-with-composed-method-pattern/&quot;&gt;Refactoring with Composed Method pattern&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/how-we-design-enterprise-software-916124fb73db&quot;&gt;How we design enterprise software&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.scoutapp.com/articles/2018/01/17/tutorial-distributed-tracing-in-ruby-with-opentracing&quot;&gt;Tutorial: Distributed Tracing in Ruby with OpenTracing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/why-factories&quot;&gt;Why Factories?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/&quot;&gt;How do Ruby &amp;amp; Python profilers work?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.kontena.io/event-driven-microservices-with-rabbitmq-and-ruby/&quot;&gt;Event-Driven Microservices with RabbitMQ and Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@coorasse/the-ruby-2-5-0-feature-nobody-talks-about-38e6c4585fdd&quot;&gt;The Ruby 2.5.0 feature nobody talks about&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial&quot;&gt;Asynchronous JavaScript: From Callback Hell to Async and Await&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.javascriptjanuary.com/blog/building-your-first-node-app-using-docker&quot;&gt;Building Your First Node App Using Docker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring&quot;&gt;Paying Technical Debt - How To Rescue Legacy Code through Refactoring&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nodejs/announcing-the-node-js-application-showcase-9fbaaa3e4824&quot;&gt;Announcing The Node.js Application Showcase&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.4.0/&quot;&gt;Node v9.4.0 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tools &amp;amp; code&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.minimesos.org/&quot;&gt;Minimesos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plan.io/redmine-security-scanner/&quot;&gt;Redmine Security Scanner&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/lukeed/polka&quot;&gt;Polka – micro web server&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://mongoosejs.com/&quot;&gt;Mongoose 5.0&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #28, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Stream &amp;amp; Go: News Feeds for Over 300 Million End Users What Really Happened with Vista: An Insider’s Retrospective Chrome is turning into the new Internet Explorer 6 Implications of Tech Stack Complexity for Executives Refactoring with Composed Method pattern How we design enterprise software Tutorial: Distributed Tracing in Ruby with OpenTracing Why Factories? How do Ruby &amp;amp; Python profilers work? Event-Driven Microservices with RabbitMQ and Ruby The Ruby 2.5.0 feature nobody talks about Asynchronous JavaScript: From Callback Hell to Async and Await Building Your First Node App Using Docker Paying Technical Debt - How To Rescue Legacy Code through Refactoring News Announcing The Node.js Application Showcase Node v9.4.0 released Tools &amp;amp; code Minimesos Redmine Security Scanner Polka – micro web server Mongoose 5.0 These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
