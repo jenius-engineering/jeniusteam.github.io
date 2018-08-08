@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-07T05:23:00+00:00</updated>
+  <updated>2018-08-08T06:51:54+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -28,13 +28,65 @@
   
     <entry>
       
+      <title type="html">Jenius Engineer reading list 11</title>
+      
+      <link href="http://localhost:4000/2018/08/08/engineer-readinglist-11/" rel="alternate" type="text/html" title="Jenius Engineer reading list 11" />
+      <published>2018-08-08T00:00:00+00:00</published>
+      <updated>2018-08-08T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/08/engineer-readinglist-11</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/08/engineer-readinglist-11/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab&quot;&gt;How I gained commit access to Homebrew in 30 minutes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-17ff670b07ed&quot;&gt;Scaling Microservices with Message Queues, Spring Boot and Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/discussing-serverless-with-stackery-and-google/&quot;&gt;Discussing Serverless with Stackery and Google&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/your-infrastructure-as-code-cloudformation-vs-terraform-34ec5fb5f044&quot;&gt;Your Infrastructure as Code 🌩 CloudFormation Vs Terraform?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/7/sysadmin-tasks-ansible&quot;&gt;A sysadmin’s guide to Ansible: How to simplify tasks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">How I gained commit access to Homebrew in 30 minutes Scaling Microservices with Message Queues, Spring Boot and Kubernetes Discussing Serverless with Stackery and Google Your Infrastructure as Code 🌩 CloudFormation Vs Terraform? A sysadmin’s guide to Ansible: How to simplify tasks</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Jenius Engineer reading list 10</title>
       
-      <link href="http://localhost:4000/2018/08/07/engineer-readinglist-9/" rel="alternate" type="text/html" title="Jenius Engineer reading list 10" />
+      <link href="http://localhost:4000/2018/08/07/engineer-readinglist-10/" rel="alternate" type="text/html" title="Jenius Engineer reading list 10" />
       <published>2018-08-07T00:00:00+00:00</published>
       <updated>2018-08-07T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/08/07/engineer-readinglist-9</id>
-      <content type="html" xml:base="http://localhost:4000/2018/08/07/engineer-readinglist-9/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/08/07/engineer-readinglist-10</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/07/engineer-readinglist-10/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://support.mozilla.org/en-US/kb/about-firefox-pioneer&quot;&gt;Firefox Pioneer&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/aws/new-lifecycle-management-for-amazon-ebs-snapshots/&quot;&gt;New – Lifecycle Management for Amazon EBS Snapshots&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/&quot;&gt;CAP Theorem illustrated&lt;/a&gt;&lt;/li&gt;
@@ -82,11 +134,11 @@
       
       <title type="html">Jenius Engineer reading list 9</title>
       
-      <link href="http://localhost:4000/2018/08/06/engineer-readinglist-8/" rel="alternate" type="text/html" title="Jenius Engineer reading list 9" />
+      <link href="http://localhost:4000/2018/08/06/engineer-readinglist-9/" rel="alternate" type="text/html" title="Jenius Engineer reading list 9" />
       <published>2018-08-06T00:00:00+00:00</published>
       <updated>2018-08-06T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/08/06/engineer-readinglist-8</id>
-      <content type="html" xml:base="http://localhost:4000/2018/08/06/engineer-readinglist-8/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/08/06/engineer-readinglist-9</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/06/engineer-readinglist-9/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/bkuhlmann/milestoner&quot;&gt;Milestoner – A command line interface for releasing Git repository milestones&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://stackshare.io/shopify/e-commerce-at-scale-inside-shopifys-tech-stack&quot;&gt;E-Commerce at Scale: Inside Shopify’s Tech Stack&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/&quot;&gt;Serverless Performance: Cloudflare Workers, Lambda and Lambda@Edge&lt;/a&gt;&lt;/li&gt;
@@ -134,11 +186,11 @@
       
       <title type="html">Jenius Engineer reading list 8</title>
       
-      <link href="http://localhost:4000/2018/08/01/engineer-readinglist-7/" rel="alternate" type="text/html" title="Jenius Engineer reading list 8" />
+      <link href="http://localhost:4000/2018/08/01/engineer-readinglist-8/" rel="alternate" type="text/html" title="Jenius Engineer reading list 8" />
       <published>2018-08-01T00:00:00+00:00</published>
       <updated>2018-08-01T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/08/01/engineer-readinglist-7</id>
-      <content type="html" xml:base="http://localhost:4000/2018/08/01/engineer-readinglist-7/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/08/01/engineer-readinglist-8</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/01/engineer-readinglist-8/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.trivago.com/2018/07/13/aws-kinesis-with-lambdas-lessons-learned/&quot;&gt;AWS Kinesis with Lambdas: Lessons Learned&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://justinscholz.de/2018/06/15/an-extensive-zfs-setup-on-macos/&quot;&gt;An extensive ZFS setup on MacOS&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/chubin/cheat.sh&quot;&gt;Various CLI cheatsheet&lt;/a&gt;&lt;/li&gt;
@@ -186,11 +238,11 @@
       
       <title type="html">Jenius Engineer reading list 7</title>
       
-      <link href="http://localhost:4000/2018/07/25/engineer-readinglist-6/" rel="alternate" type="text/html" title="Jenius Engineer reading list 7" />
+      <link href="http://localhost:4000/2018/07/25/engineer-readinglist-7/" rel="alternate" type="text/html" title="Jenius Engineer reading list 7" />
       <published>2018-07-25T00:00:00+00:00</published>
       <updated>2018-07-25T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/25/engineer-readinglist-6</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/25/engineer-readinglist-6/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/07/25/engineer-readinglist-7</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/25/engineer-readinglist-7/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pmusolino/Wormholy&quot;&gt;Wormholy – iOS network debugging, like a wizard 🧙‍♂️&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.castsoftware.com/blog/devops-5-steps-to-get-derailed-projects-back-on-track&quot;&gt;DevOps: 5 Steps to Get Derailed Projects Back on Track&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops&quot;&gt;Kubernetes anti-patterns: Let’s do GitOps, not CIOps!&lt;/a&gt;&lt;/li&gt;
@@ -238,11 +290,11 @@
       
       <title type="html">Jenius Engineer reading list 6</title>
       
-      <link href="http://localhost:4000/2018/07/24/engineer-readinglist-5/" rel="alternate" type="text/html" title="Jenius Engineer reading list 6" />
+      <link href="http://localhost:4000/2018/07/24/engineer-readinglist-6/" rel="alternate" type="text/html" title="Jenius Engineer reading list 6" />
       <published>2018-07-24T00:00:00+00:00</published>
       <updated>2018-07-24T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/24/engineer-readinglist-5</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/24/engineer-readinglist-5/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/07/24/engineer-readinglist-6</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/24/engineer-readinglist-6/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.tecmint.com/manage-systemd-logs-using-journalctl/&quot;&gt;Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://drewdevault.com/2018/05/13/scdoc.html&quot;&gt;Introducing scdoc, a man page generator&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1805.04956&quot;&gt;Nethammer: Inducing Rowhammer Faults through Network Requests&lt;/a&gt;&lt;/li&gt;
@@ -291,11 +343,11 @@
       
       <title type="html">Jenius Engineer reading list 5</title>
       
-      <link href="http://localhost:4000/2018/07/23/engineer-readinglist-4/" rel="alternate" type="text/html" title="Jenius Engineer reading list 5" />
+      <link href="http://localhost:4000/2018/07/23/engineer-readinglist-5/" rel="alternate" type="text/html" title="Jenius Engineer reading list 5" />
       <published>2018-07-23T00:00:00+00:00</published>
       <updated>2018-07-23T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/23/engineer-readinglist-4</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/23/engineer-readinglist-4/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/07/23/engineer-readinglist-5</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/23/engineer-readinglist-5/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://cate.blog/2018/05/08/creating-success-together/&quot;&gt;Creating success, together&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html&quot;&gt;Introducing Git protocol version 2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://gregoryszorc.com/blog/2018/05/16/revisiting-using-docker/&quot;&gt;Revisiting Using Docker&lt;/a&gt;&lt;/li&gt;
@@ -343,11 +395,11 @@
       
       <title type="html">Jenius Engineer reading list 4</title>
       
-      <link href="http://localhost:4000/2018/07/19/engineer-readinglist-3/" rel="alternate" type="text/html" title="Jenius Engineer reading list 4" />
+      <link href="http://localhost:4000/2018/07/19/engineer-readinglist-4/" rel="alternate" type="text/html" title="Jenius Engineer reading list 4" />
       <published>2018-07-19T00:00:00+00:00</published>
       <updated>2018-07-19T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/19/engineer-readinglist-3</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/19/engineer-readinglist-3/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/07/19/engineer-readinglist-4</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/19/engineer-readinglist-4/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b&quot;&gt;The State of Cryptocurrency Mining&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://users.ece.utexas.edu/~adnan/pike.html&quot;&gt;Rob Pike’s 5 Rules of Programming&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/how-does-your-company-approach-continuous-improvement-9fa7ec3545d3&quot;&gt;How Does Your Company Approach Continuous Improvement?&lt;/a&gt;&lt;/li&gt;
@@ -395,11 +447,11 @@
       
       <title type="html">Jenius Engineer reading list #3</title>
       
-      <link href="http://localhost:4000/2018/07/16/engineer-readinglist-2/" rel="alternate" type="text/html" title="Jenius Engineer reading list #3" />
+      <link href="http://localhost:4000/2018/07/16/engineer-readinglist-3/" rel="alternate" type="text/html" title="Jenius Engineer reading list #3" />
       <published>2018-07-16T00:00:00+00:00</published>
       <updated>2018-07-16T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/16/engineer-readinglist-2</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/16/engineer-readinglist-2/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/07/16/engineer-readinglist-3</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/16/engineer-readinglist-3/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/taxonomy-tech-debt&quot;&gt;A Taxonomy of tech debt&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843&quot;&gt;Serverless monitoring — the good, the bad and the ugly&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@lmatteis/on-user-interface-development-appending-to-the-event-log-8d8ca966795d&quot;&gt;On User Interface Development: appending to the event log&lt;/a&gt;&lt;/li&gt;
@@ -448,11 +500,11 @@
       
       <title type="html">Jenius Engineer reading list #2</title>
       
-      <link href="http://localhost:4000/2018/07/10/engineer-readinglist-1/" rel="alternate" type="text/html" title="Jenius Engineer reading list #2" />
+      <link href="http://localhost:4000/2018/07/10/engineer-readinglist-2/" rel="alternate" type="text/html" title="Jenius Engineer reading list #2" />
       <published>2018-07-10T00:00:00+00:00</published>
       <updated>2018-07-10T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/10/engineer-readinglist-1</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/10/engineer-readinglist-1/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/07/10/engineer-readinglist-2</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/10/engineer-readinglist-2/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/Fewbytes/rubber-docker&quot;&gt;Rebuild Docker from Scratch&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/going-offline&quot;&gt;Going Offline&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://apiumhub.com/tech-blog-barcelona/devops-reading-list-devops-books/&quot;&gt;Devops reading list: top 30 best devops books you should read in 2018&lt;/a&gt;&lt;/li&gt;
@@ -499,11 +551,11 @@
       
       <title type="html">Jenius Engineer reading list #1</title>
       
-      <link href="http://localhost:4000/2018/07/09/engineer-readinglist-0/" rel="alternate" type="text/html" title="Jenius Engineer reading list #1" />
+      <link href="http://localhost:4000/2018/07/09/engineer-readinglist-1/" rel="alternate" type="text/html" title="Jenius Engineer reading list #1" />
       <published>2018-07-09T00:00:00+00:00</published>
       <updated>2018-07-09T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/09/engineer-readinglist-0</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/09/engineer-readinglist-0/">&lt;p&gt;Segmen baru untuk mengakomodir berita, &lt;em&gt;how-to&lt;/em&gt; atau perkembangan teknologi &lt;em&gt;development&lt;/em&gt;.&lt;/p&gt;
+      <id>http://localhost:4000/2018/07/09/engineer-readinglist-1</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/09/engineer-readinglist-1/">&lt;p&gt;Segmen baru untuk mengakomodir berita, &lt;em&gt;how-to&lt;/em&gt; atau perkembangan teknologi &lt;em&gt;development&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/scale-part-i-task-queues/&quot;&gt;@Scale – Part I (Task Queues)&lt;/a&gt;&lt;/li&gt;
@@ -1210,81 +1262,6 @@ Output: &lt;br /&gt;
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #32, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Rails 5.1.5, parallel testing and more! Email is your electronic memory Linux ate my RAM Flutter — 5 reasons why you may love it Why so Many Developers Quit Before Ever Getting a Job. Please — don’t Who Killed The Junior Developer? Docker Tip #1 — Docker Aliases Docker Image Building – Lessons learned GraphQL as an API Gateway to Microservices Why should I care about Kubernetes, Docker, and Container Orchestration? Best Practices for Modals / Overlays / Dialog Windows News Rails 5.1.5 released Node v6.13.0 (LTS) Tools &amp;amp; Codes Embulk – bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services kube-ops-view – Kubernetes Operational View kubectx – Fast way to switch between clusters and namespaces in kubectl No Dock – Docker Compose for Node project console-probe – Inspect JavaScript object methods and properties in the console Stimulusjs – a javascript framework These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #31</title>
-      
-      <link href="http://localhost:4000/2018/02/13/jeniustech-newsletter-31/" rel="alternate" type="text/html" title="Jenius Engineering weekly #31" />
-      <published>2018-02-13T00:00:00+00:00</published>
-      <updated>2018-02-13T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/02/13/jeniustech-newsletter-31</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/13/jeniustech-newsletter-31/">&lt;p&gt;Welcome to Jenius Engineering newsletter #31, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/posts/top-developer-tools-2017&quot;&gt;Stackshare Top 50 Developer tools of 2017&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://research.hackerrank.com/developer-skills/2018/&quot;&gt;2018 Developer Skills Report&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/02/dynamometer--scale-testing-hdfs-on-minimal-hardware-with-maximum&quot;&gt;Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/think-think-think-before-you-code-52890a917ffd&quot;&gt;Think, think, think… before you code!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.apisyouwonthate.com/the-many-amazing-uses-of-json-schema-client-side-validation-c78a11fbde45&quot;&gt;The Many Amazing Uses of JSON Schema: Client-side Validation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/&quot;&gt;GraphQL as an API Gateway to Microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/the-twelve-factors-kubernetes/&quot;&gt;The Twelve-Factors Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/02/making-30x-performance-improvements-on-yelps-mysqlstreamer.html&quot;&gt;Making 30x performance improvements on Yelp’s MySQLStreamer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/introducing-capsule-networks&quot;&gt;Introducing capsule networks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://engineering.appfolio.com/appfolio-engineering/2018/2/4/how-fast-is-ruby-250&quot;&gt;How Fast is Ruby 2.5.0?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4&quot;&gt;An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ayende.com/blog/181857-A/ravendb-4-0-is-out&quot;&gt;RavenDB 4.0 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tools &amp;amp; Codes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zalando/tech-radar&quot;&gt;Zalando Tech Radar&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jamesknelson/mdxc&quot;&gt;MDXC – React Components within Markdown&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kantord/just-dashboard&quot;&gt;Create dashboards using YAML/JSON files&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/rbspy/rbspy&quot;&gt;Rbspy – Sampling profiler for Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nact.io/&quot;&gt;Redux but for the server.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #31, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Stackshare Top 50 Developer tools of 2017 2018 Developer Skills Report Dynamometer: Scale Testing HDFS on Minimal Hardware with Maximum Fidelity Think, think, think… before you code! The Many Amazing Uses of JSON Schema: Client-side Validation GraphQL as an API Gateway to Microservices The Twelve-Factors Kubernetes Making 30x performance improvements on Yelp’s MySQLStreamer Introducing capsule networks How Fast is Ruby 2.5.0? An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps News RavenDB 4.0 released Tools &amp;amp; Codes Zalando Tech Radar MDXC – React Components within Markdown Create dashboards using YAML/JSON files Rbspy – Sampling profiler for Ruby Redux but for the server. These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
