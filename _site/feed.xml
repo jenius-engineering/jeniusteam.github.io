@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <generator uri="http://jekyllrb.com" version="3.8.1">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
   
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-08T06:51:54+00:00</updated>
+  <updated>2018-08-13T06:18:54+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 11</title>
+      
+      <link href="http://localhost:4000/2018/08/13/engineer-readinglist-12/" rel="alternate" type="text/html" title="Jenius Engineer reading list 11" />
+      <published>2018-08-13T00:00:00+00:00</published>
+      <updated>2018-08-13T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/13/engineer-readinglist-12</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/13/engineer-readinglist-12/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c&quot;&gt;Apache Kafka is not for Event Sourcing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hellosign.com/blog/software-ate-world&quot;&gt;Software Ate the World. Now What?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/economic-perspective-testing/&quot;&gt;Lean Testing, or Why Unit Tests are Worse than You Think&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/filepond-frontend-trickery-a3073c934c77&quot;&gt;5 interesting technical challenges I faced when building FilePond&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/youre-not-even-criticising-scrum-caecf4eb19d3&quot;&gt;You’re not even criticising Scrum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Apache Kafka is not for Event Sourcing Software Ate the World. Now What? Lean Testing, or Why Unit Tests are Worse than You Think 5 interesting technical challenges I faced when building FilePond You’re not even criticising Scrum</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1185,83 +1237,6 @@ Output: &lt;br /&gt;
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #33, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Application Deployment at Deliveroo Build a recurrent neural network using Apache MXNet What’s All the FaaS About? Chroot: the magical healing powers of the original Linux virtualization tool IoT data storage and analysis with Fluentd, Minio and Spark How production engineers support global events on Facebook Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2 Running a scalable &amp;amp; reliable GraphQL endpoint with Serverless How Algolia built their frontend search widgets with React.js by following redux principles How Showmax got into live streaming Visualizing Archer How to build a Kubernetes Horizontal Pod Autoscaler using custom metrics Continuous Delivery for Static Sites The best architecture with Docker and Kubernetes — myth or reality? Syntactic sugar methods in Ruby News npm v5.7.0 released Sinatra v2.0.1 released News &amp;amp; Codes requests-html – HTML Parsing for Humans™ FastPhotoStyle – Style transfer, deep learning, feature transform SweetAlert – A beautiful replacement for JavaScript’s “alert” These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #32</title>
-      
-      <link href="http://localhost:4000/2018/02/20/jeniustech-newsletter-32/" rel="alternate" type="text/html" title="Jenius Engineering weekly #32" />
-      <published>2018-02-20T00:00:00+00:00</published>
-      <updated>2018-02-20T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/02/20/jeniustech-newsletter-32</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/20/jeniustech-newsletter-32/">&lt;p&gt;Welcome to Jenius Engineering newsletter #32, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://weblog.rubyonrails.org/2018/2/17/this-week-in-rails-rails-5-1-5-parallel-testing-and-more/&quot;&gt;Rails 5.1.5, parallel testing and more!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.fastmail.com/2018/02/14/email-is-your-electronic-memory/&quot;&gt;Email is your electronic memory&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linuxatemyram.com/&quot;&gt;Linux ate my RAM&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/flutter-5-reasons-why-you-may-love-it-55021fdbf1aa&quot;&gt;Flutter — 5 reasons why you may love it&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/why-so-many-developers-quit-before-ever-getting-a-job-please-dont-1c0fd6459e5e&quot;&gt;Why so Many Developers Quit Before Ever Getting a Job. Please — don’t&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c&quot;&gt;Who Killed The Junior Developer?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://looselytyped.com/blog/2018/02/07/docker-tip-1-docker-aliases/&quot;&gt;Docker Tip #1 — Docker Aliases&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://recycledpapyr.us/2018/02/07/docker-image-building-lessons-learned/&quot;&gt;Docker Image Building – Lessons learned&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/&quot;&gt;GraphQL as an API Gateway to Microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hanselman.com/blog/WhyShouldICareAboutKubernetesDockerAndContainerOrchestration.aspx&quot;&gt;Why should I care about Kubernetes, Docker, and Container Orchestration?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://heydesigner.com/blog/best-practices-modals-overlays-dialog-windows/&quot;&gt;Best Practices for Modals / Overlays / Dialog Windows&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://weblog.rubyonrails.org/2018/2/14/Rails-5-1-5-has-been-released/&quot;&gt;Rails 5.1.5 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v6.13.0/&quot;&gt;Node v6.13.0 (LTS)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tools &amp;amp; Codes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.embulk.org/docs/&quot;&gt;Embulk – bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/hjacobs/kube-ops-view&quot;&gt;kube-ops-view – Kubernetes Operational View &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ahmetb/kubectx&quot;&gt;kubectx – Fast way to switch between clusters and namespaces in kubectl&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Osedea/nodock&quot;&gt;No Dock – Docker Compose for Node project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/console-probe&quot;&gt;console-probe – Inspect JavaScript object methods and properties in the console&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stimulusjs.org/&quot;&gt;Stimulusjs – a javascript framework&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #32, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Rails 5.1.5, parallel testing and more! Email is your electronic memory Linux ate my RAM Flutter — 5 reasons why you may love it Why so Many Developers Quit Before Ever Getting a Job. Please — don’t Who Killed The Junior Developer? Docker Tip #1 — Docker Aliases Docker Image Building – Lessons learned GraphQL as an API Gateway to Microservices Why should I care about Kubernetes, Docker, and Container Orchestration? Best Practices for Modals / Overlays / Dialog Windows News Rails 5.1.5 released Node v6.13.0 (LTS) Tools &amp;amp; Codes Embulk – bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services kube-ops-view – Kubernetes Operational View kubectx – Fast way to switch between clusters and namespaces in kubectl No Dock – Docker Compose for Node project console-probe – Inspect JavaScript object methods and properties in the console Stimulusjs – a javascript framework These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
