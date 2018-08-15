@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-13T06:18:54+00:00</updated>
+  <updated>2018-08-15T12:20:45+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -28,9 +28,113 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 11</title>
+      <title type="html">Jenius Engineer reading list 14</title>
       
-      <link href="http://localhost:4000/2018/08/13/engineer-readinglist-12/" rel="alternate" type="text/html" title="Jenius Engineer reading list 11" />
+      <link href="http://localhost:4000/2018/08/15/engineer-readinglist-14/" rel="alternate" type="text/html" title="Jenius Engineer reading list 14" />
+      <published>2018-08-15T00:00:00+00:00</published>
+      <updated>2018-08-15T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/15/engineer-readinglist-14</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/15/engineer-readinglist-14/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-i-talk-about-when-i-talk-about-logging-36237fad7336&quot;&gt;What I Talk About When I Talk About Logging&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/how-to-drop-10-million-packets/&quot;&gt;How to drop 10 million packets per second&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.buildo.io/emails-boring-are-not-15c7b92fa90a&quot;&gt;Emails Boring Are Not&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html&quot;&gt;Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://engineering.hackerearth.com/2018/07/07/introducing-nuskha/&quot;&gt;Introducing Nuskha&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">What I Talk About When I Talk About Logging How to drop 10 million packets per second Emails Boring Are Not Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1 Introducing Nuskha</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 13</title>
+      
+      <link href="http://localhost:4000/2018/08/14/engineer-readinglist-13/" rel="alternate" type="text/html" title="Jenius Engineer reading list 13" />
+      <published>2018-08-14T00:00:00+00:00</published>
+      <updated>2018-08-14T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/14/engineer-readinglist-13</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/14/engineer-readinglist-13/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c&quot;&gt;How to write a good software design doc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleChromeLabs/ndb&quot;&gt;ndb – ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@henriksylvesterpedersen/you-dont-need-that-bastion-host-cd1b1717a9e7&quot;&gt;You don’t need that Bastion host&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ronjeffries.com/articles/018-01ff/scrum-not-asd-1/&quot;&gt;Scrum is not an Agile Software Development Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.imaginarycloud.com/blog/material-design-is-a-political-choice/&quot;&gt;Material design is a political choice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">How to write a good software design doc ndb – ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools You don’t need that Bastion host Scrum is not an Agile Software Development Framework Material design is a political choice</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 12</title>
+      
+      <link href="http://localhost:4000/2018/08/13/engineer-readinglist-12/" rel="alternate" type="text/html" title="Jenius Engineer reading list 12" />
       <published>2018-08-13T00:00:00+00:00</published>
       <updated>2018-08-13T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/13/engineer-readinglist-12</id>
@@ -1087,156 +1191,6 @@ Wargame menjadi salah satu pendekatan lain terhadap konsep &lt;a href=&quot;http
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #34, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Chaos Engineering using Amazon EC2 Systems Manager Making a component reusable What Can’t React Do? Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore A Practical Introduction to Container Terminology Event-Driven Architecture Implementation Validating Leaked Passwords with k-Anonymity How Developers got Password Security so Wrong Making AR more precise with CoreML How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies What to expect when you decide to migrate from Javascript to Typescript It’s Resilient CSS Week Implementing Microservice Discovery in 100 Lines of Node.js The Definitive PHP 5.6, 7.0, 7.1, 7.2 &amp;amp; HHVM Benchmarks – And updated benchmark for multiple PHP version. News Node v9.7.0 (Current) released Tools &amp;amp; Codes Wallaroo – Ultrafast and elastic data processing. 🚀 The awesome Node.js HTTP reverse-proxy server. AWS API Gateway Log Parser. Queryparser, an Open Source Tool for Parsing and Analyzing SQL Searches full repo history for secrets and keys 🔑 These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Optimasi gambar</title>
-      
-      <link href="http://localhost:4000/2018/03/01/optimasi-gambar/" rel="alternate" type="text/html" title="Optimasi gambar" />
-      <published>2018-03-01T00:00:00+00:00</published>
-      <updated>2018-03-01T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/03/01/optimasi-gambar</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/01/optimasi-gambar/">&lt;p&gt;Sebagai developer, terutama web developer, load time dari satu halaman adalah penting, karena ini bisa dijadikan acuan apakah user akan tetap di web kita atau pergi karena load time website kita yang lama.&lt;/p&gt;
-
-&lt;p&gt;Dan hal ini tidak terbatas hanya pada web, pada aplikasi &lt;em&gt;mobile&lt;/em&gt; juga optimasi gambar misalkan berupa assets yang cenderung berubah, atau misalkan jika aplikasi mengandung gambar profil cashtag nasabah Jenius, maka akan ada gambar yang keluar jika kita menambahkan user tersebut kedalam Jenius Contact.&lt;/p&gt;
-
-&lt;p&gt;Beberapa cara yang digunakan untuk mengurangi load time antara lain dengan browser cache, konfigurasi di webserver, mungkin juga menggunakan proxy cache, dan lainnya, dari banyak hal yang bisa dilakukan salah satunya adalah optimasi gambar, karena file gambar bisa sangat menyita waktu untuk loading, apalagi jika website anda mengandalkan media gambar sebagai alat komunikasi, misalkan e-commerce.&lt;/p&gt;
-
-&lt;p&gt;Beberapa pilihan alat untuk mengompress gambar, bisa untuk &lt;a href=&quot;http://mashable.com/2013/10/29/image-compressors&quot;&gt;desktop&lt;/a&gt; maupun CLI, untuk command line, saya menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;jpegoptim&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;pngout&lt;/code&gt; sebagai tools untuk mengompress file gambar.
-&lt;!-- more --&gt;
-DI sini menggunakan Ubuntu sebagai base dari sistem operasi server &lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;$ sudo apt-get install jpegoptim pngout&lt;/code&gt; &lt;br /&gt;
-menjalankan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;$ jpegoptim file.jpg &lt;/code&gt;, hal ini akan mengompress file gambar dengan menghilangkan info-info yang tidak dibutuhkan seperti comment di exif, atau informasi lain yang menambah berat satu file.&lt;/p&gt;
-
-&lt;p&gt;Anda juga bisa menjalankan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;jpegoptim&lt;/code&gt; agar bisa secara masif mengompress file dengan perintah&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ find . -type f -name &quot;*.jpg&quot; -exec jpegoptim -m90 --strip-all --all-progressive  {} \;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Untuk perintah di atas, itu akan mencari file &lt;code class=&quot;highlighter-rouge&quot;&gt;.jpg&lt;/code&gt; sampai ke dalam folder secara recursive,  Opsi &lt;code class=&quot;highlighter-rouge&quot;&gt;.&lt;/code&gt; di atas menunjukkan working directory yang sedang anda gunakan, jika hendak mengarahkan ke folder yang lain bisa ditulis &lt;code class=&quot;highlighter-rouge&quot;&gt;PATH&lt;/code&gt;-nya, seperti perintah di bawah.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ find /path/ke/gambar/ -type f -name &quot;*.jpg&quot; -exec jpegoptim -m90 --strip-all --all-progressive  {} \;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Opsi yang digunakan adalah &lt;code class=&quot;highlighter-rouge&quot;&gt;-m90&lt;/code&gt; artinya menggunakan kualitas 90, &lt;code class=&quot;highlighter-rouge&quot;&gt;--strip-all&lt;/code&gt; menghilangkan informasi exif yang tidak terpakai, dan &lt;code class=&quot;highlighter-rouge&quot;&gt;--all-progressive&lt;/code&gt; opsi ini untuk menjadikan gambar itu progressive mode. &lt;br /&gt;
-Output: &lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;/path/ke/file_gambar.jpg 100x150 24bit N JFIF  [OK] 2706 --&amp;gt; 2580 bytes (4.66%), optimized.&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;note:&lt;/strong&gt; terkadang ada kasus dimana file anda akan hilang permission code-nya, dan tidak bisa diakses oleh borwser, ini bisa diakali dengan menambahkan perintah seperti berikut&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;find . -type f -name &quot;*.jpg&quot; -exec jpegoptim -m90 --strip-all --all-progressive  {} \; -exec chmod 677 {} \;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;dengan cara di atas, anda mengembalikan permission file agar bisa dibaca oleh webserver dan akhirnya ditampilkan ke browser.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="post" />
-      
-
-      
-        <category term="image" />
-      
-        <category term="optimization" />
-      
-
-      
-        <summary type="html">Sebagai developer, terutama web developer, load time dari satu halaman adalah penting, karena ini bisa dijadikan acuan apakah user akan tetap di web kita atau pergi karena load time website kita yang lama. Dan hal ini tidak terbatas hanya pada web, pada aplikasi mobile juga optimasi gambar misalkan berupa assets yang cenderung berubah, atau misalkan jika aplikasi mengandung gambar profil cashtag nasabah Jenius, maka akan ada gambar yang keluar jika kita menambahkan user tersebut kedalam Jenius Contact. Beberapa cara yang digunakan untuk mengurangi load time antara lain dengan browser cache, konfigurasi di webserver, mungkin juga menggunakan proxy cache, dan lainnya, dari banyak hal yang bisa dilakukan salah satunya adalah optimasi gambar, karena file gambar bisa sangat menyita waktu untuk loading, apalagi jika website anda mengandalkan media gambar sebagai alat komunikasi, misalkan e-commerce. Beberapa pilihan alat untuk mengompress gambar, bisa untuk desktop maupun CLI, untuk command line, saya menggunakan jpegoptim dan pngout sebagai tools untuk mengompress file gambar.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #33</title>
-      
-      <link href="http://localhost:4000/2018/02/27/jeniustech-newsletter-33/" rel="alternate" type="text/html" title="Jenius Engineering weekly #33" />
-      <published>2018-02-27T00:00:00+00:00</published>
-      <updated>2018-02-27T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/02/27/jeniustech-newsletter-33</id>
-      <content type="html" xml:base="http://localhost:4000/2018/02/27/jeniustech-newsletter-33/">&lt;p&gt;Welcome to Jenius Engineering newsletter #33, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2018/02/21/application-deployment.html?utm_source=jeniustech&quot;&gt;Application Deployment at Deliveroo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/build-a-recurrent-neural-network-using-apache-mxnet?utm_source=jeniustech&quot;&gt;Build a recurrent neural network using Apache MXNet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pubnub.com/blog/what-is-functions-as-a-service-faas/?utm_source=jeniustech&quot;&gt;What’s All the FaaS About?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/chroot-the-magical-healing-powers-of-the-original-linux-virtualization-tool-9aa4c3928711?utm_source=jeniustech&quot;&gt;Chroot: the magical healing powers of the original Linux virtualization tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.minio.io/iot-data-storage-and-analysis-with-fluentd-minio-and-spark-26f183381183?utm_source=jeniustech&quot;&gt;IoT data storage and analysis with Fluentd, Minio and Spark&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/?utm_source=jeniustech&quot;&gt;How production engineers support global events on Facebook&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/?utm_source=jeniustech&quot;&gt;Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/running-a-scalable-reliable-graphql-endpoint-with-serverless-24c3bb5acb43?utm_source=jeniustech&quot;&gt;Running a scalable &amp;amp; reliable GraphQL endpoint with Serverless&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/how-algolia-built-their-frontend-search-widgets-with-react-dot-js-by-following-redux-principles/?utm_source=jeniustech&quot;&gt;How Algolia built their frontend search widgets with React.js by following redux principles&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/02/how-showmax-got-into-live-streaming/&quot;&gt;How Showmax got into live streaming&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/visualizing-archer-bcb80e319625?utm_source=jeniustech&quot;&gt;Visualizing Archer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/kubernetes-scaler/?utm_source=jeniustech&quot;&gt; How to build a Kubernetes Horizontal Pod Autoscaler using custom metrics &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/continuous-delivery-for-static-sites/?utm_source=jeniustech&quot;&gt;Continuous Delivery for Static Sites&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d?utm_source=jeniustech&quot;&gt;The best architecture with Docker and Kubernetes — myth or reality?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2018/02/20/ruby-magic-syntactic-sugar-methods.html?utm_source=jeniustech&quot;&gt;Syntactic sugar methods in Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/171139955345/v570?utm_source=jeniustech&quot;&gt;npm v5.7.0 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://sinatrarb.com/2018/02/19/sinatra-2.0.1.html?utm_source=jeniustech&quot;&gt;Sinatra v2.0.1 released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News &amp;amp; Codes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kennethreitz/requests-html?utm_source=jeniustech&quot;&gt;requests-html – HTML Parsing for Humans™ &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/NVIDIA/FastPhotoStyle?utm_source=jeniustech&quot;&gt;FastPhotoStyle – Style transfer, deep learning, feature transform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/t4t5/sweetalert?utm_source=jeniustech&quot;&gt;SweetAlert – A beautiful replacement for JavaScript’s “alert”&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #33, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Application Deployment at Deliveroo Build a recurrent neural network using Apache MXNet What’s All the FaaS About? Chroot: the magical healing powers of the original Linux virtualization tool IoT data storage and analysis with Fluentd, Minio and Spark How production engineers support global events on Facebook Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2 Running a scalable &amp;amp; reliable GraphQL endpoint with Serverless How Algolia built their frontend search widgets with React.js by following redux principles How Showmax got into live streaming Visualizing Archer How to build a Kubernetes Horizontal Pod Autoscaler using custom metrics Continuous Delivery for Static Sites The best architecture with Docker and Kubernetes — myth or reality? Syntactic sugar methods in Ruby News npm v5.7.0 released Sinatra v2.0.1 released News &amp;amp; Codes requests-html – HTML Parsing for Humans™ FastPhotoStyle – Style transfer, deep learning, feature transform SweetAlert – A beautiful replacement for JavaScript’s “alert” These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
