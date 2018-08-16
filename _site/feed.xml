@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-15T12:20:45+00:00</updated>
+  <updated>2018-08-16T04:47:40+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,56 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">L1 Terminal Fault Explained</title>
+      
+      <link href="http://localhost:4000/2018/08/16/l1tf/" rel="alternate" type="text/html" title="L1 Terminal Fault Explained" />
+      <published>2018-08-16T00:00:00+00:00</published>
+      <updated>2018-08-16T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/16/l1tf</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/16/l1tf/">&lt;p&gt;Video from redhat&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kBOsVt0iXE4&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="news" />
+      
+        <category term="engineer" />
+      
+        <category term="security" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Video from redhat</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1113,84 +1163,6 @@ Wargame menjadi salah satu pendekatan lain terhadap konsep &lt;a href=&quot;http
 
       
         <summary type="html">Jenius sebagai perusahaan fintech, melayani 24/7, 365 adalah waktu yang diberikan kepada nasabah, masalah teknikal akan selalu ada, dari mulai service, infrastruktur yang terganggu, atau terjadi human error. Dan sebagai team engineering, hal ini tentu sudah harus diantisipasi, tidak saja dengan modal pengetahuan, tapi juga pengalaman, karena pengalaman akan berbeda tergantung dari latar belakang developer/engineer tersebut sebelumnya. Wargame adalah salah satu cara untuk mendapatkan pengalaman yang dibutuhkan untuk menghadapi kemungkinan-kemungkinan yang terjadi di production, Jenius selalu mengadakan sesi khusus untuk Wargame, di sini engineer ditantang untuk menyelesaikan issue yang terjadi baik di production ataupun environment lain seperti SIT, UAT atau Staging, engineer diharapkan dapat melakukan task yang ada di wargame tersebut.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #34</title>
-      
-      <link href="http://localhost:4000/2018/03/06/jeniustech-newsletter-34/" rel="alternate" type="text/html" title="Jenius Engineering weekly #34" />
-      <published>2018-03-06T00:00:00+00:00</published>
-      <updated>2018-03-06T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/03/06/jeniustech-newsletter-34</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/06/jeniustech-newsletter-34/">&lt;p&gt;Welcome to Jenius Engineering newsletter #34, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Reading list&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/chaos-engineering-using-amazon-ec2-systems-manager-5278e0bc8482?utm_source=jeniustech&quot;&gt;Chaos Engineering using Amazon EC2 Systems Manager&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.yld.io/2018/02/19/reuse/?utm_source=jeniustech&quot;&gt;Making a component reusable&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/what-cant-react-do/?utm_source=jeniustech&quot;&gt;What Can’t React Do?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/schemaless-rewrite/?utm_source=jeniustech&quot;&gt;Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/?utm_source=jeniustech&quot;&gt;A Practical Introduction to Container Terminology&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/event-driven-architecture-implementation-140c51820845?utm_source=jeniustech&quot;&gt;Event-Driven Architecture Implementation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/?utm_source=jeniustech&quot;&gt;Validating Leaked Passwords with k-Anonymity&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/how-developers-got-password-security-so-wrong/?utm_source=jeniustech&quot;&gt;How Developers got Password Security so Wrong&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.novoda.com/blog/arkit-coreml/?utm_source=jeniustech&quot;&gt;Making AR more precise with CoreML&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/02/how-we-built-wallaroo-to-process-millions-of-messages/sec-with-microsecond-latencies/?utm_source=jeniustech&quot;&gt;How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://advancedweb.hu/2018/02/27/21_first_impressions_typescript/?utm_source=jeniustech&quot;&gt;What to expect when you decide to migrate from Javascript to Typescript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/02/its-resilient-css-week/?utm_source=jeniustech&quot;&gt;It’s Resilient CSS Week&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/asyncanup/vasco/blob/33b878b3ae43f2c75197ea3e93afa0876ce990de/vasco-talk.pdf&quot;&gt;Implementing Microservice Discovery in 100 Lines of Node.js &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kinsta.com/blog/php-7-hhvm-benchmarks/?utm_source=jeniustech&quot;&gt;The Definitive PHP 5.6, 7.0, 7.1, 7.2 &amp;amp; HHVM Benchmarks&lt;/a&gt; – And updated benchmark for multiple PHP version.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;News&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v9.7.0/&quot;&gt;Node v9.7.0 (Current) released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;Tools &amp;amp; Codes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/wallaroolabs/wallaroo&quot;&gt;Wallaroo – Ultrafast and elastic data processing.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ethanent/coroute&quot;&gt;🚀 The awesome Node.js HTTP reverse-proxy server.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/sahilnarain/aws-api-gateway-log-parser&quot;&gt;AWS API Gateway Log Parser.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/queryparser/&quot;&gt;Queryparser, an Open Source Tool for Parsing and Analyzing SQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zricethezav/gitleaks&quot;&gt;Searches full repo history for secrets and keys 🔑&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #34, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Chaos Engineering using Amazon EC2 Systems Manager Making a component reusable What Can’t React Do? Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore A Practical Introduction to Container Terminology Event-Driven Architecture Implementation Validating Leaked Passwords with k-Anonymity How Developers got Password Security so Wrong Making AR more precise with CoreML How We Built Wallaroo to Process Millions of Messages/Sec with Microsecond Latencies What to expect when you decide to migrate from Javascript to Typescript It’s Resilient CSS Week Implementing Microservice Discovery in 100 Lines of Node.js The Definitive PHP 5.6, 7.0, 7.1, 7.2 &amp;amp; HHVM Benchmarks – And updated benchmark for multiple PHP version. News Node v9.7.0 (Current) released Tools &amp;amp; Codes Wallaroo – Ultrafast and elastic data processing. 🚀 The awesome Node.js HTTP reverse-proxy server. AWS API Gateway Log Parser. Queryparser, an Open Source Tool for Parsing and Analyzing SQL Searches full repo history for secrets and keys 🔑 These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
       
 
       
