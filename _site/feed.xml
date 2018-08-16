@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-16T04:47:40+00:00</updated>
+  <updated>2018-08-16T04:53:13+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -68,6 +68,57 @@
 
       
         <summary type="html">Video from redhat</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 15</title>
+      
+      <link href="http://localhost:4000/2018/08/16/engineer-readinglist-15/" rel="alternate" type="text/html" title="Jenius Engineer reading list 15" />
+      <published>2018-08-16T00:00:00+00:00</published>
+      <updated>2018-08-16T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/16/engineer-readinglist-15</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/16/engineer-readinglist-15/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/what-you-should-know-about-penetration-testing/&quot;&gt;What You Should Know About Penetration Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@timhberry/terraform-pipelines-in-gitlab-415b9d842596&quot;&gt;Terraform Pipelines in GitLab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a&quot;&gt;On Toxic Jobs, Low Self-Esteem, &amp;amp; Interviewing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tinyssh.org/&quot;&gt;Tinyssh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">What You Should Know About Penetration Testing Terraform Pipelines in GitLab On Toxic Jobs, Low Self-Esteem, &amp;amp; Interviewing Tinyssh</summary>
       
 
       
@@ -1105,64 +1156,6 @@ Setelah Jenius meluncurkan Jenius 2.0 yang merupakan &lt;em&gt;upgrade&lt;/em&gt
 
       
         <summary type="html">Welcome to Jenius Engineering newsletter #35, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading List A Year Away from macOS Terkadang untuk bisa lepas dari sistem yang membuat kita ‘nyaman’ itu susah, apalagi untuk menyamai, dan dalam artikel ini dibahas bagaimana untuk bisa terbiasa dengan GNU/Linux setelah sebelumnya terbiasa dengan macOS. Kumpulan artikel dan atau tutorial Rust Rust sebagai bahasa pemograman yang dibangun oleh Mozilla saat ini banyak diminati karena terhitung cepat dari sisi performance, dan juga kemududahan untuk diadopsi sebagai bahasa pembangun untuk microservice misalkan.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Wargame</title>
-      
-      <link href="http://localhost:4000/2018/03/12/wargame/" rel="alternate" type="text/html" title="Wargame" />
-      <published>2018-03-12T00:00:00+00:00</published>
-      <updated>2018-03-12T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/03/12/wargame</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/12/wargame/">&lt;p&gt;&lt;img src=&quot;/images/posts/wargame.jpg&quot; alt=&quot;situasi wargame&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Jenius sebagai perusahaan fintech, melayani 24/7, 365 adalah waktu yang diberikan kepada nasabah, masalah teknikal akan selalu ada, dari mulai service, infrastruktur yang terganggu, atau terjadi human error. Dan sebagai team engineering, hal ini tentu sudah harus diantisipasi, tidak saja dengan modal pengetahuan, tapi juga pengalaman, karena pengalaman akan berbeda tergantung dari latar belakang developer/engineer tersebut sebelumnya.&lt;/p&gt;
-
-&lt;p&gt;Wargame adalah salah satu cara untuk mendapatkan pengalaman yang dibutuhkan untuk menghadapi kemungkinan-kemungkinan yang terjadi di production, Jenius selalu mengadakan sesi khusus untuk Wargame, di sini engineer ditantang untuk menyelesaikan issue yang terjadi baik di production ataupun environment lain seperti SIT, UAT atau Staging, engineer diharapkan dapat melakukan task yang ada di wargame tersebut. 
-&lt;!-- more --&gt;
-Wargame menjadi salah satu pendekatan lain terhadap konsep &lt;a href=&quot;https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey&quot;&gt;Chaos Monkey&lt;/a&gt;, dengan melakukan hal ini secara rutin, dapat meningkatkan keawasan dari team development, operation, infrastruktur, jika terjadi issue, maka tim akan bisa menemukan cara penyelesaian.&lt;/p&gt;
-
-&lt;p&gt;Dalam dunia development, terutama sebagai engineer yang bertanggung jawab terhadap production, latihan ini akan melatih analisa dan keputusan apa yang diambil untuk menyelesaikan issue yang terjadi, skenario bisa didapat dari apa yang terjadi di lapangan, laporan dari pengguna, atau ide-ide gila dari kemungkinan kegagalan yang terjadi dalam story yang dibuat ketika membangun fitur dan lainnya.&lt;/p&gt;
-
-&lt;p&gt;Dalam Wargame, bisa dilakuan banyak skenario untuk melakukan latihan ini dilakukan oleh penyelenggara/perusak biasanya, misalkan jika aplikasi yang dibangun ada frontend dan backend, bisa dilakukan ‘pengrusakan’ di sisi backend, karena ini yang sering terjadi dan lihat apa yang terjadi di frontend. misalkan putuskan koneksi ke database, mematikan load-balancer dan lainnya, hal ini tergantung dari imajinasi penyelenggara/perusak.&lt;/p&gt;
-
-&lt;p&gt;Dari kasus yang terjadi di wargame tersebut, hendaknya ditulis apa yang terjadi, kemudian dokumentasikan langkah-langkah yang diambil dalam penyelesaian. jika masalah sudah teratasi, buatlah semacam root cause analysis (RCA), rca ini dibuat sebagai bahan acuan team production jika hal yang sama terjadi, dan ini juga bisa menjadi hal baru untuk tim development agar membuat patch atau fixing untuk issue/bug yang terjadi.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="post" />
-      
-
-      
-        <category term="sre" />
-      
-        <category term="production" />
-      
-        <category term="chaos monkey" />
-      
-
-      
-        <summary type="html">Jenius sebagai perusahaan fintech, melayani 24/7, 365 adalah waktu yang diberikan kepada nasabah, masalah teknikal akan selalu ada, dari mulai service, infrastruktur yang terganggu, atau terjadi human error. Dan sebagai team engineering, hal ini tentu sudah harus diantisipasi, tidak saja dengan modal pengetahuan, tapi juga pengalaman, karena pengalaman akan berbeda tergantung dari latar belakang developer/engineer tersebut sebelumnya. Wargame adalah salah satu cara untuk mendapatkan pengalaman yang dibutuhkan untuk menghadapi kemungkinan-kemungkinan yang terjadi di production, Jenius selalu mengadakan sesi khusus untuk Wargame, di sini engineer ditantang untuk menyelesaikan issue yang terjadi baik di production ataupun environment lain seperti SIT, UAT atau Staging, engineer diharapkan dapat melakukan task yang ada di wargame tersebut.</summary>
       
 
       
