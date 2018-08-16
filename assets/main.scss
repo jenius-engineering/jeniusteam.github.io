@@ -3,8 +3,33 @@
 ---
 @charset "utf-8";
 
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);@font-face {
+  font-family: Jenius;
+  src: url(font/JeniusSans-Light.eot);
+  src: url(font/JeniusSans-Light.eot?#iefix) format("embedded-opentype"),url(font/JeniusSans-Light.woff) format("woff"),url(font/JeniusSans-Light.ttf) format("truetype"),url(font/JeniusSans-Light.svg#4f18e424d9a37b543c0cdbaec1aadf1e) format("svg");
+  font-style: normal;
+  font-weight: 300
+}
+
+@font-face {
+  font-family: Jenius;
+  src: url(font/JeniusSans-Regular.eot);
+  src: url(font/JeniusSans-Regular.eot?#iefix) format("embedded-opentype"),url(font/JeniusSans-Regular.woff) format("woff"),url(font/JeniusSans-Regular.ttf) format("truetype"),url(font/JeniusSans-Regular.svg#4f18e424d9a37b543c0cdbaec1aadf1e) format("svg");
+  font-style: normal;
+  font-weight: 400
+}
+
+@font-face {
+  font-family: Jenius;
+  src: url(font/JeniusSans-Bold.eot);
+  src: url(font/JeniusSans-Bold.eot?#iefix) format("embedded-opentype"),url(font/JeniusSans-Bold.woff) format("woff"),url(font/JeniusSans-Bold.ttf) format("truetype"),url(font/JeniusSans-Bold.svg#4f18e424d9a37b543c0cdbaec1aadf1e) format("svg");
+  font-style: normal;
+  font-weight: 700
+}
+
+
 // Our variables
-$base-font-family: Bitter, "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif;
+$base-font-family: "Jenius", "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif;
 $monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
 $base-font-size:   16px;
 $base-font-weight: 400;
