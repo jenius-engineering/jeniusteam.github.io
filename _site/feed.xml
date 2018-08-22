@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-16T04:53:13+00:00</updated>
+  <updated>2018-08-22T04:49:21+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,214 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 19</title>
+      
+      <link href="http://localhost:4000/2018/08/22/engineer-readinglist-19/" rel="alternate" type="text/html" title="Jenius Engineer reading list 19" />
+      <published>2018-08-22T00:00:00+00:00</published>
+      <updated>2018-08-22T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/22/engineer-readinglist-19</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/22/engineer-readinglist-19/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.clever.com/2018/07/24/securing-new-products-at-clever/&quot;&gt;Securing New Products at Clever&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241&quot;&gt;Freezing Python’s Dependency Hell in 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/&quot;&gt;Developing Real-Time Web Applications with Server-Sent Events&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html&quot;&gt;Machine Learning in Google BigQuery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/building-a-serverless-email-platform-at-the-times-84d77760d824&quot;&gt;To Send Emails to Readers, We Went Serverless&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Securing New Products at Clever Freezing Python’s Dependency Hell in 2018 Developing Real-Time Web Applications with Server-Sent Events Machine Learning in Google BigQuery To Send Emails to Readers, We Went Serverless</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 18</title>
+      
+      <link href="http://localhost:4000/2018/08/21/engineer-readinglist-18/" rel="alternate" type="text/html" title="Jenius Engineer reading list 18" />
+      <published>2018-08-21T00:00:00+00:00</published>
+      <updated>2018-08-21T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/21/engineer-readinglist-18</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/21/engineer-readinglist-18/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast&quot;&gt;Why the New V8 is so Damn Fast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/07/improving-test-coverage-android-app-mockito-espresso/&quot;&gt;How To Improve Test Coverage For Your Android App Using Mockito And Espresso&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/panel-containers-scalability&quot;&gt;Containers at Web Scale Panel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/building-serverless-contact-form-for-static-websites-b0e622d5a035&quot;&gt;Building Serverless Contact Form For Static Websites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://galois.com/blog/2018/07/the-lean-theorem-prover-past-present-and-future/&quot;&gt;The Lean Theorem Prover: Past, Present and Future&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Why the New V8 is so Damn Fast How To Improve Test Coverage For Your Android App Using Mockito And Espresso Containers at Web Scale Panel Building Serverless Contact Form For Static Websites The Lean Theorem Prover: Past, Present and Future</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 17</title>
+      
+      <link href="http://localhost:4000/2018/08/20/engineer-readinglist-17/" rel="alternate" type="text/html" title="Jenius Engineer reading list 17" />
+      <published>2018-08-20T00:00:00+00:00</published>
+      <updated>2018-08-20T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/20/engineer-readinglist-17</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/20/engineer-readinglist-17/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/five-ways-to-gain-serverless-observability-406e5cab51af&quot;&gt;5 ways to gain serverless observability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rea.tech/evaluating-scala-and-sticking-with-ruby/&quot;&gt;Evaluating Scala and sticking with Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/kubernetes-networking-under-the-hood&quot;&gt;Kubernetes Networking Under the Hood&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/a-pragmatic-take-on-rest-anti-patterns/&quot;&gt;A Pragmatic Take On REST Anti Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/write-quality-mobile-apps-any-architecture&quot;&gt;Write quality mobile apps in any architecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">5 ways to gain serverless observability Evaluating Scala and sticking with Ruby Kubernetes Networking Under the Hood A Pragmatic Take On REST Anti Patterns Write quality mobile apps in any architecture</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 16</title>
+      
+      <link href="http://localhost:4000/2018/08/17/engineer-readinglist-16/" rel="alternate" type="text/html" title="Jenius Engineer reading list 16" />
+      <published>2018-08-17T00:00:00+00:00</published>
+      <updated>2018-08-17T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/17/engineer-readinglist-16</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/17/engineer-readinglist-16/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/en-us/resources/designing-distributed-systems/&quot;&gt;Designing Distributed Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drewdevault.com/2018/07/23/Git-is-already-distributed.html&quot;&gt;Git is already federated &amp;amp; decentralized&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/nathenharvey/introduction-to-test-kitchen&quot;&gt;Introduction to Test Kitchen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial&quot;&gt;Web Scraping with a Headless Browser: A Puppeteer Tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://8thlight.com/blog/sam-szreter/2018/07/24/inversion-of-control-container.html&quot;&gt;Don’t call us, we’ll call you: Inversion of Control Containers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Designing Distributed Systems Git is already federated &amp;amp; decentralized Introduction to Test Kitchen Web Scraping with a Headless Browser: A Puppeteer Tutorial Don’t call us, we’ll call you: Inversion of Control Containers</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -848,314 +1056,6 @@
 
       
         <summary type="html">Segmen baru untuk mengakomodir berita, how-to atau perkembangan teknologi development. @Scale – Part I (Task Queues) Learn Git Rebase Interactively Building Real Time Analytics APIs at Scale Give Meaning To 100 Billion Events A Day - The Analytics Pipeline At Teads Open Sourcing Design System React</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #38</title>
-      
-      <link href="http://localhost:4000/2018/06/06/jeniustech-newsletter-38/" rel="alternate" type="text/html" title="Jenius Engineering weekly #38" />
-      <published>2018-06-06T00:00:00+00:00</published>
-      <updated>2018-06-06T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/06/06/jeniustech-newsletter-38</id>
-      <content type="html" xml:base="http://localhost:4000/2018/06/06/jeniustech-newsletter-38/">&lt;p&gt;Welcome to Jenius Engineering newsletter #38, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.
-Setelah Jenius meluncurkan Jenius 2.0 yang merupakan &lt;em&gt;upgrade&lt;/em&gt; yang berisi banyak &lt;em&gt;improvement&lt;/em&gt; dari versi sebelumnya, seperti mengadopsi konsep microservices, management service dengan docker, juga beberapa &lt;em&gt;improvement&lt;/em&gt; di sisi aplikasi mobile-nya.&lt;/p&gt;
-
-&lt;p&gt;Sekarang kembali lagi dengan berita/informasi di dunia &lt;em&gt;development&lt;/em&gt; dan teknologi! &lt;em&gt;Selamat membaca!&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3&gt;Reading List&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stratechery.com/2018/the-cost-of-developers/&quot;&gt;The Cost of Developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/neshaz/git-merge-vs-git-rebase-5134&quot;&gt;Git Merge vs Git Rebase&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@xevix/gaijin-engineer-in-tokyo-aaa9be8919b2&quot;&gt;Gaijin Engineer in Tokyo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/wwdc/&quot;&gt;WWDC 18&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gravitational.com/blog/hashing-for-anonymization/&quot;&gt;The False Allure of Hashing for Anonymization&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://read.acloud.guru/serverless-application-with-flutter-lambda-aa0d264fbefd?source=rss----3a8144eabfe3---4&amp;amp;gi=c7e46642a702&quot;&gt;Google Flutter with AWS Lambda to build a serverless mobile app for movie listings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://distill.pub/2018/building-blocks/&quot;&gt;The Building Blocks of Interpretability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff&quot;&gt;Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;News&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/&quot;&gt;Microsoft acquired Github!&lt;/a&gt;, and &lt;a href=&quot;https://blog.github.com/2018-06-04-github-microsoft/&quot;&gt;blogpost from Github&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Tools &amp;amp; Codes&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/RohitAwate/Everest&quot;&gt;Everest – A beautiful and lightweight REST client built with JavaFX&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/container-map/&quot;&gt;Container map view in Datadog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #38, this newsletter published every tuesday-ish. please subscribe to our newsletter. Setelah Jenius meluncurkan Jenius 2.0 yang merupakan upgrade yang berisi banyak improvement dari versi sebelumnya, seperti mengadopsi konsep microservices, management service dengan docker, juga beberapa improvement di sisi aplikasi mobile-nya. Sekarang kembali lagi dengan berita/informasi di dunia development dan teknologi! Selamat membaca! Reading List The Cost of Developers Git Merge vs Git Rebase Gaijin Engineer in Tokyo WWDC 18 The False Allure of Hashing for Anonymization Google Flutter with AWS Lambda to build a serverless mobile app for movie listings The Building Blocks of Interpretability Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code News Microsoft acquired Github!, and blogpost from Github. Tools &amp;amp; Codes Everest – A beautiful and lightweight REST client built with JavaFX Container map view in Datadog</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #37</title>
-      
-      <link href="http://localhost:4000/2018/03/27/jeniustech-newsletter-37/" rel="alternate" type="text/html" title="Jenius Engineering weekly #37" />
-      <published>2018-03-27T00:00:00+00:00</published>
-      <updated>2018-03-27T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/03/27/jeniustech-newsletter-37</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/27/jeniustech-newsletter-37/">&lt;p&gt;Welcome to Jenius Engineering newsletter #37, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Reading list&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2018/03/5-years-later-docker-come-long-way/&quot;&gt;The evolution of Docker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/&quot;&gt;Five Key Git Concepts Explained the Hard Way&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://redisgraph.io/design/&quot;&gt;RedisGraph – A High Performance In-Memory Graph Database as a Redis Module&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.soulcutter.com/articles/memoizing-in-ruby.html&quot;&gt;Memoizing in Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/&quot;&gt;Bringing interactive examples to MDN&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/why-you-should-be-designing-apis-to-spec/&quot;&gt;Why You Should Be Designing APIs to Spec&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/finding-project-management-balance-for-small-engineering-teams/&quot;&gt;Finding project management balance for small engineering teams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.loadmill.com/run-chaos-experiments-without-risking-your-job-2c8a5f4b0bfc&quot;&gt;Run Chaos Experiments Without Risking Your Job&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reuters.com/article/us-slack-outages/slack-technologies-builds-engineering-team-to-combat-outages-idUSKBN1GX31L&quot;&gt;Slack Technologies builds engineering team to combat outages&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2018/03/building-windows-4-million-commits-10-million-work-items/&quot;&gt;Building Windows: 4 million commits, 10 million work items&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.findmypast.com/technical-debt/&quot;&gt;Technical debt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/understanding-git-index-4821a0765cf&quot;&gt;Understanding Git — Index&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/nodejs/integration-and-e2e-tests-nodejs-mongodb&quot;&gt;Integration and End-to-end Tests Made Easy with Node.js and MongoDB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/history-of-node-js/&quot;&gt;History of Node.js on a Timeline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codewithoutrules.com/2018/03/23/you-are-not-your-tools/&quot;&gt;You are not your tools&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;News&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gluster.org/announcing-gluster-4-0/&quot;&gt;Gluster 4.0&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Codes &amp;amp; Tools&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fossa.io/&quot;&gt;Fossa&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/fkill-cli&quot;&gt;FKill – Fabulously kill processes. Cross-platform.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #37, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list The evolution of Docker Five Key Git Concepts Explained the Hard Way RedisGraph – A High Performance In-Memory Graph Database as a Redis Module Memoizing in Ruby Bringing interactive examples to MDN Why You Should Be Designing APIs to Spec Finding project management balance for small engineering teams Run Chaos Experiments Without Risking Your Job Slack Technologies builds engineering team to combat outages Building Windows: 4 million commits, 10 million work items Technical debt Understanding Git — Index Integration and End-to-end Tests Made Easy with Node.js and MongoDB History of Node.js on a Timeline You are not your tools News Gluster 4.0 Codes &amp;amp; Tools Fossa FKill – Fabulously kill processes. Cross-platform. These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #36</title>
-      
-      <link href="http://localhost:4000/2018/03/20/jeniustech-newsletter-36/" rel="alternate" type="text/html" title="Jenius Engineering weekly #36" />
-      <published>2018-03-20T00:00:00+00:00</published>
-      <updated>2018-03-20T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/03/20/jeniustech-newsletter-36</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/20/jeniustech-newsletter-36/">&lt;p&gt;Welcome to Jenius Engineering newsletter #36, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Reading list&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/03/08/how-to-build-time-series-database/&quot;&gt;Learn How to Build a Time Series Database&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.sessionstack.com/how-javascript-works-tracking-changes-in-the-dom-using-mutationobserver-86adc7446401&quot;&gt;How JavaScript works: tracking changes in the DOM using MutationObserver&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/transforming-enterprise-integration-with-reactive-streams&quot;&gt;Transforming enterprise integration with reactive streams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.invisionapp.com/blog/accessibility-for-developers/?utm_campaign=Weekly%20Digest&amp;amp;utm_source=jakartadev.org&quot;&gt;Accessibility for developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.serverlessops.io/blog/serverless-ops-what-do-we-do-when-the-server-goes-away&quot;&gt;Serverless Ops: What do we do when the server goes away?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sanderknape.com/2018/03/secret-management-design-decisions-theory-plus-an-example/&quot;&gt;Secret management design decisions theory&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/to-boldly-log-debug-docker-apps-effectively-using-logs-options-tail-and-grep-53d2e655abcb&quot;&gt;To boldly log: debug Docker apps effectively using logs options, tail and grep&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://testdriven.io/asynchronous-tasks-with-falcon-and-celery&quot;&gt;Asynchronous Tasks with Falcon and Celery&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.valentinog.com/blog/tutorial-api-django-rest-react/&quot;&gt;Tutorial: Django REST with React (Django 2.0)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/effective-naming-in-data-science-ea847c04f51b&quot;&gt;The Effect of Naming in Data Science Code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs&quot;&gt;Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.memsql.com/shattering-the-trillion-rows-per-second-barrier-with-memsql/?utm_source=jakartadev&quot;&gt;Shattering the Trillion-Rows-Per-Second Barrier With MemSQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/monolithic-applications-into-services?utm_source=jakartadev&quot;&gt;SHIFT Commerce’s Journey: Deconstructing Monolithic Applications into Services&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/grail/?utm_source=jakartadev&quot;&gt;Scaling Infrastructure Management with Grail&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.trello.com/how-to-release-a-buggy-app-and-live-to-tell-the-story/?utm_source=jakartadev&quot;&gt;How to Release a Buggy App (And Live to Tell the Tale)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://insights.stackoverflow.com/survey/2018?utm_source=jakartadev&quot;&gt;Developer Survey Results&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4?utm_source=jakartadev&quot;&gt;Project Nimble: Region Evacuation Reimagined&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/event-sourcing-using-apache-kafka/?utm_source=jakartadev&quot;&gt;Event Sourcing Using Apache Kafka&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;News&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.npmjs.org/post/171813275740/v580-next0&quot;&gt;NPM v5.8.0-next.0&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Codes &amp;amp; Tools&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/boisgera/bitstream/&quot;&gt;Bitstream – Binary Data for Humans&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ajcr/rolling&quot;&gt;Rolling –  A collection of computationally efficient rolling window iterators (sum, min/max, variance, and more)
-&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/gene1wood/github-collaborator-manager&quot;&gt;GitHub collaborators managers  – A tool to manage GitHub repo collaborators with files&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/sindresorhus/awesome-nodejs&quot;&gt;Awesome Nodejs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/bitjson/typescript-starter&quot;&gt;TypeScript Starter – Quickly create and configure a new library or Node.js project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/maticzav/emma-cli&quot;&gt;Emma – Terminal assistant to find and install node packages.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #36, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading list Learn How to Build a Time Series Database How JavaScript works: tracking changes in the DOM using MutationObserver Transforming enterprise integration with reactive streams Accessibility for developers Serverless Ops: What do we do when the server goes away? Secret management design decisions theory To boldly log: debug Docker apps effectively using logs options, tail and grep Asynchronous Tasks with Falcon and Celery Tutorial: Django REST with React (Django 2.0) The Effect of Naming in Data Science Code Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js Shattering the Trillion-Rows-Per-Second Barrier With MemSQL SHIFT Commerce’s Journey: Deconstructing Monolithic Applications into Services Scaling Infrastructure Management with Grail How to Release a Buggy App (And Live to Tell the Tale) Developer Survey Results Project Nimble: Region Evacuation Reimagined Event Sourcing Using Apache Kafka News NPM v5.8.0-next.0 Codes &amp;amp; Tools Bitstream – Binary Data for Humans Rolling – A collection of computationally efficient rolling window iterators (sum, min/max, variance, and more) GitHub collaborators managers – A tool to manage GitHub repo collaborators with files Awesome Nodejs TypeScript Starter – Quickly create and configure a new library or Node.js project Emma – Terminal assistant to find and install node packages. These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineering weekly #35</title>
-      
-      <link href="http://localhost:4000/2018/03/13/jeniustech-newsletter-35/" rel="alternate" type="text/html" title="Jenius Engineering weekly #35" />
-      <published>2018-03-13T00:00:00+00:00</published>
-      <updated>2018-03-13T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/03/13/jeniustech-newsletter-35</id>
-      <content type="html" xml:base="http://localhost:4000/2018/03/13/jeniustech-newsletter-35/">&lt;p&gt;Welcome to Jenius Engineering newsletter #35, this newsletter published every tuesday-&lt;em&gt;ish&lt;/em&gt;. please subscribe to our &lt;a href=&quot;http://jenius.tech/newsletter&quot;&gt;newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Reading List&lt;/h3&gt;
-&lt;h4&gt;&lt;a href=&quot;http://bitcannon.net/post/a-year-away-from-mac-os/&quot;&gt;A Year Away from macOS&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Terkadang untuk bisa lepas dari sistem yang membuat kita ‘nyaman’ itu susah, apalagi untuk menyamai, dan dalam artikel ini dibahas bagaimana untuk bisa terbiasa dengan GNU/Linux setelah sebelumnya terbiasa dengan macOS.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://readrust.net/&quot;&gt;Kumpulan artikel dan atau tutorial &lt;em&gt;Rust&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;Rust&lt;/em&gt; sebagai bahasa pemograman yang dibangun oleh Mozilla saat ini banyak diminati karena terhitung cepat dari sisi &lt;em&gt;performance&lt;/em&gt;, dan juga kemududahan untuk diadopsi sebagai bahasa pembangun untuk &lt;em&gt;microservice&lt;/em&gt; misalkan.
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.bitovi.com/blog/a-refactoring&quot;&gt;A Refactoring&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Terkadang ada kesalah artian tentang &lt;em&gt;refactoring&lt;/em&gt;, &lt;em&gt;refactoring&lt;/em&gt; tidak sama dengan &lt;em&gt;rewrite&lt;/em&gt;, bahkan jauh berbeda.&lt;/p&gt;
-&lt;h4&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html&quot;&gt;Introducing LogFeeder - A log collection system&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Log adalah salah satu hal yang sangat penting dalam layanan atau aplikasi yang dibuat, dalam log dapat mencari &lt;em&gt;bug&lt;/em&gt; atau hal yang membuat aplikasi atau service yang kita buat tidak berjalan atau tidak optimal, &lt;em&gt;tool&lt;/em&gt; ini bisa membantu dalam hal ini.&lt;/p&gt;
-&lt;h4&gt;&lt;a href=&quot;https://code.joejag.com/2018/lego-workstream-visualisation.html&quot;&gt;Tracking where your time went with Lego workstream visualisation&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Cara paling mudah, dan tanpa membutuhkan komputer untuk men-&lt;em&gt;track&lt;/em&gt; &lt;em&gt;progress&lt;/em&gt; yang kita kerjakan, semua ditandai dengan warna, dan sejauh mana kita berkembang.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e?source=rss----51e1d1745b32---4%3Futm_source=jakartadev.org&quot;&gt;How to Grow as an Engineer (Working Remotely)&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Artikel menarik mengenai bagaimana membangun kultur yang selaras, meskipun developer bekerja secara &lt;em&gt;remote&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://www.softwaretalks.io/&quot;&gt;Softwaretalks&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Kumpulan video yang dikurasi tentang software development&lt;/p&gt;
-
-&lt;h3&gt;News&lt;/h3&gt;
-&lt;h4&gt;&lt;a href=&quot;https://nodejs.org/en/blog/release/v8.10.0/&quot;&gt;Node v8.10.0 (LTS)&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Di versi solid minor ini, terdapat &lt;em&gt;update&lt;/em&gt; di V8, libuv, npm, dukungan OpenSSL 1.1.0.&lt;/p&gt;
-
-&lt;h3&gt;Tools &amp;amp; Codes&lt;/h3&gt;
-&lt;h4&gt;&lt;a href=&quot;https://github.com/erroneousboat/slack-term&quot;&gt;Slack-term –  Slack client for your terminal&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Untuk tim develpment atau perusahaan yang terbiasa melakukan komunikasi teks, biasanya menggunakan Slack sebagai layanannya, dan Slack-Term ini menyediakan tampilan yang &lt;em&gt;geeky&lt;/em&gt; dan juga ramah &lt;em&gt;keyboard&lt;/em&gt; untuk yang terbiasanya tidak menggunakan trackpad.&lt;/p&gt;
-&lt;h4&gt;&lt;a href=&quot;https://github.com/pantsel/konga&quot;&gt;GUI to Kong Admin API&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Kong saat ini banyak diadopsi oleh perusahaan-perusahaan, Kong salah satu solusi murah untuk me-&lt;em&gt;manage&lt;/em&gt; API yang disediakan, karena &lt;a href=&quot;https://getkong.org&quot;&gt;Kong&lt;/a&gt; selain open-source, juga mudah untuk digunakan, apalagi dengan bantuan Admin UI seperti Konga ini.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://github.com/ariebovenberg/snug&quot;&gt;Snug – Write reusable web API interactions&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;These article curated by Jenius Engineering Team and published on jenius.tech, feedback please send to engineer(at)jenius.com&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="newsletter" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Welcome to Jenius Engineering newsletter #35, this newsletter published every tuesday-ish. please subscribe to our newsletter. Reading List A Year Away from macOS Terkadang untuk bisa lepas dari sistem yang membuat kita ‘nyaman’ itu susah, apalagi untuk menyamai, dan dalam artikel ini dibahas bagaimana untuk bisa terbiasa dengan GNU/Linux setelah sebelumnya terbiasa dengan macOS. Kumpulan artikel dan atau tutorial Rust Rust sebagai bahasa pemograman yang dibangun oleh Mozilla saat ini banyak diminati karena terhitung cepat dari sisi performance, dan juga kemududahan untuk diadopsi sebagai bahasa pembangun untuk microservice misalkan.</summary>
       
 
       
