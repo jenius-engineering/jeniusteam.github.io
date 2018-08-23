@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-22T04:49:21+00:00</updated>
+  <updated>2018-08-23T06:16:26+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 20</title>
+      
+      <link href="http://localhost:4000/2018/08/23/engineer-readinglist-20/" rel="alternate" type="text/html" title="Jenius Engineer reading list 20" />
+      <published>2018-08-23T00:00:00+00:00</published>
+      <updated>2018-08-23T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/23/engineer-readinglist-20</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/23/engineer-readinglist-20/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hashicorp.com/resources/multi-tenant-vault-namespaces&quot;&gt;Learn How to Run a Multi-tenant Vault with the New Namespaces Feature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/streamlining-your-workflow-debugging-for-hhvm-effd7db3c72d&quot;&gt;Streamlining Your Workflow: Debugging for HHVM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/improving-operations-with-route-optimization-4b8a3701ca39&quot;&gt;Improving Operations with Route Optimization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://distill.pub/2018/differentiable-parameterizations/&quot;&gt;Differentiable Image Parameterizations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/&quot;&gt;Logging Activity With The Web Beacon API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Learn How to Run a Multi-tenant Vault with the New Namespaces Feature Streamlining Your Workflow: Debugging for HHVM Improving Operations with Route Optimization Differentiable Image Parameterizations Logging Activity With The Web Beacon API</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1004,58 +1056,6 @@
 
       
         <summary type="html">Rebuild Docker from Scratch Going Offline Devops reading list: top 30 best devops books you should read in 2018 Encrypted Credentials — A new way to use Secrets in Rails 5.2 Gron – JSON aware grep tool The Agile Ecology</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #1</title>
-      
-      <link href="http://localhost:4000/2018/07/09/engineer-readinglist-1/" rel="alternate" type="text/html" title="Jenius Engineer reading list #1" />
-      <published>2018-07-09T00:00:00+00:00</published>
-      <updated>2018-07-09T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/09/engineer-readinglist-1</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/09/engineer-readinglist-1/">&lt;p&gt;Segmen baru untuk mengakomodir berita, &lt;em&gt;how-to&lt;/em&gt; atau perkembangan teknologi &lt;em&gt;development&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/scale-part-i-task-queues/&quot;&gt;@Scale – Part I (Task Queues)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/04/05/learn-git-rebase-interactively/&quot;&gt;Learn Git Rebase Interactively&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/building-real-time-analytics-apis/&quot;&gt;Building Real Time Analytics APIs at Scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2018/4/9/give-meaning-to-100-billion-events-a-day-the-analytics-pipel.html&quot;&gt;Give Meaning To 100 Billion Events A Day - The Analytics Pipeline At Teads&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/open-sourcing-design-system-react-9be45b8bb127&quot;&gt;Open Sourcing Design System React&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Segmen baru untuk mengakomodir berita, how-to atau perkembangan teknologi development. @Scale – Part I (Task Queues) Learn Git Rebase Interactively Building Real Time Analytics APIs at Scale Give Meaning To 100 Billion Events A Day - The Analytics Pipeline At Teads Open Sourcing Design System React</summary>
       
 
       
