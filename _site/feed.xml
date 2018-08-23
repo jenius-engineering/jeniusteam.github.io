@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-23T06:16:26+00:00</updated>
+  <updated>2018-08-23T13:51:15+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">JeniusTalk X DevOps Indonesia</title>
+      
+      <link href="http://localhost:4000/2018/08/23/jeniustalk-devops/" rel="alternate" type="text/html" title="JeniusTalk X DevOps Indonesia" />
+      <published>2018-08-23T00:00:00+00:00</published>
+      <updated>2018-08-23T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/23/jeniustalk-devops</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/23/jeniustalk-devops/">&lt;p&gt;Sekali lagi Jenius mengadakan meetup yang di selenggarakan di gedung BTPN lantai 27, event kali ini bekerjasama dengan DevOps Indonesia, dan topik yang dibawakan juga sangat menarik, sangat berguna untuk engineer yang mendalami automasi atau &lt;em&gt;workflow&lt;/em&gt; yang hendak digunakan di perusahaan masing-masing.
+Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza Febriyanto ($rfebriyan), yang akan membawakan topik CI/CD dengan menggunakan Openshift.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jenius-devops.jpeg&quot; alt=&quot;jenius x devops indonesia&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;silakan daftar di &lt;a href=&quot;https://www.meetup.com/JeniusTalk/events/254037192/&quot;&gt;jeniustalk meetup.com&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="event" />
+      
+        <category term="engineer" />
+      
+        <category term="Devops" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Sekali lagi Jenius mengadakan meetup yang di selenggarakan di gedung BTPN lantai 27, event kali ini bekerjasama dengan DevOps Indonesia, dan topik yang dibawakan juga sangat menarik, sangat berguna untuk engineer yang mendalami automasi atau workflow yang hendak digunakan di perusahaan masing-masing. Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza Febriyanto ($rfebriyan), yang akan membawakan topik CI/CD dengan menggunakan Openshift. silakan daftar di jeniustalk meetup.com.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1005,57 +1058,6 @@
 
       
         <summary type="html">A Taxonomy of tech debt Serverless monitoring — the good, the bad and the ugly On User Interface Development: appending to the event log How To Design Emotional Interfaces For Boring Apps 6 things I’ve learned in my first 6 months using serverless Useful tricks you might not know about Git stash</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #2</title>
-      
-      <link href="http://localhost:4000/2018/07/10/engineer-readinglist-2/" rel="alternate" type="text/html" title="Jenius Engineer reading list #2" />
-      <published>2018-07-10T00:00:00+00:00</published>
-      <updated>2018-07-10T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/10/engineer-readinglist-2</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/10/engineer-readinglist-2/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Fewbytes/rubber-docker&quot;&gt;Rebuild Docker from Scratch&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/going-offline&quot;&gt;Going Offline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://apiumhub.com/tech-blog-barcelona/devops-reading-list-devops-books/&quot;&gt;Devops reading list: top 30 best devops books you should read in 2018&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.botreetechnologies.com/encrypted-credentials-a-new-way-to-use-secrets-in-rails-5-2-eca929629bb4&quot;&gt;Encrypted Credentials — A new way to use Secrets in Rails 5.2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tomnomnom/gron/&quot;&gt;Gron – JSON aware grep tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ronjeffries.com/articles/018-01ff/dark-ecology/&quot;&gt;The Agile Ecology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="newsletter" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Rebuild Docker from Scratch Going Offline Devops reading list: top 30 best devops books you should read in 2018 Encrypted Credentials — A new way to use Secrets in Rails 5.2 Gron – JSON aware grep tool The Agile Ecology</summary>
       
 
       
