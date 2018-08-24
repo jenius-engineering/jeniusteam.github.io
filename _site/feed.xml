@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-23T13:51:15+00:00</updated>
+  <updated>2018-08-24T03:34:31+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 21</title>
+      
+      <link href="http://localhost:4000/2018/08/24/engineer-readinglist-21/" rel="alternate" type="text/html" title="Jenius Engineer reading list 21" />
+      <published>2018-08-24T00:00:00+00:00</published>
+      <updated>2018-08-24T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/24/engineer-readinglist-21</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/24/engineer-readinglist-21/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/chaos-engineering-resilience&quot;&gt;Using Chaos to Build Resilient Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427&quot;&gt;Why Discord is Sticking with React Native&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/07/26/how-scylla-data-cache-works/&quot;&gt;Exploring How the Scylla Data Cache Works&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-road-to-quic/&quot;&gt;The Road to QUIC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/how-i-reverse-engineered-notion-api-19480490bbeb&quot;&gt;How I reverse engineered Notion API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Using Chaos to Build Resilient Systems Why Discord is Sticking with React Native Exploring How the Scylla Data Cache Works The Road to QUIC How I reverse engineered Notion API</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1005,59 +1057,6 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
 
       
         <summary type="html">The State of Cryptocurrency Mining Rob Pike’s 5 Rules of Programming How Does Your Company Approach Continuous Improvement? Event Sourcing made Simple Docker is the dangerous gamble which we will regret</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #3</title>
-      
-      <link href="http://localhost:4000/2018/07/16/engineer-readinglist-3/" rel="alternate" type="text/html" title="Jenius Engineer reading list #3" />
-      <published>2018-07-16T00:00:00+00:00</published>
-      <updated>2018-07-16T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/07/16/engineer-readinglist-3</id>
-      <content type="html" xml:base="http://localhost:4000/2018/07/16/engineer-readinglist-3/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/taxonomy-tech-debt&quot;&gt;A Taxonomy of tech debt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843&quot;&gt;Serverless monitoring — the good, the bad and the ugly&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@lmatteis/on-user-interface-development-appending-to-the-event-log-8d8ca966795d&quot;&gt;On User Interface Development: appending to the event log&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/04/designing-emotional-interfaces-boring-apps/&quot;&gt;How To Design Emotional Interfaces For Boring Apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526&quot;&gt;6 things I’ve learned in my first 6 months using serverless&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e&quot;&gt;Useful tricks you might not know about Git stash&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">A Taxonomy of tech debt Serverless monitoring — the good, the bad and the ugly On User Interface Development: appending to the event log How To Design Emotional Interfaces For Boring Apps 6 things I’ve learned in my first 6 months using serverless Useful tricks you might not know about Git stash</summary>
       
 
       
