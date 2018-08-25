@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-24T10:00:57+00:00</updated>
+  <updated>2018-08-25T13:33:46+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -37,7 +37,7 @@
       <content type="html" xml:base="http://localhost:4000/2018/08/24/jvm-jenius/">&lt;p&gt;&lt;img src=&quot;/images/posts/jvm3/jvm.jpg&quot; alt=&quot;jvm&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;#latepost &lt;br /&gt;
-Jenius kembali mengadakan meetup setelah hampir setahun hiatus, setelah sebelumnya melakukan development besar-besaran, dan membuahkan Jenius 2.0, dengan &lt;em&gt;tech-stack&lt;/em&gt; baru, nasabah bisa menggunakan Jenius lebih cepat.
+Jenius kembali mengadakan meetup setelah hampir setahun hiatus, pada Selasa, 14 Agustus 2018, setelah sebelumnya melakukan development besar-besaran, dan membuahkan Jenius 2.0, dengan &lt;em&gt;tech-stack&lt;/em&gt; baru, nasabah bisa menggunakan Jenius lebih cepat.
 &lt;!-- more --&gt;
 Di Meetup kali ini, Jenius bersama dengan JVM Usergroup (telegram: &lt;a href=&quot;https://t.me./JVMUserGroup&quot;&gt;https://t.me./JVMUserGroup&lt;/a&gt;), mengadakan JVM Meetup yang ke-13 di Jenius Lantai 18.&lt;/p&gt;
 
@@ -77,7 +77,7 @@ Di Meetup kali ini, Jenius bersama dengan JVM Usergroup (telegram: &lt;a href=&q
       
 
       
-        <summary type="html">#latepost Jenius kembali mengadakan meetup setelah hampir setahun hiatus, setelah sebelumnya melakukan development besar-besaran, dan membuahkan Jenius 2.0, dengan tech-stack baru, nasabah bisa menggunakan Jenius lebih cepat.</summary>
+        <summary type="html">#latepost Jenius kembali mengadakan meetup setelah hampir setahun hiatus, pada Selasa, 14 Agustus 2018, setelah sebelumnya melakukan development besar-besaran, dan membuahkan Jenius 2.0, dengan tech-stack baru, nasabah bisa menggunakan Jenius lebih cepat.</summary>
       
 
       

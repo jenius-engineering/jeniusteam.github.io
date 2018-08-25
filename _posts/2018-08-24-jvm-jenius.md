@@ -17,7 +17,7 @@ published: true
 ![jvm](/images/posts/jvm3/jvm.jpg)
 
 #latepost   
-Jenius kembali mengadakan meetup setelah hampir setahun hiatus, setelah sebelumnya melakukan development besar-besaran, dan membuahkan Jenius 2.0, dengan _tech-stack_ baru, nasabah bisa menggunakan Jenius lebih cepat.
+Jenius kembali mengadakan meetup setelah hampir setahun hiatus, pada Selasa, 14 Agustus 2018, setelah sebelumnya melakukan development besar-besaran, dan membuahkan Jenius 2.0, dengan _tech-stack_ baru, nasabah bisa menggunakan Jenius lebih cepat.
 <!-- more -->
 Di Meetup kali ini, Jenius bersama dengan JVM Usergroup (telegram: [https://t.me./JVMUserGroup](https://t.me./JVMUserGroup)), mengadakan JVM Meetup yang ke-13 di Jenius Lantai 18.
 
