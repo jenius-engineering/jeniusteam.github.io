@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4001/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-27T06:04:23+00:00</updated>
+  <updated>2018-08-28T05:36:07+00:00</updated>
   <id>http://localhost:4001//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list 23</title>
+      
+      <link href="http://localhost:4001/2018/08/28/engineer-readinglist-23/" rel="alternate" type="text/html" title="Jenius Engineer reading list 23" />
+      <published>2018-08-28T00:00:00+00:00</published>
+      <updated>2018-08-28T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2018/08/28/engineer-readinglist-23</id>
+      <content type="html" xml:base="http://localhost:4001/2018/08/28/engineer-readinglist-23/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@cwilliams1290/developing-great-leaders-is-more-important-than-training-bad-managers-7ae6c9e0441a&quot;&gt;Developing Great Leaders is More Important than Training Bad Managers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brew.sh/2018/08/05/security-incident-disclosure/&quot;&gt;Security Incident Disclosure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and&quot;&gt;Repeat yourself, do more than one thing, and rewrite everything&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/UKHomeOffice/repo-security-scanner&quot;&gt;Repo security scanner&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/databook/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=databook&quot;&gt;Databook: Turning Big Data into Knowledge with Metadata at Uber&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Developing Great Leaders is More Important than Training Bad Managers Security Incident Disclosure Repeat yourself, do more than one thing, and rewrite everything Repo security scanner Databook: Turning Big Data into Knowledge with Metadata at Uber</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1012,59 +1064,6 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
 
       
         <summary type="html">Wormholy – iOS network debugging, like a wizard 🧙‍♂️ DevOps: 5 Steps to Get Derailed Projects Back on Track Kubernetes anti-patterns: Let’s do GitOps, not CIOps! Load Testing Round Up: 8 tools you can use to strengthen your stack When does kubernetes become invisible and ubiquitous?</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list 6</title>
-      
-      <link href="http://localhost:4001/2018/07/24/engineer-readinglist-6/" rel="alternate" type="text/html" title="Jenius Engineer reading list 6" />
-      <published>2018-07-24T00:00:00+00:00</published>
-      <updated>2018-07-24T00:00:00+00:00</updated>
-      <id>http://localhost:4001/2018/07/24/engineer-readinglist-6</id>
-      <content type="html" xml:base="http://localhost:4001/2018/07/24/engineer-readinglist-6/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.tecmint.com/manage-systemd-logs-using-journalctl/&quot;&gt;Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drewdevault.com/2018/05/13/scdoc.html&quot;&gt;Introducing scdoc, a man page generator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1805.04956&quot;&gt;Nethammer: Inducing Rowhammer Faults through Network Requests&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.hellofresh.com/how-to-hold-the-most-effective-meetings-aee4554404e0&quot;&gt;How to Hold the Most Effective Meetings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/guardicore/monkey&quot;&gt;Infection Monkey - An automated pentest tool&lt;/a&gt;  &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@leshchuk/zipem-all-61076c7da4c&quot;&gt;Zip’em ALL! – Optimizing Redis memory usage for strings, integers, jsons and anything you like&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide] Introducing scdoc, a man page generator Nethammer: Inducing Rowhammer Faults through Network Requests How to Hold the Most Effective Meetings Infection Monkey - An automated pentest tool tool Zip’em ALL! – Optimizing Redis memory usage for strings, integers, jsons and anything you like</summary>
       
 
       
