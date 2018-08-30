@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenius Engineer reading list 7"
+title: "Jenius Engineer reading list #7"
 author: dedenf
 tags:
     - news

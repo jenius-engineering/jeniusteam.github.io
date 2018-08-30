@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-29T05:08:30+00:00</updated>
+  <updated>2018-08-30T05:52:02+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #24</title>
+      
+      <link href="http://localhost:4000/2018/08/30/engineer-readinglist-24/" rel="alternate" type="text/html" title="Jenius Engineer reading list #24" />
+      <published>2018-08-30T00:00:00+00:00</published>
+      <updated>2018-08-30T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/30/engineer-readinglist-24</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/30/engineer-readinglist-24/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bessey.io/blog/2018/08/04/rails-webpacker-react-ssr/&quot;&gt;Rails + React Server Side Rendering, with Webpacker + Hypernova&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/books/microservices-for-startups/should-you-build-or-buy-microservices&quot;&gt;Should you build or buy microservices?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jesseduffield/lazygit&quot;&gt;Lazygit – simple terminal UI for git commands&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2018/07/introducing-docker-application-guides/&quot;&gt;Introducing docker application guides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/the-orange-juice-test/&quot;&gt;The Orange Juice Test&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.girlboss.com/work/first-time-manager-checklist&quot;&gt;First time manager checklist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Rails + React Server Side Rendering, with Webpacker + Hypernova Should you build or buy microservices? Lazygit – simple terminal UI for git commands Introducing docker application guides The Orange Juice Test First time manager checklist</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -95,9 +148,9 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 23</title>
+      <title type="html">Jenius Engineer reading list #23</title>
       
-      <link href="http://localhost:4000/2018/08/28/engineer-readinglist-23/" rel="alternate" type="text/html" title="Jenius Engineer reading list 23" />
+      <link href="http://localhost:4000/2018/08/28/engineer-readinglist-23/" rel="alternate" type="text/html" title="Jenius Engineer reading list #23" />
       <published>2018-08-28T00:00:00+00:00</published>
       <updated>2018-08-28T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/28/engineer-readinglist-23</id>
@@ -147,9 +200,9 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 22</title>
+      <title type="html">Jenius Engineer reading list #22</title>
       
-      <link href="http://localhost:4000/2018/08/27/engineer-readinglist-22/" rel="alternate" type="text/html" title="Jenius Engineer reading list 22" />
+      <link href="http://localhost:4000/2018/08/27/engineer-readinglist-22/" rel="alternate" type="text/html" title="Jenius Engineer reading list #22" />
       <published>2018-08-27T00:00:00+00:00</published>
       <updated>2018-08-27T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/27/engineer-readinglist-22</id>
@@ -259,9 +312,9 @@ Di Meetup kali ini, Jenius bersama dengan JVM Usergroup (telegram: &lt;a href=&q
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 21</title>
+      <title type="html">Jenius Engineer reading list #21</title>
       
-      <link href="http://localhost:4000/2018/08/24/engineer-readinglist-21/" rel="alternate" type="text/html" title="Jenius Engineer reading list 21" />
+      <link href="http://localhost:4000/2018/08/24/engineer-readinglist-21/" rel="alternate" type="text/html" title="Jenius Engineer reading list #21" />
       <published>2018-08-24T00:00:00+00:00</published>
       <updated>2018-08-24T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/24/engineer-readinglist-21</id>
@@ -364,9 +417,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 20</title>
+      <title type="html">Jenius Engineer reading list #20</title>
       
-      <link href="http://localhost:4000/2018/08/23/engineer-readinglist-20/" rel="alternate" type="text/html" title="Jenius Engineer reading list 20" />
+      <link href="http://localhost:4000/2018/08/23/engineer-readinglist-20/" rel="alternate" type="text/html" title="Jenius Engineer reading list #20" />
       <published>2018-08-23T00:00:00+00:00</published>
       <updated>2018-08-23T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/23/engineer-readinglist-20</id>
@@ -416,9 +469,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 19</title>
+      <title type="html">Jenius Engineer reading list #19</title>
       
-      <link href="http://localhost:4000/2018/08/22/engineer-readinglist-19/" rel="alternate" type="text/html" title="Jenius Engineer reading list 19" />
+      <link href="http://localhost:4000/2018/08/22/engineer-readinglist-19/" rel="alternate" type="text/html" title="Jenius Engineer reading list #19" />
       <published>2018-08-22T00:00:00+00:00</published>
       <updated>2018-08-22T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/22/engineer-readinglist-19</id>
@@ -468,9 +521,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 18</title>
+      <title type="html">Jenius Engineer reading list #18</title>
       
-      <link href="http://localhost:4000/2018/08/21/engineer-readinglist-18/" rel="alternate" type="text/html" title="Jenius Engineer reading list 18" />
+      <link href="http://localhost:4000/2018/08/21/engineer-readinglist-18/" rel="alternate" type="text/html" title="Jenius Engineer reading list #18" />
       <published>2018-08-21T00:00:00+00:00</published>
       <updated>2018-08-21T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/21/engineer-readinglist-18</id>
@@ -520,9 +573,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 17</title>
+      <title type="html">Jenius Engineer reading list #17</title>
       
-      <link href="http://localhost:4000/2018/08/20/engineer-readinglist-17/" rel="alternate" type="text/html" title="Jenius Engineer reading list 17" />
+      <link href="http://localhost:4000/2018/08/20/engineer-readinglist-17/" rel="alternate" type="text/html" title="Jenius Engineer reading list #17" />
       <published>2018-08-20T00:00:00+00:00</published>
       <updated>2018-08-20T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/20/engineer-readinglist-17</id>
@@ -572,9 +625,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 16</title>
+      <title type="html">Jenius Engineer reading list #16</title>
       
-      <link href="http://localhost:4000/2018/08/17/engineer-readinglist-16/" rel="alternate" type="text/html" title="Jenius Engineer reading list 16" />
+      <link href="http://localhost:4000/2018/08/17/engineer-readinglist-16/" rel="alternate" type="text/html" title="Jenius Engineer reading list #16" />
       <published>2018-08-17T00:00:00+00:00</published>
       <updated>2018-08-17T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/17/engineer-readinglist-16</id>
@@ -674,9 +727,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 15</title>
+      <title type="html">Jenius Engineer reading list #15</title>
       
-      <link href="http://localhost:4000/2018/08/16/engineer-readinglist-15/" rel="alternate" type="text/html" title="Jenius Engineer reading list 15" />
+      <link href="http://localhost:4000/2018/08/16/engineer-readinglist-15/" rel="alternate" type="text/html" title="Jenius Engineer reading list #15" />
       <published>2018-08-16T00:00:00+00:00</published>
       <updated>2018-08-16T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/16/engineer-readinglist-15</id>
@@ -725,9 +778,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 14</title>
+      <title type="html">Jenius Engineer reading list #14</title>
       
-      <link href="http://localhost:4000/2018/08/15/engineer-readinglist-14/" rel="alternate" type="text/html" title="Jenius Engineer reading list 14" />
+      <link href="http://localhost:4000/2018/08/15/engineer-readinglist-14/" rel="alternate" type="text/html" title="Jenius Engineer reading list #14" />
       <published>2018-08-15T00:00:00+00:00</published>
       <updated>2018-08-15T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/15/engineer-readinglist-14</id>
@@ -777,9 +830,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 13</title>
+      <title type="html">Jenius Engineer reading list #13</title>
       
-      <link href="http://localhost:4000/2018/08/14/engineer-readinglist-13/" rel="alternate" type="text/html" title="Jenius Engineer reading list 13" />
+      <link href="http://localhost:4000/2018/08/14/engineer-readinglist-13/" rel="alternate" type="text/html" title="Jenius Engineer reading list #13" />
       <published>2018-08-14T00:00:00+00:00</published>
       <updated>2018-08-14T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/14/engineer-readinglist-13</id>
@@ -829,9 +882,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 12</title>
+      <title type="html">Jenius Engineer reading list #12</title>
       
-      <link href="http://localhost:4000/2018/08/13/engineer-readinglist-12/" rel="alternate" type="text/html" title="Jenius Engineer reading list 12" />
+      <link href="http://localhost:4000/2018/08/13/engineer-readinglist-12/" rel="alternate" type="text/html" title="Jenius Engineer reading list #12" />
       <published>2018-08-13T00:00:00+00:00</published>
       <updated>2018-08-13T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/13/engineer-readinglist-12</id>
@@ -881,9 +934,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 11</title>
+      <title type="html">Jenius Engineer reading list #11</title>
       
-      <link href="http://localhost:4000/2018/08/08/engineer-readinglist-11/" rel="alternate" type="text/html" title="Jenius Engineer reading list 11" />
+      <link href="http://localhost:4000/2018/08/08/engineer-readinglist-11/" rel="alternate" type="text/html" title="Jenius Engineer reading list #11" />
       <published>2018-08-08T00:00:00+00:00</published>
       <updated>2018-08-08T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/08/engineer-readinglist-11</id>
@@ -933,9 +986,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 10</title>
+      <title type="html">Jenius Engineer reading list #10</title>
       
-      <link href="http://localhost:4000/2018/08/07/engineer-readinglist-10/" rel="alternate" type="text/html" title="Jenius Engineer reading list 10" />
+      <link href="http://localhost:4000/2018/08/07/engineer-readinglist-10/" rel="alternate" type="text/html" title="Jenius Engineer reading list #10" />
       <published>2018-08-07T00:00:00+00:00</published>
       <updated>2018-08-07T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/07/engineer-readinglist-10</id>
@@ -985,9 +1038,9 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list 9</title>
+      <title type="html">Jenius Engineer reading list #9</title>
       
-      <link href="http://localhost:4000/2018/08/06/engineer-readinglist-9/" rel="alternate" type="text/html" title="Jenius Engineer reading list 9" />
+      <link href="http://localhost:4000/2018/08/06/engineer-readinglist-9/" rel="alternate" type="text/html" title="Jenius Engineer reading list #9" />
       <published>2018-08-06T00:00:00+00:00</published>
       <updated>2018-08-06T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/08/06/engineer-readinglist-9</id>
@@ -1027,58 +1080,6 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
 
       
         <summary type="html">Milestoner – A command line interface for releasing Git repository milestones tool E-Commerce at Scale: Inside Shopify’s Tech Stack Serverless Performance: Cloudflare Workers, Lambda and Lambda@Edge ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms Pushing Left, Like a Boss: Part 1</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list 8</title>
-      
-      <link href="http://localhost:4000/2018/08/01/engineer-readinglist-8/" rel="alternate" type="text/html" title="Jenius Engineer reading list 8" />
-      <published>2018-08-01T00:00:00+00:00</published>
-      <updated>2018-08-01T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/08/01/engineer-readinglist-8</id>
-      <content type="html" xml:base="http://localhost:4000/2018/08/01/engineer-readinglist-8/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.trivago.com/2018/07/13/aws-kinesis-with-lambdas-lessons-learned/&quot;&gt;AWS Kinesis with Lambdas: Lessons Learned&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://justinscholz.de/2018/06/15/an-extensive-zfs-setup-on-macos/&quot;&gt;An extensive ZFS setup on MacOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/chubin/cheat.sh&quot;&gt;Various CLI cheatsheet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://svpg.com/revenge-of-the-pmo/&quot;&gt;Revenge of the PMO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684&quot;&gt;Vue.js: the good, the meh, and the ugly&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">AWS Kinesis with Lambdas: Lessons Learned An extensive ZFS setup on MacOS Various CLI cheatsheet Revenge of the PMO Vue.js: the good, the meh, and the ugly</summary>
       
 
       
