@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-30T05:52:02+00:00</updated>
+  <updated>2018-08-31T03:28:17+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #25</title>
+      
+      <link href="http://localhost:4000/2018/08/31/engineer-readinglist-25/" rel="alternate" type="text/html" title="Jenius Engineer reading list #25" />
+      <published>2018-08-31T00:00:00+00:00</published>
+      <updated>2018-08-31T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/08/31/engineer-readinglist-25</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/31/engineer-readinglist-25/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/you-have-to-choose-between-software-delivered-on-time-and-good-software-44f4af1249b1&quot;&gt;You have to choose between Software Delivered on Time and Good Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/project-management-learnings/spotify-squad-framework-part-ii-c5d4b9398c30&quot;&gt;Spotify Squad framework — Part II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.ably.io/the-18-ghosts-in-your-infrastructure-stack-that-can-cause-failure-and-how-to-avoid-them-1373daebfe1a&quot;&gt;The 18 ghosts in your infrastructure stack that can cause failure (and how to avoid them)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.michaelnygard.com/blog/2016/07/qa-instability-implies-production-instability/&quot;&gt;QA Instability Implies Production Instability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html&quot;&gt;Introduction to Distributed System Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/&quot;&gt;The RED Method: How to Instrument Your Services&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">You have to choose between Software Delivered on Time and Good Software Spotify Squad framework — Part II The 18 ghosts in your infrastructure stack that can cause failure (and how to avoid them) QA Instability Implies Production Instability Introduction to Distributed System Design The RED Method: How to Instrument Your Services</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1028,58 +1081,6 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
 
       
         <summary type="html">Firefox Pioneer New – Lifecycle Management for Amazon EBS Snapshots CAP Theorem illustrated Add Constrained Optimization To Your Toolbelt Headless CMS vs Traditional CMS: A Deep Dive</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #9</title>
-      
-      <link href="http://localhost:4000/2018/08/06/engineer-readinglist-9/" rel="alternate" type="text/html" title="Jenius Engineer reading list #9" />
-      <published>2018-08-06T00:00:00+00:00</published>
-      <updated>2018-08-06T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/08/06/engineer-readinglist-9</id>
-      <content type="html" xml:base="http://localhost:4000/2018/08/06/engineer-readinglist-9/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/bkuhlmann/milestoner&quot;&gt;Milestoner – A command line interface for releasing Git repository milestones&lt;/a&gt; &lt;span class=&quot;label&quot;&gt;tool&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/shopify/e-commerce-at-scale-inside-shopifys-tech-stack&quot;&gt;E-Commerce at Scale: Inside Shopify’s Tech Stack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/serverless-performance-comparison-workers-lambda/&quot;&gt;Serverless Performance: Cloudflare Workers, Lambda and Lambda@Edge&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f&quot;&gt;ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95?WT.mc_id=docs-blog-tajanca&amp;amp;WT.mc_id=shehackspurple-blog-tajanca&quot;&gt;Pushing Left, Like a Boss: Part 1&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Milestoner – A command line interface for releasing Git repository milestones tool E-Commerce at Scale: Inside Shopify’s Tech Stack Serverless Performance: Cloudflare Workers, Lambda and Lambda@Edge ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms Pushing Left, Like a Boss: Part 1</summary>
       
 
       
