@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-09-03T09:37:45+00:00</updated>
+  <updated>2018-09-03T10:01:36+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -34,7 +34,7 @@
       <published>2018-09-03T00:00:00+00:00</published>
       <updated>2018-09-03T00:00:00+00:00</updated>
       <id>http://localhost:4000/2018/09/03/tmuxinator</id>
-      <content type="html" xml:base="http://localhost:4000/2018/09/03/tmuxinator/">&lt;p&gt;Di Jenius, &lt;em&gt;automation&lt;/em&gt; adalah salah satu kunci untuk me-_deliver_ software dengan cepat, tanpa mengorbankan kualitas, automasi juga digunakan untuk kebutuhan sehari-hari, salah satunya untuk menyiapkan &lt;em&gt;environment&lt;/em&gt; development, Setelah sebelumnya diperkenalkan dengan &lt;a href=&quot;https://jenius.tech/2018/01/30/pengenalan-tmux/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;&lt;/a&gt;, yang sangat berguna untuk bekerja di &lt;em&gt;multi-shell&lt;/em&gt;. di sini akan diperkenalkan &lt;em&gt;tool&lt;/em&gt; pendukung untuk tmux, yaitu &lt;a href=&quot;https://github.com/tmuxinator/tmuxinator&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmuxinator&lt;/code&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, tool ini digunakan untuk meng-automasi shell yang biasa digunakan untuk developer, biasanya untuk mempersiapkan shell yang digunakan.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/2018/09/03/tmuxinator/">&lt;p&gt;Di Jenius, &lt;em&gt;automation&lt;/em&gt; adalah salah satu kunci untuk men-&lt;em&gt;deliver&lt;/em&gt; software dengan cepat, tanpa mengorbankan kualitas, automasi juga digunakan untuk kebutuhan sehari-hari, salah satunya untuk menyiapkan &lt;em&gt;environment&lt;/em&gt; development, Setelah sebelumnya diperkenalkan dengan &lt;a href=&quot;https://jenius.tech/2018/01/30/pengenalan-tmux/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;&lt;/a&gt;, yang sangat berguna untuk bekerja di &lt;em&gt;multi-shell&lt;/em&gt;. di sini akan diperkenalkan &lt;em&gt;tool&lt;/em&gt; pendukung untuk tmux, yaitu &lt;a href=&quot;https://github.com/tmuxinator/tmuxinator&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmuxinator&lt;/code&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, tool ini digunakan untuk meng-automasi shell yang biasa digunakan untuk developer, biasanya untuk mempersiapkan shell yang digunakan.&lt;/p&gt;
 
 &lt;!-- more --&gt;
 
@@ -163,7 +163,7 @@ windows:
       
 
       
-        <summary type="html">Di Jenius, automation adalah salah satu kunci untuk me-_deliver_ software dengan cepat, tanpa mengorbankan kualitas, automasi juga digunakan untuk kebutuhan sehari-hari, salah satunya untuk menyiapkan environment development, Setelah sebelumnya diperkenalkan dengan tmux, yang sangat berguna untuk bekerja di multi-shell. di sini akan diperkenalkan tool pendukung untuk tmux, yaitu tmuxinator1, tool ini digunakan untuk meng-automasi shell yang biasa digunakan untuk developer, biasanya untuk mempersiapkan shell yang digunakan. tmuxinator salah satu tool yang bisa digunakan, masih banyak project lain yang bisa digunakan, misalkan teamocil dan project lainnya. &amp;#8617;</summary>
+        <summary type="html">Di Jenius, automation adalah salah satu kunci untuk men-deliver software dengan cepat, tanpa mengorbankan kualitas, automasi juga digunakan untuk kebutuhan sehari-hari, salah satunya untuk menyiapkan environment development, Setelah sebelumnya diperkenalkan dengan tmux, yang sangat berguna untuk bekerja di multi-shell. di sini akan diperkenalkan tool pendukung untuk tmux, yaitu tmuxinator1, tool ini digunakan untuk meng-automasi shell yang biasa digunakan untuk developer, biasanya untuk mempersiapkan shell yang digunakan. tmuxinator salah satu tool yang bisa digunakan, masih banyak project lain yang bisa digunakan, misalkan teamocil dan project lainnya. &amp;#8617;</summary>
       
 
       

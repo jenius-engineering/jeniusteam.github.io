@@ -16,7 +16,7 @@ categories:
 published: true
 ---
 
-Di Jenius, _automation_ adalah salah satu kunci untuk me-_deliver_ software dengan cepat, tanpa mengorbankan kualitas, automasi juga digunakan untuk kebutuhan sehari-hari, salah satunya untuk menyiapkan _environment_ development, Setelah sebelumnya diperkenalkan dengan [`tmux`](https://jenius.tech/2018/01/30/pengenalan-tmux/), yang sangat berguna untuk bekerja di _multi-shell_. di sini akan diperkenalkan _tool_ pendukung untuk tmux, yaitu [`tmuxinator`](https://github.com/tmuxinator/tmuxinator)[^1], tool ini digunakan untuk meng-automasi shell yang biasa digunakan untuk developer, biasanya untuk mempersiapkan shell yang digunakan.
+Di Jenius, _automation_ adalah salah satu kunci untuk men-*deliver* software dengan cepat, tanpa mengorbankan kualitas, automasi juga digunakan untuk kebutuhan sehari-hari, salah satunya untuk menyiapkan _environment_ development, Setelah sebelumnya diperkenalkan dengan [`tmux`](https://jenius.tech/2018/01/30/pengenalan-tmux/), yang sangat berguna untuk bekerja di _multi-shell_. di sini akan diperkenalkan _tool_ pendukung untuk tmux, yaitu [`tmuxinator`](https://github.com/tmuxinator/tmuxinator)[^1], tool ini digunakan untuk meng-automasi shell yang biasa digunakan untuk developer, biasanya untuk mempersiapkan shell yang digunakan.
 
 <!-- more -->
 
