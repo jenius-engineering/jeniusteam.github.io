@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-08-31T03:28:17+00:00</updated>
+  <updated>2018-09-03T06:35:11+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #26</title>
+      
+      <link href="http://localhost:4000/2018/09/03/engineer-readinglist-26/" rel="alternate" type="text/html" title="Jenius Engineer reading list #26" />
+      <published>2018-09-03T00:00:00+00:00</published>
+      <updated>2018-09-03T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/09/03/engineer-readinglist-26</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/03/engineer-readinglist-26/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://frontside.io/blog/2018/08/09/kubernetes-for-the-kubernewbie/&quot;&gt;Kubernetes for the Kubernewbie - The Journey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoworld.com/article/3297437/javascript/vue-javascript-cli-tool-gets-a-rewrite.html&quot;&gt;Vue JavaScript CLI tool gets a rewrite&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/&quot;&gt;Scroll Bouncing On Your Websites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apnews.com/f60bc112665b458cb6473d7ee9492932&quot;&gt;AP Exclusive: Google tracks your movements, like it or not&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.influencive.com/5-questions-to-ask-before-any-ux-project/&quot;&gt;5 Questions to Ask Before Any UX Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/notebook-innovation-591ee3221233&quot;&gt;Beyond Interactive: Notebook Innovation at Netflix&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Kubernetes for the Kubernewbie - The Journey Vue JavaScript CLI tool gets a rewrite Scroll Bouncing On Your Websites AP Exclusive: Google tracks your movements, like it or not 5 Questions to Ask Before Any UX Project Beyond Interactive: Notebook Innovation at Netflix</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1029,58 +1082,6 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
 
       
         <summary type="html">How I gained commit access to Homebrew in 30 minutes Scaling Microservices with Message Queues, Spring Boot and Kubernetes Discussing Serverless with Stackery and Google Your Infrastructure as Code 🌩 CloudFormation Vs Terraform? A sysadmin’s guide to Ansible: How to simplify tasks</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #10</title>
-      
-      <link href="http://localhost:4000/2018/08/07/engineer-readinglist-10/" rel="alternate" type="text/html" title="Jenius Engineer reading list #10" />
-      <published>2018-08-07T00:00:00+00:00</published>
-      <updated>2018-08-07T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/08/07/engineer-readinglist-10</id>
-      <content type="html" xml:base="http://localhost:4000/2018/08/07/engineer-readinglist-10/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://support.mozilla.org/en-US/kb/about-firefox-pioneer&quot;&gt;Firefox Pioneer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/aws/new-lifecycle-management-for-amazon-ebs-snapshots/&quot;&gt;New – Lifecycle Management for Amazon EBS Snapshots&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/&quot;&gt;CAP Theorem illustrated&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/&quot;&gt;Add Constrained Optimization To Your Toolbelt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/headless-cms-vs-traditional-cms-a-deep-dive-4ec834fd6fd3&quot;&gt;Headless CMS vs Traditional CMS: A Deep Dive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Firefox Pioneer New – Lifecycle Management for Amazon EBS Snapshots CAP Theorem illustrated Add Constrained Optimization To Your Toolbelt Headless CMS vs Traditional CMS: A Deep Dive</summary>
       
 
       
