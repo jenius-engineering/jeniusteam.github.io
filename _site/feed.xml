@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-09-03T10:01:36+00:00</updated>
+  <updated>2018-09-04T05:29:54+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,61 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #27</title>
+      
+      <link href="http://localhost:4000/2018/09/04/engineer-readinglist-27/" rel="alternate" type="text/html" title="Jenius Engineer reading list #27" />
+      <published>2018-09-04T00:00:00+00:00</published>
+      <updated>2018-09-04T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/09/04/engineer-readinglist-27</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/04/engineer-readinglist-27/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/scaling-at-instacart-distributing-data-across-multiple-postgres-databases-with-rails-13b1e4eba202&quot;&gt;Scaling at Instacart: Distributing Data Across Multiple Postgres Databases with Rails&lt;/a&gt;  &lt;br /&gt;
+Interesting part of scaling distributed data at Instacart.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/&quot;&gt;How to Debug a Node.js app in a Docker Container&lt;/a&gt; &lt;br /&gt;
+Debugging directly on container can be a faster way to know what’s going on.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/react-native/react-native-for-android-development&quot;&gt;Dive into React Native for Android Development&lt;/a&gt; &lt;br /&gt;
+pros and cons using react-native as its engine to develop android application&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71&quot;&gt;WebAssembly: How and why&lt;/a&gt; &lt;br /&gt;
+How to run native code in the browser, why would you do that, and what does it all mean for JavaScript and the future of web development&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Scaling at Instacart: Distributing Data Across Multiple Postgres Databases with Rails Interesting part of scaling distributed data at Instacart. How to Debug a Node.js app in a Docker Container Debugging directly on container can be a faster way to know what’s going on. Dive into React Native for Android Development pros and cons using react-native as its engine to develop android application WebAssembly: How and why How to run native code in the browser, why would you do that, and what does it all mean for JavaScript and the future of web development</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1124,58 +1179,6 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
 
       
         <summary type="html">How to write a good software design doc ndb – ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools You don’t need that Bastion host Scrum is not an Agile Software Development Framework Material design is a political choice</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #12</title>
-      
-      <link href="http://localhost:4000/2018/08/13/engineer-readinglist-12/" rel="alternate" type="text/html" title="Jenius Engineer reading list #12" />
-      <published>2018-08-13T00:00:00+00:00</published>
-      <updated>2018-08-13T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/08/13/engineer-readinglist-12</id>
-      <content type="html" xml:base="http://localhost:4000/2018/08/13/engineer-readinglist-12/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c&quot;&gt;Apache Kafka is not for Event Sourcing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hellosign.com/blog/software-ate-world&quot;&gt;Software Ate the World. Now What?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/economic-perspective-testing/&quot;&gt;Lean Testing, or Why Unit Tests are Worse than You Think&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/filepond-frontend-trickery-a3073c934c77&quot;&gt;5 interesting technical challenges I faced when building FilePond&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/youre-not-even-criticising-scrum-caecf4eb19d3&quot;&gt;You’re not even criticising Scrum&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Apache Kafka is not for Event Sourcing Software Ate the World. Now What? Lean Testing, or Why Unit Tests are Worse than You Think 5 interesting technical challenges I faced when building FilePond You’re not even criticising Scrum</summary>
       
 
       
