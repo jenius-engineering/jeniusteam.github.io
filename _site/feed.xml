@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-09-05T05:16:59+00:00</updated>
+  <updated>2018-09-06T08:57:33+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,62 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #29</title>
+      
+      <link href="http://localhost:4000/2018/09/06/engineer-readinglist-29/" rel="alternate" type="text/html" title="Jenius Engineer reading list #29" />
+      <published>2018-09-06T00:00:00+00:00</published>
+      <updated>2018-09-06T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/09/06/engineer-readinglist-29</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/06/engineer-readinglist-29/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datacenterdynamics.com/opinions/why-bare-metal-servers-are-new-king/&quot;&gt;Why bare metal servers are the new king&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/08/designing-for-micro-moments/&quot;&gt;Designing For Micro-Moments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/&quot;&gt;Microservices Messaging: Why REST Isn’t Always the Best Choice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/08/utilizing-elixir-as-a-lightweight-tool-to-store-real-time-metrics-data/&quot;&gt;Utilizing Elixir as a lightweight tool to store real-time metrics data &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://charity.wtf/2018/08/17/on-engineers-and-influence/&quot;&gt;On Engineers and Influence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2018/01/how-to-hire&quot;&gt;How to Hire&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wildbit.com/blog/2018/08/17/remote-product-management-challenges-and-opportunities&quot;&gt;Remote product management: challenges and opportunities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ronjeffries.com/articles/018-01ff/agile-manager/&quot;&gt;Manager Responsibilities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dannorth.net/2018/01/26/in-praise-of-swarming/amp/&quot;&gt;In praise of SWARMing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Why bare metal servers are the new king Designing For Micro-Moments Microservices Messaging: Why REST Isn’t Always the Best Choice Utilizing Elixir as a lightweight tool to store real-time metrics data On Engineers and Influence How to Hire Remote product management: challenges and opportunities Manager Responsibilities In praise of SWARMing</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1127,58 +1183,6 @@ Di Meetup ini, salah satu engineer Jenius berlaku sebagai pembicara, yaitu Riza 
 
       
         <summary type="html">What You Should Know About Penetration Testing Terraform Pipelines in GitLab On Toxic Jobs, Low Self-Esteem, &amp;amp; Interviewing Tinyssh</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #14</title>
-      
-      <link href="http://localhost:4000/2018/08/15/engineer-readinglist-14/" rel="alternate" type="text/html" title="Jenius Engineer reading list #14" />
-      <published>2018-08-15T00:00:00+00:00</published>
-      <updated>2018-08-15T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/08/15/engineer-readinglist-14</id>
-      <content type="html" xml:base="http://localhost:4000/2018/08/15/engineer-readinglist-14/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/what-i-talk-about-when-i-talk-about-logging-36237fad7336&quot;&gt;What I Talk About When I Talk About Logging&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/how-to-drop-10-million-packets/&quot;&gt;How to drop 10 million packets per second&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.buildo.io/emails-boring-are-not-15c7b92fa90a&quot;&gt;Emails Boring Are Not&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html&quot;&gt;Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://engineering.hackerearth.com/2018/07/07/introducing-nuskha/&quot;&gt;Introducing Nuskha&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">What I Talk About When I Talk About Logging How to drop 10 million packets per second Emails Boring Are Not Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1 Introducing Nuskha</summary>
       
 
       
