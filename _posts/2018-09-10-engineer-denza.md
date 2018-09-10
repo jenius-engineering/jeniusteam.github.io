@@ -9,7 +9,7 @@ tags:
 categories: 
     - backstage
 image: /images/posts/engineers/denza-small.jpg
-published: false
+published: true
 ---
 
 [![Sofyan Fradenza Adi](/images/posts/engineers/denza-small.jpg)](/images/posts/engineers/denza-large.jpg)
