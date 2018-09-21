@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-09-17T10:11:10+00:00</updated>
+  <updated>2018-09-21T04:42:38+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #36</title>
+      
+      <link href="http://jenius.tech/2018/09/21/engineer-readinglist-36/" rel="alternate" type="text/html" title="Jenius Engineer reading list #36" />
+      <published>2018-09-21T00:00:00+00:00</published>
+      <updated>2018-09-21T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/09/21/engineer-readinglist-36</id>
+      <content type="html" xml:base="http://jenius.tech/2018/09/21/engineer-readinglist-36/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.7pace.com/blog/become-a-better-programmer-skills-development&quot;&gt;How to Become a Better Software Developer: A Handbook on Personal Performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://githubengineering.com/removing-jquery-from-github-frontend/&quot;&gt;Removing jQuery from GitHub.com frontend&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/data-wrangling-apache-kafka-ksql&quot;&gt;Data Wrangling with Apache Kafka and KSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale&quot;&gt;Managing Software Dependency at Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ubereng.wpengine.com/forecasting-introduction/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=forecasting-introduction&quot;&gt;Forecasting at Uber: An Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">How to Become a Better Software Developer: A Handbook on Personal Performance Removing jQuery from GitHub.com frontend Data Wrangling with Apache Kafka and KSQL Managing Software Dependency at Scale Forecasting at Uber: An Introduction</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1207,58 +1259,6 @@ Di Meetup kali ini, Jenius bersama dengan JVM Usergroup (telegram: &lt;a href=&q
 
       
         <summary type="html">#latepost Jenius kembali mengadakan meetup setelah hampir setahun hiatus, pada Selasa, 14 Agustus 2018, setelah sebelumnya melakukan development besar-besaran, dan membuahkan Jenius 2.0, dengan tech-stack baru, nasabah bisa menggunakan Jenius lebih cepat.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #21</title>
-      
-      <link href="http://jenius.tech/2018/08/24/engineer-readinglist-21/" rel="alternate" type="text/html" title="Jenius Engineer reading list #21" />
-      <published>2018-08-24T00:00:00+00:00</published>
-      <updated>2018-08-24T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/08/24/engineer-readinglist-21</id>
-      <content type="html" xml:base="http://jenius.tech/2018/08/24/engineer-readinglist-21/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/chaos-engineering-resilience&quot;&gt;Using Chaos to Build Resilient Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427&quot;&gt;Why Discord is Sticking with React Native&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/07/26/how-scylla-data-cache-works/&quot;&gt;Exploring How the Scylla Data Cache Works&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-road-to-quic/&quot;&gt;The Road to QUIC&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/how-i-reverse-engineered-notion-api-19480490bbeb&quot;&gt;How I reverse engineered Notion API&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Using Chaos to Build Resilient Systems Why Discord is Sticking with React Native Exploring How the Scylla Data Cache Works The Road to QUIC How I reverse engineered Notion API</summary>
       
 
       
