@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-09-24T05:59:01+00:00</updated>
+  <updated>2018-09-24T07:39:15+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #37</title>
+      
+      <link href="http://localhost:4000/2018/09/24/engineer-readinglist-37/" rel="alternate" type="text/html" title="Jenius Engineer reading list #37" />
+      <published>2018-09-24T00:00:00+00:00</published>
+      <updated>2018-09-24T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/09/24/engineer-readinglist-37</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/24/engineer-readinglist-37/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Physiix/topsi-project-manager&quot;&gt;Topsi – A Desktop Kanban board app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/microservices-infrastructure&quot;&gt;No Microservice Is an Island&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/shop-look-deep-learning/index.html&quot;&gt;Shop the Look with Deep Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ubereng.wpengine.com/marmaray-hadoop-ingestion-open-source/&quot;&gt;Marmaray: An Open Source Generic Data Ingestion and Dispersal Framework and Library for Apache Hadoop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/engineering-housing/image-resizing-architecture-at-housing-com-86fcd295bdab&quot;&gt;Image Resizing Architecture at housing.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/progress-for-big-data-in-kubernetes&quot;&gt;Progress for big data in Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Topsi – A Desktop Kanban board app No Microservice Is an Island Shop the Look with Deep Learning Marmaray: An Open Source Generic Data Ingestion and Dispersal Framework and Library for Apache Hadoop Image Resizing Architecture at housing.com Progress for big data in Kubernetes</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1217,58 +1270,6 @@ windows:
 
       
         <summary type="html">Developing Great Leaders is More Important than Training Bad Managers Security Incident Disclosure Repeat yourself, do more than one thing, and rewrite everything Repo security scanner Databook: Turning Big Data into Knowledge with Metadata at Uber</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #22</title>
-      
-      <link href="http://localhost:4000/2018/08/27/engineer-readinglist-22/" rel="alternate" type="text/html" title="Jenius Engineer reading list #22" />
-      <published>2018-08-27T00:00:00+00:00</published>
-      <updated>2018-08-27T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/08/27/engineer-readinglist-22</id>
-      <content type="html" xml:base="http://localhost:4000/2018/08/27/engineer-readinglist-22/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hashicorp.com/resources/multi-tenant-vault-namespaces&quot;&gt;Learn How to Run a Multi-tenant Vault with the New Namespaces Feature&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://snyk.io/blog/how-to-crash-an-email-server-with-a-single-email/&quot;&gt;How to crash an email server with a single email&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/the-web-push-checklist/&quot;&gt;The Web Push Checklist&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/07/introducing-the-d-web/&quot;&gt;Introducing the Dweb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://brandur.org/minimalism&quot;&gt;In Pursuit of Production Minimalism&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Learn How to Run a Multi-tenant Vault with the New Namespaces Feature How to crash an email server with a single email The Web Push Checklist Introducing the Dweb In Pursuit of Production Minimalism</summary>
       
 
       
