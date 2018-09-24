@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-09-21T18:47:58+00:00</updated>
+  <updated>2018-09-24T05:59:01+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -30,11 +30,11 @@
       
       <title type="html">Jenius Engineer: Leif Nambara</title>
       
-      <link href="http://localhost:4000/2018/09/21/engineer-leif-nambara/" rel="alternate" type="text/html" title="Jenius Engineer: Leif Nambara" />
-      <published>2018-09-21T00:00:00+00:00</published>
-      <updated>2018-09-21T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/09/21/engineer-leif-nambara</id>
-      <content type="html" xml:base="http://localhost:4000/2018/09/21/engineer-leif-nambara/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/leif-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/leif-small.jpg&quot; alt=&quot;Leif Nambara&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <link href="http://localhost:4000/2018/09/24/engineer-leif-nambara/" rel="alternate" type="text/html" title="Jenius Engineer: Leif Nambara" />
+      <published>2018-09-24T00:00:00+00:00</published>
+      <updated>2018-09-24T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/09/24/engineer-leif-nambara</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/24/engineer-leif-nambara/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/leif-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/leif-small.jpg&quot; alt=&quot;Leif Nambara&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://id.linkedin.com/in/leif-nambara-58627a37&quot;&gt;Leif Nambara&lt;/a&gt;, Digital Banking Backend Developer. Tugas sehari-hari, develop story/bugfix di Jira, handling production issue yang muncul, &lt;em&gt;backend automation&lt;/em&gt;, memberi komentar dikode &lt;em&gt;engineer&lt;/em&gt; lain sebagai salah satu proses dari &lt;em&gt;code review&lt;/em&gt; yang dijalankan di Jenius, agar product (berupa kode) bisa lebih baik, dan juga product secara keseluruhan lebih optimal dan stabil.&lt;/p&gt;
