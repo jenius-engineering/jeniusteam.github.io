@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-09-24T07:39:15+00:00</updated>
+  <updated>2018-09-25T01:20:04+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,61 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #38</title>
+      
+      <link href="http://localhost:4000/2018/09/25/engineer-readinglist-38/" rel="alternate" type="text/html" title="Jenius Engineer reading list #38" />
+      <published>2018-09-25T00:00:00+00:00</published>
+      <updated>2018-09-25T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/09/25/engineer-readinglist-38</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/25/engineer-readinglist-38/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/agile-2018&quot;&gt;Martin Fowler – Agile in 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes&quot;&gt;Techie to tech lead: My five biggest mistakes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/from-zero-to-hero-with-vue-up-and-running-f1acd4696b71&quot;&gt;From zero to hero with Vue — getting up and running&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wiremock.org/&quot;&gt;WireMock – API mocking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nickwignall.com/productive-procrastination/&quot;&gt;Productive Procrastination: How to Get More Done by Procrastinating on Purpose&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/the-terrible-performance-cost-of-cors-api-on-the-single-page-application-spa-6fcf71e50147&quot;&gt;How Cross-Origin Resource Sharing requests affect your app’s performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://intensecrypto.org/public/&quot;&gt;An Intensive Introduction to Cryptography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/digital-anatomy/five-facets-of-flow-strategy-96a737243ee5&quot;&gt;Five Facets of Flow Strategy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Martin Fowler – Agile in 2018 Techie to tech lead: My five biggest mistakes From zero to hero with Vue — getting up and running WireMock – API mocking Productive Procrastination: How to Get More Done by Procrastinating on Purpose How Cross-Origin Resource Sharing requests affect your app’s performance An Intensive Introduction to Cryptography Five Facets of Flow Strategy</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1218,58 +1273,6 @@ windows:
 
       
         <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Riza Febriyanto, DevOps Engineer di Jenius, saya bertanggung jawab dalam designing and creating automation in Jenius. Provide monitoring tools and infrastucture for development and production environment. Support both developer and production support team. Mengawali karir sebagai Java developer, Jenius mengenalkan saya dengan dunia DevOps. Jenius memberikan kesempatan kepada saya untuk belajar teknologi-teknologi terbaru, dengan mentor-mentor yang sangat berpengalaman dibidangnya.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #23</title>
-      
-      <link href="http://localhost:4000/2018/08/28/engineer-readinglist-23/" rel="alternate" type="text/html" title="Jenius Engineer reading list #23" />
-      <published>2018-08-28T00:00:00+00:00</published>
-      <updated>2018-08-28T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/08/28/engineer-readinglist-23</id>
-      <content type="html" xml:base="http://localhost:4000/2018/08/28/engineer-readinglist-23/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@cwilliams1290/developing-great-leaders-is-more-important-than-training-bad-managers-7ae6c9e0441a&quot;&gt;Developing Great Leaders is More Important than Training Bad Managers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://brew.sh/2018/08/05/security-incident-disclosure/&quot;&gt;Security Incident Disclosure&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and&quot;&gt;Repeat yourself, do more than one thing, and rewrite everything&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/UKHomeOffice/repo-security-scanner&quot;&gt;Repo security scanner&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/databook/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=databook&quot;&gt;Databook: Turning Big Data into Knowledge with Metadata at Uber&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Developing Great Leaders is More Important than Training Bad Managers Security Incident Disclosure Repeat yourself, do more than one thing, and rewrite everything Repo security scanner Databook: Turning Big Data into Knowledge with Metadata at Uber</summary>
       
 
       
