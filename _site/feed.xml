@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
   
   
-  <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-09-25T01:21:03+00:00</updated>
-  <id>http://jenius.tech//</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2018-09-26T03:34:24+00:00</updated>
+  <id>http://localhost:4000//</id>
 
   
     <title type="html">JeniusTech Engineering</title>
@@ -28,13 +28,396 @@
   
     <entry>
       
+      <title type="html">Membangun cluster Kubernetes di Vagrant dan CentOS</title>
+      
+      <link href="http://localhost:4000/2018/09/26/vagrant-centos-deploy-cluster-kubernetes/" rel="alternate" type="text/html" title="Membangun cluster Kubernetes di Vagrant dan CentOS" />
+      <published>2018-09-26T00:00:00+00:00</published>
+      <updated>2018-09-26T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/09/26/vagrant-centos-deploy-cluster-kubernetes</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/26/vagrant-centos-deploy-cluster-kubernetes/">&lt;p&gt;&lt;a href=&quot;https://kubernetes.io/&quot;&gt;Kubernetes&lt;/a&gt;, sebagai sistem orkestrasi container yang dirilis open-source untuk mengautomasi deployment, dan juga dapat digunakan untuk mengatur aplikasi di server, saat ini sedang naik daun, dan banyak digunakan di beberapa perusahaan besar, saat ini penyedia layanan cloud seperti Amazon (AWS EKS), Google (GKE), AliCloud dan beberapa penyedia lain juga menyediakan layanan Kubernetes.&lt;/p&gt;
+
+&lt;p&gt;Di sini akan mencoba membangun cluster kubernetes dilokal mesin kita, bisa berupa laptop atau desktop yang biasa digunakan, untuk membangun cluster ini setidaknya dibutuhkan beberapa hal berikut:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;RAM 8GB&lt;/li&gt;
+  &lt;li&gt;Storage, setidaknya membutuhkan 4GB per-node&lt;/li&gt;
+  &lt;li&gt;Virtualbox&lt;/li&gt;
+  &lt;li&gt;Vagrant (opsional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Vagrant digunakan sebagai alat untuk membuat development environment lebih mudah disini, dan virtualbox digunakan sebagai mesin virtualisasinya, cluster ini terdiri dari 1 &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; dan 3 &lt;code class=&quot;highlighter-rouge&quot;&gt;node&lt;/code&gt; (slave) kubernetes. Untuk OS yang digunakan adalah GNU/Linux distribusi Centos, bisa saja menggunakan distro lain, seperti Ubuntu, tinggal ubah perintah package management sesuai dengan distro yang digunakan.&lt;/p&gt;
+
+&lt;h3&gt;Setup&lt;/h3&gt;
+&lt;p&gt;Untuk setup awal, kita akan mendefinisikan host atau node yang akan kita gunakan di Vagrantfile, disini akan disetup 4 node, sourcecode untuk artikel ini ada &lt;a href=&quot;https://github.com/dedenf/kubernetes&quot;&gt;disini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ vagrant up&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk menghidupkan 4 node yang sudah ditulis di &lt;code class=&quot;highlighter-rouge&quot;&gt;Vagrantfile&lt;/code&gt;. Setelah semua node hidup, kita bisa melihat status dari masing-masing node di vagrant dengan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;$ vagrant status&lt;/code&gt; dan akan mendapat respon berikut.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Current machine states:
+
+master                    running &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;virtualbox&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+kube1                     running &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;virtualbox&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+kube2                     running &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;virtualbox&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+kube3                     running &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;virtualbox&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Setelah hidup &lt;em&gt;node-node&lt;/em&gt; tersebut, ssh ke node master &lt;code class=&quot;highlighter-rouge&quot;&gt;$ vagrant ssh master&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;su - 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Perintah ini untuk bisa bertukar posisi ke &lt;code class=&quot;highlighter-rouge&quot;&gt;root&lt;/code&gt; sehingga lebih mudah, untuk yang lebih &lt;em&gt;concern&lt;/em&gt; dengan keamanan, cukup dengan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo&lt;/code&gt; ditiap perintah yang membutuhkan privilege lebih tinggi, hanya pastikan bahwa user anda bisa sudah mendapatkan izin di &lt;code class=&quot;highlighter-rouge&quot;&gt;visudo&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Mempersiapkan host&lt;/h3&gt;
+&lt;h4&gt;Mendaftarkan IP Address&lt;/h4&gt;
+&lt;p&gt;Agar masing-masing hosts dapat mengenali satu sama lain, baik master dan worker, dibutuhkan untuk mendaftarkan masing-masing IP address di setiap node (master node dan worker node), lakukan edit di file &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/hosts&lt;/code&gt;, dan tambahkan IP-nya, untuk setup workshop ini, seperti yang dituliskan di &lt;code class=&quot;highlighter-rouge&quot;&gt;Vagrantfile&lt;/code&gt;, digunakan daftar IP sebagai berikut&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;master  192.168.10.11
+kube1   192.168.10.12
+kube2   192.168.10.13
+kube3   192.168.10.14
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;hal ini bisa saja diautomasi misalkan dengan Ansible atau provisioning di Vagrant&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4&gt;Firewall dan filesystem&lt;/h4&gt;
+&lt;p&gt;setelah kita akan mendaftarkan 4 node yang digunakan ini di &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/hosts&lt;/code&gt; masing-masing node, selanjutnya adalah melakukan perubahan setting di firewall dan filesystem agar masing-masing node bisa berkomunikasi tanpa ada pengecekan paket dan akses ke node-node yang ada di cluster.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;setenforce 0 
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;sed &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--follow-symlinks&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\ &lt;/span&gt;
+                    &lt;span class=&quot;s1&quot;&gt;'s/SELINUX=enforcing/SELINUX=disabled/g'&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+                    /etc/sysconfig/selinux
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Disable swap&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;swapoff &lt;span class=&quot;nt&quot;&gt;-a&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Dan edit file di &lt;code class=&quot;highlighter-rouge&quot;&gt;/etc/fstab&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;vi /etc/fstab
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;cari dan ubah baris ini dengan menambahkan komentar&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/dev/mapper/VolGroup00-LogVol01 swap                    swap    defaults        0 0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Menjadi&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;#/dev/mapper/VolGroup00-LogVol01 swap                    swap    defaults        0 0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Kemudian aktifkan kernel modul &lt;code class=&quot;highlighter-rouge&quot;&gt;br_netfilter&lt;/code&gt;, hal ini agar paket yang berkomunikasi melalui &lt;code class=&quot;highlighter-rouge&quot;&gt;bridge&lt;/code&gt; diproses oleh &lt;code class=&quot;highlighter-rouge&quot;&gt;iptables&lt;/code&gt; untuk dilakukan filter paket asal dan juga untuk kebutuhan komunikasi antar &lt;code class=&quot;highlighter-rouge&quot;&gt;pods&lt;/code&gt; didalam &lt;code class=&quot;highlighter-rouge&quot;&gt;cluster&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;modprobe br_netfilter
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'1'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; /proc/sys/net/bridge/bridge-nf-call-iptables
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4&gt;Install Docker, Kubernetes dan paket lainnya&lt;/h4&gt;
+&lt;p&gt;Kubernetes membutuhkan &lt;em&gt;container&lt;/em&gt;, dan yang kita gunakan untuk workshop ini adalah Docker, untuk menginstall-nya ikuti langkah berikut&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum install &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; yum-utils &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+  device-mapper-persistent-data &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+  lvm2
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h5&gt;Tambahkan repo Docker&lt;/h5&gt;
+&lt;p&gt;Tambahkan repo docker ke centos repo master dan workers&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum-config-manager &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;--add-repo&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+    https://download.docker.com/linux/centos/docker-ce.repo
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Di &lt;em&gt;howto&lt;/em&gt; setup kubernetes, disarankan untuk menggunakan menggunakan docker versi &lt;code class=&quot;highlighter-rouge&quot;&gt;17.03&lt;/code&gt;, tapi sejauh ini menggunakan versi &lt;code class=&quot;highlighter-rouge&quot;&gt;18.06.1-ce&lt;/code&gt; tidak ada masalah, karena jika install langsung biasanya merujuk ke versi yang terbaru, maka untuk memilih menggunakan versi yang diharapkan bisa menggunakan perintah&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum list docker-ce &lt;span class=&quot;nt&quot;&gt;--showduplicates&lt;/span&gt; | sort &lt;span class=&quot;nt&quot;&gt;-r&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Dan untuk install versi yang spesifik sesuai dengan tulisan versi yang keluar dari hasil menjalankan perintah di atas.&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sudo &lt;/span&gt;yum install docker-ce-&amp;lt;VERSION STRING&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4&gt;Install Kubernetes&lt;/h4&gt;
+&lt;p&gt;Untuk menginstall kubernetes, tambahkan repo kubernetes ke centos repo di semua node.&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo cat&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;EOF&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt; &amp;gt; /etc/yum.repos.d/kubernetes.repo
+[kubernetes]
+name=Kubernetes
+baseurl=https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
+        https://packages.cloud.google.com/yum/doc/rpm-package-key.gpg
+&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;EOF
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Install &lt;code class=&quot;highlighter-rouge&quot;&gt;kubectl&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadm&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;kubelet&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum install &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; kubelet kubeadm kubectl
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Kemudian reboot semua node.&lt;/p&gt;
+
+&lt;p&gt;Setelah semua node up, enable service docker, kubelet di sytemd dan juga mulai service docker, kubelet&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;systemctl start docker &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; systemctl &lt;span class=&quot;nb&quot;&gt;enable &lt;/span&gt;docker
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;systemctl start kubelet &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; systemctl &lt;span class=&quot;nb&quot;&gt;enable &lt;/span&gt;kubelet
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Cek apakah docker masuk Cgroup driver&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;docker info | &lt;span class=&quot;nb&quot;&gt;grep&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; cgroup
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Masukkan cgroup-driver ini masuk ke konfigurasi &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadm&lt;/code&gt; ke &lt;code class=&quot;highlighter-rouge&quot;&gt;cgroupfs&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;sed &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'s/cgroup-driver=systemd/cgroup-driver=cgroupfs/g'&lt;/span&gt; /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Reload systemd dan restart service kubelet&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;systemctl daemon-reload
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;systemctl restart kubelet
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4&gt;Inisiasi cluster&lt;/h4&gt;
+&lt;p&gt;Langkah ini untuk menginisiasi cluster yang dimulai di &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; terlebih dahulu, karena dari &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; inilah kita dapat melakukan operasi yang berhubungan dengan cluster.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan HANYA di master&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;kubeadm init &lt;span class=&quot;nt&quot;&gt;--apiserver-advertise-address&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;192.168.10.11 &lt;span class=&quot;nt&quot;&gt;--pod-network-cidr&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;10.244.0.0/16
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Opsi perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;--apiserver-advertise-address=&lt;/code&gt; di atas untuk menginisiasi &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; sebagai apiserver dan disini master memiliki IP address &lt;code class=&quot;highlighter-rouge&quot;&gt;192.168.10.11&lt;/code&gt;, dan &lt;code class=&quot;highlighter-rouge&quot;&gt;--pod-network-cidr=&lt;/code&gt; adalah untuk menspesifikasi range IP yang digunakan nanti untuk pod-pod yang akan hidup dicluster. Untuk virtual networking atau network overlay, workshop ini menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;flanel&lt;/code&gt;, &lt;a href=&quot;https://kubernetes.io/docs/concepts/cluster-administration/networking/&quot;&gt;selengkapnya bisa dilihat disini&lt;/a&gt; untuk pilihan networking model lainnya selain &lt;code class=&quot;highlighter-rouge&quot;&gt;flanel&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Setelah perintah di atas dijalankan, jika sukses, akan keluar pesan-pesan sukses dan fokus ke baris terakhir yang berisi baris ini, yang akan dijalankan dimasing-masing node worker. baris ini mengandung token dan juga perintah untuk join cluster.&lt;/p&gt;
+
+&lt;p&gt;Agar kubernetes bisa digunakan, maka diperlukan file konfigurasi yang akan kita simpan di &lt;code class=&quot;highlighter-rouge&quot;&gt;$HOME&lt;/code&gt; user kita, tidak disarankan menjalankan kubernetes sebagai root. Untuk itu, kita siapkan direktori dotfile, dan juga salin file &lt;code class=&quot;highlighter-rouge&quot;&gt;admin.conf&lt;/code&gt; di kubernetes folder.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini HANYA di master&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;mkdir &lt;span class=&quot;nt&quot;&gt;-p&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;cp &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; /etc/kubernetes/admin.conf &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;chown &lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;id &lt;span class=&quot;nt&quot;&gt;-u&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;:&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;id &lt;span class=&quot;nt&quot;&gt;-g&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Seperti yang kita sebutkan sebelumnya, kita menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;flannel&lt;/code&gt;, untuk itu kita akan mendeploy &lt;code class=&quot;highlighter-rouge&quot;&gt;flannel&lt;/code&gt; di master node kita.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;kubectl apply &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Perintah di atas akan mendeploy flannel networking cluster.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;kubectl get nodes
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;kubectl get pods &lt;span class=&quot;nt&quot;&gt;--all-namespaces&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Output perintah tersebut&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NAMESPACE     NAME                                 READY     STATUS     RESTARTS   AGE
+kube-system   coredns-78fcdf6894-5kcl4             1/1       Running    7          19d
+kube-system   coredns-78fcdf6894-dmckh             1/1       Running    6          19d
+kube-system   etcd-master                          1/1       Running    7          19d
+kube-system   kube-apiserver-master            1/1       Running    6          19d
+kube-system   kube-controller-manager-master   1/1       Running    7          19d
+kube-system   kube-flannel-ds-amd64-2smlw          1/1       Running    7          19d
+kube-system   kube-proxy-47zxs                     1/1       Running    0          19d
+kube-system   kube-scheduler-master            1/1       Running    7          19d
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Bisa dilihat flannel untuk master telah up, dan pastikan &lt;code class=&quot;highlighter-rouge&quot;&gt;kube-system&lt;/code&gt; berstatus RUNNING, dengan ini maka inisiasi master telah sukses.&lt;/p&gt;
+
+&lt;h4&gt;Menambahkan node worker ke cluster&lt;/h4&gt;
+&lt;p&gt;Langkah selanjutnya adalah menambahkan &lt;code class=&quot;highlighter-rouge&quot;&gt;kube1&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;kube2&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;kube3&lt;/code&gt; ke cluster, yang pertama dilakukan adalah perintah yang sebelumnya muncul dari hasil &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadmin init&lt;/code&gt; diatas.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node WORKER&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@kube1 ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;kubeadm join 192.168.10.11:6443 &lt;span class=&quot;nt&quot;&gt;--token&lt;/span&gt; 0d3sfd.0ky3mcq2hof7a72a &lt;span class=&quot;nt&quot;&gt;--discovery-token-ca-cert-hash&lt;/span&gt; sha256:9adc5abcb739cac1ff5fcf0b8d3523c869ed498af768eb85b5187e570869e949
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Jalankan perintah diatas disemua node worker di cluster.Jika sudah, silakan cek apakah node worker sudah bergabung dengan cluster ini atau belum.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;kubectl get nodes 
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;kubectl get pods &lt;span class=&quot;nt&quot;&gt;--all-namespaces&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;akan menghasilkan tabel status seperti ini&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NAME         STATUS     ROLES     AGE       VERSION
+master       Ready      master    19d       v1.11.2
+kube1        Ready      &amp;lt;none&amp;gt;    19d       v1.11.2
+kube2        NotReady   &amp;lt;none&amp;gt;    19d       v1.11.2
+kube3        NotReady   &amp;lt;none&amp;gt;    19d       v1.11.2
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Tabel diatas mengindikasikan bahwa node worker dengan nama &lt;code class=&quot;highlighter-rouge&quot;&gt;kube1&lt;/code&gt; sudah join cluster, lakukan perintah yang sama terhadap sisa node worker yang belum join.
+Jika semua node telah berstatus &lt;code class=&quot;highlighter-rouge&quot;&gt;Ready&lt;/code&gt;, maka cluster sudah selesai dikonfigurasi.&lt;/p&gt;
+
+&lt;h4&gt;Testing cluster dengan deploy pod&lt;/h4&gt;
+&lt;p&gt;Untuk mengetest apakah cluster sudah bisa digunakan untuk deployment dan menerima request, kita buat deploymet dan service sederhana, kita akan mendeploy webserver nginx dicluster ini.&lt;/p&gt;
+
+&lt;p&gt;Dimulai dengan membuat deployment dinode master.&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;kubectl describe deployment nginx
+deployment.apps/nginx created
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Cek apakah deployment ini sudah ada, dan juga untuk melihat spesifikasi pod&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;kubectl describe deployment nginx
+Name:                   nginx
+Namespace:              default
+CreationTimestamp:      Tue, 25 Sep 2018 16:51:45 +0000
+Labels:                 &lt;span class=&quot;nv&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;nginx
+Annotations:            deployment.kubernetes.io/revision&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1
+Selector:               &lt;span class=&quot;nv&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;nginx
+Replicas:               1 desired | 1 updated | 1 total | 0 available | 1 unavailable
+StrategyType:           RollingUpdate
+MinReadySeconds:        0
+RollingUpdateStrategy:  25% max unavailable, 25% max surge
+Pod Template:
+  Labels:  &lt;span class=&quot;nv&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;nginx
+  Containers:
+   nginx:
+    Image:        nginx
+    Port:         &amp;lt;none&amp;gt;
+    Host Port:    &amp;lt;none&amp;gt;
+    Environment:  &amp;lt;none&amp;gt;
+    Mounts:       &amp;lt;none&amp;gt;
+  Volumes:        &amp;lt;none&amp;gt;
+Conditions:
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Untuk dapat mengakses nginx ini, diperlukan untuk mengekspos nginx service dengan perintah&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;kubectl create service nodeport nginx &lt;span class=&quot;nt&quot;&gt;--tcp&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;80:80
+service/nginx created
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Lihat apakah pods nginx sudah up&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;kubectl get pods
+NAME                     READY     STATUS    RESTARTS   AGE
+nginx-78f5d695bd-29jzh   1/1       Running   0          8m
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Dan lihat juga service yang sudah ter-ekspos&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;kubectl get svc
+NAME         TYPE        CLUSTER-IP     EXTERNAL-IP   PORT&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;S&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;        AGE
+kubernetes   ClusterIP   10.96.0.1      &amp;lt;none&amp;gt;        443/TCP        19d
+nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP   8m
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Di sini nginx jalan di IP &lt;code class=&quot;highlighter-rouge&quot;&gt;10.96.12.181&lt;/code&gt; didalam cluster dan dengan port 80, dan jika kita coba akses dari master node&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl 192.168.10.12:31802
+&amp;lt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;title&amp;gt;Welcome to nginx!&amp;lt;/title&amp;gt;
+...
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Via browser&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/public/images/posts/kubernetes-nginx-large.png&quot;&gt;&lt;img src=&quot;/public/images/posts/kubernetes-nginx.png&quot; alt=&quot;kubernetes nginx&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="article" />
+      
+        <category term="howto" />
+      
+        <category term="kubernetes" />
+      
+        <category term="devops" />
+      
+
+      
+        <category term="kubernetes" />
+      
+        <category term="unix" />
+      
+        <category term="devops" />
+      
+
+      
+        <summary type="html">Kubernetes, sebagai sistem orkestrasi container yang dirilis open-source untuk mengautomasi deployment, dan juga dapat digunakan untuk mengatur aplikasi di server, saat ini sedang naik daun, dan banyak digunakan di beberapa perusahaan besar, saat ini penyedia layanan cloud seperti Amazon (AWS EKS), Google (GKE), AliCloud dan beberapa penyedia lain juga menyediakan layanan Kubernetes. Di sini akan mencoba membangun cluster kubernetes dilokal mesin kita, bisa berupa laptop atau desktop yang biasa digunakan, untuk membangun cluster ini setidaknya dibutuhkan beberapa hal berikut: RAM 8GB Storage, setidaknya membutuhkan 4GB per-node Virtualbox Vagrant (opsional)</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #39</title>
+      
+      <link href="http://localhost:4000/2018/09/26/engineer-readinglist-39/" rel="alternate" type="text/html" title="Jenius Engineer reading list #39" />
+      <published>2018-09-26T00:00:00+00:00</published>
+      <updated>2018-09-26T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/09/26/engineer-readinglist-39</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/26/engineer-readinglist-39/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/agile-2018&quot;&gt;Martin Fowler – Agile in 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes&quot;&gt;Techie to tech lead: My five biggest mistakes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/from-zero-to-hero-with-vue-up-and-running-f1acd4696b71&quot;&gt;From zero to hero with Vue — getting up and running&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wiremock.org/&quot;&gt;WireMock – API mocking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nickwignall.com/productive-procrastination/&quot;&gt;Productive Procrastination: How to Get More Done by Procrastinating on Purpose&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/the-terrible-performance-cost-of-cors-api-on-the-single-page-application-spa-6fcf71e50147&quot;&gt;How Cross-Origin Resource Sharing requests affect your app’s performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://intensecrypto.org/public/&quot;&gt;An Intensive Introduction to Cryptography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/digital-anatomy/five-facets-of-flow-strategy-96a737243ee5&quot;&gt;Five Facets of Flow Strategy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Martin Fowler – Agile in 2018 Techie to tech lead: My five biggest mistakes From zero to hero with Vue — getting up and running WireMock – API mocking Productive Procrastination: How to Get More Done by Procrastinating on Purpose How Cross-Origin Resource Sharing requests affect your app’s performance An Intensive Introduction to Cryptography Five Facets of Flow Strategy</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Jenius Engineer reading list #38</title>
       
-      <link href="http://jenius.tech/2018/09/25/engineer-readinglist-38/" rel="alternate" type="text/html" title="Jenius Engineer reading list #38" />
+      <link href="http://localhost:4000/2018/09/25/engineer-readinglist-38/" rel="alternate" type="text/html" title="Jenius Engineer reading list #38" />
       <published>2018-09-25T00:00:00+00:00</published>
       <updated>2018-09-25T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/25/engineer-readinglist-38</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/25/engineer-readinglist-38/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/25/engineer-readinglist-38</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/25/engineer-readinglist-38/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/agile-2018&quot;&gt;Martin Fowler – Agile in 2018&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes&quot;&gt;Techie to tech lead: My five biggest mistakes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/from-zero-to-hero-with-vue-up-and-running-f1acd4696b71&quot;&gt;From zero to hero with Vue — getting up and running&lt;/a&gt;&lt;/li&gt;
@@ -85,11 +468,11 @@
       
       <title type="html">Jenius Engineer reading list #37</title>
       
-      <link href="http://jenius.tech/2018/09/24/engineer-readinglist-37/" rel="alternate" type="text/html" title="Jenius Engineer reading list #37" />
+      <link href="http://localhost:4000/2018/09/24/engineer-readinglist-37/" rel="alternate" type="text/html" title="Jenius Engineer reading list #37" />
       <published>2018-09-24T00:00:00+00:00</published>
       <updated>2018-09-24T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/24/engineer-readinglist-37</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/24/engineer-readinglist-37/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/24/engineer-readinglist-37</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/24/engineer-readinglist-37/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/Physiix/topsi-project-manager&quot;&gt;Topsi – A Desktop Kanban board app&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/microservices-infrastructure&quot;&gt;No Microservice Is an Island&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/shop-look-deep-learning/index.html&quot;&gt;Shop the Look with Deep Learning&lt;/a&gt;&lt;/li&gt;
@@ -138,11 +521,11 @@
       
       <title type="html">Jenius Engineer: Leif Nambara</title>
       
-      <link href="http://jenius.tech/2018/09/24/engineer-leif-nambara/" rel="alternate" type="text/html" title="Jenius Engineer: Leif Nambara" />
+      <link href="http://localhost:4000/2018/09/24/engineer-leif-nambara/" rel="alternate" type="text/html" title="Jenius Engineer: Leif Nambara" />
       <published>2018-09-24T00:00:00+00:00</published>
       <updated>2018-09-24T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/24/engineer-leif-nambara</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/24/engineer-leif-nambara/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/leif-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/leif-small.jpg&quot; alt=&quot;Leif Nambara&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <id>http://localhost:4000/2018/09/24/engineer-leif-nambara</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/24/engineer-leif-nambara/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/leif-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/leif-small.jpg&quot; alt=&quot;Leif Nambara&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://id.linkedin.com/in/leif-nambara-58627a37&quot;&gt;Leif Nambara&lt;/a&gt;, Digital Banking Backend Developer. Tugas sehari-hari, develop story/bugfix di Jira, handling production issue yang muncul, &lt;em&gt;backend automation&lt;/em&gt;, memberi komentar dikode &lt;em&gt;engineer&lt;/em&gt; lain sebagai salah satu proses dari &lt;em&gt;code review&lt;/em&gt; yang dijalankan di Jenius, agar product (berupa kode) bisa lebih baik, dan juga product secara keseluruhan lebih optimal dan stabil.&lt;/p&gt;
@@ -208,11 +591,11 @@
       
       <title type="html">Jenius Engineer reading list #36</title>
       
-      <link href="http://jenius.tech/2018/09/21/1engineer-readinglist-36/" rel="alternate" type="text/html" title="Jenius Engineer reading list #36" />
+      <link href="http://localhost:4000/2018/09/21/1engineer-readinglist-36/" rel="alternate" type="text/html" title="Jenius Engineer reading list #36" />
       <published>2018-09-21T00:00:00+00:00</published>
       <updated>2018-09-21T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/21/1engineer-readinglist-36</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/21/1engineer-readinglist-36/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/21/1engineer-readinglist-36</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/21/1engineer-readinglist-36/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.7pace.com/blog/become-a-better-programmer-skills-development&quot;&gt;How to Become a Better Software Developer: A Handbook on Personal Performance&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://githubengineering.com/removing-jquery-from-github-frontend/&quot;&gt;Removing jQuery from GitHub.com frontend&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/data-wrangling-apache-kafka-ksql&quot;&gt;Data Wrangling with Apache Kafka and KSQL&lt;/a&gt;&lt;/li&gt;
@@ -260,11 +643,11 @@
       
       <title type="html">Jenius Engineer reading list #35</title>
       
-      <link href="http://jenius.tech/2018/09/17/engineer-readinglist-35/" rel="alternate" type="text/html" title="Jenius Engineer reading list #35" />
+      <link href="http://localhost:4000/2018/09/17/engineer-readinglist-35/" rel="alternate" type="text/html" title="Jenius Engineer reading list #35" />
       <published>2018-09-17T00:00:00+00:00</published>
       <updated>2018-09-17T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/17/engineer-readinglist-35</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/17/engineer-readinglist-35/">&lt;p&gt;Senin, Selamat bekerja!&lt;/p&gt;
+      <id>http://localhost:4000/2018/09/17/engineer-readinglist-35</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/17/engineer-readinglist-35/">&lt;p&gt;Senin, Selamat bekerja!&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://frontendian.co/service-workers&quot;&gt;Service Workers&lt;/a&gt;&lt;/li&gt;
@@ -316,11 +699,11 @@
       
       <title type="html">Jenius Engineer: Bayu Prasetyo</title>
       
-      <link href="http://jenius.tech/2018/09/17/engineer-bayu/" rel="alternate" type="text/html" title="Jenius Engineer: Bayu Prasetyo" />
+      <link href="http://localhost:4000/2018/09/17/engineer-bayu/" rel="alternate" type="text/html" title="Jenius Engineer: Bayu Prasetyo" />
       <published>2018-09-17T00:00:00+00:00</published>
       <updated>2018-09-17T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/17/engineer-bayu</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/17/engineer-bayu/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/bayu-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/bayu-small.jpg&quot; alt=&quot;Bayu Prasetyo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <id>http://localhost:4000/2018/09/17/engineer-bayu</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/17/engineer-bayu/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/bayu-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/bayu-small.jpg&quot; alt=&quot;Bayu Prasetyo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Hi, nama saya &lt;a href=&quot;https://github.com/bayukp&quot;&gt;Bayu Prasetyo&lt;/a&gt;, posisi sebagai Software Developer di &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt;. Saat ini mengerjakan bagian frontend (Android, IOS, Web). Juga bertanggung jawab untuk &lt;em&gt;release&lt;/em&gt; app, develop stories dan bugfixing issues yang muncul.&lt;/p&gt;
@@ -392,11 +775,11 @@
       
       <title type="html">Jenius Engineer reading list #34</title>
       
-      <link href="http://jenius.tech/2018/09/14/engineer-readinglist-34/" rel="alternate" type="text/html" title="Jenius Engineer reading list #34" />
+      <link href="http://localhost:4000/2018/09/14/engineer-readinglist-34/" rel="alternate" type="text/html" title="Jenius Engineer reading list #34" />
       <published>2018-09-14T00:00:00+00:00</published>
       <updated>2018-09-14T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/14/engineer-readinglist-34</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/14/engineer-readinglist-34/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/14/engineer-readinglist-34</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/14/engineer-readinglist-34/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/cypress-io-the-reason-why-were-not-stuck-with-selenium/&quot;&gt;Cypress – the reason why we’re not stuck with Selenium&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/08/real-time-streaming-pattern-analyzing-trends/&quot;&gt;Real-time Streaming Pattern: Analyzing Trends&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/kubernetes-monitoring-prometheus/&quot;&gt;Kubernetes Monitoring with Prometheus, the ultimate guide (part 1)&lt;/a&gt;&lt;/li&gt;
@@ -447,11 +830,11 @@
       
       <title type="html">Jenius Engineer reading list #33</title>
       
-      <link href="http://jenius.tech/2018/09/13/engineer-readinglist-33/" rel="alternate" type="text/html" title="Jenius Engineer reading list #33" />
+      <link href="http://localhost:4000/2018/09/13/engineer-readinglist-33/" rel="alternate" type="text/html" title="Jenius Engineer reading list #33" />
       <published>2018-09-13T00:00:00+00:00</published>
       <updated>2018-09-13T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/13/engineer-readinglist-33</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/13/engineer-readinglist-33/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/13/engineer-readinglist-33</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/13/engineer-readinglist-33/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://crate.io/a/on-writing-beautiful-tests/&quot;&gt;On Writing Beautiful Tests&lt;/a&gt; &lt;br /&gt;
   sepertinya perlu nulis ini &lt;em&gt;case&lt;/em&gt; yang ada di Jenius&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/security/2018/09/11/protecting-mozillas-github-repositories-from-malicious-modification/&quot;&gt;Protecting Mozilla’s GitHub Repositories from Malicious Modification&lt;/a&gt;&lt;/li&gt;
@@ -501,11 +884,11 @@
       
       <title type="html">Jenius Engineer reading list #32</title>
       
-      <link href="http://jenius.tech/2018/09/12/engineer-readinglist-32/" rel="alternate" type="text/html" title="Jenius Engineer reading list #32" />
+      <link href="http://localhost:4000/2018/09/12/engineer-readinglist-32/" rel="alternate" type="text/html" title="Jenius Engineer reading list #32" />
       <published>2018-09-12T00:00:00+00:00</published>
       <updated>2018-09-12T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/12/engineer-readinglist-32</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/12/engineer-readinglist-32/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/12/engineer-readinglist-32</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/12/engineer-readinglist-32/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/i-wanna-go-fast-load-balancing-dynamic-steering/&quot;&gt;I Wanna Go Fast - Load Balancing Dynamic Steering&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c&quot;&gt;Service Worker Caching Strategies Based on Request Types&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/07/20/wasm-future.html&quot;&gt;The future of WebAssembly - A look at upcoming features and proposals&lt;/a&gt;&lt;/li&gt;
@@ -555,11 +938,11 @@
       
       <title type="html">Jenius Engineer: Sofyan Fradenza Adi</title>
       
-      <link href="http://jenius.tech/2018/09/10/engineer-denza/" rel="alternate" type="text/html" title="Jenius Engineer: Sofyan Fradenza Adi" />
+      <link href="http://localhost:4000/2018/09/10/engineer-denza/" rel="alternate" type="text/html" title="Jenius Engineer: Sofyan Fradenza Adi" />
       <published>2018-09-10T00:00:00+00:00</published>
       <updated>2018-09-10T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/10/engineer-denza</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/10/engineer-denza/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/denza-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/denza-small.jpg&quot; alt=&quot;Sofyan Fradenza Adi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <id>http://localhost:4000/2018/09/10/engineer-denza</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/10/engineer-denza/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/denza-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/denza-small.jpg&quot; alt=&quot;Sofyan Fradenza Adi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Saya &lt;a href=&quot;https://github.com/denza-dev&quot;&gt;Sofyan Fradenza Adi&lt;/a&gt;, sebagai Jenius Software Engineer, saat ini bersama dengan squad yang luar biasa sedang mengembangkan berbagai fitur baru untuk &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt; dengan tujuan memudahkan para nasabah dalam melakukan berbagai transaksi dan mencoba untuk mengubah &lt;em&gt;lifestyle&lt;/em&gt; financial mereka.&lt;/p&gt;
@@ -643,11 +1026,11 @@ Agar file lebih aman dan bisa diakses dimana saja, menggunakan &lt;a href=&quot;
       
       <title type="html">Jenius Engineer reading list #31</title>
       
-      <link href="http://jenius.tech/2018/09/10/1-engineer-readinglist-31/" rel="alternate" type="text/html" title="Jenius Engineer reading list #31" />
+      <link href="http://localhost:4000/2018/09/10/1-engineer-readinglist-31/" rel="alternate" type="text/html" title="Jenius Engineer reading list #31" />
       <published>2018-09-10T00:00:00+00:00</published>
       <updated>2018-09-10T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/10/1-engineer-readinglist-31</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/10/1-engineer-readinglist-31/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/10/1-engineer-readinglist-31</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/10/1-engineer-readinglist-31/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://stackexchange.com/performance&quot;&gt;stackexchange performance report&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.reaktor.com/celebrationofcode/&quot;&gt;A celebration of code – 6 pieces of code that had an impact&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb&quot;&gt;Kubernetes Networking: Behind the scenes&lt;/a&gt;&lt;/li&gt;
@@ -696,11 +1079,11 @@ Agar file lebih aman dan bisa diakses dimana saja, menggunakan &lt;a href=&quot;
       
       <title type="html">Jenius Engineer reading list #30</title>
       
-      <link href="http://jenius.tech/2018/09/07/engineer-readinglist-30/" rel="alternate" type="text/html" title="Jenius Engineer reading list #30" />
+      <link href="http://localhost:4000/2018/09/07/engineer-readinglist-30/" rel="alternate" type="text/html" title="Jenius Engineer reading list #30" />
       <published>2018-09-07T00:00:00+00:00</published>
       <updated>2018-09-07T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/07/engineer-readinglist-30</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/07/engineer-readinglist-30/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/07/engineer-readinglist-30</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/07/engineer-readinglist-30/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://research.fb.com/building-switch-software-at-facebook-scale/&quot;&gt;Building Switch Software at Facebook Scale&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://gojko.net/2018/08/30/sprints-marathons-root-canals.html&quot;&gt;Sprints, marathons and root canals&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@george3d6/stop-future-proofing-software-c984cbd65e78&quot;&gt;Stop future proofing software&lt;/a&gt;&lt;/li&gt;
@@ -750,11 +1133,11 @@ Agar file lebih aman dan bisa diakses dimana saja, menggunakan &lt;a href=&quot;
       
       <title type="html">Jenius Engineer reading list #29</title>
       
-      <link href="http://jenius.tech/2018/09/06/engineer-readinglist-29/" rel="alternate" type="text/html" title="Jenius Engineer reading list #29" />
+      <link href="http://localhost:4000/2018/09/06/engineer-readinglist-29/" rel="alternate" type="text/html" title="Jenius Engineer reading list #29" />
       <published>2018-09-06T00:00:00+00:00</published>
       <updated>2018-09-06T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/06/engineer-readinglist-29</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/06/engineer-readinglist-29/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/06/engineer-readinglist-29</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/06/engineer-readinglist-29/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.datacenterdynamics.com/opinions/why-bare-metal-servers-are-new-king/&quot;&gt;Why bare metal servers are the new king&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/08/designing-for-micro-moments/&quot;&gt;Designing For Micro-Moments&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/&quot;&gt;Microservices Messaging: Why REST Isn’t Always the Best Choice&lt;/a&gt;&lt;/li&gt;
@@ -806,11 +1189,11 @@ Agar file lebih aman dan bisa diakses dimana saja, menggunakan &lt;a href=&quot;
       
       <title type="html">Jenius Engineer reading list #28</title>
       
-      <link href="http://jenius.tech/2018/09/05/engineer-readinglist-28/" rel="alternate" type="text/html" title="Jenius Engineer reading list #28" />
+      <link href="http://localhost:4000/2018/09/05/engineer-readinglist-28/" rel="alternate" type="text/html" title="Jenius Engineer reading list #28" />
       <published>2018-09-05T00:00:00+00:00</published>
       <updated>2018-09-05T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/05/engineer-readinglist-28</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/05/engineer-readinglist-28/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/05/engineer-readinglist-28</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/05/engineer-readinglist-28/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/old-write/&quot;&gt;Zero Downtime Table Migrations using a Double Write Methodology&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.timescale.com/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877&quot;&gt;TimescaleDB vs. InfluxDB: purpose built differently for time-series data&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://developer.ibm.com/dwblog/2018/monolithic-microservices-transformation-journey/&quot;&gt;From monolithic to microservices: A transformation journey&lt;/a&gt;&lt;/li&gt;
@@ -858,11 +1241,11 @@ Agar file lebih aman dan bisa diakses dimana saja, menggunakan &lt;a href=&quot;
       
       <title type="html">Jenius Engineer reading list #27</title>
       
-      <link href="http://jenius.tech/2018/09/04/engineer-readinglist-27/" rel="alternate" type="text/html" title="Jenius Engineer reading list #27" />
+      <link href="http://localhost:4000/2018/09/04/engineer-readinglist-27/" rel="alternate" type="text/html" title="Jenius Engineer reading list #27" />
       <published>2018-09-04T00:00:00+00:00</published>
       <updated>2018-09-04T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/04/engineer-readinglist-27</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/04/engineer-readinglist-27/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/04/engineer-readinglist-27</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/04/engineer-readinglist-27/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/scaling-at-instacart-distributing-data-across-multiple-postgres-databases-with-rails-13b1e4eba202&quot;&gt;Scaling at Instacart: Distributing Data Across Multiple Postgres Databases with Rails&lt;/a&gt;  &lt;br /&gt;
 Interesting part of scaling distributed data at Instacart.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/&quot;&gt;How to Debug a Node.js app in a Docker Container&lt;/a&gt; &lt;br /&gt;
@@ -913,11 +1296,11 @@ How to run native code in the browser, why would you do that, and what does it a
       
       <title type="html">Tmuxinator</title>
       
-      <link href="http://jenius.tech/2018/09/03/tmuxinator/" rel="alternate" type="text/html" title="Tmuxinator" />
+      <link href="http://localhost:4000/2018/09/03/tmuxinator/" rel="alternate" type="text/html" title="Tmuxinator" />
       <published>2018-09-03T00:00:00+00:00</published>
       <updated>2018-09-03T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/03/tmuxinator</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/03/tmuxinator/">&lt;p&gt;Di Jenius, &lt;em&gt;automation&lt;/em&gt; adalah salah satu kunci untuk men-&lt;em&gt;deliver&lt;/em&gt; software dengan cepat, tanpa mengorbankan kualitas, automasi juga digunakan untuk kebutuhan sehari-hari, salah satunya untuk menyiapkan &lt;em&gt;environment&lt;/em&gt; development, Setelah sebelumnya diperkenalkan dengan &lt;a href=&quot;https://jenius.tech/2018/01/30/pengenalan-tmux/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;&lt;/a&gt;, yang sangat berguna untuk bekerja di &lt;em&gt;multi-shell&lt;/em&gt;. di sini akan diperkenalkan &lt;em&gt;tool&lt;/em&gt; pendukung untuk tmux, yaitu &lt;a href=&quot;https://github.com/tmuxinator/tmuxinator&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmuxinator&lt;/code&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, tool ini digunakan untuk meng-automasi shell yang biasa digunakan untuk developer, biasanya untuk mempersiapkan shell yang digunakan.&lt;/p&gt;
+      <id>http://localhost:4000/2018/09/03/tmuxinator</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/03/tmuxinator/">&lt;p&gt;Di Jenius, &lt;em&gt;automation&lt;/em&gt; adalah salah satu kunci untuk men-&lt;em&gt;deliver&lt;/em&gt; software dengan cepat, tanpa mengorbankan kualitas, automasi juga digunakan untuk kebutuhan sehari-hari, salah satunya untuk menyiapkan &lt;em&gt;environment&lt;/em&gt; development, Setelah sebelumnya diperkenalkan dengan &lt;a href=&quot;https://jenius.tech/2018/01/30/pengenalan-tmux/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmux&lt;/code&gt;&lt;/a&gt;, yang sangat berguna untuk bekerja di &lt;em&gt;multi-shell&lt;/em&gt;. di sini akan diperkenalkan &lt;em&gt;tool&lt;/em&gt; pendukung untuk tmux, yaitu &lt;a href=&quot;https://github.com/tmuxinator/tmuxinator&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tmuxinator&lt;/code&gt;&lt;/a&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, tool ini digunakan untuk meng-automasi shell yang biasa digunakan untuk developer, biasanya untuk mempersiapkan shell yang digunakan.&lt;/p&gt;
 
 &lt;!-- more --&gt;
 
@@ -1059,11 +1442,11 @@ windows:
       
       <title type="html">Jenius Engineer reading list #26</title>
       
-      <link href="http://jenius.tech/2018/09/03/engineer-readinglist-26/" rel="alternate" type="text/html" title="Jenius Engineer reading list #26" />
+      <link href="http://localhost:4000/2018/09/03/engineer-readinglist-26/" rel="alternate" type="text/html" title="Jenius Engineer reading list #26" />
       <published>2018-09-03T00:00:00+00:00</published>
       <updated>2018-09-03T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/03/engineer-readinglist-26</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/03/engineer-readinglist-26/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/09/03/engineer-readinglist-26</id>
+      <content type="html" xml:base="http://localhost:4000/2018/09/03/engineer-readinglist-26/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://frontside.io/blog/2018/08/09/kubernetes-for-the-kubernewbie/&quot;&gt;Kubernetes for the Kubernewbie - The Journey&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.infoworld.com/article/3297437/javascript/vue-javascript-cli-tool-gets-a-rewrite.html&quot;&gt;Vue JavaScript CLI tool gets a rewrite&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/&quot;&gt;Scroll Bouncing On Your Websites&lt;/a&gt;&lt;/li&gt;
@@ -1112,11 +1495,11 @@ windows:
       
       <title type="html">Jenius Engineer reading list #25</title>
       
-      <link href="http://jenius.tech/2018/08/31/engineer-readinglist-25/" rel="alternate" type="text/html" title="Jenius Engineer reading list #25" />
+      <link href="http://localhost:4000/2018/08/31/engineer-readinglist-25/" rel="alternate" type="text/html" title="Jenius Engineer reading list #25" />
       <published>2018-08-31T00:00:00+00:00</published>
       <updated>2018-08-31T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/08/31/engineer-readinglist-25</id>
-      <content type="html" xml:base="http://jenius.tech/2018/08/31/engineer-readinglist-25/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/08/31/engineer-readinglist-25</id>
+      <content type="html" xml:base="http://localhost:4000/2018/08/31/engineer-readinglist-25/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/you-have-to-choose-between-software-delivered-on-time-and-good-software-44f4af1249b1&quot;&gt;You have to choose between Software Delivered on Time and Good Software&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/project-management-learnings/spotify-squad-framework-part-ii-c5d4b9398c30&quot;&gt;Spotify Squad framework — Part II&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.ably.io/the-18-ghosts-in-your-infrastructure-stack-that-can-cause-failure-and-how-to-avoid-them-1373daebfe1a&quot;&gt;The 18 ghosts in your infrastructure stack that can cause failure (and how to avoid them)&lt;/a&gt;&lt;/li&gt;
@@ -1153,126 +1536,6 @@ windows:
 
       
         <summary type="html">You have to choose between Software Delivered on Time and Good Software Spotify Squad framework — Part II The 18 ghosts in your infrastructure stack that can cause failure (and how to avoid them) QA Instability Implies Production Instability Introduction to Distributed System Design The RED Method: How to Instrument Your Services</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #24</title>
-      
-      <link href="http://jenius.tech/2018/08/30/engineer-readinglist-24/" rel="alternate" type="text/html" title="Jenius Engineer reading list #24" />
-      <published>2018-08-30T00:00:00+00:00</published>
-      <updated>2018-08-30T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/08/30/engineer-readinglist-24</id>
-      <content type="html" xml:base="http://jenius.tech/2018/08/30/engineer-readinglist-24/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bessey.io/blog/2018/08/04/rails-webpacker-react-ssr/&quot;&gt;Rails + React Server Side Rendering, with Webpacker + Hypernova&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/books/microservices-for-startups/should-you-build-or-buy-microservices&quot;&gt;Should you build or buy microservices?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jesseduffield/lazygit&quot;&gt;Lazygit – simple terminal UI for git commands&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2018/07/introducing-docker-application-guides/&quot;&gt;Introducing docker application guides&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/the-orange-juice-test/&quot;&gt;The Orange Juice Test&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.girlboss.com/work/first-time-manager-checklist&quot;&gt;First time manager checklist&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Rails + React Server Side Rendering, with Webpacker + Hypernova Should you build or buy microservices? Lazygit – simple terminal UI for git commands Introducing docker application guides The Orange Juice Test First time manager checklist</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer: Riza Febriyanto</title>
-      
-      <link href="http://jenius.tech/2018/08/28/engineer-riza/" rel="alternate" type="text/html" title="Jenius Engineer: Riza Febriyanto" />
-      <published>2018-08-28T00:00:00+00:00</published>
-      <updated>2018-08-28T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/08/28/engineer-riza</id>
-      <content type="html" xml:base="http://jenius.tech/2018/08/28/engineer-riza/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/riza.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/riza-small.jpg&quot; alt=&quot;Riza Febriyanto&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Saya &lt;a href=&quot;https://github.com/rfebriya&quot;&gt;Riza Febriyanto&lt;/a&gt;, DevOps Engineer di &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt;, saya bertanggung jawab dalam designing and creating automation in Jenius. Provide monitoring tools and infrastucture for development and production environment. Support both developer and production support team. Mengawali karir sebagai Java developer, Jenius mengenalkan saya dengan dunia DevOps. Jenius memberikan kesempatan kepada saya untuk belajar teknologi-teknologi terbaru, dengan mentor-mentor yang sangat berpengalaman dibidangnya.
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://support.apple.com/kb/sp715?locale=en_US&quot;&gt;Macbook Pro 13 mid 2015&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://support.apple.com/kb/sp700?locale=en_US&quot;&gt;Macbook Air 13 early 2014&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;Software desktop yang selalu saya pakai adalah &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt;, &lt;a href=&quot;https://www.spotify.com/&quot;&gt;Spotify&lt;/a&gt;, &lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Google Chrome&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;p&gt;Favorite apps adalah &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt;, &lt;a href=&quot;https://www.spotify.com/&quot;&gt;Spotify&lt;/a&gt;, dan &lt;a href=&quot;https://telegram.org/&quot;&gt;telegram&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;p&gt;Saya selalu membawa satu buku binder, Macbook pro dan Macbook Air saya, beserta charger dan earphone.&lt;/p&gt;
-
-&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/riza-hs.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/riza-hs-small.jpg&quot; alt=&quot;Riza Febriyanto Homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius engineer" />
-      
-        <category term="backstage" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Riza Febriyanto, DevOps Engineer di Jenius, saya bertanggung jawab dalam designing and creating automation in Jenius. Provide monitoring tools and infrastucture for development and production environment. Support both developer and production support team. Mengawali karir sebagai Java developer, Jenius mengenalkan saya dengan dunia DevOps. Jenius memberikan kesempatan kepada saya untuk belajar teknologi-teknologi terbaru, dengan mentor-mentor yang sangat berpengalaman dibidangnya.</summary>
       
 
       

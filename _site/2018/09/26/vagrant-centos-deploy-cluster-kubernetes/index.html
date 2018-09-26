@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  
+  
+  
+  <title>Membangun cluster Kubernetes di Vagrant dan CentOS</title>
+  <meta name="description" content="Kubernetes, sebagai sistem orkestrasi container yang dirilis open-source untuk mengautomasi deployment, dan juga dapat digunakan untuk mengatur aplikasi di server, saat ini sedang naik daun, dan banyak digunakan di beberapa perusahaan besar, saat ini penyedia layanan cloud seperti Amazon (AWS EKS), Google (GKE), AliCloud dan beberapa penyedia lain juga menyediakan layanan Kubernetes. Di sini akan mencoba membangun cluster kubernetes dilokal mesin kita, bisa berupa laptop atau desktop yang biasa digunakan, untuk membangun cluster ini setidaknya dibutuhkan beberapa hal berikut: RAM 8GB Storage, setidaknya membutuhkan 4GB per-node Virtualbox Vagrant (opsional)">
+  
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="canonical" href="http://localhost:4000/2018/09/26/vagrant-centos-deploy-cluster-kubernetes/">
+  <link rel="icon" type="image/png" href="https://assets.jenius.com/assets/themes/jenius/20170608131821/assets/images/favicon.png">
+  
+  
+  <link rel="alternate" type="application/rss+xml" title="JeniusTech Engineering" href="http://localhost:4000/feed.xml">
+
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="jeniusTech">
+  <meta name="twitter:title" content="Membangun cluster Kubernetes di Vagrant dan CentOS">
+  <meta name="twitter:description" content="Kubernetes, sebagai sistem orkestrasi container yang dirilis open-source untuk mengautomasi deployment, dan juga dapat digunakan untuk mengatur aplikasi di server, saat ini sedang naik daun, dan ba...">
+  
+    <meta name="twitter:creator" content="jeniusTech">
+  
+  
+  
+
+  <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Bitter:400,700,400italic:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
+  
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-126281691-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">JeniusTech Engineering</a>
+
+    <nav class="site-nav">
+      
+        
+        <a class="page-link" href="/about/">About</a>
+      
+        
+        <a class="page-link" href="/archives/">Archives</a>
+      
+        
+        <a class="page-link" href="https://github.com/jeniusTeam"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a>
+      
+        
+        <a class="page-link" href="https://www.jenius.com">Get Jenius!</a>
+      
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    
+      <h1 class="post-title" itemprop="name headline">Membangun cluster Kubernetes di Vagrant dan CentOS</h1>
+    
+    <p class="post-meta"><time datetime="2018-09-26T00:00:00+00:00" itemprop="datePublished">Sep 26, 2018</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">dedenf</span></span>
+       • 
+      
+        
+        <a href="/categories/article/" title='View posts with category "article"'>article</a>,
+      
+        
+        <a href="/categories/howto/" title='View posts with category "howto"'>howto</a>,
+      
+        
+        <a href="/categories/kubernetes/" title='View posts with category "kubernetes"'>kubernetes</a>,
+      
+        
+        <a href="/categories/devops/" title='View posts with category "devops"'>devops</a>
+      
+     •
+    </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p><a href="https://kubernetes.io/">Kubernetes</a>, sebagai sistem orkestrasi container yang dirilis open-source untuk mengautomasi deployment, dan juga dapat digunakan untuk mengatur aplikasi di server, saat ini sedang naik daun, dan banyak digunakan di beberapa perusahaan besar, saat ini penyedia layanan cloud seperti Amazon (AWS EKS), Google (GKE), AliCloud dan beberapa penyedia lain juga menyediakan layanan Kubernetes.</p>
+
+<p>Di sini akan mencoba membangun cluster kubernetes dilokal mesin kita, bisa berupa laptop atau desktop yang biasa digunakan, untuk membangun cluster ini setidaknya dibutuhkan beberapa hal berikut:</p>
+
+<ul>
+  <li>RAM 8GB</li>
+  <li>Storage, setidaknya membutuhkan 4GB per-node</li>
+  <li>Virtualbox</li>
+  <li>Vagrant (opsional)</li>
+</ul>
+
+<!-- more -->
+
+<p>Vagrant digunakan sebagai alat untuk membuat development environment lebih mudah disini, dan virtualbox digunakan sebagai mesin virtualisasinya, cluster ini terdiri dari 1 <code class="highlighter-rouge">master</code> dan 3 <code class="highlighter-rouge">node</code> (slave) kubernetes. Untuk OS yang digunakan adalah GNU/Linux distribusi Centos, bisa saja menggunakan distro lain, seperti Ubuntu, tinggal ubah perintah package management sesuai dengan distro yang digunakan.</p>
+
+<h3>Setup</h3>
+<p>Untuk setup awal, kita akan mendefinisikan host atau node yang akan kita gunakan di Vagrantfile, disini akan disetup 4 node, sourcecode untuk artikel ini ada <a href="https://github.com/dedenf/kubernetes">disini</a>.</p>
+
+<p><code class="highlighter-rouge">$ vagrant up</code></p>
+
+<p>Untuk menghidupkan 4 node yang sudah ditulis di <code class="highlighter-rouge">Vagrantfile</code>. Setelah semua node hidup, kita bisa melihat status dari masing-masing node di vagrant dengan perintah <code class="highlighter-rouge">$ vagrant status</code> dan akan mendapat respon berikut.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Current machine states:
+
+master                    running <span class="o">(</span>virtualbox<span class="o">)</span>
+kube1                     running <span class="o">(</span>virtualbox<span class="o">)</span>
+kube2                     running <span class="o">(</span>virtualbox<span class="o">)</span>
+kube3                     running <span class="o">(</span>virtualbox<span class="o">)</span>
+</code></pre></div></div>
+
+<p>Setelah hidup <em>node-node</em> tersebut, ssh ke node master <code class="highlighter-rouge">$ vagrant ssh master</code>.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>su - 
+</code></pre></div></div>
+
+<p>Perintah ini untuk bisa bertukar posisi ke <code class="highlighter-rouge">root</code> sehingga lebih mudah, untuk yang lebih <em>concern</em> dengan keamanan, cukup dengan perintah <code class="highlighter-rouge">sudo</code> ditiap perintah yang membutuhkan privilege lebih tinggi, hanya pastikan bahwa user anda bisa sudah mendapatkan izin di <code class="highlighter-rouge">visudo</code>.</p>
+
+<h3>Mempersiapkan host</h3>
+<h4>Mendaftarkan IP Address</h4>
+<p>Agar masing-masing hosts dapat mengenali satu sama lain, baik master dan worker, dibutuhkan untuk mendaftarkan masing-masing IP address di setiap node (master node dan worker node), lakukan edit di file <code class="highlighter-rouge">/etc/hosts</code>, dan tambahkan IP-nya, untuk setup workshop ini, seperti yang dituliskan di <code class="highlighter-rouge">Vagrantfile</code>, digunakan daftar IP sebagai berikut</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>master  192.168.10.11
+kube1   192.168.10.12
+kube2   192.168.10.13
+kube3   192.168.10.14
+</code></pre></div></div>
+
+<p><em>hal ini bisa saja diautomasi misalkan dengan Ansible atau provisioning di Vagrant</em></p>
+
+<h4>Firewall dan filesystem</h4>
+<p>setelah kita akan mendaftarkan 4 node yang digunakan ini di <code class="highlighter-rouge">/etc/hosts</code> masing-masing node, selanjutnya adalah melakukan perubahan setting di firewall dan filesystem agar masing-masing node bisa berkomunikasi tanpa ada pengecekan paket dan akses ke node-node yang ada di cluster.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>setenforce 0 
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>sed <span class="nt">-i</span> <span class="nt">--follow-symlinks</span> <span class="se">\ </span>
+                    <span class="s1">'s/SELINUX=enforcing/SELINUX=disabled/g'</span> <span class="se">\</span>
+                    /etc/sysconfig/selinux
+</code></pre></div></div>
+
+<p>Disable swap</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>swapoff <span class="nt">-a</span>
+</code></pre></div></div>
+
+<p>Dan edit file di <code class="highlighter-rouge">/etc/fstab</code></p>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>vi /etc/fstab
+</code></pre></div></div>
+<p>cari dan ubah baris ini dengan menambahkan komentar</p>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/dev/mapper/VolGroup00-LogVol01 swap                    swap    defaults        0 0
+</code></pre></div></div>
+<p>Menjadi</p>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#/dev/mapper/VolGroup00-LogVol01 swap                    swap    defaults        0 0</span>
+</code></pre></div></div>
+
+<p>Kemudian aktifkan kernel modul <code class="highlighter-rouge">br_netfilter</code>, hal ini agar paket yang berkomunikasi melalui <code class="highlighter-rouge">bridge</code> diproses oleh <code class="highlighter-rouge">iptables</code> untuk dilakukan filter paket asal dan juga untuk kebutuhan komunikasi antar <code class="highlighter-rouge">pods</code> didalam <code class="highlighter-rouge">cluster</code>.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>modprobe br_netfilter
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo echo</span> <span class="s1">'1'</span> <span class="o">&gt;</span> /proc/sys/net/bridge/bridge-nf-call-iptables
+</code></pre></div></div>
+
+<h4>Install Docker, Kubernetes dan paket lainnya</h4>
+<p>Kubernetes membutuhkan <em>container</em>, dan yang kita gunakan untuk workshop ini adalah Docker, untuk menginstall-nya ikuti langkah berikut</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>yum install <span class="nt">-y</span> yum-utils <span class="se">\</span>
+  device-mapper-persistent-data <span class="se">\</span>
+  lvm2
+</code></pre></div></div>
+
+<h5>Tambahkan repo Docker</h5>
+<p>Tambahkan repo docker ke centos repo master dan workers</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>yum-config-manager <span class="se">\</span>
+    <span class="nt">--add-repo</span> <span class="se">\</span>
+    https://download.docker.com/linux/centos/docker-ce.repo
+</code></pre></div></div>
+
+<p>Di <em>howto</em> setup kubernetes, disarankan untuk menggunakan menggunakan docker versi <code class="highlighter-rouge">17.03</code>, tapi sejauh ini menggunakan versi <code class="highlighter-rouge">18.06.1-ce</code> tidak ada masalah, karena jika install langsung biasanya merujuk ke versi yang terbaru, maka untuk memilih menggunakan versi yang diharapkan bisa menggunakan perintah</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>yum list docker-ce <span class="nt">--showduplicates</span> | sort <span class="nt">-r</span>
+</code></pre></div></div>
+
+<p>Dan untuk install versi yang spesifik sesuai dengan tulisan versi yang keluar dari hasil menjalankan perintah di atas.</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo sudo </span>yum install docker-ce-&lt;VERSION STRING&gt;
+</code></pre></div></div>
+
+<h4>Install Kubernetes</h4>
+<p>Untuk menginstall kubernetes, tambahkan repo kubernetes ke centos repo di semua node.</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo cat</span> <span class="o">&lt;&lt;</span><span class="no">EOF</span><span class="sh"> &gt; /etc/yum.repos.d/kubernetes.repo
+[kubernetes]
+name=Kubernetes
+baseurl=https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
+        https://packages.cloud.google.com/yum/doc/rpm-package-key.gpg
+</span><span class="no">EOF
+</span></code></pre></div></div>
+
+<p>Install <code class="highlighter-rouge">kubectl</code>, <code class="highlighter-rouge">kubeadm</code> dan <code class="highlighter-rouge">kubelet</code></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>yum install <span class="nt">-y</span> kubelet kubeadm kubectl
+</code></pre></div></div>
+
+<p>Kemudian reboot semua node.</p>
+
+<p>Setelah semua node up, enable service docker, kubelet di sytemd dan juga mulai service docker, kubelet</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>systemctl start docker <span class="o">&amp;&amp;</span> systemctl <span class="nb">enable </span>docker
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>systemctl start kubelet <span class="o">&amp;&amp;</span> systemctl <span class="nb">enable </span>kubelet
+</code></pre></div></div>
+
+<p>Cek apakah docker masuk Cgroup driver</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>docker info | <span class="nb">grep</span> <span class="nt">-i</span> cgroup
+</code></pre></div></div>
+
+<p>Masukkan cgroup-driver ini masuk ke konfigurasi <code class="highlighter-rouge">kubeadm</code> ke <code class="highlighter-rouge">cgroupfs</code></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>sed <span class="nt">-i</span> <span class="s1">'s/cgroup-driver=systemd/cgroup-driver=cgroupfs/g'</span> /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
+</code></pre></div></div>
+
+<p>Reload systemd dan restart service kubelet</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>systemctl daemon-reload
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>systemctl restart kubelet
+</code></pre></div></div>
+
+<h4>Inisiasi cluster</h4>
+<p>Langkah ini untuk menginisiasi cluster yang dimulai di <code class="highlighter-rouge">master</code> terlebih dahulu, karena dari <code class="highlighter-rouge">master</code> inilah kita dapat melakukan operasi yang berhubungan dengan cluster.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan HANYA di master</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>kubeadm init <span class="nt">--apiserver-advertise-address</span><span class="o">=</span>192.168.10.11 <span class="nt">--pod-network-cidr</span><span class="o">=</span>10.244.0.0/16
+</code></pre></div></div>
+<p>Opsi perintah <code class="highlighter-rouge">--apiserver-advertise-address=</code> di atas untuk menginisiasi <code class="highlighter-rouge">master</code> sebagai apiserver dan disini master memiliki IP address <code class="highlighter-rouge">192.168.10.11</code>, dan <code class="highlighter-rouge">--pod-network-cidr=</code> adalah untuk menspesifikasi range IP yang digunakan nanti untuk pod-pod yang akan hidup dicluster. Untuk virtual networking atau network overlay, workshop ini menggunakan <code class="highlighter-rouge">flanel</code>, <a href="https://kubernetes.io/docs/concepts/cluster-administration/networking/">selengkapnya bisa dilihat disini</a> untuk pilihan networking model lainnya selain <code class="highlighter-rouge">flanel</code>.</p>
+
+<p>Setelah perintah di atas dijalankan, jika sukses, akan keluar pesan-pesan sukses dan fokus ke baris terakhir yang berisi baris ini, yang akan dijalankan dimasing-masing node worker. baris ini mengandung token dan juga perintah untuk join cluster.</p>
+
+<p>Agar kubernetes bisa digunakan, maka diperlukan file konfigurasi yang akan kita simpan di <code class="highlighter-rouge">$HOME</code> user kita, tidak disarankan menjalankan kubernetes sebagai root. Untuk itu, kita siapkan direktori dotfile, dan juga salin file <code class="highlighter-rouge">admin.conf</code> di kubernetes folder.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini HANYA di master</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>mkdir <span class="nt">-p</span> <span class="nv">$HOME</span>/.kube
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>cp <span class="nt">-i</span> /etc/kubernetes/admin.conf <span class="nv">$HOME</span>/.kube/config
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>chown <span class="k">$(</span>id <span class="nt">-u</span><span class="k">)</span>:<span class="k">$(</span>id <span class="nt">-g</span><span class="k">)</span> <span class="nv">$HOME</span>/.kube/config
+</code></pre></div></div>
+<p>Seperti yang kita sebutkan sebelumnya, kita menggunakan <code class="highlighter-rouge">flannel</code>, untuk itu kita akan mendeploy <code class="highlighter-rouge">flannel</code> di master node kita.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>kubectl apply <span class="nt">-f</span> https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
+</code></pre></div></div>
+<p>Perintah di atas akan mendeploy flannel networking cluster.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>kubectl get nodes
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>kubectl get pods <span class="nt">--all-namespaces</span>
+</code></pre></div></div>
+<p>Output perintah tersebut</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>NAMESPACE     NAME                                 READY     STATUS     RESTARTS   AGE
+kube-system   coredns-78fcdf6894-5kcl4             1/1       Running    7          19d
+kube-system   coredns-78fcdf6894-dmckh             1/1       Running    6          19d
+kube-system   etcd-master                          1/1       Running    7          19d
+kube-system   kube-apiserver-master            1/1       Running    6          19d
+kube-system   kube-controller-manager-master   1/1       Running    7          19d
+kube-system   kube-flannel-ds-amd64-2smlw          1/1       Running    7          19d
+kube-system   kube-proxy-47zxs                     1/1       Running    0          19d
+kube-system   kube-scheduler-master            1/1       Running    7          19d
+</code></pre></div></div>
+<p>Bisa dilihat flannel untuk master telah up, dan pastikan <code class="highlighter-rouge">kube-system</code> berstatus RUNNING, dengan ini maka inisiasi master telah sukses.</p>
+
+<h4>Menambahkan node worker ke cluster</h4>
+<p>Langkah selanjutnya adalah menambahkan <code class="highlighter-rouge">kube1</code>, <code class="highlighter-rouge">kube2</code> dan <code class="highlighter-rouge">kube3</code> ke cluster, yang pertama dilakukan adalah perintah yang sebelumnya muncul dari hasil <code class="highlighter-rouge">kubeadmin init</code> diatas.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node WORKER</span>
+<span class="o">[</span>vagrant@kube1 ~]<span class="nv">$ </span><span class="nb">sudo </span>kubeadm join 192.168.10.11:6443 <span class="nt">--token</span> 0d3sfd.0ky3mcq2hof7a72a <span class="nt">--discovery-token-ca-cert-hash</span> sha256:9adc5abcb739cac1ff5fcf0b8d3523c869ed498af768eb85b5187e570869e949
+</code></pre></div></div>
+<p>Jalankan perintah diatas disemua node worker di cluster.Jika sudah, silakan cek apakah node worker sudah bergabung dengan cluster ini atau belum.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>kubectl get nodes 
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>kubectl get pods <span class="nt">--all-namespaces</span>
+</code></pre></div></div>
+<p>akan menghasilkan tabel status seperti ini</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>NAME         STATUS     ROLES     AGE       VERSION
+master       Ready      master    19d       v1.11.2
+kube1        Ready      &lt;none&gt;    19d       v1.11.2
+kube2        NotReady   &lt;none&gt;    19d       v1.11.2
+kube3        NotReady   &lt;none&gt;    19d       v1.11.2
+</code></pre></div></div>
+
+<p>Tabel diatas mengindikasikan bahwa node worker dengan nama <code class="highlighter-rouge">kube1</code> sudah join cluster, lakukan perintah yang sama terhadap sisa node worker yang belum join.
+Jika semua node telah berstatus <code class="highlighter-rouge">Ready</code>, maka cluster sudah selesai dikonfigurasi.</p>
+
+<h4>Testing cluster dengan deploy pod</h4>
+<p>Untuk mengetest apakah cluster sudah bisa digunakan untuk deployment dan menerima request, kita buat deploymet dan service sederhana, kita akan mendeploy webserver nginx dicluster ini.</p>
+
+<p>Dimulai dengan membuat deployment dinode master.</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>kubectl describe deployment nginx
+deployment.apps/nginx created
+</code></pre></div></div>
+<p>Cek apakah deployment ini sudah ada, dan juga untuk melihat spesifikasi pod</p>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>kubectl describe deployment nginx
+Name:                   nginx
+Namespace:              default
+CreationTimestamp:      Tue, 25 Sep 2018 16:51:45 +0000
+Labels:                 <span class="nv">app</span><span class="o">=</span>nginx
+Annotations:            deployment.kubernetes.io/revision<span class="o">=</span>1
+Selector:               <span class="nv">app</span><span class="o">=</span>nginx
+Replicas:               1 desired | 1 updated | 1 total | 0 available | 1 unavailable
+StrategyType:           RollingUpdate
+MinReadySeconds:        0
+RollingUpdateStrategy:  25% max unavailable, 25% max surge
+Pod Template:
+  Labels:  <span class="nv">app</span><span class="o">=</span>nginx
+  Containers:
+   nginx:
+    Image:        nginx
+    Port:         &lt;none&gt;
+    Host Port:    &lt;none&gt;
+    Environment:  &lt;none&gt;
+    Mounts:       &lt;none&gt;
+  Volumes:        &lt;none&gt;
+Conditions:
+...
+</code></pre></div></div>
+<p>Untuk dapat mengakses nginx ini, diperlukan untuk mengekspos nginx service dengan perintah</p>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>kubectl create service nodeport nginx <span class="nt">--tcp</span><span class="o">=</span>80:80
+service/nginx created
+</code></pre></div></div>
+<p>Lihat apakah pods nginx sudah up</p>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>kubectl get pods
+NAME                     READY     STATUS    RESTARTS   AGE
+nginx-78f5d695bd-29jzh   1/1       Running   0          8m
+</code></pre></div></div>
+<p>Dan lihat juga service yang sudah ter-ekspos</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>kubectl get svc
+NAME         TYPE        CLUSTER-IP     EXTERNAL-IP   PORT<span class="o">(</span>S<span class="o">)</span>        AGE
+kubernetes   ClusterIP   10.96.0.1      &lt;none&gt;        443/TCP        19d
+nginx        NodePort    10.96.12.181   &lt;none&gt;        80:31802/TCP   8m
+</code></pre></div></div>
+<p>Di sini nginx jalan di IP <code class="highlighter-rouge">10.96.12.181</code> didalam cluster dan dengan port 80, dan jika kita coba akses dari master node</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>curl 192.168.10.12:31802
+&lt;<span class="o">!</span>DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Welcome to nginx!&lt;/title&gt;
+...
+
+</code></pre></div></div>
+
+<p>Via browser</p>
+
+<p><a href="/public/images/posts/kubernetes-nginx-large.png"><img src="/public/images/posts/kubernetes-nginx.png" alt="kubernetes nginx"></a></p>
+
+
+  </div>
+
+  <div class="share-page">
+    Share this on →
+    <a href="https://twitter.com/intent/tweet?text=Membangun%20cluster%20Kubernetes%20di%20Vagrant%20dan%20CentOS&amp;url=http://localhost:4000/2018/09/26/vagrant-centos-deploy-cluster-kubernetes/&amp;via=jeniusTech&amp;related=jeniusTech" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+    <a href="https://facebook.com/sharer.php?u=http://localhost:4000/2018/09/26/vagrant-centos-deploy-cluster-kubernetes/" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i> Facebook</a>
+    <a href="https://plus.google.com/share?url=http://localhost:4000/2018/09/26/vagrant-centos-deploy-cluster-kubernetes/" rel="nofollow" target="_blank" title="Share on Google+"><i class="fa fa-google-plus-official" aria-hidden="true"></i> Google+</a>
+  </div>
+
+  <p class="center-text">
+    didn't have our apps yet? download it from <a href="https://app.appsflyer.com/id1079340119?pid=jenius.com&amp;c=2017HomePage-bottom">App Store</a> and <a href="https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&amp;c=2017HomePage-bottom">Play Store</a>.
+  </p>
+  
+    <div class="post-comments" itemprop="comment">
+      
+<hr>
+
+<h1>Comments</h1>
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+this.page.url = "http://localhost:4000/2018/09/26/vagrant-centos-deploy-cluster-kubernetes/";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "http://localhost:4000/2018/09/26/vagrant-centos-deploy-cluster-kubernetes"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://jeniustech-engineering.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+                            
+    </div>
+  
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <p>
+      
+
+© JeniusTech Engineering <img class="emoji" title=":heart:" alt=":heart:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png" height="20" width="20"> Jekyll - Subscribe via <a href="http://localhost:4000/feed.xml"><i class="fa fa-rss" aria-hidden="true"></i> RSS</a>
+
+      
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-126281691-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+
+    </p>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
