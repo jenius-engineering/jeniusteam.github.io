@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-09-26T03:34:24+00:00</updated>
+  <updated>2018-10-01T10:51:47+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -88,7 +88,7 @@ kube3   192.168.10.14
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
 &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;setenforce 0 
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;sed &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--follow-symlinks&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\ &lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sed&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--follow-symlinks&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\ &lt;/span&gt;
                     &lt;span class=&quot;s1&quot;&gt;'s/SELINUX=enforcing/SELINUX=disabled/g'&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
                     /etc/sysconfig/selinux
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -120,7 +120,7 @@ kube3   192.168.10.14
 &lt;p&gt;Kubernetes membutuhkan &lt;em&gt;container&lt;/em&gt;, dan yang kita gunakan untuk workshop ini adalah Docker, untuk menginstall-nya ikuti langkah berikut&lt;/p&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum install &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; yum-utils &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; yum-utils &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
   device-mapper-persistent-data &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
   lvm2
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -134,12 +134,12 @@ kube3   192.168.10.14
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Di &lt;em&gt;howto&lt;/em&gt; setup kubernetes, disarankan untuk menggunakan menggunakan docker versi &lt;code class=&quot;highlighter-rouge&quot;&gt;17.03&lt;/code&gt;, tapi sejauh ini menggunakan versi &lt;code class=&quot;highlighter-rouge&quot;&gt;18.06.1-ce&lt;/code&gt; tidak ada masalah, karena jika install langsung biasanya merujuk ke versi yang terbaru, maka untuk memilih menggunakan versi yang diharapkan bisa menggunakan perintah&lt;/p&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum list docker-ce &lt;span class=&quot;nt&quot;&gt;--showduplicates&lt;/span&gt; | sort &lt;span class=&quot;nt&quot;&gt;-r&lt;/span&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum list docker-ce &lt;span class=&quot;nt&quot;&gt;--showduplicates&lt;/span&gt; | &lt;span class=&quot;nb&quot;&gt;sort&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-r&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Dan untuk install versi yang spesifik sesuai dengan tulisan versi yang keluar dari hasil menjalankan perintah di atas.&lt;/p&gt;
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sudo &lt;/span&gt;yum install docker-ce-&amp;lt;VERSION STRING&amp;gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sudo &lt;/span&gt;yum &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;docker-ce-&amp;lt;VERSION STRING&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h4&gt;Install Kubernetes&lt;/h4&gt;
@@ -159,7 +159,7 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 
 &lt;p&gt;Install &lt;code class=&quot;highlighter-rouge&quot;&gt;kubectl&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadm&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;kubelet&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum install &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; kubelet kubeadm kubectl
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-y&lt;/span&gt; kubelet kubeadm kubectl
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Kemudian reboot semua node.&lt;/p&gt;
@@ -178,7 +178,7 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 
 &lt;p&gt;Masukkan cgroup-driver ini masuk ke konfigurasi &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadm&lt;/code&gt; ke &lt;code class=&quot;highlighter-rouge&quot;&gt;cgroupfs&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;sed &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'s/cgroup-driver=systemd/cgroup-driver=cgroupfs/g'&lt;/span&gt; /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo sed&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'s/cgroup-driver=systemd/cgroup-driver=cgroupfs/g'&lt;/span&gt; /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Reload systemd dan restart service kubelet&lt;/p&gt;
@@ -200,9 +200,9 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 &lt;p&gt;Agar kubernetes bisa digunakan, maka diperlukan file konfigurasi yang akan kita simpan di &lt;code class=&quot;highlighter-rouge&quot;&gt;$HOME&lt;/code&gt; user kita, tidak disarankan menjalankan kubernetes sebagai root. Untuk itu, kita siapkan direktori dotfile, dan juga salin file &lt;code class=&quot;highlighter-rouge&quot;&gt;admin.conf&lt;/code&gt; di kubernetes folder.&lt;/p&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini HANYA di master&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;mkdir &lt;span class=&quot;nt&quot;&gt;-p&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;cp &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; /etc/kubernetes/admin.conf &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;chown &lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;id &lt;span class=&quot;nt&quot;&gt;-u&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;:&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;id &lt;span class=&quot;nt&quot;&gt;-g&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;mkdir&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-p&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo cp&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; /etc/kubernetes/admin.conf &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo chown&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-u&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;:&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-g&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.kube/config
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Seperti yang kita sebutkan sebelumnya, kita menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;flannel&lt;/code&gt;, untuk itu kita akan mendeploy &lt;code class=&quot;highlighter-rouge&quot;&gt;flannel&lt;/code&gt; di master node kita.&lt;/p&gt;
 
@@ -230,7 +230,7 @@ kube-system   kube-scheduler-master            1/1       Running    7          1
 &lt;p&gt;Langkah selanjutnya adalah menambahkan &lt;code class=&quot;highlighter-rouge&quot;&gt;kube1&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;kube2&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;kube3&lt;/code&gt; ke cluster, yang pertama dilakukan adalah perintah yang sebelumnya muncul dari hasil &lt;code class=&quot;highlighter-rouge&quot;&gt;kubeadmin init&lt;/code&gt; diatas.&lt;/p&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# lakukan ini di semua node WORKER&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@kube1 ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;kubeadm join 192.168.10.11:6443 &lt;span class=&quot;nt&quot;&gt;--token&lt;/span&gt; 0d3sfd.0ky3mcq2hof7a72a &lt;span class=&quot;nt&quot;&gt;--discovery-token-ca-cert-hash&lt;/span&gt; sha256:9adc5abcb739cac1ff5fcf0b8d3523c869ed498af768eb85b5187e570869e949
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@kube1 ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;kubeadm &lt;span class=&quot;nb&quot;&gt;join &lt;/span&gt;192.168.10.11:6443 &lt;span class=&quot;nt&quot;&gt;--token&lt;/span&gt; 0d3sfd.0ky3mcq2hof7a72a &lt;span class=&quot;nt&quot;&gt;--discovery-token-ca-cert-hash&lt;/span&gt; sha256:9adc5abcb739cac1ff5fcf0b8d3523c869ed498af768eb85b5187e570869e949
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Jalankan perintah diatas disemua node worker di cluster.Jika sudah, silakan cek apakah node worker sudah bergabung dengan cluster ini atau belum.&lt;/p&gt;
 
@@ -302,7 +302,7 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 &lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;vagrant@master ~]&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl 192.168.10.12:31802
 &amp;lt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;DOCTYPE html&amp;gt;
 &amp;lt;html&amp;gt;
-&amp;lt;head&amp;gt;
+&amp;lt;&lt;span class=&quot;nb&quot;&gt;head&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
 &amp;lt;title&amp;gt;Welcome to nginx!&amp;lt;/title&amp;gt;
 ...
 
