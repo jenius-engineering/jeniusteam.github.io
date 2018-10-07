@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-10-05T03:33:59+00:00</updated>
+  <updated>2018-10-07T05:17:33+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,86 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer: Luthfi Apriyanto</title>
+      
+      <link href="http://localhost:4000/2018/10/07/engineer-luthfi-apriyanto/" rel="alternate" type="text/html" title="Jenius Engineer: Luthfi Apriyanto" />
+      <published>2018-10-07T00:00:00+00:00</published>
+      <updated>2018-10-07T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/10/07/engineer-luthfi-apriyanto</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/07/engineer-luthfi-apriyanto/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/lutfhi-large.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/lutfhi-small.jpeg&quot; alt=&quot;Luthfi Apriyanto&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
+&lt;p&gt;Nama saya &lt;a href=&quot;https://github.com/luthfiapriyanto&quot;&gt;Luthfi Apriyanto&lt;/a&gt;, Software Engineer di &lt;a href=&quot;https://www.jenius.com&quot;&gt;jenius&lt;/a&gt;. Spesialisasi sebagai Front End Developer yang mengurusi masalah aplikasi &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt;, mengembangkan fitur baru, atau bugfixing issue baik di Android, iOS maupun Web.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/kb/SP715?locale=en_US&quot;&gt;Macbook Pro Retina, 13-inch, Early 2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Monitor Samsung digunakan sebagai monitor External&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gsmarena.com/samsung_galaxy_a5_(2017)-8494.php&quot;&gt;Samsung Galaxy A5&lt;/a&gt; 2017 sebagai daily driver&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Pebble_Time&quot;&gt;Pebble Watch Time&lt;/a&gt;, smartwatch wajib para geek&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
+&lt;h4&gt;Desktop&lt;/h4&gt;
+&lt;p&gt;Untuk kebutuhan &lt;em&gt;coding&lt;/em&gt;, saya menggunakan &lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot;&gt;Webstorm&lt;/a&gt;, sebagai editor utama (anti gratisan :p) dan untuk mendukung library native dari android menggunakan &lt;a href=&quot;https://developer.android.com/studio/&quot;&gt;Android Studio&lt;/a&gt;, dan untuk kebutuhan iOS menggunakan &lt;a href=&quot;https://developer.apple.com/xcode/&quot;&gt;Apple XCode&lt;/a&gt;, &lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm2&lt;/a&gt; untuk terminal emulator, dan &lt;a href=&quot;https://github.com/graphql/graphiql&quot;&gt;GraphiQL&lt;/a&gt; untuk &lt;a href=&quot;https://graphql.org/learn/&quot;&gt;GraphQL&lt;/a&gt; IDE agar bisa komunikasi dengan &lt;em&gt;backend&lt;/em&gt; Jenius.&lt;/p&gt;
+
+&lt;h4&gt;Mobile&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jenius.com/&quot;&gt;Jenius&lt;/a&gt;, Life Finance best-friend.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://expo.io/&quot;&gt;Expo&lt;/a&gt;, Over the Air react native development.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/keep/&quot;&gt;Google Keep&lt;/a&gt;, mengingat to do list&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/software/jira&quot;&gt;Jira&lt;/a&gt;, a weekend-disturber with bugs ticket&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.go-jek.com/&quot;&gt;Gojek&lt;/a&gt;, aplikasi karya anak bangsa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
+&lt;p&gt;Cukup ringkas, isi tas hanya terdiri &lt;a href=&quot;https://support.apple.com/kb/SP715?locale=en_US&quot;&gt;Macbook Pro Retina, 13-inch&lt;/a&gt; dengan chargernya dan &lt;a href=&quot;https://www.trustedreviews.com/reviews/sennheiser-cx-5-00&quot;&gt;Sennheiser CX5.00i&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/luthfi-hs-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/luthfi-hs-small.jpg&quot; alt=&quot;Luthfi Apriyanto homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="backstage" />
+      
+
+      
+        <category term="jenius engineer" />
+      
+        <category term="backstage" />
+      
+
+      
+        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Nama saya Luthfi Apriyanto, Software Engineer di jenius. Spesialisasi sebagai Front End Developer yang mengurusi masalah aplikasi Jenius, mengembangkan fitur baru, atau bugfixing issue baik di Android, iOS maupun Web.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1395,62 +1475,6 @@ Agar file lebih aman dan bisa diakses dimana saja, menggunakan &lt;a href=&quot;
 
       
         <summary type="html">Building Switch Software at Facebook Scale Sprints, marathons and root canals Stop future proofing software Rest API mocking and intercepting in seconds SQLite with Branches – interesting.. African traffic growth and predictions for the future How to design for (and with) developers</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #29</title>
-      
-      <link href="http://localhost:4000/2018/09/06/engineer-readinglist-29/" rel="alternate" type="text/html" title="Jenius Engineer reading list #29" />
-      <published>2018-09-06T00:00:00+00:00</published>
-      <updated>2018-09-06T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/09/06/engineer-readinglist-29</id>
-      <content type="html" xml:base="http://localhost:4000/2018/09/06/engineer-readinglist-29/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.datacenterdynamics.com/opinions/why-bare-metal-servers-are-new-king/&quot;&gt;Why bare metal servers are the new king&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/08/designing-for-micro-moments/&quot;&gt;Designing For Micro-Moments&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/&quot;&gt;Microservices Messaging: Why REST Isn’t Always the Best Choice&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/08/utilizing-elixir-as-a-lightweight-tool-to-store-real-time-metrics-data/&quot;&gt;Utilizing Elixir as a lightweight tool to store real-time metrics data &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://charity.wtf/2018/08/17/on-engineers-and-influence/&quot;&gt;On Engineers and Influence&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2018/01/how-to-hire&quot;&gt;How to Hire&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wildbit.com/blog/2018/08/17/remote-product-management-challenges-and-opportunities&quot;&gt;Remote product management: challenges and opportunities&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ronjeffries.com/articles/018-01ff/agile-manager/&quot;&gt;Manager Responsibilities&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dannorth.net/2018/01/26/in-praise-of-swarming/amp/&quot;&gt;In praise of SWARMing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Why bare metal servers are the new king Designing For Micro-Moments Microservices Messaging: Why REST Isn’t Always the Best Choice Utilizing Elixir as a lightweight tool to store real-time metrics data On Engineers and Influence How to Hire Remote product management: challenges and opportunities Manager Responsibilities In praise of SWARMing</summary>
       
 
       
