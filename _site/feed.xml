@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-10-09T06:19:26+00:00</updated>
+  <updated>2018-10-10T03:39:04+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #47</title>
+      
+      <link href="http://jenius.tech/2018/10/10/engineer-readinglist-47/" rel="alternate" type="text/html" title="Jenius Engineer reading list #47" />
+      <published>2018-10-10T00:00:00+00:00</published>
+      <updated>2018-10-10T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/10/10/engineer-readinglist-47</id>
+      <content type="html" xml:base="http://jenius.tech/2018/10/10/engineer-readinglist-47/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/is-noops-the-future-of-cloud-networking/&quot;&gt;Is NoOps the Future of Cloud Networking?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itopstimes.com/itops/beyond-blockchain-building-trustless-networks/&quot;&gt;Beyond blockchain: Building trustless networks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-agile&quot;&gt;What is agile?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/why-you-should-not-neglect-your-developers-kubernetes-clusters-a658c8ca0e78&quot;&gt;Why You Should Not Neglect Your Developer’s Kubernetes Clusters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/devops-measurement-tools&quot;&gt;13 tools to measure DevOps success&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/serverless-for-teams/&quot;&gt;Serverless for Teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ansible.com/blog/make-your-ansible-playbooks-flexible-maintainable-and-scalable&quot;&gt;Make your ansible playbooks flexible, maintainable, and scalable&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Is NoOps the Future of Cloud Networking? Beyond blockchain: Building trustless networks What is agile? Why You Should Not Neglect Your Developer’s Kubernetes Clusters 13 tools to measure DevOps success Serverless for Teams Make your ansible playbooks flexible, maintainable, and scalable</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1387,94 +1441,6 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 
       
         <summary type="html">I Wanna Go Fast - Load Balancing Dynamic Steering Service Worker Caching Strategies Based on Request Types The future of WebAssembly - A look at upcoming features and proposals Lean Testing, or Why Unit Tests are Worse than You Think Productivity at Scale: How We Improved Build Time by 400% at LinkedIn Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js Event Triggered Customer Segmentation</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer: Sofyan Fradenza Adi</title>
-      
-      <link href="http://jenius.tech/2018/09/10/engineer-denza/" rel="alternate" type="text/html" title="Jenius Engineer: Sofyan Fradenza Adi" />
-      <published>2018-09-10T00:00:00+00:00</published>
-      <updated>2018-09-10T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/10/engineer-denza</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/10/engineer-denza/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/denza-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/denza-small.jpg&quot; alt=&quot;Sofyan Fradenza Adi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Saya &lt;a href=&quot;https://github.com/denza-dev&quot;&gt;Sofyan Fradenza Adi&lt;/a&gt;, sebagai Jenius Software Engineer, saat ini bersama dengan squad yang luar biasa sedang mengembangkan berbagai fitur baru untuk &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt; dengan tujuan memudahkan para nasabah dalam melakukan berbagai transaksi dan mencoba untuk mengubah &lt;em&gt;lifestyle&lt;/em&gt; financial mereka.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://support.apple.com/kb/sp715?locale=en_US&quot;&gt;Macbook Pro 13 mid 2015&lt;/a&gt; dengan &lt;a href=&quot;https://en.wikipedia.org/wiki/MacOS_Sierra&quot;&gt;macOS Sierra&lt;/a&gt;, lengkap dengan Monitor &lt;a href=&quot;https://www.dell.com/en-us/shop/dell-24-ultrasharp-monitor-u2417h/apd/210-ahgf/monitors-monitor-accessories&quot;&gt;Dell U2417H&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;Untuk &lt;em&gt;daily coding&lt;/em&gt; menggunakan &lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot;&gt;WebStorm&lt;/a&gt; sebagai IDE utama, dibantu dengan &lt;a href=&quot;https://developer.apple.com/xcode/&quot;&gt;Xcode&lt;/a&gt; sebagai &lt;a href=&quot;https://en.wikipedia.org/wiki/Integrated_development_environment&quot;&gt;IDE&lt;/a&gt; untuk membuat Native Code dan juga membuat iOS build.&lt;/p&gt;
-
-&lt;p&gt;Karena dalam dunia &lt;em&gt;development&lt;/em&gt; manajemen &lt;em&gt;repository&lt;/em&gt; sangatlah krusial, untuk kebutuhan ini saya menggunakan &lt;a href=&quot;https://en.wikipedia.org/wiki/Terminal_(macOS)&quot;&gt;Terminal&lt;/a&gt; dan &lt;a href=&quot;https://www.sourcetreeapp.com/&quot;&gt;SourceTree&lt;/a&gt; untuk visualisasi.&lt;/p&gt;
-
-&lt;p&gt;Selain manajemen repositori, komunikasi dengan tim juga sangat penting, &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; sangat membantu komunikasi dan kerja antar tim menjadi lebih baik.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Google Chrome&lt;/a&gt; untuk mencari referensi dan juga mengakses &lt;a href=&quot;https://www.atlassian.com/software/jira&quot;&gt;Jira&lt;/a&gt; sebagai alat untuk berkolaborasi dan manajemen project.&lt;/p&gt;
-
-&lt;p&gt;Dan tidak lupa &lt;a href=&quot;https://www.spotify.com/&quot;&gt;Spotify&lt;/a&gt; untuk sarana hiburan dan juga teman setia saat coding.&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;Commuting&lt;/em&gt; dari rumah ke kantor dan sebaliknya, saya menggunakan &lt;a href=&quot;https://www.spotify.com/&quot;&gt;Spotify&lt;/a&gt; dan &lt;a href=&quot;https://tunein.com/&quot;&gt;TuneIn Radio&lt;/a&gt; sebagai teman setia di perjalanan.
-Agar file lebih aman dan bisa diakses dimana saja, menggunakan &lt;a href=&quot;https://www.google.com/drive/&quot;&gt;Google Drive&lt;/a&gt; untuk menyimpan seluruh dokumen penting dan file lainnya.&lt;/p&gt;
-
-&lt;p&gt;Transportasi di Jakarta bisa sangat menghambat, untuk itu aplikasi seperti &lt;a href=&quot;https://www.go-jek.com/&quot;&gt;Gojek&lt;/a&gt; dan juga &lt;a href=&quot;https://www.grab.com/id/en/&quot;&gt;Grab&lt;/a&gt; memudahkan transportasi dan juga mengantarkan makanan disaat perut kosong.&lt;/p&gt;
-
-&lt;p&gt;Aplikasi &lt;a href=&quot;https://telegram.org/&quot;&gt;telegram&lt;/a&gt;, &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;, dan &lt;a href=&quot;https://www.whatsapp.com/&quot;&gt;WhatsApp&lt;/a&gt; juga penting untuk berkomunikasi dengan keluarga, teman, dan juga rekan kerja.&lt;/p&gt;
-
-&lt;p&gt;Project management seperti yang digunakan di desktop, yaitu &lt;a href=&quot;https://www.atlassian.com/software/jira&quot;&gt;Jira&lt;/a&gt; juga terinstall di mobile agar mempermudah dalam meng-update status pekerjaan secara mobile di mana saja dan kapan saja, dan supaya tidak lupa, &lt;a href=&quot;https://support.apple.com/en-us/HT205890&quot;&gt;Reminders&lt;/a&gt; sebagai alat untuk mencatat pekerjaan yang akan dilakukan.&lt;/p&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/lae/airpods/&quot;&gt;Airpods&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Dompet&lt;/li&gt;
-  &lt;li&gt;Vitamin&lt;/li&gt;
-  &lt;li&gt;Perkakas Gym&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/denza-hs-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/denza-hs-small.jpg&quot; alt=&quot;Sofyan Fradenza Adi Homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius engineer" />
-      
-        <category term="backstage" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Sofyan Fradenza Adi, sebagai Jenius Software Engineer, saat ini bersama dengan squad yang luar biasa sedang mengembangkan berbagai fitur baru untuk Jenius dengan tujuan memudahkan para nasabah dalam melakukan berbagai transaksi dan mencoba untuk mengubah lifestyle financial mereka.</summary>
       
 
       
