@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-10-11T07:38:48+00:00</updated>
+  <updated>2018-10-12T08:55:36+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #49</title>
+      
+      <link href="http://jenius.tech/2018/10/12/engineer-readinglist-49/" rel="alternate" type="text/html" title="Jenius Engineer reading list #49" />
+      <published>2018-10-12T00:00:00+00:00</published>
+      <updated>2018-10-12T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/10/12/engineer-readinglist-49</id>
+      <content type="html" xml:base="http://jenius.tech/2018/10/12/engineer-readinglist-49/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gizmodo.com/how-to-get-more-out-of-your-chromebook-by-running-linux-1829058899&quot;&gt;Get More Out of Your Chromebook by Running Linux Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/slothking-online/graphql-editor&quot;&gt;GraphQL Visual Node Editor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeascraft.com/2018/09/26/how-etsy-localizes-addresses/&quot;&gt;How Etsy Localizes Addresses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/how-we-store-data-in-the-cloud-at-auth0/&quot;&gt;How We Store Data in the Cloud at Auth0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c&quot;&gt;Open Sourcing HASSH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/09/architecture-of-nautilus-the-new-dropbox-search-engine/&quot;&gt;Architecture of Nautilus, the new Dropbox search engine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Get More Out of Your Chromebook by Running Linux Apps GraphQL Visual Node Editor How Etsy Localizes Addresses How We Store Data in the Cloud at Auth0 Open Sourcing HASSH Architecture of Nautilus, the new Dropbox search engine</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1386,60 +1439,6 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 
       
         <summary type="html">Cypress – the reason why we’re not stuck with Selenium Real-time Streaming Pattern: Analyzing Trends Kubernetes Monitoring with Prometheus, the ultimate guide (part 1) Continuous Delivery Patterns with Serverless Applications Optimizing TV Advertising Toward Return on Investment Building Machine Learning Engineering Tools An OAuth 2.0 introduction for beginners Leveraging Elastic Demand for Forecasting</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #33</title>
-      
-      <link href="http://jenius.tech/2018/09/13/engineer-readinglist-33/" rel="alternate" type="text/html" title="Jenius Engineer reading list #33" />
-      <published>2018-09-13T00:00:00+00:00</published>
-      <updated>2018-09-13T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/13/engineer-readinglist-33</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/13/engineer-readinglist-33/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://crate.io/a/on-writing-beautiful-tests/&quot;&gt;On Writing Beautiful Tests&lt;/a&gt; &lt;br /&gt;
-  sepertinya perlu nulis ini &lt;em&gt;case&lt;/em&gt; yang ada di Jenius&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/security/2018/09/11/protecting-mozillas-github-repositories-from-malicious-modification/&quot;&gt;Protecting Mozilla’s GitHub Repositories from Malicious Modification&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.eutopian.io/the-age-of-invisible-disasters/&quot;&gt;The Age Of Invisible Disasters&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dockyard.com/blog/2018/08/22/employee-engagement-in-a-remote-world&quot;&gt;Employee Engagement in a Remote World&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.soundcloud.com/blog/hands-off-deployment-with-canary&quot;&gt;Hands-Off Deployment with Canary&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/&quot;&gt;Changing Our Approach to Anti-tracking&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">On Writing Beautiful Tests sepertinya perlu nulis ini case yang ada di Jenius Protecting Mozilla’s GitHub Repositories from Malicious Modification The Age Of Invisible Disasters Employee Engagement in a Remote World Hands-Off Deployment with Canary Changing Our Approach to Anti-tracking</summary>
       
 
       
