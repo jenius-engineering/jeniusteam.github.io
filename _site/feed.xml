@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-10-14T06:14:23+00:00</updated>
+  <updated>2018-10-15T06:56:27+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,63 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #50</title>
+      
+      <link href="http://localhost:4000/2018/10/15/engineer-readinglist-50/" rel="alternate" type="text/html" title="Jenius Engineer reading list #50" />
+      <published>2018-10-15T00:00:00+00:00</published>
+      <updated>2018-10-15T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/10/15/engineer-readinglist-50</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/15/engineer-readinglist-50/">&lt;p&gt;Edisi ke-50, &lt;em&gt;yeay!&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/bench-engineering/breaking-good-55fed1d81aac&quot;&gt;Breaking Good — Having a blameless engineering culture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeascraft.com/2018/10/10/etsys-experiment-with-immutable-documentation/&quot;&gt;Etsy’s experiment with immutable documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.trek10.com/blog/business-case-for-serverless/&quot;&gt;The Business Case For Serverless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hub.packtpub.com/chaos-conf-2018-recap-chaos-engineering-hits-maturity-as-community-moves-towards-controlled-experimentation/&quot;&gt;Chaos Conf 2018 Recap: Chaos engineering hits maturity as community moves towards controlled experimentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/jthomas/serverless-the-missing-manual&quot;&gt;Serverless: The Missing Manual&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://read.acloud.guru/dear-aws-we-need-to-talk-about-service-naming-d33ea68027d8&quot;&gt;Dear AWS, we need to talk about your service names&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/blog/5-things-your-team-should-do-to-make-pull-requests-less-painful&quot;&gt;5 Things Your Team Should Do to Make Pull Requests Less Painful&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://suva.sh/posts/well-documented-makefiles/&quot;&gt;Well documented Makefiles (available via &lt;code class=&quot;highlighter-rouge&quot;&gt;make help&lt;/code&gt;)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Edisi ke-50, yeay! Breaking Good — Having a blameless engineering culture Etsy’s experiment with immutable documentation The Business Case For Serverless Chaos Conf 2018 Recap: Chaos engineering hits maturity as community moves towards controlled experimentation Serverless: The Missing Manual Dear AWS, we need to talk about your service names 5 Things Your Team Should Do to Make Pull Requests Less Painful Well documented Makefiles (available via make help)</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1396,82 +1453,6 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 
       
         <summary type="html">Senin, Selamat bekerja! Service Workers What if learning code started in an agile environment? Microservices in a Post-Kubernetes Era Lessons Learned: Code Splitting with Webpack and React Goodbye Redux OCTO vision on Service Mesh : the challenges Receiving messages in Elixir, or a few things you need to know in order to avoid performance issues</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer: Bayu Prasetyo</title>
-      
-      <link href="http://localhost:4000/2018/09/17/engineer-bayu/" rel="alternate" type="text/html" title="Jenius Engineer: Bayu Prasetyo" />
-      <published>2018-09-17T00:00:00+00:00</published>
-      <updated>2018-09-17T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/09/17/engineer-bayu</id>
-      <content type="html" xml:base="http://localhost:4000/2018/09/17/engineer-bayu/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/bayu-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/bayu-small.jpg&quot; alt=&quot;Bayu Prasetyo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Hi, nama saya &lt;a href=&quot;https://github.com/bayukp&quot;&gt;Bayu Prasetyo&lt;/a&gt;, posisi sebagai Software Developer di &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt;. Saat ini mengerjakan bagian frontend (Android, IOS, Web). Juga bertanggung jawab untuk &lt;em&gt;release&lt;/em&gt; app, develop stories dan bugfixing issues yang muncul.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;Main device untuk kerja pakai &lt;a href=&quot;https://support.apple.com/kb/SP756?locale=en_US&quot;&gt;Macbook Pro 2017 15”&lt;/a&gt; + External monitor merek Samsung. Untuk komunikasi pakai &lt;a href=&quot;https://en.wikipedia.org/wiki/OnePlus_5T&quot;&gt;Oneplus 5T&lt;/a&gt; + &lt;a href=&quot;https://www.motorola.in/products/moto-360-sport&quot;&gt;Motorolla Moto 360 Sport edition&lt;/a&gt; untuk ngecek notifikasi dan agar lebih gampang melihat google maps saat berkendara dengan roda dua. Untuk mendengarkan musik menggunakan &lt;em&gt;wireless&lt;/em&gt; headphone &lt;a href=&quot;https://www.jaybirdsport.com/en-roeu&quot;&gt;Jaybird X2&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;Ada beberapa coding tools yang saya gunakan, Untuk develop aplikasi Android saya menggunakan &lt;a href=&quot;https://developer.android.com/studio/&quot;&gt;Android Studio&lt;/a&gt; pastinya, karena Jenius juga mendukung iOS, maka &lt;a href=&quot;https://developer.apple.com/xcode/&quot;&gt;Xcode&lt;/a&gt; juga saya gunakan sebagai IDE membangun aplikasi iOS. IDE utama saya saat ini &lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot;&gt;Webstorm&lt;/a&gt; untuk javascript, saya pilih &lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot;&gt;Webstorm&lt;/a&gt; karena fitur-fitur aplikasi &lt;a href=&quot;https://www.jetbrains.com/&quot;&gt;Jetbrains&lt;/a&gt; bisa dibilang cukup lengkap untuk developer dan mempercepat proses development serta meminimalisir error, Bahkan Webstorm bisa tau jika code kita bisa lebih disederhanakan lagi atau jika ada code yang redundant.&lt;/p&gt;
-
-&lt;p&gt;Karena saat kerja juga butuh hiburan, saya pakai &lt;a href=&quot;https://www.spotify.com/&quot;&gt;Spotify&lt;/a&gt; untuk mendengarkan musik. Untuk ngecek email, karena bawaan Mac menurut saya kurang bagus, saya pake &lt;a href=&quot;https://sparkmailapp.com/&quot;&gt;Spark&lt;/a&gt;. Selain itu ada &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; untuk komunikasi kantor, dan yang pasti ada &lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Google Chrome&lt;/a&gt; untuk browsing &lt;a href=&quot;https://stackoverflow.com/&quot;&gt;StackOverflow&lt;/a&gt; :D.&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;p&gt;Pastinya ada &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt;, the best digital banking app for manage your finances. Untuk komunikasi saya pake &lt;a href=&quot;https://www.whatsapp.com/&quot;&gt;Whatsapp&lt;/a&gt; dan &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;. &lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Google Chrome&lt;/a&gt; juga terinstall untuk browsing, Gmail untuk cek email dan &lt;a href=&quot;https://whoscall.com/en-US/&quot;&gt;Whoscall&lt;/a&gt; supaya tau siapa orang asing yang menghubungi tapi tidak terdaftar di kontak.&lt;/p&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;p&gt;Isi tas gak banyak sih, cuma Macbook + Donglenya,  Kabel kabel charger, Bekal dari rumah, Kunci motor.&lt;/p&gt;
-
-&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;p&gt;Karena saya suka tampilan launcher &lt;a href=&quot;https://www.android.com/phones/google-pixel-2/&quot;&gt;Google Pixel&lt;/a&gt;, jadi launchernya saya pasang &lt;a href=&quot;https://github.com/amirzaidi/launcher3/releases&quot;&gt;Rootles Pixel Launcher&lt;/a&gt; + &lt;a href=&quot;https://www.xda-developers.com/rootless-pixel-launcher-google-play-store-pixel-bridge/&quot;&gt;Pixel Bridge&lt;/a&gt; supaya Google Feednya bisa muncul pas swipe kekiri dari homescreen. Aplikasi Jenius juga saya letakkan di homescreen biar gampang di akses, sama dengan whatsapp.&lt;/p&gt;
-
-&lt;p&gt;Karena saya juga suka ngecek google maps sebelum berkendara, saya juga tambahkan App Shortcut google maps untuk ke rumah dan ke kantor. Bagi yang belum tau, sejak beberapa versi Android yang lalu, Android mengimplementasikan fitur App Shortcut. Fiturnya mirip mirip dengan Iphone yang ada 3D touchnya. Di iphone yang ada 3D touch, kalo kita Long Press app di homescreen akan ada muncul beberapa pilihan Shortcut untuk membuka fitur spesifik app tersebut (Jika appnya support).&lt;/p&gt;
-
-&lt;p&gt;Bedanya di Android tidak perlu ada 3D touch, yang penting sudah menggunakan Android versi terbaru, jika kita long press icon app (Jika appnya support) akan muncul beberapa shortcut untuk langsung membuka fitur spesifik app tersebut. Salah satu yang sering saya gunakan App Shortcut punya google maps. Kalo kita sudah set alamat rumah dan kantor, maka kalo kita buka App Shortcutnya google maps akan muncul pilihan untuk langsung navigate ke Kantor atau Rumah. Dan lebih bagusnya di Android (ga tau kalo IOS) App Shortcut juga bisa dipindahkan ke homescreen dengan cara longpress App Shortcutnya dan tarik ke homescreen, jadi deh!.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/bayu-hs-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/bayu-hs-small.jpg&quot; alt=&quot;Bayu Prasetyo Homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius engineer" />
-      
-        <category term="backstage" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Hi, nama saya Bayu Prasetyo, posisi sebagai Software Developer di Jenius. Saat ini mengerjakan bagian frontend (Android, IOS, Web). Juga bertanggung jawab untuk release app, develop stories dan bugfixing issues yang muncul.</summary>
       
 
       
