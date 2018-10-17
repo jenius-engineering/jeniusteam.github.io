@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-10-16T04:13:47+00:00</updated>
+  <updated>2018-10-17T05:05:00+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #52</title>
+      
+      <link href="http://jenius.tech/2018/10/16/engineer-readinglist-52/" rel="alternate" type="text/html" title="Jenius Engineer reading list #52" />
+      <published>2018-10-16T00:00:00+00:00</published>
+      <updated>2018-10-16T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/10/16/engineer-readinglist-52</id>
+      <content type="html" xml:base="http://jenius.tech/2018/10/16/engineer-readinglist-52/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tls.ulfheim.net&quot;&gt;The Illustrated TLS Connection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rakyll/cpdd-critical-path-driven-development-6c2592fb8ea4&quot;&gt;CPDD: Critical Path Driven Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/s/story/how-to-recruit-and-hire-when-you-need-to-move-fast-2d5f21fab5bc&quot;&gt;How to Recruit and Hire When You Need to Move Fast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/compassionate-coding/be-a-mentor-not-a-bully-80b0dc9ed1b2&quot;&gt;Be a Mentor, Not a Bully&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hbr.org/2018/10/why-agile-goes-awry-and-how-to-fix-it&quot;&gt;Why Agile Goes Awry — and How to Fix It&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf&quot;&gt;Plans for the Next Iteration of Vue.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/unicorn-rheos-remediation-center/&quot;&gt;Unicorn—Rheos Remediation Center&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">The Illustrated TLS Connection CPDD: Critical Path Driven Development How to Recruit and Hire When You Need to Move Fast Be a Mentor, Not a Bully Why Agile Goes Awry — and How to Fix It Plans for the Next Iteration of Vue.js Unicorn—Rheos Remediation Center</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1398,58 +1452,6 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 
       
         <summary type="html">Siapa dan apa yang dilakukan di Jenius? Leif Nambara, Digital Banking Backend Developer. Tugas sehari-hari, develop story/bugfix di Jira, handling production issue yang muncul, backend automation, memberi komentar dikode engineer lain sebagai salah satu proses dari code review yang dijalankan di Jenius, agar product (berupa kode) bisa lebih baik, dan juga product secara keseluruhan lebih optimal dan stabil.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #36</title>
-      
-      <link href="http://jenius.tech/2018/09/21/1engineer-readinglist-36/" rel="alternate" type="text/html" title="Jenius Engineer reading list #36" />
-      <published>2018-09-21T00:00:00+00:00</published>
-      <updated>2018-09-21T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/21/1engineer-readinglist-36</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/21/1engineer-readinglist-36/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.7pace.com/blog/become-a-better-programmer-skills-development&quot;&gt;How to Become a Better Software Developer: A Handbook on Personal Performance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://githubengineering.com/removing-jquery-from-github-frontend/&quot;&gt;Removing jQuery from GitHub.com frontend&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/data-wrangling-apache-kafka-ksql&quot;&gt;Data Wrangling with Apache Kafka and KSQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/09/managing-software-dependency-at-scale&quot;&gt;Managing Software Dependency at Scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ubereng.wpengine.com/forecasting-introduction/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=forecasting-introduction&quot;&gt;Forecasting at Uber: An Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">How to Become a Better Software Developer: A Handbook on Personal Performance Removing jQuery from GitHub.com frontend Data Wrangling with Apache Kafka and KSQL Managing Software Dependency at Scale Forecasting at Uber: An Introduction</summary>
       
 
       
