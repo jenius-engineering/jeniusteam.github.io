@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-10-17T05:05:00+00:00</updated>
+  <updated>2018-10-17T05:06:51+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -30,11 +30,11 @@
       
       <title type="html">Jenius Engineer reading list #52</title>
       
-      <link href="http://jenius.tech/2018/10/16/engineer-readinglist-52/" rel="alternate" type="text/html" title="Jenius Engineer reading list #52" />
-      <published>2018-10-16T00:00:00+00:00</published>
-      <updated>2018-10-16T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/16/engineer-readinglist-52</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/16/engineer-readinglist-52/">&lt;ul&gt;
+      <link href="http://jenius.tech/2018/10/17/engineer-readinglist-52/" rel="alternate" type="text/html" title="Jenius Engineer reading list #52" />
+      <published>2018-10-17T00:00:00+00:00</published>
+      <updated>2018-10-17T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/10/17/engineer-readinglist-52</id>
+      <content type="html" xml:base="http://jenius.tech/2018/10/17/engineer-readinglist-52/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://tls.ulfheim.net&quot;&gt;The Illustrated TLS Connection&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@rakyll/cpdd-critical-path-driven-development-6c2592fb8ea4&quot;&gt;CPDD: Critical Path Driven Development&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/s/story/how-to-recruit-and-hire-when-you-need-to-move-fast-2d5f21fab5bc&quot;&gt;How to Recruit and Hire When You Need to Move Fast&lt;/a&gt;&lt;/li&gt;
