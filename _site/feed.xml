@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-10-17T05:06:51+00:00</updated>
+  <updated>2018-10-18T10:11:20+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #53</title>
+      
+      <link href="http://jenius.tech/2018/10/18/engineer-readinglist-53/" rel="alternate" type="text/html" title="Jenius Engineer reading list #53" />
+      <published>2018-10-18T00:00:00+00:00</published>
+      <updated>2018-10-18T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/10/18/engineer-readinglist-53</id>
+      <content type="html" xml:base="http://jenius.tech/2018/10/18/engineer-readinglist-53/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/design-system&quot;&gt;Understanding Design Systems and Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/strava-engineering/experimenting-with-graphql-b0c31c8ca3cd&quot;&gt;Experimenting with GraphQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/&quot;&gt;Patterns for distributed transactions within a microservices architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/webassembly-on-cloudflare-workers/&quot;&gt;WebAssembly on Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/secrets-management-within-aws-ecs-1b6975819ccd&quot;&gt;Secrets Management within AWS ECS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Understanding Design Systems and Patterns Experimenting with GraphQL Patterns for distributed transactions within a microservices architecture WebAssembly on Cloudflare Workers Secrets Management within AWS ECS</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1382,76 +1434,6 @@ nginx        NodePort    10.96.12.181   &amp;lt;none&amp;gt;        80:31802/TCP
 
       
         <summary type="html">Topsi – A Desktop Kanban board app No Microservice Is an Island Shop the Look with Deep Learning Marmaray: An Open Source Generic Data Ingestion and Dispersal Framework and Library for Apache Hadoop Image Resizing Architecture at housing.com Progress for big data in Kubernetes</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer: Leif Nambara</title>
-      
-      <link href="http://jenius.tech/2018/09/24/engineer-leif-nambara/" rel="alternate" type="text/html" title="Jenius Engineer: Leif Nambara" />
-      <published>2018-09-24T00:00:00+00:00</published>
-      <updated>2018-09-24T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/09/24/engineer-leif-nambara</id>
-      <content type="html" xml:base="http://jenius.tech/2018/09/24/engineer-leif-nambara/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/leif-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/leif-small.jpg&quot; alt=&quot;Leif Nambara&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://id.linkedin.com/in/leif-nambara-58627a37&quot;&gt;Leif Nambara&lt;/a&gt;, Digital Banking Backend Developer. Tugas sehari-hari, develop story/bugfix di Jira, handling production issue yang muncul, &lt;em&gt;backend automation&lt;/em&gt;, memberi komentar dikode &lt;em&gt;engineer&lt;/em&gt; lain sebagai salah satu proses dari &lt;em&gt;code review&lt;/em&gt; yang dijalankan di Jenius, agar product (berupa kode) bisa lebih baik, dan juga product secara keseluruhan lebih optimal dan stabil.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;Untuk koding sehari-hari dan komputasi menggunakan &lt;a href=&quot;https://support.apple.com/kb/SP747?locale=en_US&quot;&gt;Macbook Pro 13 Inch 2016&lt;/a&gt;, dan untuk kebutuhan komunikasi dan testing aplikasi Jenius menggunakan &lt;a href=&quot;https://www.lg.com/sg/mobile-phones/lg-G6&quot;&gt;LG G6&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;Untuk koding, saya menggunakan &lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt;, yang digunakan untuk backend development dan automation, menggunakan bash sebagai emulasi terminal dan juga menggunakan aplikasi berbasis &lt;em&gt;command line&lt;/em&gt; untuk pekerjaan sehari-hari seperti &lt;a href=&quot;https://curl.haxx.se/&quot;&gt;curl&lt;/a&gt;, &lt;a href=&quot;http://man7.org/linux/man-pages/man1/grep.1.html&quot;&gt;grep&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/AWK&quot;&gt;awk&lt;/a&gt;, &lt;a href=&quot;https://www.gnu.org/software/sed/manual/sed.html&quot;&gt;sed&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Head_(Unix)&quot;&gt;head&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Tail_(Unix)&quot;&gt;tail&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Sort_(Unix)&quot;&gt;sort&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Uniq&quot;&gt;uniq&lt;/a&gt;, &lt;a href=&quot;https://stedolan.github.io/jq/&quot;&gt;jq&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/GNU_Screen&quot;&gt;screen&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Watch_(Unix)&quot;&gt;watch&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Cron&quot;&gt;cron&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Secure_Shell&quot;&gt;ssh&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Untuk pengetesan API dan fungsi dari system yang dibangun menggunakan &lt;a href=&quot;https://www.getpostman.com/&quot;&gt;Postman&lt;/a&gt;, dan &lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Google Chrome&lt;/a&gt; untuk menjelajah web, dan &lt;a href=&quot;https://www.spotify.com/sg-en/&quot;&gt;Spotify&lt;/a&gt; untuk mendengarkan musik.&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;p&gt;Komunikasi text menggunakan &lt;a href=&quot;https://www.whatsapp.com/&quot;&gt;Whatsapp&lt;/a&gt; untuk pribadi dan pekerjaan, juga saya menggunakan &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; untuk berkomunikasi dengan tim di Jenius sebagai media komunikasi dam kolaborasi, &lt;a href=&quot;https://www.google.com/keep/&quot;&gt;Google Keep&lt;/a&gt; untuk mencatat hal yang penting dan juga mengatur &lt;em&gt;tasklist&lt;/em&gt;, &lt;a href=&quot;https://www.google.com/maps/&quot;&gt;Google Maps&lt;/a&gt; untuk navigasi, &lt;a href=&quot;https://drive.google.com/&quot;&gt;Google Drive&lt;/a&gt; untuk menyimpan file dan mengakses file, &lt;a href=&quot;https://www.grab.com/&quot;&gt;Grab&lt;/a&gt; untuk transportasi, dan &lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Google Chrome&lt;/a&gt; untuk browsing di handphone.&lt;/p&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;p&gt;Tidak banyak, isinya hanya Macbook dan charger, earphone, modem, kunci, payung kecil, reusable shopping bag jika dibutuhkan dan gunting kuku.&lt;/p&gt;
-
-&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/leif-hs-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/leif-hs-small.jpg&quot; alt=&quot;Leif Nambara homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius engineer" />
-      
-        <category term="backstage" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Leif Nambara, Digital Banking Backend Developer. Tugas sehari-hari, develop story/bugfix di Jira, handling production issue yang muncul, backend automation, memberi komentar dikode engineer lain sebagai salah satu proses dari code review yang dijalankan di Jenius, agar product (berupa kode) bisa lebih baik, dan juga product secara keseluruhan lebih optimal dan stabil.</summary>
       
 
       
