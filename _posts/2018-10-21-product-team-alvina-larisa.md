@@ -12,7 +12,6 @@ categories:
     - backstage
 image: /images/posts/engineers/alvina-small.jpeg
 published: true
-display: true
 ---
 
 [![Alvina Larisa](/images/posts/engineers/alvina-small.jpeg)](/images/posts/engineers/alvina-large.jpeg)

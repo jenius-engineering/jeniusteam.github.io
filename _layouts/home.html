@@ -13,10 +13,6 @@ layout: default
       {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
       {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
 
-      {% if post.display == false %}
-      
-
-      {% else if post.display == empty %}
       <li{% if lang != empty %} lang="{{ lang }}"{% endif %}>
         <header class="post-header">
           <h1 class="post-title">
@@ -47,7 +43,6 @@ layout: default
         {% if post.tags != empty %} {% include tags.html tags=post.tags %}{% endif %}
       </li>
       
-      {% endif %}
 
     {% endfor %}
   </ul>
