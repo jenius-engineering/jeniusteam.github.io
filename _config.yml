@@ -44,6 +44,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-feed
 
 # Build settings
 markdown: kramdown
@@ -57,6 +60,7 @@ paginate: 5
 # Markdown settings
 kramdown:
   auto_ids: false
+  syntax_highlighter: rouge
   enable_coderay: false
   entity_output: as_char
   footnote_nr: 1
