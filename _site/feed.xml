@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-10-25T04:52:20+00:00</updated>
+  <updated>2018-10-26T04:12:51+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #59</title>
+      
+      <link href="http://jenius.tech/2018/10/26/engineer-readinglist-59/" rel="alternate" type="text/html" title="Jenius Engineer reading list #59" />
+      <published>2018-10-26T00:00:00+00:00</published>
+      <updated>2018-10-26T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/10/26/engineer-readinglist-59</id>
+      <content type="html" xml:base="http://jenius.tech/2018/10/26/engineer-readinglist-59/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://veekaybee.github.io/2018/09/24/the-case-of-the-broken-lambda/&quot;&gt;The Case of the Broken Lambda&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.anniehedgie.com/azure-managed-images&quot;&gt;Packer and Azure Managed Images&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/pivotal-cloud-foundry-architecture/&quot;&gt;Pivotal Cloud Foundry architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/pivotal-cloud-foundry-metrics/&quot;&gt;Key metrics for monitoring Pivotal Cloud Foundry&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/collecting-pcf-logs/&quot;&gt;Collecting Pivotal Cloud Foundry logs and metrics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/nice-things&quot;&gt;We already have nice things, and other reasons not to write in-house ops tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitlab.com/msvechla/kubehiera/blob/master/README.md&quot;&gt;Kubehiera – Lightweight tool to render go template&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">The Case of the Broken Lambda Packer and Azure Managed Images Pivotal Cloud Foundry architecture Key metrics for monitoring Pivotal Cloud Foundry Collecting Pivotal Cloud Foundry logs and metrics We already have nice things, and other reasons not to write in-house ops tools Kubehiera – Lightweight tool to render go template</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1180,60 +1234,6 @@ Nah, berhubung selama hampir dua tahun saya seorang yang merapikan dan membuat c
 
       
         <summary type="html">How to Debug WebRTC Issues Scalable User Privacy How Blockchains Work and How to Scale Them How browser rendering works — behind the scenes CI/CD/CS: Implementing Continuous Security across Your Delivery Pipeline and at Run-Time Kelsey Hightower and Chris Gaun on serverless and Kubernetes Using Kubernetes Pod Metadata to Improve Zipkin Traces Mockers - overcoming testing challenges at Grab Looking inside the technology that powers Pinterest Production Secret Management at Airbnb</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #42</title>
-      
-      <link href="http://jenius.tech/2018/10/03/engineer-readinglist-42/" rel="alternate" type="text/html" title="Jenius Engineer reading list #42" />
-      <published>2018-10-03T00:00:00+00:00</published>
-      <updated>2018-10-03T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/03/engineer-readinglist-42</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/03/engineer-readinglist-42/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/temper-kubernetes-and-container-fomo-through-security/&quot;&gt;Temper Kubernetes and Container FOMO Through Security&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/dockerizing-modern-web-apps-cd9667eebf44&quot;&gt;Dockerizing modern web apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/9/distributed-tracing-tools&quot;&gt;3 open source distributed tracing tools&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/the-future-of-inner-source/&quot;&gt;The Future of Inner Source&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/bgadrian/16-free-toolsservices-that-any-developer-should-use-4e7e&quot;&gt;16 free tools &amp;amp; services that any developer should use&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html&quot;&gt;Be Nice And Write Stable Code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://publications.lib.chalmers.se/records/fulltext/232550/local_232550.pdf&quot;&gt;Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Temper Kubernetes and Container FOMO Through Security Dockerizing modern web apps 3 open source distributed tracing tools The Future of Inner Source 16 free tools &amp;amp; services that any developer should use Be Nice And Write Stable Code Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane</summary>
       
 
       
