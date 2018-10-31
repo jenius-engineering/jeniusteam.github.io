@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-10-30T03:54:26+00:00</updated>
+  <updated>2018-10-31T04:39:24+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #62</title>
+      
+      <link href="http://jenius.tech/2018/10/31/engineer-readinglist-62/" rel="alternate" type="text/html" title="Jenius Engineer reading list #62" />
+      <published>2018-10-31T00:00:00+00:00</published>
+      <updated>2018-10-31T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/10/31/engineer-readinglist-62</id>
+      <content type="html" xml:base="http://jenius.tech/2018/10/31/engineer-readinglist-62/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.iheart.com/building-a-microservice-api-gateway-for-iheartradios-radio-station-network-with-graphql-5f9ddb37a314&quot;&gt;Building a Microservice API Gateway for iHeartRadio’s Radio Station Network with GraphQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-hearst-built-its-devops-organization-4-step-process&quot;&gt;How Hearst built its DevOps organization: A 4-step process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/agile-culture-5-tips-meeting-facilitators&quot;&gt;5 tips for facilitators of agile meetings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2018/10/27/envoy-basics/&quot;&gt;Some Envoy basics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/blockchain-data-security-resource-guide-it-ops-teams&quot;&gt;Blockchain for data security: A resource guide for IT Ops teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/&quot;&gt;Parsing logs 230x faster with Rust&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Building a Microservice API Gateway for iHeartRadio’s Radio Station Network with GraphQL How Hearst built its DevOps organization: A 4-step process 5 tips for facilitators of agile meetings Some Envoy basics Blockchain for data security: A resource guide for IT Ops teams Parsing logs 230x faster with Rust</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1187,59 +1240,6 @@ Nah, berhubung selama hampir dua tahun saya seorang yang merapikan dan membuat c
 
       
         <summary type="html">Rack middleware to help measure production code line of code usage The hidden cost of bootstrapping Is Agile the Enemy (of Good Design)? Learning from Pain Baking Compliance in your CI/CD Pipeline Scaling your developer community with plugins Kubernetes 1.2 released with Kubelet TLS Bootstrap and Azure Virtual Machine Scale Sets</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #45</title>
-      
-      <link href="http://jenius.tech/2018/10/08/engineer-readinglist-45/" rel="alternate" type="text/html" title="Jenius Engineer reading list #45" />
-      <published>2018-10-08T00:00:00+00:00</published>
-      <updated>2018-10-08T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/08/engineer-readinglist-45</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/08/engineer-readinglist-45/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/javascript-developers-more-choices-mean-hard-choices/?utm_source=jakartadev&quot;&gt;For javascript developers, more choices mean hard choices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoworld.com/article/3305340/tensorflow/tensorflowjs-puts-machine-learning-in-the-browser.html?utm_source=jakartadev&quot;&gt;TensorFlow.js puts machine learning in the browser&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/using-cloudflare-registrar/?utm_source=jakartadev&quot;&gt;Cloudflare Registrar: what happens when you register a domain?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Charles_Stover/cache-your-react-event-listeners-to-improve-performance-14f635a62e15?utm_source=jakartadev&quot;&gt;Cache your React event listeners to improve performance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.darkreading.com/application-security/overestimating-webassemblys-security-benefits-is-risky-for-developers-/v/d-id/1332697?utm_source=jakartadev&quot;&gt;Overestimating WebAssembly’s Security Benefits Is Risky for Developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/what-makes-a-good-front-end-developer/?utm_source=jakartadev&quot;&gt;What makes a good front-end developer?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">For javascript developers, more choices mean hard choices TensorFlow.js puts machine learning in the browser Cloudflare Registrar: what happens when you register a domain? Cache your React event listeners to improve performance Overestimating WebAssembly’s Security Benefits Is Risky for Developers What makes a good front-end developer?</summary>
       
 
       
