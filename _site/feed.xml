@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-02T06:39:19+00:00</updated>
+  <updated>2018-11-02T07:33:57+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #64</title>
+      
+      <link href="http://jenius.tech/2018/11/02/engineer-readinglist-64/" rel="alternate" type="text/html" title="Jenius Engineer reading list #64" />
+      <published>2018-11-02T00:00:00+00:00</published>
+      <updated>2018-11-02T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/02/engineer-readinglist-64</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/02/engineer-readinglist-64/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://willcrichton.net/notes/systems-programming/&quot;&gt;What is Systems Programming, Really? &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pierrchen.blogspot.com/2018/08/understand-container-index.html?m=1&quot;&gt;Understand Container&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/elbstack/the-largest-benchmark-of-serverless-providers-ac19b55750f4&quot;&gt;The largest benchmark of Serverless providers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bravenewgeek.com/the-observability-pipeline/&quot;&gt;The Observability Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLs4CJRBY5F1KrUr7z_2mur2QdAKXyh-k3&quot;&gt;PyCon Australia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e&quot;&gt;Useful tricks you might not know about Git stash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">What is Systems Programming, Really? Understand Container The largest benchmark of Serverless providers The Observability Pipeline PyCon Australia Useful tricks you might not know about Git stash</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1186,60 +1239,6 @@ Nah, berhubung selama hampir dua tahun saya seorang yang merapikan dan membuat c
 
       
         <summary type="html">Free All-in-One Database Version Management Tool The story of why Chrome and Firefox will soon block sites with certain SSL certificates Vapid – Content management system – new kids on the block Why we’re ditching ruby on rails for javascript &amp;amp; node.js Enhancing the Netflix UI Experience with HDR Making Search Work For Us</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #47</title>
-      
-      <link href="http://jenius.tech/2018/10/10/engineer-readinglist-47/" rel="alternate" type="text/html" title="Jenius Engineer reading list #47" />
-      <published>2018-10-10T00:00:00+00:00</published>
-      <updated>2018-10-10T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/10/engineer-readinglist-47</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/10/engineer-readinglist-47/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devops.com/is-noops-the-future-of-cloud-networking/&quot;&gt;Is NoOps the Future of Cloud Networking?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.itopstimes.com/itops/beyond-blockchain-building-trustless-networks/&quot;&gt;Beyond blockchain: Building trustless networks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-agile&quot;&gt;What is agile?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/why-you-should-not-neglect-your-developers-kubernetes-clusters-a658c8ca0e78&quot;&gt;Why You Should Not Neglect Your Developer’s Kubernetes Clusters&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/devops-measurement-tools&quot;&gt;13 tools to measure DevOps success&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/serverless-for-teams/&quot;&gt;Serverless for Teams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ansible.com/blog/make-your-ansible-playbooks-flexible-maintainable-and-scalable&quot;&gt;Make your ansible playbooks flexible, maintainable, and scalable&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Is NoOps the Future of Cloud Networking? Beyond blockchain: Building trustless networks What is agile? Why You Should Not Neglect Your Developer’s Kubernetes Clusters 13 tools to measure DevOps success Serverless for Teams Make your ansible playbooks flexible, maintainable, and scalable</summary>
       
 
       
