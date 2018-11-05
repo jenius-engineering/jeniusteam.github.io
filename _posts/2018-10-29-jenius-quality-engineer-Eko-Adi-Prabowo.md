@@ -48,6 +48,7 @@ Untuk management repository menggunakan [Source Tree](https://www.sourcetreeapp.
 ### Apa isi tas anda
 Macbook, Charger Mac & HP, Kunci Kosan, Kacamata, ID card, dompet dan tidak lupa baju Gym
 
+### Mobile Homescreen
 [![Eko Adi Prabowo homescreen](/images/posts/engineers/bowo-hs-small.png)](/images/posts/engineers/bowo-hs-large.png)
 
 >[Engineer Backstage](/categories/engineer/) adalah seri yang akan menampilkan _engineer_  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.
