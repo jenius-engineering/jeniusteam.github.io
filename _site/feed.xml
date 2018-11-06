@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-06T01:13:39+00:00</updated>
+  <updated>2018-11-06T04:16:12+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #66</title>
+      
+      <link href="http://jenius.tech/2018/11/06/engineer-readinglist-66/" rel="alternate" type="text/html" title="Jenius Engineer reading list #66" />
+      <published>2018-11-06T00:00:00+00:00</published>
+      <updated>2018-11-06T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/06/engineer-readinglist-66</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/06/engineer-readinglist-66/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sgoel.org/posts/the-most-dynamic-static-site-youll-ever-see/&quot;&gt;The most dynamic static site you’ll ever see&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stackups/docker-swarm-vs-kubernetes&quot;&gt;Docker Swarm or Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://goharbor.io/&quot;&gt;Harbor – Manage and serve container images in a secure environment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stackups/mariadb-vs-mysql-vs-postgresql&quot;&gt;PostgreSQL vs MySQL vs MariaDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://winterwindsoftware.com/serverless-definitions/&quot;&gt;The differing definitions of “serverless”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">The most dynamic static site you’ll ever see Docker Swarm or Kubernetes Harbor – Manage and serve container images in a secure environment PostgreSQL vs MySQL vs MariaDB The differing definitions of “serverless”</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1250,63 +1302,6 @@ Nah, berhubung selama hampir dua tahun saya seorang yang merapikan dan membuat c
 
       
         <summary type="html">Sourcegraph AWS Service Operator Kube-score – Kubernetes object static code analysis Markdown Page – build webpage with markdown Hardening macOS Falcon – A modern high-performance web server for Ruby</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #50</title>
-      
-      <link href="http://jenius.tech/2018/10/15/engineer-readinglist-50/" rel="alternate" type="text/html" title="Jenius Engineer reading list #50" />
-      <published>2018-10-15T00:00:00+00:00</published>
-      <updated>2018-10-15T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/15/engineer-readinglist-50</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/15/engineer-readinglist-50/">&lt;p&gt;Edisi ke-50, &lt;em&gt;yeay!&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/bench-engineering/breaking-good-55fed1d81aac&quot;&gt;Breaking Good — Having a blameless engineering culture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codeascraft.com/2018/10/10/etsys-experiment-with-immutable-documentation/&quot;&gt;Etsy’s experiment with immutable documentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.trek10.com/blog/business-case-for-serverless/&quot;&gt;The Business Case For Serverless&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hub.packtpub.com/chaos-conf-2018-recap-chaos-engineering-hits-maturity-as-community-moves-towards-controlled-experimentation/&quot;&gt;Chaos Conf 2018 Recap: Chaos engineering hits maturity as community moves towards controlled experimentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/jthomas/serverless-the-missing-manual&quot;&gt;Serverless: The Missing Manual&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://read.acloud.guru/dear-aws-we-need-to-talk-about-service-naming-d33ea68027d8&quot;&gt;Dear AWS, we need to talk about your service names&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/blog/5-things-your-team-should-do-to-make-pull-requests-less-painful&quot;&gt;5 Things Your Team Should Do to Make Pull Requests Less Painful&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://suva.sh/posts/well-documented-makefiles/&quot;&gt;Well documented Makefiles (available via &lt;code class=&quot;highlighter-rouge&quot;&gt;make help&lt;/code&gt;)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Edisi ke-50, yeay! Breaking Good — Having a blameless engineering culture Etsy’s experiment with immutable documentation The Business Case For Serverless Chaos Conf 2018 Recap: Chaos engineering hits maturity as community moves towards controlled experimentation Serverless: The Missing Manual Dear AWS, we need to talk about your service names 5 Things Your Team Should Do to Make Pull Requests Less Painful Well documented Makefiles (available via make help)</summary>
       
 
       
