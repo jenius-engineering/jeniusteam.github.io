@@ -22,7 +22,7 @@ Heyho! Saya Setiati Rezeki biasa di panggil Tia. Posisi saya di [Jenius](https:/
 Sedikit cerita ya, dua team saya ini, QA & QE adalah team yang memastikan quality Dari Jenius App (baik itu Android, iOS maupun Web Desktop) sebelum naik ke production. Dari kedua team ini saya harus memastikan bahwa teman-teman QA & QE sudah melakukan end-to-end Quality Assurance Process. Mulai Dari create test cases/test script, create test plan, create test run sampai melakukan testing. Baik testing di device langsung maupun secara automation. 
 
 Jangan percaya kalau kerjaan SQA itu mudah. Justru kami tuh dituntut harus lebih kreatif dan berfikir lebih dari requirement applikasi yang akan dibuat maupun dari sisi user behaviour. Belum lagi ada beberapa Platform dan Operating System yang sering berbeda satu sama lainnya. Hehe cukup ribet tapi seru!
-
+<!-- more -->
 
 ### Hardware yang digunakan
 [MacBook Pro 13 Inch 2016](https://support.apple.com/kb/SP747) macOS [High Sierra](https://en.wikipedia.org/wiki/MacOS_High_Sierra), ditambah dengan Extended Monitor Dell, lumayan membantu agar posisi leher tidak tertekuk, kemudian [iPhone 6](https://www.gsmarena.com/apple_iphone_6-6378.php), Personal Device yang juga di gunakan untuk testing, juga [Samsung Galaxy A7](https://www.gsmarena.com/samsung_galaxy_a7_(2018)-9340.php) dilengkapi Android 8.0 untuk keperluan testing juga.
