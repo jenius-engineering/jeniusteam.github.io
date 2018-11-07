@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-06T04:16:12+00:00</updated>
+  <updated>2018-11-07T04:51:11+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #67</title>
+      
+      <link href="http://jenius.tech/2018/11/07/engineer-readinglist-67/" rel="alternate" type="text/html" title="Jenius Engineer reading list #67" />
+      <published>2018-11-07T00:00:00+00:00</published>
+      <updated>2018-11-07T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/07/engineer-readinglist-67</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/07/engineer-readinglist-67/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b&quot;&gt;How to be Strategic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/introducing-github-actions/&quot;&gt;Introducing GitHub Actions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://davrodpin.github.io/mole/&quot;&gt;Mole – Easily create SSH tunnels&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evergreen.segment.com/&quot;&gt;Evergreen – A Design System for the Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/cache-invalidation-rails-5-2-dalli-store&quot;&gt;Cache Invalidation Complexity: Rails 5.2 and Dalli Cache Store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-avoid-security-fails-public-cloud&quot;&gt;How to avoid security fails in the public cloud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">How to be Strategic Introducing GitHub Actions Mole – Easily create SSH tunnels Evergreen – A Design System for the Web Cache Invalidation Complexity: Rails 5.2 and Dalli Cache Store How to avoid security fails in the public cloud</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1249,59 +1302,6 @@ Nah, berhubung selama hampir dua tahun saya seorang yang merapikan dan membuat c
 
       
         <summary type="html">The Illustrated TLS Connection CPDD: Critical Path Driven Development How to Recruit and Hire When You Need to Move Fast Be a Mentor, Not a Bully Why Agile Goes Awry — and How to Fix It Plans for the Next Iteration of Vue.js Unicorn—Rheos Remediation Center</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #51</title>
-      
-      <link href="http://jenius.tech/2018/10/16/engineer-readinglist-51/" rel="alternate" type="text/html" title="Jenius Engineer reading list #51" />
-      <published>2018-10-16T00:00:00+00:00</published>
-      <updated>2018-10-16T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/16/engineer-readinglist-51</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/16/engineer-readinglist-51/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/sourcegraph/sourcegraph&quot;&gt;Sourcegraph&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/awslabs/aws-service-operator&quot;&gt;AWS Service Operator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zegl/kube-score&quot;&gt;Kube-score – Kubernetes object static code analysis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/oscarmorrison/md-page&quot;&gt;Markdown Page – build webpage with markdown&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.bejarano.io/hardening-macos.html&quot;&gt;Hardening macOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/socketry/falcon&quot;&gt;Falcon – A modern high-performance web server for Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Sourcegraph AWS Service Operator Kube-score – Kubernetes object static code analysis Markdown Page – build webpage with markdown Hardening macOS Falcon – A modern high-performance web server for Ruby</summary>
       
 
       
