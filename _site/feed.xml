@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-08T05:25:38+00:00</updated>
+  <updated>2018-11-09T09:34:22+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #69</title>
+      
+      <link href="http://jenius.tech/2018/11/09/engineer-readinglist-69/" rel="alternate" type="text/html" title="Jenius Engineer reading list #69" />
+      <published>2018-11-09T00:00:00+00:00</published>
+      <updated>2018-11-09T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/09/engineer-readinglist-69</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/09/engineer-readinglist-69/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/puresec-founder-on-taking-control-of-serverless-security/&quot;&gt;PureSec Founder on Taking Control of Serverless Security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/beamly/ci-cd-how-to-level-up-your-development-flow-221e9172f5f2&quot;&gt;CI/CD — How to level up your development flow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-use-universal-package-manager-containerized-scheduled-jobs&quot;&gt;How to use a universal package manager for containerized, scheduled jobs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/kubernetes-resource-statistics&quot;&gt;KRS: A new tool for gathering Kubernetes resource statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gremlin.com/community/tutorials/how-to-establish-a-high-severity-incident-management-program/&quot;&gt;How To Establish a High Severity Incident Management Program&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/4/introduction-python-bytecode&quot;&gt;An introduction to Python bytecode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">PureSec Founder on Taking Control of Serverless Security CI/CD — How to level up your development flow How to use a universal package manager for containerized, scheduled jobs KRS: A new tool for gathering Kubernetes resource statistics How To Establish a High Severity Incident Management Program An introduction to Python bytecode</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1249,58 +1302,6 @@ Nah, berhubung selama hampir dua tahun saya seorang yang merapikan dan membuat c
 
       
         <summary type="html">Awesome vscode – 🎨 A curated list of delightful VS Code packages and resources csvreader library PeerTube – Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular memcached-util – Memcached utility to backup and restore the cache CrashDB – an ephemeral in-memory NoSQL database for the confident developer Goodbye Microservices: From 100s of problem children to 1 superstar Github Actions</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #53</title>
-      
-      <link href="http://jenius.tech/2018/10/18/engineer-readinglist-53/" rel="alternate" type="text/html" title="Jenius Engineer reading list #53" />
-      <published>2018-10-18T00:00:00+00:00</published>
-      <updated>2018-10-18T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/18/engineer-readinglist-53</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/18/engineer-readinglist-53/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/design-system&quot;&gt;Understanding Design Systems and Patterns&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/strava-engineering/experimenting-with-graphql-b0c31c8ca3cd&quot;&gt;Experimenting with GraphQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/&quot;&gt;Patterns for distributed transactions within a microservices architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/webassembly-on-cloudflare-workers/&quot;&gt;WebAssembly on Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/secrets-management-within-aws-ecs-1b6975819ccd&quot;&gt;Secrets Management within AWS ECS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Understanding Design Systems and Patterns Experimenting with GraphQL Patterns for distributed transactions within a microservices architecture WebAssembly on Cloudflare Workers Secrets Management within AWS ECS</summary>
       
 
       
