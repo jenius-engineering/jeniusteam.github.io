@@ -16,8 +16,9 @@ published: true
 
 [![Andiono Afianto](/images/posts/engineers/dio-small.jpg)](/images/posts/engineers/dio-large.jpg)
 ### Siapa dan apa yang dilakukan di Jenius?
-Saya Andiono Afianto, saya adalah Software Quality Assurance Specialist di [Jenius](https://www.jenius.com/). Sebagai Software Quality Assurance Specialist, saya bertugas untuk memastikan software yang akan masuk ke production bersih atau sedikit dari _bug_, sehingga dapat memberikan pengalaman yang menyenangkan ke user Jenius. 
-
+Saya Andiono Afianto, saya adalah Software Quality Assurance (SQA) Specialist di [Jenius](https://www.jenius.com/).   
+Sebagai Software Quality Assurance Specialist, saya bertugas untuk memastikan software yang akan masuk ke production bersih atau sedikit dari _bug_, sehingga dapat memberikan pengalaman yang menyenangkan ke user Jenius. 
+<!-- more -->
 ### Hardware yang digunakan
 Untuk kebutuhan sehari-hari testing dan development, saya menggunakan MacBook Pro 13 inch, biasanya digunakan untuk testing Jenius aplikasi web-nya atau testing di simulator. Untuk testing Jenius di _device_ , saya menggunakan iPhone 8 plus (iOS 12.0.1) dan untuk android menggunakan Sony Xperia Z5 (Android 5).
 
@@ -33,7 +34,7 @@ Tentunya ada browser untuk test aplikasi web Jenius, yang sudah dilengkapi denga
 - Safari
 - Mozilla Firefox
 
-Browser juga digunakan untuk membuka testrail, SQA di Jenius menggunakan testrail untuk track testing progress. Mulai dari membuat test suite yang berisikan test cases dari suatu story atau untuk keperluan compatibility testing, menjalankan test plan dan test run yang automated serta manual, dan juga generate report untuk dilampirkan di Change Control Board atau Production Deployment Board.
+Browser juga digunakan untuk membuka testrail, SQA di Jenius menggunakan [testrail](https://www.gurock.com/testrail) untuk track testing progress. Mulai dari membuat test suite yang berisikan test cases dari suatu story atau untuk keperluan compatibility testing, menjalankan test plan dan test run yang automated serta manual, dan juga generate report untuk dilampirkan di Change Control Board atau Production Deployment Board.
  
 Selain itu saya sering juga menggunakan [Insomnia](https://insomnia.rest/) atau [postman](https://www.getpostman.com/) untuk mengecek test data dan menjalankan testing.
 

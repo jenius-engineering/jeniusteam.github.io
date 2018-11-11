@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
   
   
-  <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-09T09:34:22+00:00</updated>
-  <id>http://jenius.tech//</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2018-11-11T05:03:32+00:00</updated>
+  <id>http://localhost:4000//</id>
 
   
     <title type="html">JeniusTech Engineering</title>
@@ -28,13 +28,111 @@
   
     <entry>
       
+      <title type="html">Jenius Quality Engineer: Andiono Afianto</title>
+      
+      <link href="http://localhost:4000/2018/11/11/jenius-quality-assurance-andiono-afianto/" rel="alternate" type="text/html" title="Jenius Quality Engineer: Andiono Afianto" />
+      <published>2018-11-11T00:00:00+00:00</published>
+      <updated>2018-11-11T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/11/11/jenius-quality-assurance-andiono-afianto</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/11/jenius-quality-assurance-andiono-afianto/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/dio-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/dio-small.jpg&quot; alt=&quot;Andiono Afianto&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
+&lt;p&gt;Saya Andiono Afianto, saya adalah Software Quality Assurance (SQA) Specialist di &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt;. &lt;br /&gt;
+Sebagai Software Quality Assurance Specialist, saya bertugas untuk memastikan software yang akan masuk ke production bersih atau sedikit dari &lt;em&gt;bug&lt;/em&gt;, sehingga dapat memberikan pengalaman yang menyenangkan ke user Jenius. 
+&lt;!-- more --&gt;&lt;/p&gt;
+&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
+&lt;p&gt;Untuk kebutuhan sehari-hari testing dan development, saya menggunakan MacBook Pro 13 inch, biasanya digunakan untuk testing Jenius aplikasi web-nya atau testing di simulator. Untuk testing Jenius di &lt;em&gt;device&lt;/em&gt; , saya menggunakan iPhone 8 plus (iOS 12.0.1) dan untuk android menggunakan Sony Xperia Z5 (Android 5).&lt;/p&gt;
+
+&lt;p&gt;Karena Jenius app tidak hanya tersedia untuk mobile, dapat diakses juga dalam bentuk webapp yang bisa dibuka dari browser seperti Chrome dan Safari.
+Meskipun pengguna terbesar Jenius adalah mobile app, tetapi kami para tester tidak hanya fokus testing di mobile saja. Maka dari itu, kami melakukan testing di berbagai platform: Android, iOS, dan desktop/mobile browser. 
+Operating system dan spesifikasi dari device tersebut pun beragam mulai dari Android 4.4 hingga 8.1 atau iOS 9 hingga 12, ukuran layar, ukuran RAM, jenis browser, dan sebagainya.&lt;/p&gt;
+
+&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
+&lt;h4&gt;Desktop&lt;/h4&gt;
+&lt;p&gt;Untuk di desktop, saya sering menggunakan aplikasi yang berhubungan langsung dengan testing.
+Tentunya ada browser untuk test aplikasi web Jenius, yang sudah dilengkapi dengan &lt;em&gt;developer tools&lt;/em&gt; seperti:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chrome&lt;/li&gt;
+  &lt;li&gt;Safari&lt;/li&gt;
+  &lt;li&gt;Mozilla Firefox&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Browser juga digunakan untuk membuka testrail, SQA di Jenius menggunakan &lt;a href=&quot;https://www.gurock.com/testrail&quot;&gt;testrail&lt;/a&gt; untuk track testing progress. Mulai dari membuat test suite yang berisikan test cases dari suatu story atau untuk keperluan compatibility testing, menjalankan test plan dan test run yang automated serta manual, dan juga generate report untuk dilampirkan di Change Control Board atau Production Deployment Board.&lt;/p&gt;
+
+&lt;p&gt;Selain itu saya sering juga menggunakan &lt;a href=&quot;https://insomnia.rest/&quot;&gt;Insomnia&lt;/a&gt; atau &lt;a href=&quot;https://www.getpostman.com/&quot;&gt;postman&lt;/a&gt; untuk mengecek test data dan menjalankan testing.&lt;/p&gt;
+
+&lt;p&gt;Microsoft Word dan Excel juga masih suka digunakan karena meskipun kami menggunakan testrail, kami juga bertanggung jawab untuk mendokumentasikan perubahan untuk laporan audit internal ataupun OJK.&lt;/p&gt;
+
+&lt;p&gt;Saya juga menggunakan Slack untuk komunikasi dengan squad member lain dan Microsoft Outlook untuk e-mail kantor.&lt;/p&gt;
+
+&lt;h3&gt;Mobile&lt;/h3&gt;
+&lt;p&gt;Jenius tentunya, ultimate financial mobile app, kemudian Slack untuk komunikasi dengan tim, gmail app, fitness tracker.&lt;/p&gt;
+
+&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
+&lt;p&gt;Karena saya suka dengan aktivitas fitness, cukup banyak perlengkapan yang saya bawa&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;MacBook pro&lt;/li&gt;
+  &lt;li&gt;Jacket&lt;/li&gt;
+  &lt;li&gt;Water bottle&lt;/li&gt;
+  &lt;li&gt;Pouch -&amp;gt; mac book charger, phone charger&lt;/li&gt;
+  &lt;li&gt;Gym needs -&amp;gt; extra clothes and gym pants, waist strap, soap, skin moisturizer, perfume, protein drink&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Mobile Homescreen&lt;/h3&gt;
+&lt;p&gt;Dan saya suka dengan beberapa character super hero, seperti Iron Man, Dr. Strange, Venom, dll. Berhubung film venom sedang booming ini phone home screen&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/dio-hs-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/dio-hs-small.jpg&quot; alt=&quot;Andiono Afianto homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="backstage" />
+      
+
+      
+        <category term="jenius quality assurance" />
+      
+        <category term="jenius quality engineer" />
+      
+        <category term="backstage" />
+      
+        <category term="engineer" />
+      
+
+      
+        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Saya Andiono Afianto, saya adalah Software Quality Assurance (SQA) Specialist di Jenius. Sebagai Software Quality Assurance Specialist, saya bertugas untuk memastikan software yang akan masuk ke production bersih atau sedikit dari bug, sehingga dapat memberikan pengalaman yang menyenangkan ke user Jenius.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Jenius Engineer reading list #69</title>
       
-      <link href="http://jenius.tech/2018/11/09/engineer-readinglist-69/" rel="alternate" type="text/html" title="Jenius Engineer reading list #69" />
+      <link href="http://localhost:4000/2018/11/09/engineer-readinglist-69/" rel="alternate" type="text/html" title="Jenius Engineer reading list #69" />
       <published>2018-11-09T00:00:00+00:00</published>
       <updated>2018-11-09T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/09/engineer-readinglist-69</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/09/engineer-readinglist-69/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/09/engineer-readinglist-69</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/09/engineer-readinglist-69/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/puresec-founder-on-taking-control-of-serverless-security/&quot;&gt;PureSec Founder on Taking Control of Serverless Security&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/beamly/ci-cd-how-to-level-up-your-development-flow-221e9172f5f2&quot;&gt;CI/CD — How to level up your development flow&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-use-universal-package-manager-containerized-scheduled-jobs&quot;&gt;How to use a universal package manager for containerized, scheduled jobs&lt;/a&gt;&lt;/li&gt;
@@ -83,11 +181,11 @@
       
       <title type="html">Jenius Engineer reading list #68</title>
       
-      <link href="http://jenius.tech/2018/11/08/engineer-readinglist-68/" rel="alternate" type="text/html" title="Jenius Engineer reading list #68" />
+      <link href="http://localhost:4000/2018/11/08/engineer-readinglist-68/" rel="alternate" type="text/html" title="Jenius Engineer reading list #68" />
       <published>2018-11-08T00:00:00+00:00</published>
       <updated>2018-11-08T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/08/engineer-readinglist-68</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/08/engineer-readinglist-68/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/08/engineer-readinglist-68</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/08/engineer-readinglist-68/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/workflows-for-the-new-developer-experience/&quot;&gt;Workflows for the New Developer Experience&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-coding-dojo-taught-me-about-agile&quot;&gt;What a Coding Dojo taught me about agile&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/library/view/technology-strategy-patterns/9781492040866/&quot;&gt;Technology Strategy Patterns&lt;/a&gt;&lt;/li&gt;
@@ -136,11 +234,11 @@
       
       <title type="html">Jenius Engineer reading list #67</title>
       
-      <link href="http://jenius.tech/2018/11/07/engineer-readinglist-67/" rel="alternate" type="text/html" title="Jenius Engineer reading list #67" />
+      <link href="http://localhost:4000/2018/11/07/engineer-readinglist-67/" rel="alternate" type="text/html" title="Jenius Engineer reading list #67" />
       <published>2018-11-07T00:00:00+00:00</published>
       <updated>2018-11-07T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/07/engineer-readinglist-67</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/07/engineer-readinglist-67/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/07/engineer-readinglist-67</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/07/engineer-readinglist-67/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b&quot;&gt;How to be Strategic&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/introducing-github-actions/&quot;&gt;Introducing GitHub Actions&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://davrodpin.github.io/mole/&quot;&gt;Mole – Easily create SSH tunnels&lt;/a&gt;&lt;/li&gt;
@@ -189,11 +287,11 @@
       
       <title type="html">Jenius Engineer reading list #66</title>
       
-      <link href="http://jenius.tech/2018/11/06/engineer-readinglist-66/" rel="alternate" type="text/html" title="Jenius Engineer reading list #66" />
+      <link href="http://localhost:4000/2018/11/06/engineer-readinglist-66/" rel="alternate" type="text/html" title="Jenius Engineer reading list #66" />
       <published>2018-11-06T00:00:00+00:00</published>
       <updated>2018-11-06T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/06/engineer-readinglist-66</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/06/engineer-readinglist-66/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/06/engineer-readinglist-66</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/06/engineer-readinglist-66/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://sgoel.org/posts/the-most-dynamic-static-site-youll-ever-see/&quot;&gt;The most dynamic static site you’ll ever see&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stackups/docker-swarm-vs-kubernetes&quot;&gt;Docker Swarm or Kubernetes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://goharbor.io/&quot;&gt;Harbor – Manage and serve container images in a secure environment&lt;/a&gt;&lt;/li&gt;
@@ -241,11 +339,11 @@
       
       <title type="html">Jenius Quality Assurance Lead: Setiati Rezeki</title>
       
-      <link href="http://jenius.tech/2018/11/05/jenius-quality-assurance-lead-setiati-rezeki/" rel="alternate" type="text/html" title="Jenius Quality Assurance Lead: Setiati Rezeki" />
+      <link href="http://localhost:4000/2018/11/05/jenius-quality-assurance-lead-setiati-rezeki/" rel="alternate" type="text/html" title="Jenius Quality Assurance Lead: Setiati Rezeki" />
       <published>2018-11-05T00:00:00+00:00</published>
       <updated>2018-11-05T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/05/jenius-quality-assurance-lead-setiati-rezeki</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/05/jenius-quality-assurance-lead-setiati-rezeki/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/tia-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/tia-small.jpg&quot; alt=&quot;Setiati Rezeki&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <id>http://localhost:4000/2018/11/05/jenius-quality-assurance-lead-setiati-rezeki</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/05/jenius-quality-assurance-lead-setiati-rezeki/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/tia-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/tia-small.jpg&quot; alt=&quot;Setiati Rezeki&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Heyho! Saya Setiati Rezeki biasa di panggil Tia. Posisi saya di &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; sebagai Digital Banking Quality Assurance &amp;amp; Solution Lead. Biasanya lebih di kenal dengan Jenius &lt;a href=&quot;https://en.wikipedia.org/wiki/Software_quality_assurance&quot;&gt;SQA&lt;/a&gt; Lead yang menaungi Dua team QA &amp;amp; QE.&lt;/p&gt;
@@ -330,11 +428,11 @@
       
       <title type="html">Jenius Engineer reading list #65</title>
       
-      <link href="http://jenius.tech/2018/11/05/engineer-readinglist-65/" rel="alternate" type="text/html" title="Jenius Engineer reading list #65" />
+      <link href="http://localhost:4000/2018/11/05/engineer-readinglist-65/" rel="alternate" type="text/html" title="Jenius Engineer reading list #65" />
       <published>2018-11-05T00:00:00+00:00</published>
       <updated>2018-11-05T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/05/engineer-readinglist-65</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/05/engineer-readinglist-65/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/05/engineer-readinglist-65</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/05/engineer-readinglist-65/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/demystifying-javascript-testing/&quot;&gt;Demystifying JavaScript Testing&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-you-can-improve-your-workflow-using-the-javascript-console-bdd7823a9472&quot;&gt;How you can improve your workflow using the JavaScript console&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/samsung-internet-dev/disappearing-frameworks-ed921f411c38&quot;&gt;Disappearing Frameworks&lt;/a&gt;&lt;/li&gt;
@@ -383,11 +481,11 @@
       
       <title type="html">Jenius Engineer reading list #64</title>
       
-      <link href="http://jenius.tech/2018/11/02/engineer-readinglist-64/" rel="alternate" type="text/html" title="Jenius Engineer reading list #64" />
+      <link href="http://localhost:4000/2018/11/02/engineer-readinglist-64/" rel="alternate" type="text/html" title="Jenius Engineer reading list #64" />
       <published>2018-11-02T00:00:00+00:00</published>
       <updated>2018-11-02T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/02/engineer-readinglist-64</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/02/engineer-readinglist-64/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/02/engineer-readinglist-64</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/02/engineer-readinglist-64/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://willcrichton.net/notes/systems-programming/&quot;&gt;What is Systems Programming, Really? &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://pierrchen.blogspot.com/2018/08/understand-container-index.html?m=1&quot;&gt;Understand Container&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/elbstack/the-largest-benchmark-of-serverless-providers-ac19b55750f4&quot;&gt;The largest benchmark of Serverless providers&lt;/a&gt;&lt;/li&gt;
@@ -436,11 +534,11 @@
       
       <title type="html">Ansible dasar</title>
       
-      <link href="http://jenius.tech/2018/11/02/ansible-dasar/" rel="alternate" type="text/html" title="Ansible dasar" />
+      <link href="http://localhost:4000/2018/11/02/ansible-dasar/" rel="alternate" type="text/html" title="Ansible dasar" />
       <published>2018-11-02T00:00:00+00:00</published>
       <updated>2018-11-02T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/02/ansible-dasar</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/02/ansible-dasar/">&lt;p&gt;Belajar menggunakan &lt;a href=&quot;https://ansible.com/&quot;&gt;Ansible&lt;/a&gt; untuk mengatur mesin remote atau untuk provisioning.&lt;/p&gt;
+      <id>http://localhost:4000/2018/11/02/ansible-dasar</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/02/ansible-dasar/">&lt;p&gt;Belajar menggunakan &lt;a href=&quot;https://ansible.com/&quot;&gt;Ansible&lt;/a&gt; untuk mengatur mesin remote atau untuk provisioning.&lt;/p&gt;
 
 &lt;h3&gt;Install&lt;/h3&gt;
 &lt;p&gt;Untuk macOS, bisa langsung pakai homebrew untuk instalasi&lt;/p&gt;
@@ -555,11 +653,11 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
       
       <title type="html">Jenius Engineer reading list #63</title>
       
-      <link href="http://jenius.tech/2018/11/01/engineer-readinglist-63/" rel="alternate" type="text/html" title="Jenius Engineer reading list #63" />
+      <link href="http://localhost:4000/2018/11/01/engineer-readinglist-63/" rel="alternate" type="text/html" title="Jenius Engineer reading list #63" />
       <published>2018-11-01T00:00:00+00:00</published>
       <updated>2018-11-01T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/01/engineer-readinglist-63</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/01/engineer-readinglist-63/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/01/engineer-readinglist-63</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/01/engineer-readinglist-63/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/learning-at-the-speed-of-modern-infrastructure/&quot;&gt;Learning at the Speed of Modern Infrastructure&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://ecomfe.github.io/echarts-doc/public/en/index.html&quot;&gt;echarts&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://ops.tips/blog/using-network-namespaces-and-bridge-to-isolate-servers/&quot;&gt;Using network namespaces and a virtual switch to isolate servers&lt;/a&gt;&lt;/li&gt;
@@ -609,11 +707,11 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
       
       <title type="html">Jenius Engineer reading list #62</title>
       
-      <link href="http://jenius.tech/2018/10/31/engineer-readinglist-62/" rel="alternate" type="text/html" title="Jenius Engineer reading list #62" />
+      <link href="http://localhost:4000/2018/10/31/engineer-readinglist-62/" rel="alternate" type="text/html" title="Jenius Engineer reading list #62" />
       <published>2018-10-31T00:00:00+00:00</published>
       <updated>2018-10-31T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/31/engineer-readinglist-62</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/31/engineer-readinglist-62/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/10/31/engineer-readinglist-62</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/31/engineer-readinglist-62/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.iheart.com/building-a-microservice-api-gateway-for-iheartradios-radio-station-network-with-graphql-5f9ddb37a314&quot;&gt;Building a Microservice API Gateway for iHeartRadio’s Radio Station Network with GraphQL&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-hearst-built-its-devops-organization-4-step-process&quot;&gt;How Hearst built its DevOps organization: A 4-step process&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/agile-culture-5-tips-meeting-facilitators&quot;&gt;5 tips for facilitators of agile meetings&lt;/a&gt;&lt;/li&gt;
@@ -662,11 +760,11 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
       
       <title type="html">Jenius Engineer reading list #61</title>
       
-      <link href="http://jenius.tech/2018/10/30/engineer-readinglist-61/" rel="alternate" type="text/html" title="Jenius Engineer reading list #61" />
+      <link href="http://localhost:4000/2018/10/30/engineer-readinglist-61/" rel="alternate" type="text/html" title="Jenius Engineer reading list #61" />
       <published>2018-10-30T00:00:00+00:00</published>
       <updated>2018-10-30T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/30/engineer-readinglist-61</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/30/engineer-readinglist-61/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/10/30/engineer-readinglist-61</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/30/engineer-readinglist-61/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.sethvargo.com/secrets-in-serverless/&quot;&gt;Secrets in Serverless&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/ansible-operators-kubernetes&quot;&gt;An introduction to Ansible Operators in Kubernetes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://devops.com/adobe-looks-to-drive-devops-adoption-via-the-cloud/&quot;&gt;Adobe Looks to Drive DevOps Adoption via the Cloud&lt;/a&gt;&lt;/li&gt;
@@ -720,11 +818,11 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
       
       <title type="html">Jenius Quality Engineer: Eko Adi Prabowo</title>
       
-      <link href="http://jenius.tech/2018/10/29/jenius-quality-engineer-Eko-Adi-Prabowo/" rel="alternate" type="text/html" title="Jenius Quality Engineer: Eko Adi Prabowo" />
+      <link href="http://localhost:4000/2018/10/29/jenius-quality-engineer-Eko-Adi-Prabowo/" rel="alternate" type="text/html" title="Jenius Quality Engineer: Eko Adi Prabowo" />
       <published>2018-10-29T00:00:00+00:00</published>
       <updated>2018-10-29T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/29/jenius-quality-engineer-Eko-Adi-Prabowo</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/29/jenius-quality-engineer-Eko-Adi-Prabowo/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/bowo-large.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/bowo-small.jpeg&quot; alt=&quot;Eko Adi Prabowo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <id>http://localhost:4000/2018/10/29/jenius-quality-engineer-Eko-Adi-Prabowo</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/29/jenius-quality-engineer-Eko-Adi-Prabowo/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/bowo-large.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/bowo-small.jpeg&quot; alt=&quot;Eko Adi Prabowo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Halo Semua, Saya Eko Adi Prabowo biasa di panggil Bowo. posisi saya di Jenius sebagai seorang Qualtiy Engineer (QE) untuk Jenius app.&lt;/p&gt;
 
@@ -808,11 +906,11 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
       
       <title type="html">Jenius Engineer reading list #60</title>
       
-      <link href="http://jenius.tech/2018/10/29/engineer-readinglist-60/" rel="alternate" type="text/html" title="Jenius Engineer reading list #60" />
+      <link href="http://localhost:4000/2018/10/29/engineer-readinglist-60/" rel="alternate" type="text/html" title="Jenius Engineer reading list #60" />
       <published>2018-10-29T00:00:00+00:00</published>
       <updated>2018-10-29T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/29/engineer-readinglist-60</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/29/engineer-readinglist-60/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/10/29/engineer-readinglist-60</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/29/engineer-readinglist-60/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/inspec/terraform-provisioner-inspec&quot;&gt;Terraform InSpec Provisioner Plugin&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://theagileadmin.com/2018/10/02/sre-the-biggest-lie-since-kanban/&quot;&gt;SRE: The Biggest Lie Since Kanban&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1GsOYK5UGjQEgl2rNjSI7TAapkfYsNje87NBr37K36gE/edit#slide=id.g3a081004a6_0_0&quot;&gt;SLO Burn&lt;/a&gt;&lt;/li&gt;
@@ -862,11 +960,11 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
       
       <title type="html">Jenius Engineer reading list #59</title>
       
-      <link href="http://jenius.tech/2018/10/26/engineer-readinglist-59/" rel="alternate" type="text/html" title="Jenius Engineer reading list #59" />
+      <link href="http://localhost:4000/2018/10/26/engineer-readinglist-59/" rel="alternate" type="text/html" title="Jenius Engineer reading list #59" />
       <published>2018-10-26T00:00:00+00:00</published>
       <updated>2018-10-26T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/26/engineer-readinglist-59</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/26/engineer-readinglist-59/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/10/26/engineer-readinglist-59</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/26/engineer-readinglist-59/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://veekaybee.github.io/2018/09/24/the-case-of-the-broken-lambda/&quot;&gt;The Case of the Broken Lambda&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.anniehedgie.com/azure-managed-images&quot;&gt;Packer and Azure Managed Images&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/pivotal-cloud-foundry-architecture/&quot;&gt;Pivotal Cloud Foundry architecture&lt;/a&gt;&lt;/li&gt;
@@ -916,11 +1014,11 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
       
       <title type="html">Jenius Engineer reading list #58</title>
       
-      <link href="http://jenius.tech/2018/10/25/engineer-readinglist-58/" rel="alternate" type="text/html" title="Jenius Engineer reading list #58" />
+      <link href="http://localhost:4000/2018/10/25/engineer-readinglist-58/" rel="alternate" type="text/html" title="Jenius Engineer reading list #58" />
       <published>2018-10-25T00:00:00+00:00</published>
       <updated>2018-10-25T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/25/engineer-readinglist-58</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/25/engineer-readinglist-58/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/10/25/engineer-readinglist-58</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/25/engineer-readinglist-58/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/&quot;&gt;Write Better Python Functions&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.blue-yonder.com/oxidizing-python-speeding-up-urlquoting-by-using-rust/&quot;&gt;Oxidizing Python: Speeding up URL quoting by 10x using Rust&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@jonathansmart1/organisational-agility-give-people-a-voice-5d5e68449aa7&quot;&gt;Organisational Agility: Give People a VOICE&lt;/a&gt;&lt;/li&gt;
@@ -971,11 +1069,11 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
       
       <title type="html">Jenius Engineer reading list #57</title>
       
-      <link href="http://jenius.tech/2018/10/24/engineer-readinglist-57/" rel="alternate" type="text/html" title="Jenius Engineer reading list #57" />
+      <link href="http://localhost:4000/2018/10/24/engineer-readinglist-57/" rel="alternate" type="text/html" title="Jenius Engineer reading list #57" />
       <published>2018-10-24T00:00:00+00:00</published>
       <updated>2018-10-24T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/24/engineer-readinglist-57</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/24/engineer-readinglist-57/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/10/24/engineer-readinglist-57</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/24/engineer-readinglist-57/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/ConfluxDigital/5-practical-operability-techniques-for-teams-matthew-skelton-addo-2018&quot;&gt;5 practical operability techniques for teams - Matthew Skelton&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.bigbasket.com/bigbaskets-experience-with-istio/&quot;&gt;Bigbasket’s Experience with Istio&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/yld-engineering-blog/testing-kubernetes-rbac-5e00dc93af8e&quot;&gt;Testing Kubernetes RBAC&lt;/a&gt;&lt;/li&gt;
@@ -1024,11 +1122,11 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
       
       <title type="html">Jenius Engineer reading list #56</title>
       
-      <link href="http://jenius.tech/2018/10/23/engineer-readinglist-56/" rel="alternate" type="text/html" title="Jenius Engineer reading list #56" />
+      <link href="http://localhost:4000/2018/10/23/engineer-readinglist-56/" rel="alternate" type="text/html" title="Jenius Engineer reading list #56" />
       <published>2018-10-23T00:00:00+00:00</published>
       <updated>2018-10-23T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/23/engineer-readinglist-56</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/23/engineer-readinglist-56/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/10/23/engineer-readinglist-56</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/23/engineer-readinglist-56/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46&quot;&gt;12 Factor CLI Apps&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://dev.to/jimsy/please-stop-using-ruby-4lf1&quot;&gt;Please stop using Ruby&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@lukethomas14/the-employee-engagement-myth-3885526782d7&quot;&gt;The Employee Engagement Myth&lt;/a&gt;&lt;/li&gt;
@@ -1079,11 +1177,11 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
       
       <title type="html">Jenius Engineer reading list #55</title>
       
-      <link href="http://jenius.tech/2018/10/22/engineer-readinglist-55/" rel="alternate" type="text/html" title="Jenius Engineer reading list #55" />
+      <link href="http://localhost:4000/2018/10/22/engineer-readinglist-55/" rel="alternate" type="text/html" title="Jenius Engineer reading list #55" />
       <published>2018-10-22T00:00:00+00:00</published>
       <updated>2018-10-22T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/22/engineer-readinglist-55</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/22/engineer-readinglist-55/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/10/22/engineer-readinglist-55</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/22/engineer-readinglist-55/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://bogdanvlviv.com/posts/ruby/rails/what-is-new-in-rails-6_0.html&quot;&gt;What is new in Rails 6.0&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://penguindreams.org/blog/the-decline-of-openid/&quot;&gt;The Decline of OpenID&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://danabrit.blogspot.com/2018/10/surfing-as-metaphor-for-software.html&quot;&gt;Surfing as a Metaphor for Software Development&lt;/a&gt;&lt;/li&gt;
@@ -1133,11 +1231,11 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
       
       <title type="html">Jenius Product Team: Alvina Larisa</title>
       
-      <link href="http://jenius.tech/2018/10/21/product-team-alvina-larisa/" rel="alternate" type="text/html" title="Jenius Product Team: Alvina Larisa" />
+      <link href="http://localhost:4000/2018/10/21/product-team-alvina-larisa/" rel="alternate" type="text/html" title="Jenius Product Team: Alvina Larisa" />
       <published>2018-10-21T00:00:00+00:00</published>
       <updated>2018-10-21T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/21/product-team-alvina-larisa</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/21/product-team-alvina-larisa/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/alvina-large.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/alvina-small.jpeg&quot; alt=&quot;Alvina Larisa&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <id>http://localhost:4000/2018/10/21/product-team-alvina-larisa</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/21/product-team-alvina-larisa/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/alvina-large.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/alvina-small.jpeg&quot; alt=&quot;Alvina Larisa&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Halo, saya Vina. Saya adalah UX writer untuk &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt; app yang merangkap UAT lead.&lt;/p&gt;
@@ -1248,60 +1346,6 @@ Nah, berhubung selama hampir dua tahun saya seorang yang merapikan dan membuat c
 
       
         <summary type="html">Siapa dan apa yang dilakukan di Jenius? Halo, saya Vina. Saya adalah UX writer untuk Jenius app yang merangkap UAT lead. Mau cerita sedikit nih kenapa dua role yang berbeda ini bisa melebur menjadi satu di job desc saya. Tim UI/UX yang ada di bawah Tim Product itu compact banget (size-nya kecil dan memang erat kekerabatannya alias kompak); awalnya hanya ada dua UI/UX designer dan setelah itu bergabunglah saya dan satu UI/UX designer lainnya saat launching. Sekarang pun hanya terdiri dari tiga UI/UX designer dan dua UX writer (kami ditinggal lead kami untuk berpetualang menggapai mimpinya yang lain - sekalian iklan siapa tau ada yang tertarik mengambil tantangan ini).</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #54</title>
-      
-      <link href="http://jenius.tech/2018/10/19/engineer-readinglist-54/" rel="alternate" type="text/html" title="Jenius Engineer reading list #54" />
-      <published>2018-10-19T00:00:00+00:00</published>
-      <updated>2018-10-19T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/19/engineer-readinglist-54</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/19/engineer-readinglist-54/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/viatsko/awesome-vscode&quot;&gt;Awesome vscode – 🎨 A curated list of delightful VS Code packages and resources&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/csv11/csvreader&quot;&gt;csvreader library&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Chocobozzz/PeerTube/tree/v1.0.0&quot;&gt;PeerTube – Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/me-io/memcached-util&quot;&gt;memcached-util – Memcached utility to backup and restore the cache&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/gunnihinn/crashdb&quot;&gt;CrashDB – an ephemeral in-memory NoSQL database for the confident developer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://segment.com/blog/goodbye-microservices/&quot;&gt;Goodbye Microservices: From 100s of problem children to 1 superstar&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/features/actions&quot;&gt;Github Actions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Awesome vscode – 🎨 A curated list of delightful VS Code packages and resources csvreader library PeerTube – Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular memcached-util – Memcached utility to backup and restore the cache CrashDB – an ephemeral in-memory NoSQL database for the confident developer Goodbye Microservices: From 100s of problem children to 1 superstar Github Actions</summary>
       
 
       
