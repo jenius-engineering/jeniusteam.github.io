@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Jenius Quality Engineer: Andiono Afianto"
+title: "Jenius Quality Assurance: Andiono Afianto"
 author: "dedenf"
 tags:
     - "jenius quality assurance"
-    - "jenius quality engineer"
     - backstage
     - "engineer"
 
