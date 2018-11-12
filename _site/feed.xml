@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-11T05:08:53+00:00</updated>
+  <updated>2018-11-12T04:11:02+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,62 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #70</title>
+      
+      <link href="http://jenius.tech/2018/11/12/engineer-readinglist-70/" rel="alternate" type="text/html" title="Jenius Engineer reading list #70" />
+      <published>2018-11-12T00:00:00+00:00</published>
+      <updated>2018-11-12T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/12/engineer-readinglist-70</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/12/engineer-readinglist-70/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://phoenixframework.org/blog/phoenix-1-4-0-released&quot;&gt;Phoenix 1.4.0 released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://craigmod.com/essays/ipad_pro/&quot;&gt;Getting the iPad to Pro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/20-docker-security-tools/&quot;&gt;29 Docker security tools compared&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/python-comments-guide/&quot;&gt;Writing Comments in Python (Guide)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://narimiran.github.io/2018/05/10/python-numpy-nim.html&quot;&gt;Python vs NumPy vs Nim&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/looking-for-a-house-build-a-web-scraper-to-help-you-5ab25badc83e&quot;&gt;I was looking for a house, so I built a web scraper in Python!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.divio.com/blog/documentation/&quot;&gt;What nobody tells you about documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://the-pastry-box-project.net/ed-finkler/2014-july-6&quot;&gt;The Developer’s Dystopian Future&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.peterbe.com/plog/jsonschema-validate-10x-faster-in-python&quot;&gt;How to JSON schema validate 10x (or 100x) faster in Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Phoenix 1.4.0 released Getting the iPad to Pro 29 Docker security tools compared Writing Comments in Python (Guide) Python vs NumPy vs Nim I was looking for a house, so I built a web scraper in Python! What nobody tells you about documentation The Developer’s Dystopian Future How to JSON schema validate 10x (or 100x) faster in Python</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1217,133 +1273,6 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
 
       
         <summary type="html">What is new in Rails 6.0 The Decline of OpenID Surfing as a Metaphor for Software Development Here is how UX Design Integrates with Agile and Scrum Systems Monitoring: top vs Htop vs Glances Developing cross-platform apps using Neutralinojs latest release Well Architected Monoliths are Okay</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Product Team: Alvina Larisa</title>
-      
-      <link href="http://jenius.tech/2018/10/21/product-team-alvina-larisa/" rel="alternate" type="text/html" title="Jenius Product Team: Alvina Larisa" />
-      <published>2018-10-21T00:00:00+00:00</published>
-      <updated>2018-10-21T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/21/product-team-alvina-larisa</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/21/product-team-alvina-larisa/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/alvina-large.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/alvina-small.jpeg&quot; alt=&quot;Alvina Larisa&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Halo, saya Vina. Saya adalah UX writer untuk &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt; app yang merangkap UAT lead.&lt;/p&gt;
-
-&lt;p&gt;Mau cerita sedikit nih kenapa dua role yang berbeda ini bisa melebur menjadi satu di job desc saya.
-Tim UI/UX yang ada di bawah Tim Product itu compact banget (size-nya kecil dan memang erat kekerabatannya alias kompak); awalnya hanya ada dua UI/UX designer dan setelah itu bergabunglah saya dan satu UI/UX designer lainnya saat launching. Sekarang pun hanya terdiri dari tiga UI/UX designer dan dua UX writer (kami ditinggal lead kami untuk berpetualang menggapai mimpinya yang lain - sekalian iklan siapa tau ada yang tertarik mengambil tantangan ini). 
-&lt;!-- more --&gt;
-Nah, berhubung selama hampir dua tahun saya seorang yang merapikan dan membuat copy di semua screen beserta error messages dan notifikasi di Jenius app (dianggap fasih untuk seluk-beluk user journeys) lalu bersama para designers sering tes tampilan UI di app jadilah diberi mandat dari Pak Bos Product Head Jenius untuk UAT testing. Yang awalnya sekedar memastikan design/copy improvement sesuai yang diinginkan hingga berlanjut dihibahkan tim tester dari IT team untuk UAT testing secara menyeluruh.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;TLDR;&lt;/strong&gt; saya membuat copy untuk Jenius app termasuk error messages dan notifikasi. Saya juga lead untuk UAT testing Jenius app.&lt;/p&gt;
-
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Macbook Pro 13 inch 2015 - laptop kantor&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.mi.com/en/mix/&quot;&gt;Xiaomi Mi Mix&lt;/a&gt; - yang dibeli karena memang dari dulu berangan punya HP dengan layar segede layar tancep.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gsmarena.com/samsung_galaxy_a7_(2018)-9340.php&quot;&gt;Samsung Galaxy A7&lt;/a&gt; - handphone testing dari kantor untuk android older version.&lt;/li&gt;
-  &lt;li&gt;iPhone 6s - handphone testing dari kantor untuk test di iOS.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;Saya pakai &lt;a href=&quot;https://www.onenote.com&quot;&gt;&lt;strong&gt;Microsoft onenote&lt;/strong&gt;&lt;/a&gt; untuk drafting copy karena enak foldering-nya, jadi bisa rapi per topik. Untuk &lt;em&gt;note taking&lt;/em&gt; saya sering pakai &lt;a href=&quot;https://bear.app/&quot;&gt;&lt;strong&gt;Bear&lt;/strong&gt;&lt;/a&gt;, biasanya untuk catat hasil diskusi atau meeting. Sayang cuman ada di Mac OS dan iOS aja padahal suka banget tampilan dan formatting nya.&lt;/p&gt;
-
-&lt;p&gt;Tim UI/UX pakai &lt;a href=&quot;https://zeplin.io/&quot;&gt;&lt;strong&gt;Zeplin&lt;/strong&gt;&lt;/a&gt; untuk share final design atau asset ke developers. Makanya saya ambil screenshot dari zeplin untuk bahan final translations. Tentunya setelah drafting copy berdasarkan diskusi tentang flow dan app behaviour bareng designer dan tim karena informasi yang disampaikan harus selalu berkesinambungan.&lt;/p&gt;
-
-&lt;p&gt;Saya juga sangat memanfaatkan fitur file sharing-nya &lt;a href=&quot;https://drive.google.com&quot;&gt;Google Drive&lt;/a&gt;, terutama Google Sheet untuk share translations ke developer dan tester.&lt;/p&gt;
-
-&lt;p&gt;Jenius - terutama app development squads - menggunakan Jira untuk kolaborasi tim. Kita pakai webapp Jira untuk create story, bugs reporting, dan track sprint progress. Documentation-nya pakai Confluence. Kita juga pakai Testrail untuk track testing progress, yang automation dan juga manual.&lt;/p&gt;
-
-&lt;p&gt;Untuk komunikasi dengan rekan-rekan di kantor saya pakai &lt;strong&gt;Slack&lt;/strong&gt;, &lt;strong&gt;Whatsapp&lt;/strong&gt;, dan &lt;strong&gt;Telegram&lt;/strong&gt; for desktop. Saya juga pakai Microsot Outlook untuk cek e-mail terutama meeting calendar. Meskipun seringnya sesama tim Jenius ngobrol lewat Slack, banyak dokumen atau pemberitahuan yang memang sebaiknya dikirimkan ke pihak-pihak berkepentingan secara formal lewat e-mail.&lt;/p&gt;
-
-&lt;p&gt;Karena kebetulan Jenius itu open office, saya sering dengerin lagu pakai &lt;a href=&quot;https://www.spotify.com/&quot;&gt;&lt;strong&gt;Spotify&lt;/strong&gt;&lt;/a&gt;, biar lebih fokus kalau ngerjain sesuatu dan gak keganggu dengan obrolan atau diskusi sekitar.&lt;/p&gt;
-
-&lt;p&gt;Untuk to-do list, saya sering pakai &lt;a href=&quot;https://trello.com/&quot;&gt;&lt;strong&gt;Trello&lt;/strong&gt;&lt;/a&gt;. Dulu sempat pakai untuk track kerjaan di suatu squad. Sekarang udah beda squad sih tapi masih berlanjut pakai untuk track progress kerjaan sendiri.&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt; - ya tentu!&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web.whatsapp.com/%F0%9F%8C%90/en&quot;&gt;Whatsapp&lt;/a&gt;, &lt;a href=&quot;https://telegram.org&quot;&gt;Telegram&lt;/a&gt;, &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;, &lt;a href=&quot;https://line.me/en/&quot;&gt;Line&lt;/a&gt; - untuk komunikasi. Line masih dipakai untuk grup SMA dan online shopping hehe. Slack harus ada di handphone biar gak susah kalau tiba-tiba harus cek soal kerjaan.&lt;/li&gt;
-  &lt;li&gt;Gmail &amp;amp; Outlook, Gmail untuk e-mail pribadi; Outlook untuk e-mail kantor dan e-mail pribadi karena hotmail masih aktif.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/software/jira&quot;&gt;Jira&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.atlassian.com/software/confluence&quot;&gt;Confluence&lt;/a&gt;, suatu bentuk dedikasi&lt;/li&gt;
-  &lt;li&gt;Instagram, Facebook, Twitter, the holy trinity of socmed. Biasanya lihat foto atau video anjing/kucing lucu di Instagram, sering mupeng juga lihat-lihat koleksi baju baru di olshop. Teman-teman masih suka post di FB dan twitter, suka juga baca diskusinya meskipun seringkali saya hanya jadi pengamat.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.zomato.com/&quot;&gt;Zomato&lt;/a&gt;, kalau pengen tau menu suatu restaurant atau iseng browsing makanan.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Snapseed&quot;&gt;Snapseed&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://vsco.co/&quot;&gt;Vsco&lt;/a&gt;, biar foto-foto yang di-post cetar membahana.&lt;/li&gt;
-  &lt;li&gt;LinkedIn, tentunya untuk professional networking; bisa cari kenalan teman sejawat. Banyak yang share artikel menarik juga.&lt;/li&gt;
-  &lt;li&gt;Google drive, untuk buka dokumen-dokumen, terutama yang berhubungan dengan copy Jenius app.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.onenote.com/notebooks&quot;&gt;Onenote&lt;/a&gt;, ini sync sama yang di laptop kantor dan laptop pribadi. Jadi biar kalau perlu cek sewaktu-waktu, gak repot. Kadang suka juga bikin checklist atau notes di Google Keep atau Scrittor.&lt;/li&gt;
-  &lt;li&gt;Spotify, Youtube, Netflix - entertainment. Dengerin lagu, nonton video tutorial, review, music videos, dan nonton TV series/movies.&lt;/li&gt;
-  &lt;li&gt;Medium, buat baca-baca yang berbobot sedikit.&lt;/li&gt;
-  &lt;li&gt;Google maps &amp;amp; waze, anaknya gampang nyasar, ini penting banget.&lt;/li&gt;
-  &lt;li&gt;Gojek, karena suka makan tapi suka mager, sering banget pesan makan pakai Go-food. Go-car dan Go-jek juga penyelamat karena kasian dompet kalau saya keseringan bayar argo taksi konvensional.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://helloclue.com/&quot;&gt;Clue&lt;/a&gt;, demi kesehatan kami para wanita. Karena mencatat kondisi saat menjelang dan sewaktu menstruasi itu penting.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Handphone - gak muat masuk kantong. Apalagi kantong celana cewek tuh kecil, basa-basi gitu.&lt;/li&gt;
-  &lt;li&gt;Charger handphone - jaga-jaga aja tapi hamdalah baterai HP masih tahan lama. Dompet - sama kayak handphone, ini gak muat masuk kantong jadi dibawa di tas.&lt;/li&gt;
-  &lt;li&gt;Pouch make up - (apa perlu disebut lebih rinci isinya? Ya isinya ada sisir, lip balm, lipstick, eyebrow pencil, mascara, dan blotting paper aka kertas minyak supaya muka gak berminyak kayak pinggiran bakwan)&lt;/li&gt;
-  &lt;li&gt;Body mist &amp;amp; hand cream - biar wangi selalu dan tangan tetap halus.&lt;/li&gt;
-  &lt;li&gt;Tissue dan tissue basah - orangnya selebor, gampang numpahin sesuatu, makanya selalu bawa tissue. Kalau bersin juga gak perlu bingung meper mana.&lt;/li&gt;
-  &lt;li&gt;Obat-obatan (obat maag, sakit kepala, flu, diare) &amp;amp; permen - ini jaga-jaga agar batin tenang. Permen membantu menyegarkan nafas terutama setelah makan.&lt;/li&gt;
-  &lt;li&gt;Hand sanitizer &amp;amp; toilet sanitizer - ya biar higienis gitu&lt;/li&gt;
-  &lt;li&gt;Notebook kecil &amp;amp; pulpen - inspirasi bisa datang kapan saja (gak deng, ini juga buat jaga-jaga kalau butuh) Earphone/headset - buat dengerin lagu sekaligus pencegah kuping panas kalau lagi harus bicara di telepon dengan durasi lama. Payung - bak kata pepatah, sedia payung sebelum hujan.&lt;/li&gt;
-  &lt;li&gt;Laptop - gak selalu sih, kadang tinggal kantor.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Saya memang terinspirasi oleh mama saya. Jadi meskipun belum punya anak, isi tas udah kayak emak-emak.&lt;/p&gt;
-
-&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.google.android.apps.genie.geniewidget&quot;&gt;Weather&lt;/a&gt;, sebenernya suka karena gemes aja sama ilustrasinya, si kodok itu, ke kantor juga masih sering saltum karena telat cek weather nya pas udah di jalan.&lt;/p&gt;
-
-&lt;p&gt;Aplikasi-aplikasi di-grup-in sesuai fungsi di layar berikutnya, misal messaging, socmed, entertainment, maps, productivity, tools, dll. Untuk home screen handphone pribadi beneran fokus ke selera aja. Pengannya clean kayak gini meskipun jadi nambah step kalau mau akses suatu aplikasi, harus swipe ke kiri dulu dan buka folder dengan app yang dimau.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/alvina-hs-large.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/alvina-hs-small.jpeg&quot; alt=&quot;Alvina Larisa homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius product" />
-      
-        <category term="jenius ui/ux" />
-      
-        <category term="backstage" />
-      
-        <category term="copy writer" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Halo, saya Vina. Saya adalah UX writer untuk Jenius app yang merangkap UAT lead. Mau cerita sedikit nih kenapa dua role yang berbeda ini bisa melebur menjadi satu di job desc saya. Tim UI/UX yang ada di bawah Tim Product itu compact banget (size-nya kecil dan memang erat kekerabatannya alias kompak); awalnya hanya ada dua UI/UX designer dan setelah itu bergabunglah saya dan satu UI/UX designer lainnya saat launching. Sekarang pun hanya terdiri dari tiga UI/UX designer dan dua UX writer (kami ditinggal lead kami untuk berpetualang menggapai mimpinya yang lain - sekalian iklan siapa tau ada yang tertarik mengambil tantangan ini).</summary>
       
 
       
