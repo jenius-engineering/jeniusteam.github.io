@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-12T04:11:02+00:00</updated>
+  <updated>2018-11-13T04:25:11+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #71</title>
+      
+      <link href="http://jenius.tech/2018/11/13/engineer-readinglist-71/" rel="alternate" type="text/html" title="Jenius Engineer reading list #71" />
+      <published>2018-11-13T00:00:00+00:00</published>
+      <updated>2018-11-13T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/13/engineer-readinglist-71</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/13/engineer-readinglist-71/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/poka-techblog/the-best-way-to-store-secrets-in-your-app-is-not-to-store-secrets-in-your-app-308a6807d3ed&quot;&gt;The best way to store secrets in your app is not to store secrets in your app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/2017/07/how-to-safely-store-api-keys-in-rails-apps/&quot;&gt;How to safely store API keys in Rails apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.memsql.com/blog/announcing-memsql-free-tier/&quot;&gt;MemSQL: Now Free to Use&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/gitbase&quot;&gt;Gitbase: Exploring Git repos with SQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2017/03/27/every-service-is-an-island.html&quot;&gt;Every service is an island&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/&quot;&gt;An introduction to medieval cities and cloud security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/&quot;&gt;Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">The best way to store secrets in your app is not to store secrets in your app How to safely store API keys in Rails apps MemSQL: Now Free to Use Gitbase: Exploring Git repos with SQL Every service is an island An introduction to medieval cities and cloud security Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1219,60 +1273,6 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
 
       
         <summary type="html">12 Factor CLI Apps Please stop using Ruby The Employee Engagement Myth CSS Layout cookbook Everybody’s Crazy: Why Management is Hard (And What to Do About It) People, not resources To Microservice or Monolith, that is the question… Facilitation Tools for Meetings and Workshops</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #55</title>
-      
-      <link href="http://jenius.tech/2018/10/22/engineer-readinglist-55/" rel="alternate" type="text/html" title="Jenius Engineer reading list #55" />
-      <published>2018-10-22T00:00:00+00:00</published>
-      <updated>2018-10-22T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/22/engineer-readinglist-55</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/22/engineer-readinglist-55/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bogdanvlviv.com/posts/ruby/rails/what-is-new-in-rails-6_0.html&quot;&gt;What is new in Rails 6.0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://penguindreams.org/blog/the-decline-of-openid/&quot;&gt;The Decline of OpenID&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://danabrit.blogspot.com/2018/10/surfing-as-metaphor-for-software.html&quot;&gt;Surfing as a Metaphor for Software Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24&quot;&gt;Here is how UX Design Integrates with Agile and Scrum&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://tech.marksblogg.com/top-htop-glances.html&quot;&gt;Systems Monitoring: top vs Htop vs Glances&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/neutralinojs/developing-cross-platform-apps-using-neutralinojs-latest-release-2cec09d34553&quot;&gt;Developing cross-platform apps using Neutralinojs latest release&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://robertnorthard.com/devops-days-well-architected-monoliths-are-okay/&quot;&gt;Well Architected Monoliths are Okay&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">What is new in Rails 6.0 The Decline of OpenID Surfing as a Metaphor for Software Development Here is how UX Design Integrates with Agile and Scrum Systems Monitoring: top vs Htop vs Glances Developing cross-platform apps using Neutralinojs latest release Well Architected Monoliths are Okay</summary>
       
 
       
