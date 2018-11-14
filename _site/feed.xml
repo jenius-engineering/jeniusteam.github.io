@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-13T04:25:11+00:00</updated>
+  <updated>2018-11-14T05:24:23+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #72</title>
+      
+      <link href="http://jenius.tech/2018/11/14/engineer-readinglist-72/" rel="alternate" type="text/html" title="Jenius Engineer reading list #72" />
+      <published>2018-11-14T00:00:00+00:00</published>
+      <updated>2018-11-14T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/14/engineer-readinglist-72</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/14/engineer-readinglist-72/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cullum/dank-selfhosted&quot;&gt;Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/vifreefly/procsd&quot;&gt;Procsd – Manage your application processes in production hassle-free like Heroku CLI with Procfile and Systemd&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8&quot;&gt;Immutable Infrastructure Using Packer, Ansible, and Terraform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/architecture-no-one-needs-is-server-side-templating-78331391274&quot;&gt;Architecture no one needs is server side templating&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.github.com/2018-10-30-oct21-post-incident-analysis/&quot;&gt;October 21 post-incident analysis &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-set-list/ruby-on-rails-security-be16bd1a8b02&quot;&gt;Ruby on Rails Security&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD Procsd – Manage your application processes in production hassle-free like Heroku CLI with Procfile and Systemd Immutable Infrastructure Using Packer, Ansible, and Terraform Architecture no one needs is server side templating October 21 post-incident analysis Ruby on Rails Security</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1218,61 +1271,6 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
 
       
         <summary type="html">5 practical operability techniques for teams - Matthew Skelton Bigbasket’s Experience with Istio Testing Kubernetes RBAC ORM: We Approve Chaos Monkey Guide for Engineers Using Kubeless for Kubernetes Events</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #56</title>
-      
-      <link href="http://jenius.tech/2018/10/23/engineer-readinglist-56/" rel="alternate" type="text/html" title="Jenius Engineer reading list #56" />
-      <published>2018-10-23T00:00:00+00:00</published>
-      <updated>2018-10-23T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/23/engineer-readinglist-56</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/23/engineer-readinglist-56/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46&quot;&gt;12 Factor CLI Apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/jimsy/please-stop-using-ruby-4lf1&quot;&gt;Please stop using Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@lukethomas14/the-employee-engagement-myth-3885526782d7&quot;&gt;The Employee Engagement Myth&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook&quot;&gt;CSS Layout cookbook&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/coaching-notes/everybodys-crazy-why-management-is-hard-and-what-to-do-about-it-f444c5263ffe&quot;&gt;Everybody’s Crazy: Why Management is Hard (And What to Do About It)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/people-not-resources&quot;&gt;People, not resources&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://reinteractive.com/posts/366-to-microservice-or-monolith-that-is-the-question&quot;&gt;To Microservice or Monolith, that is the question…&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://seedsforchange.org.uk/tools.pdf&quot;&gt;Facilitation Tools for Meetings and Workshops&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">12 Factor CLI Apps Please stop using Ruby The Employee Engagement Myth CSS Layout cookbook Everybody’s Crazy: Why Management is Hard (And What to Do About It) People, not resources To Microservice or Monolith, that is the question… Facilitation Tools for Meetings and Workshops</summary>
       
 
       
