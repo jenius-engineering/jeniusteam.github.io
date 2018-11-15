@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-14T05:24:23+00:00</updated>
+  <updated>2018-11-15T04:54:01+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #73</title>
+      
+      <link href="http://jenius.tech/2018/11/15/engineer-readinglist-73/" rel="alternate" type="text/html" title="Jenius Engineer reading list #73" />
+      <published>2018-11-15T00:00:00+00:00</published>
+      <updated>2018-11-15T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/15/engineer-readinglist-73</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/15/engineer-readinglist-73/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vuedarkmode.com/&quot;&gt;A minimalist dark design system for vue.js 🎨&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.tanelpoder.com/posts/visualizing-sql-plan-execution-time-with-flamegraphs/&quot;&gt;Visualizing SQL Plan Execution Time With FlameGraphs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/paxos/how-to-build-a-great-engineering-team-af545a7fe0ee&quot;&gt;How to Build a Great Engineering Team&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/10/testing-privacy-preserving-telemetry-with-prio/&quot;&gt;Testing Privacy-Preserving Telemetry with Prio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tinnedfruit.com/articles/create-your-own-dysfunctional-single-page-app.html&quot;&gt;Create your own dysfunctional single-page app in five easy steps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://metaredux.com/posts/2018/10/27/a-safer-rubocop.html&quot;&gt;A Safer RuboCop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://public.digital/2018/10/12/internet-era-ways-of-working/&quot;&gt;Internet-era ways of working&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">A minimalist dark design system for vue.js 🎨 Visualizing SQL Plan Execution Time With FlameGraphs How to Build a Great Engineering Team Testing Privacy-Preserving Telemetry with Prio Create your own dysfunctional single-page app in five easy steps A Safer RuboCop Internet-era ways of working</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1218,59 +1272,6 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
 
       
         <summary type="html">Write Better Python Functions Oxidizing Python: Speeding up URL quoting by 10x using Rust Organisational Agility: Give People a VOICE Sustainable Servers by 2024 Using Pulumi for Kubernetes configuration management Rethinking Netflix’s Edge Load Balancing Multi-DC Consul on Kubernetes DevOpsDays London 2018 Notes</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #57</title>
-      
-      <link href="http://jenius.tech/2018/10/24/engineer-readinglist-57/" rel="alternate" type="text/html" title="Jenius Engineer reading list #57" />
-      <published>2018-10-24T00:00:00+00:00</published>
-      <updated>2018-10-24T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/24/engineer-readinglist-57</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/24/engineer-readinglist-57/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/ConfluxDigital/5-practical-operability-techniques-for-teams-matthew-skelton-addo-2018&quot;&gt;5 practical operability techniques for teams - Matthew Skelton&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.bigbasket.com/bigbaskets-experience-with-istio/&quot;&gt;Bigbasket’s Experience with Istio&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/yld-engineering-blog/testing-kubernetes-rbac-5e00dc93af8e&quot;&gt;Testing Kubernetes RBAC&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.remix.com/orm-we-approve-60f2a68f73fb&quot;&gt;ORM: We Approve&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gremlin.com/chaos-monkey/&quot;&gt;Chaos Monkey Guide for Engineers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://leebriggs.co.uk/blog/2018/10/16/using-kubeless-for-kubernetes-events.html&quot;&gt;Using Kubeless for Kubernetes Events&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">5 practical operability techniques for teams - Matthew Skelton Bigbasket’s Experience with Istio Testing Kubernetes RBAC ORM: We Approve Chaos Monkey Guide for Engineers Using Kubeless for Kubernetes Events</summary>
       
 
       
