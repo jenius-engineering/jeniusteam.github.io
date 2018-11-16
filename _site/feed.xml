@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-15T04:54:01+00:00</updated>
+  <updated>2018-11-16T07:11:51+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #74</title>
+      
+      <link href="http://jenius.tech/2018/11/16/engineer-readinglist-74/" rel="alternate" type="text/html" title="Jenius Engineer reading list #74" />
+      <published>2018-11-16T00:00:00+00:00</published>
+      <updated>2018-11-16T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/16/engineer-readinglist-74</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/16/engineer-readinglist-74/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961&quot;&gt;API Profiling at Pinterest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.bugsnag.com/the-monitoring-landscape/&quot;&gt;Getting started with monitoring for developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/credentials-leaked-in-public-heres-what-grofers-implemented-to-prevent-such-mishaps-66a40b5743af&quot;&gt;Credentials leaked in public? Here’s what Grofers implemented to prevent such mishaps!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/palmerhq/the-platform&quot;&gt;The Platform – Web. Components.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fs.blog/2018/10/long-game/&quot;&gt;The Surprising Power of The Long Game&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/zero-to-code/vuejs-cheat-sheet-part-1-b30f772ed72&quot;&gt;VueJS Cheat Sheet Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e&quot;&gt;A Guide to Mindful Communication in Code Reviews&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">API Profiling at Pinterest Getting started with monitoring for developers Credentials leaked in public? Here’s what Grofers implemented to prevent such mishaps! The Platform – Web. Components. The Surprising Power of The Long Game VueJS Cheat Sheet Part 1 A Guide to Mindful Communication in Code Reviews</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1217,61 +1271,6 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
 
       
         <summary type="html">The Case of the Broken Lambda Packer and Azure Managed Images Pivotal Cloud Foundry architecture Key metrics for monitoring Pivotal Cloud Foundry Collecting Pivotal Cloud Foundry logs and metrics We already have nice things, and other reasons not to write in-house ops tools Kubehiera – Lightweight tool to render go template</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #58</title>
-      
-      <link href="http://jenius.tech/2018/10/25/engineer-readinglist-58/" rel="alternate" type="text/html" title="Jenius Engineer reading list #58" />
-      <published>2018-10-25T00:00:00+00:00</published>
-      <updated>2018-10-25T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/25/engineer-readinglist-58</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/25/engineer-readinglist-58/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/&quot;&gt;Write Better Python Functions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.blue-yonder.com/oxidizing-python-speeding-up-urlquoting-by-using-rust/&quot;&gt;Oxidizing Python: Speeding up URL quoting by 10x using Rust&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jonathansmart1/organisational-agility-give-people-a-voice-5d5e68449aa7&quot;&gt;Organisational Agility: Give People a VOICE&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.change.org/p/sustainable-servers-by-2024&quot;&gt;Sustainable Servers by 2024&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://leebriggs.co.uk/blog/2018/09/20/using-pulumi-for-k8s-config-mgmt.html&quot;&gt;Using Pulumi for Kubernetes configuration management&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c&quot;&gt;Rethinking Netflix’s Edge Load Balancing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.holidayextras.com/multi-dc-consul-on-kubernetes-9a6a7dcb89e3&quot;&gt;Multi-DC Consul on Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@AaronKalair/devopsdays-london-2018-notes-38f1ae44c95&quot;&gt;DevOpsDays London 2018 Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Write Better Python Functions Oxidizing Python: Speeding up URL quoting by 10x using Rust Organisational Agility: Give People a VOICE Sustainable Servers by 2024 Using Pulumi for Kubernetes configuration management Rethinking Netflix’s Edge Load Balancing Multi-DC Consul on Kubernetes DevOpsDays London 2018 Notes</summary>
       
 
       
