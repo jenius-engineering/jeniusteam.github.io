@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-16T07:11:51+00:00</updated>
+  <updated>2018-11-19T08:11:50+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,61 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #75</title>
+      
+      <link href="http://jenius.tech/2018/11/19/engineer-readinglist-75/" rel="alternate" type="text/html" title="Jenius Engineer reading list #75" />
+      <published>2018-11-19T00:00:00+00:00</published>
+      <updated>2018-11-19T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/19/engineer-readinglist-75</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/19/engineer-readinglist-75/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make&quot;&gt;Three Sales Mistakes Software Engineers Make&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.gitprime.com/drift-3-day-onboarding-process/&quot;&gt;How Drift Gets Engineers up to Speed by Day 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/blog/launching-your-own-ruby-gem-build-it&quot;&gt;Launching Your Own Ruby Gem - Part 1: Build It&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/why-reacts-hooks-api-is-a-game-changer-8731c2b0a8c&quot;&gt;Why React’s new Hooks API is a game changer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/&quot;&gt;4 Anonymous Web Browsers That Are Completely Private&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wagoodman/dive&quot;&gt;Dive – A tool for exploring each layer in a docker image&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11&quot;&gt;A Tour of The Top 10 Algorithms for Machine Learning Newbies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linuxjournal.com/content/cloudwatch-devil-i-must-use-it&quot;&gt;CloudWatch Is of the Devil, but I Must Use It&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Three Sales Mistakes Software Engineers Make How Drift Gets Engineers up to Speed by Day 3 Launching Your Own Ruby Gem - Part 1: Build It Why React’s new Hooks API is a game changer 4 Anonymous Web Browsers That Are Completely Private Dive – A tool for exploring each layer in a docker image A Tour of The Top 10 Algorithms for Machine Learning Newbies CloudWatch Is of the Devil, but I Must Use It</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1217,60 +1272,6 @@ Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;
 
       
         <summary type="html">Terraform InSpec Provisioner Plugin SRE: The Biggest Lie Since Kanban SLO Burn Saving and reporting on Pester Infrastructure test results in Log Analytics How to secure your server room This is the first in a three part series on sinkholing, targeted attacks, and how to defend your platform Why Are Enterprises So Slow?</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #59</title>
-      
-      <link href="http://jenius.tech/2018/10/26/engineer-readinglist-59/" rel="alternate" type="text/html" title="Jenius Engineer reading list #59" />
-      <published>2018-10-26T00:00:00+00:00</published>
-      <updated>2018-10-26T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/26/engineer-readinglist-59</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/26/engineer-readinglist-59/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://veekaybee.github.io/2018/09/24/the-case-of-the-broken-lambda/&quot;&gt;The Case of the Broken Lambda&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.anniehedgie.com/azure-managed-images&quot;&gt;Packer and Azure Managed Images&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/pivotal-cloud-foundry-architecture/&quot;&gt;Pivotal Cloud Foundry architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/pivotal-cloud-foundry-metrics/&quot;&gt;Key metrics for monitoring Pivotal Cloud Foundry&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.datadoghq.com/blog/collecting-pcf-logs/&quot;&gt;Collecting Pivotal Cloud Foundry logs and metrics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/nice-things&quot;&gt;We already have nice things, and other reasons not to write in-house ops tools&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gitlab.com/msvechla/kubehiera/blob/master/README.md&quot;&gt;Kubehiera – Lightweight tool to render go template&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">The Case of the Broken Lambda Packer and Azure Managed Images Pivotal Cloud Foundry architecture Key metrics for monitoring Pivotal Cloud Foundry Collecting Pivotal Cloud Foundry logs and metrics We already have nice things, and other reasons not to write in-house ops tools Kubehiera – Lightweight tool to render go template</summary>
       
 
       
