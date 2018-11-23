@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-19T08:11:50+00:00</updated>
+  <updated>2018-11-23T09:46:04+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,213 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #79</title>
+      
+      <link href="http://jenius.tech/2018/11/23/engineer-readinglist-79/" rel="alternate" type="text/html" title="Jenius Engineer reading list #79" />
+      <published>2018-11-23T00:00:00+00:00</published>
+      <updated>2018-11-23T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/23/engineer-readinglist-79</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/23/engineer-readinglist-79/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zammad/zammad&quot;&gt;Zammad – web based open source helpdesk/customer support system&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.contentful.com/blog/2018/11/20/graphql-ruby-love-backend-developer/&quot;&gt;Writing GraphQL queries in native Ruby = Love ❤️&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/uohzxela/clean-code-ruby&quot;&gt;🛁 Clean Code concepts adapted for Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rebo_dood/the-benefits-of-materialized-views-and-how-to-use-them-in-your-ruby-on-rails-project-4ac1b5432881&quot;&gt;The Benefits of Materialized Views (and how to use them in your Ruby on Rails project)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rubyguides.com/2018/11/ruby-mjit/?tl_inbound=1&amp;amp;tl_target_all=1&amp;amp;tl_form_type=1&amp;amp;tl_period_type=1&quot;&gt;What Is MJIT in Ruby 2.6 &amp;amp; How Does It Work?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.epages.com/blog/coding/no-more-hassle-with-rails-secret-management/&quot;&gt;No more hassle with Rails secret management&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Zammad – web based open source helpdesk/customer support system Writing GraphQL queries in native Ruby = Love ❤️ 🛁 Clean Code concepts adapted for Ruby The Benefits of Materialized Views (and how to use them in your Ruby on Rails project) What Is MJIT in Ruby 2.6 &amp;amp; How Does It Work? No more hassle with Rails secret management</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #78</title>
+      
+      <link href="http://jenius.tech/2018/11/22/engineer-readinglist-78/" rel="alternate" type="text/html" title="Jenius Engineer reading list #78" />
+      <published>2018-11-22T00:00:00+00:00</published>
+      <updated>2018-11-22T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/22/engineer-readinglist-78</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/22/engineer-readinglist-78/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/&quot;&gt;One Fish, Two Fish, Blue Fish Sporting New Red Hat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/neshaz/ruby-on-rails-guide-to-debugging-22fg&quot;&gt;Ruby on Rails Guide to Debugging&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@dominik.tornow/kubernetes-api-server-part-i-3fbaf2138a31&quot;&gt;Kubernetes API Server, Part I&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Canner/canner&quot;&gt;⚡️Agile CMS) for Firebase/Firestore, GraphQL and Restful APIs.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.robinwieruch.de/the-road-to-graphql-book/&quot;&gt;The Road to GraphQL [Book]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">One Fish, Two Fish, Blue Fish Sporting New Red Hat Ruby on Rails Guide to Debugging Kubernetes API Server, Part I ⚡️Agile CMS) for Firebase/Firestore, GraphQL and Restful APIs. The Road to GraphQL [Book]</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #77</title>
+      
+      <link href="http://jenius.tech/2018/11/21/engineer-readinglist-77/" rel="alternate" type="text/html" title="Jenius Engineer reading list #77" />
+      <published>2018-11-21T00:00:00+00:00</published>
+      <updated>2018-11-21T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/21/engineer-readinglist-77</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/21/engineer-readinglist-77/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@tamas.csaba/maintainable-software-why-would-i-care-and-once-i-do-how-do-i-know-i-see-one-91896ecff08f&quot;&gt;Maintainable software: why would I care and once I do, how do I know I see one?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://leewaterman.com/dont-make-squirrel-burgers/&quot;&gt;Don’t Make Squirrel Burgers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/minimaxir/big-list-of-naughty-strings&quot;&gt;The Big List of Naughty Strings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.github.com/2018-11-15-state-of-the-octoverse-top-programming-languages/&quot;&gt;The State of the Octoverse: top programming languages of 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Maintainable software: why would I care and once I do, how do I know I see one? Don’t Make Squirrel Burgers The Big List of Naughty Strings The State of the Octoverse: top programming languages of 2018</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #76</title>
+      
+      <link href="http://jenius.tech/2018/11/20/engineer-readinglist-76/" rel="alternate" type="text/html" title="Jenius Engineer reading list #76" />
+      <published>2018-11-20T00:00:00+00:00</published>
+      <updated>2018-11-20T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/20/engineer-readinglist-76</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/20/engineer-readinglist-76/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitlab.com/daamien/postgresql_anonymizer&quot;&gt;postgresql_anonymizer – 🐘🕶️ Anonymization &amp;amp; Data Masking for PostgreSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bundler.io/blog/2018/11/04/an-update-on-bundler-2.html&quot;&gt;An Update on Bundler 2.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://paulmillr.com/posts/using-dark-mode-in-css/&quot;&gt;Using dark mode in CSS with MacOS Mojave&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/meet-yabeda-modular-framework-for-instrumenting-ruby-applications&quot;&gt;Meet Yabeda: A Ruby instrumentation framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">postgresql_anonymizer – 🐘🕶️ Anonymization &amp;amp; Data Masking for PostgreSQL An Update on Bundler 2.0 Using dark mode in CSS with MacOS Mojave Meet Yabeda: A Ruby instrumentation framework</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1019,259 +1226,6 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
 
       
         <summary type="html">Learning at the Speed of Modern Infrastructure echarts Using network namespaces and a virtual switch to isolate servers What MMORPGs can teach us about leveling up a heroic developer team The ABC of Kubernetes access control DevSecCon: Container, serverless growth haunts DevOps security How Instagram is scaling its infrastructure across the ocean</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #62</title>
-      
-      <link href="http://jenius.tech/2018/10/31/engineer-readinglist-62/" rel="alternate" type="text/html" title="Jenius Engineer reading list #62" />
-      <published>2018-10-31T00:00:00+00:00</published>
-      <updated>2018-10-31T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/31/engineer-readinglist-62</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/31/engineer-readinglist-62/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.iheart.com/building-a-microservice-api-gateway-for-iheartradios-radio-station-network-with-graphql-5f9ddb37a314&quot;&gt;Building a Microservice API Gateway for iHeartRadio’s Radio Station Network with GraphQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-hearst-built-its-devops-organization-4-step-process&quot;&gt;How Hearst built its DevOps organization: A 4-step process&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/agile-culture-5-tips-meeting-facilitators&quot;&gt;5 tips for facilitators of agile meetings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2018/10/27/envoy-basics/&quot;&gt;Some Envoy basics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/blockchain-data-security-resource-guide-it-ops-teams&quot;&gt;Blockchain for data security: A resource guide for IT Ops teams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/&quot;&gt;Parsing logs 230x faster with Rust&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Building a Microservice API Gateway for iHeartRadio’s Radio Station Network with GraphQL How Hearst built its DevOps organization: A 4-step process 5 tips for facilitators of agile meetings Some Envoy basics Blockchain for data security: A resource guide for IT Ops teams Parsing logs 230x faster with Rust</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #61</title>
-      
-      <link href="http://jenius.tech/2018/10/30/engineer-readinglist-61/" rel="alternate" type="text/html" title="Jenius Engineer reading list #61" />
-      <published>2018-10-30T00:00:00+00:00</published>
-      <updated>2018-10-30T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/30/engineer-readinglist-61</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/30/engineer-readinglist-61/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sethvargo.com/secrets-in-serverless/&quot;&gt;Secrets in Serverless&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/ansible-operators-kubernetes&quot;&gt;An introduction to Ansible Operators in Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devops.com/adobe-looks-to-drive-devops-adoption-via-the-cloud/&quot;&gt;Adobe Looks to Drive DevOps Adoption via the Cloud&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/towards-better-devops-kpis-a-codeless-change-maturity-model/&quot;&gt;Towards Better DevOps KPIs: A Codeless Change Maturity Model&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nmckinnonblog/microservices-42b09caeb73d&quot;&gt;Microservices – A journey through microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/use-kubernetes-to-speed-machine-learning-development/&quot;&gt;Use Kubernetes to Speed Machine Learning Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/devopslinks/devops-without-devops-tools-3f1deb451b1c&quot;&gt;DevOps without DevOps tools&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/phase-approach-IT-systems&quot;&gt;4-phase approach for taking over large, messy IT systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@balibone/using-docker-containers-to-run-a-distributed-application-locally-eeabd360bca3&quot;&gt;Using Docker Compose to Run Your Applications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-site-reliability-engineer&quot;&gt;What is a site reliability engineer and why you should consider this career path&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/devopslinks/why-kubernetes-and-terraform-are-the-pillars-of-modern-it-infrastructure-feb420d28a76&quot;&gt;Why Kubernetes and Terraform are the pillars of modern IT infrastructure&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Secrets in Serverless An introduction to Ansible Operators in Kubernetes Adobe Looks to Drive DevOps Adoption via the Cloud Towards Better DevOps KPIs: A Codeless Change Maturity Model Microservices – A journey through microservices Use Kubernetes to Speed Machine Learning Development DevOps without DevOps tools 4-phase approach for taking over large, messy IT systems Using Docker Compose to Run Your Applications What is a site reliability engineer and why you should consider this career path Why Kubernetes and Terraform are the pillars of modern IT infrastructure</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Quality Engineer: Eko Adi Prabowo</title>
-      
-      <link href="http://jenius.tech/2018/10/29/jenius-quality-engineer-Eko-Adi-Prabowo/" rel="alternate" type="text/html" title="Jenius Quality Engineer: Eko Adi Prabowo" />
-      <published>2018-10-29T00:00:00+00:00</published>
-      <updated>2018-10-29T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/29/jenius-quality-engineer-Eko-Adi-Prabowo</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/29/jenius-quality-engineer-Eko-Adi-Prabowo/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/bowo-large.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/bowo-small.jpeg&quot; alt=&quot;Eko Adi Prabowo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Halo Semua, Saya Eko Adi Prabowo biasa di panggil Bowo. posisi saya di Jenius sebagai seorang Qualtiy Engineer (QE) untuk Jenius app.&lt;/p&gt;
-
-&lt;p&gt;Saya akan sedikit bercerita tentang job desc saya, Team QE kita biasa panggil, merupakann sebuah team &lt;em&gt;enginner&lt;/em&gt; dari &lt;em&gt;Software Tester&lt;/em&gt; yang berfokus pada &lt;em&gt;Automation Testing&lt;/em&gt; yang dilakukan, kita melakukan testing berkala setiap hari menggunakan &lt;em&gt;script&lt;/em&gt; yang sudah dibangun untuk mendukung CI (continuous integration) agar aplikasi jenius yang akan dirilis ke nasabah dapat sesuai dengan harapan dan dapat digunakan sebagaimana mestinya. Saat ini &lt;em&gt;Automation testing&lt;/em&gt; yang telah dibangun sudah mendukung &lt;em&gt;Platform&lt;/em&gt; Android, IOS dan aplikasi web.
-&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;MacBook pro 13” 2016&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/MacOS_Sierra&quot;&gt;macOS Sierra&lt;/a&gt;: Untuk pekerjaan sehari-hari (coding), dibantu juga dengan Mac Pro 2014, &lt;a href=&quot;https://en.wikipedia.org/wiki/MacOS_Sierra&quot;&gt;macOS Sierra&lt;/a&gt; untuk run daily automation testing aplikasi Jenius sehingga lebih &lt;em&gt;confident&lt;/em&gt; rilis aplikasi Jenius untuk nasabah, dan jika ada &lt;em&gt;bugs&lt;/em&gt; atau masalah bisa terdeteksi sebelum dirilis.
-Supaya mata agak lebih nyaman dan membantu proses koding, menggunakan &lt;em&gt;extended monitor&lt;/em&gt; LG, dan &lt;a href=&quot;https://www.mi.com/en/mi6/&quot;&gt;Xiaomi Mi6&lt;/a&gt; Untuk komunikasi.&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.jetbrains.com/ruby/&quot;&gt;RubyMine&lt;/a&gt;: IDE utama untuk proses code dan debug Automation Mobile Jenius, kemudian &lt;a href=&quot;https://developer.android.com/studio/&quot;&gt;Android Studio&lt;/a&gt;, IDE untuk support SDK dan Emulator android dan tidak lupa &lt;a href=&quot;https://developer.apple.com/xcode/&quot;&gt;Xcode&lt;/a&gt;, IDE untuk support &lt;a href=&quot;https://appium.io/docs/en/drivers/ios-xcuitest/&quot;&gt;XCUITEST&lt;/a&gt; dan Simulator IOS.&lt;/p&gt;
-
-&lt;p&gt;Selain Jenius mendukung &lt;em&gt;platform&lt;/em&gt; android dan iOS, juga mendukung aplikasi web, untuk proses &lt;em&gt;code automation web&lt;/em&gt; dibantu dengan &lt;a href=&quot;https://www.katalon.com/&quot;&gt;Katalon studio&lt;/a&gt;, dan berlaku juga sebagai IDE.&lt;/p&gt;
-
-&lt;p&gt;Untuk management repository menggunakan &lt;a href=&quot;https://www.sourcetreeapp.com/&quot;&gt;Source Tree&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://en.wikipedia.org/wiki/Terminal_(macOS)&quot;&gt;Terminal&lt;/a&gt;, &lt;a href=&quot;https://jenkins.io/&quot;&gt;Jenkins&lt;/a&gt; untuk support Integration Testing.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; &amp;amp; Outlook untuk sarana komunikasi antar tim, dan Chrome &amp;amp; Spotify untuk Sarana hiburan dan mencari informasi seputar teknologi.&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Whatsapp, Line, Slack, Instagram: Untuk komunikasi dengan kerabat dan rekan kerja&lt;/li&gt;
-  &lt;li&gt;Gmail: Untuk main e-mail app&lt;/li&gt;
-  &lt;li&gt;Chrome: Sebagai browser utama&lt;/li&gt;
-  &lt;li&gt;Google Maps : Untuk navigasi utama&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nebengers.com/&quot;&gt;Nebengers&lt;/a&gt; : Untuk pulang ke bandung :)&lt;/li&gt;
-  &lt;li&gt;Spotify : Untuk music &amp;amp; music player&lt;/li&gt;
-  &lt;li&gt;Grab &amp;amp; Gojek: sebagai sarana transportasi utama&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;p&gt;Macbook, Charger Mac &amp;amp; HP, Kunci Kosan, Kacamata, ID card, dompet dan tidak lupa baju Gym&lt;/p&gt;
-
-&lt;h3&gt;Mobile Homescreen&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/bowo-hs-large.png&quot;&gt;&lt;img src=&quot;/images/posts/engineers/bowo-hs-small.png&quot; alt=&quot;Eko Adi Prabowo homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius quality assurance" />
-      
-        <category term="jenius quality engineer" />
-      
-        <category term="backstage" />
-      
-        <category term="engineer" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Halo Semua, Saya Eko Adi Prabowo biasa di panggil Bowo. posisi saya di Jenius sebagai seorang Qualtiy Engineer (QE) untuk Jenius app. Saya akan sedikit bercerita tentang job desc saya, Team QE kita biasa panggil, merupakann sebuah team enginner dari Software Tester yang berfokus pada Automation Testing yang dilakukan, kita melakukan testing berkala setiap hari menggunakan script yang sudah dibangun untuk mendukung CI (continuous integration) agar aplikasi jenius yang akan dirilis ke nasabah dapat sesuai dengan harapan dan dapat digunakan sebagaimana mestinya. Saat ini Automation testing yang telah dibangun sudah mendukung Platform Android, IOS dan aplikasi web.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #60</title>
-      
-      <link href="http://jenius.tech/2018/10/29/engineer-readinglist-60/" rel="alternate" type="text/html" title="Jenius Engineer reading list #60" />
-      <published>2018-10-29T00:00:00+00:00</published>
-      <updated>2018-10-29T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/10/29/engineer-readinglist-60</id>
-      <content type="html" xml:base="http://jenius.tech/2018/10/29/engineer-readinglist-60/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/inspec/terraform-provisioner-inspec&quot;&gt;Terraform InSpec Provisioner Plugin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://theagileadmin.com/2018/10/02/sre-the-biggest-lie-since-kanban/&quot;&gt;SRE: The Biggest Lie Since Kanban&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1GsOYK5UGjQEgl2rNjSI7TAapkfYsNje87NBr37K36gE/edit#slide=id.g3a081004a6_0_0&quot;&gt;SLO Burn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tjaddison.com/2018/09/23/Saving-and-reporting-on-Pester-Infrastructure-test-results-in-Log-Analytics&quot;&gt;Saving and reporting on Pester Infrastructure test results in Log Analytics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hpe.com/us/en/insights/articles/how-to-secure-your-server-room-1809.html&quot;&gt;How to secure your server room&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/10/sinkholing-1/&quot;&gt;This is the first in a three part series on sinkholing, targeted attacks, and how to defend your platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zwischenzugs.com/2018/10/02/why-are-enterprises-so-slow/&quot;&gt;Why Are Enterprises So Slow?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Terraform InSpec Provisioner Plugin SRE: The Biggest Lie Since Kanban SLO Burn Saving and reporting on Pester Infrastructure test results in Log Analytics How to secure your server room This is the first in a three part series on sinkholing, targeted attacks, and how to defend your platform Why Are Enterprises So Slow?</summary>
       
 
       
