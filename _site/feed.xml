@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-23T09:46:04+00:00</updated>
+  <updated>2018-11-26T04:50:45+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #80</title>
+      
+      <link href="http://jenius.tech/2018/11/26/engineer-readinglist-80/" rel="alternate" type="text/html" title="Jenius Engineer reading list #80" />
+      <published>2018-11-26T00:00:00+00:00</published>
+      <updated>2018-11-26T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/26/engineer-readinglist-80</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/26/engineer-readinglist-80/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/xlni/&quot;&gt;Facebook, NYU expand available languages for natural language understanding systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/code-documentation&quot;&gt;How to Write Code That Documents Itself&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52&quot;&gt;Lazy-loading components in React 16.6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql&quot;&gt;ATM Fraud Detection with Apache Kafka and KSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/anomaly-detection-in-zipkin-trace-data-87c8a2ded8a1&quot;&gt;Anomaly Detection in Zipkin Trace Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblogs.nvidia.com/deep-learning-hotel-aesthetics-photos/&quot;&gt;Deep Learning for Classifying Hotel Aesthetics Photos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Facebook, NYU expand available languages for natural language understanding systems How to Write Code That Documents Itself Lazy-loading components in React 16.6 ATM Fraud Detection with Apache Kafka and KSQL Anomaly Detection in Zipkin Trace Data Deep Learning for Classifying Hotel Aesthetics Photos</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1172,60 +1225,6 @@ PLAY RECAP &lt;span class=&quot;k&quot;&gt;*************************************
 
       
         <summary type="html">Belajar menggunakan Ansible untuk mengatur mesin remote atau untuk provisioning. Install Untuk macOS, bisa langsung pakai homebrew untuk instalasi $ brew install ansible Jika sukses di-instal, kita test dengan perintah $ ansible --version ansible 2.7.0</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #63</title>
-      
-      <link href="http://jenius.tech/2018/11/01/engineer-readinglist-63/" rel="alternate" type="text/html" title="Jenius Engineer reading list #63" />
-      <published>2018-11-01T00:00:00+00:00</published>
-      <updated>2018-11-01T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/01/engineer-readinglist-63</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/01/engineer-readinglist-63/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/learning-at-the-speed-of-modern-infrastructure/&quot;&gt;Learning at the Speed of Modern Infrastructure&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ecomfe.github.io/echarts-doc/public/en/index.html&quot;&gt;echarts&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ops.tips/blog/using-network-namespaces-and-bridge-to-isolate-servers/&quot;&gt;Using network namespaces and a virtual switch to isolate servers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/what-mmorpgs-can-teach-us&quot;&gt;What MMORPGs can teach us about leveling up a heroic developer team&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/the-abc-of-kubernetes-access-control-e7d280af5c88&quot;&gt;The ABC of Kubernetes access control&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devseccon-container-serverless-growth-haunts-devops-security&quot;&gt;DevSecCon: Container, serverless growth haunts DevOps security&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/10/instagram-scaled-infrastructure&quot;&gt;How Instagram is scaling its infrastructure across the ocean&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Learning at the Speed of Modern Infrastructure echarts Using network namespaces and a virtual switch to isolate servers What MMORPGs can teach us about leveling up a heroic developer team The ABC of Kubernetes access control DevSecCon: Container, serverless growth haunts DevOps security How Instagram is scaling its infrastructure across the ocean</summary>
       
 
       
