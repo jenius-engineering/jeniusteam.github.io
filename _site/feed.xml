@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-29T07:45:42+00:00</updated>
+  <updated>2018-11-29T15:55:33+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,97 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Quality Assurance: Dedi Setiadi</title>
+      
+      <link href="http://jenius.tech/2018/11/29/jenius-quality-assurance-dedi-setiadi/" rel="alternate" type="text/html" title="Jenius Quality Assurance: Dedi Setiadi" />
+      <published>2018-11-29T00:00:00+00:00</published>
+      <updated>2018-11-29T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/29/jenius-quality-assurance-dedi-setiadi</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/29/jenius-quality-assurance-dedi-setiadi/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/dedi-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/dedi-small.jpg&quot; alt=&quot;Dedi Setiadi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
+&lt;p&gt;Halo! Perkenalkan nama saya Dedi Setiadi, saya bekerja di Jenius sebagai Quality Assurance Specialist. 
+Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Quality Assurance, sebuah perangkat lunak pun perlu ada Quality Assurance.&lt;/p&gt;
+
+&lt;p&gt;Selain memastikan aplikasi Jenius ini sudah sesuai dengan requirement (baik itu dari sisi teknis maupun estetis), we, as a Quality Assurance love to break what the developers already build (atau istilahnya mencari-cari kesalahan gitu). Jadi bisa dibilang QA itu punya love-hate relationship sama para developer. 😂😂&lt;/p&gt;
+
+&lt;!-- more --&gt;
+&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Macbook Pro 13inch 2016&lt;/li&gt;
+  &lt;li&gt;iPhone 6s Plus (generasi terakhir dengan jack 3.5mm!!)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Amazon-Kindle-Paperwhite-6-Inch-4GB-eReader/dp/B00OQVZDJM&quot;&gt;Kindle Paperwhite&lt;/a&gt; (an avid reader here). &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
+&lt;h4&gt;Desktop&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/downloads/safari&quot;&gt;Safari&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Chrome&lt;/a&gt; (QA love multiple browsers!)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://meetfranz.com/&quot;&gt;Franz&lt;/a&gt; (Slack and whatsapp in one place!!)&lt;/li&gt;
+  &lt;li&gt;(dan pastinya) &lt;a href=&quot;https://spotify.com&quot;&gt;SPOTIFY&lt;/a&gt;. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Mobile&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jenius.com&quot;&gt;JENIUS!!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/dedaydedi/&quot;&gt;Instagram&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/dedaydedi&quot;&gt;twitter&lt;/a&gt; (no facebook)&lt;/li&gt;
+  &lt;li&gt;Jira&lt;/li&gt;
+  &lt;li&gt;Trafi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;charger handphone&lt;/li&gt;
+  &lt;li&gt;kotak makan a.k.a bekel&lt;/li&gt;
+  &lt;li&gt;earphone (for a sing along commute)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Mobile Homescreen&lt;/h3&gt;
+&lt;p&gt;Karena memang pada dasarnya saya suka makan.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/dedi-hs-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/dedi-hs-small.jpg&quot; alt=&quot;Dedi Setiadi homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="backstage" />
+      
+
+      
+        <category term="jenius quality assurance" />
+      
+        <category term="backstage" />
+      
+        <category term="engineer" />
+      
+
+      
+        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Halo! Perkenalkan nama saya Dedi Setiadi, saya bekerja di Jenius sebagai Quality Assurance Specialist.  Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Quality Assurance, sebuah perangkat lunak pun perlu ada Quality Assurance. Selain memastikan aplikasi Jenius ini sudah sesuai dengan requirement (baik itu dari sisi teknis maupun estetis), we, as a Quality Assurance love to break what the developers already build (atau istilahnya mencari-cari kesalahan gitu). Jadi bisa dibilang QA itu punya love-hate relationship sama para developer. 😂😂</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1108,59 +1199,6 @@ Tentunya ada browser untuk test aplikasi web Jenius, yang sudah dilengkapi denga
 
       
         <summary type="html">Siapa dan apa yang dilakukan di Jenius? Heyho! Saya Setiati Rezeki biasa di panggil Tia. Posisi saya di Jenius sebagai Digital Banking Quality Assurance &amp;amp; Solution Lead. Biasanya lebih di kenal dengan Jenius SQA Lead yang menaungi Dua team QA &amp;amp; QE. Sedikit cerita ya, dua team saya ini, QA &amp;amp; QE adalah team yang memastikan quality Dari Jenius App (baik itu Android, iOS maupun Web Desktop) sebelum naik ke production. Dari kedua team ini saya harus memastikan bahwa teman-teman QA &amp;amp; QE sudah melakukan end-to-end Quality Assurance Process. Mulai Dari create test cases/test script, create test plan, create test run sampai melakukan testing. Baik testing di device langsung maupun secara automation. Jangan percaya kalau kerjaan SQA itu mudah. Justru kami tuh dituntut harus lebih kreatif dan berfikir lebih dari requirement applikasi yang akan dibuat maupun dari sisi user behaviour. Belum lagi ada beberapa Platform dan Operating System yang sering berbeda satu sama lainnya. Hehe cukup ribet tapi seru!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #65</title>
-      
-      <link href="http://jenius.tech/2018/11/05/engineer-readinglist-65/" rel="alternate" type="text/html" title="Jenius Engineer reading list #65" />
-      <published>2018-11-05T00:00:00+00:00</published>
-      <updated>2018-11-05T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/05/engineer-readinglist-65</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/05/engineer-readinglist-65/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/demystifying-javascript-testing/&quot;&gt;Demystifying JavaScript Testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-you-can-improve-your-workflow-using-the-javascript-console-bdd7823a9472&quot;&gt;How you can improve your workflow using the JavaScript console&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/samsung-internet-dev/disappearing-frameworks-ed921f411c38&quot;&gt;Disappearing Frameworks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nemethgergely.com/coding-as-an-engineering-manager/&quot;&gt;Coding as an Engineering Manager&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/weapons-of-micro-destruction-how-our-likes-hijacked-democracy-c9ab6fcd3d02&quot;&gt;Weapons of Micro Destruction: How Our ‘Likes’ Hijacked Democracy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6&quot;&gt;Three Popular Clustering Methods and When to Use Each&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Demystifying JavaScript Testing How you can improve your workflow using the JavaScript console Disappearing Frameworks Coding as an Engineering Manager Weapons of Micro Destruction: How Our ‘Likes’ Hijacked Democracy Three Popular Clustering Methods and When to Use Each</summary>
       
 
       
