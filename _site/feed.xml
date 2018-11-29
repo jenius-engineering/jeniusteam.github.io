@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-27T06:32:12+00:00</updated>
+  <updated>2018-11-29T07:45:42+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #82</title>
+      
+      <link href="http://jenius.tech/2018/11/29/engineer-readinglist-82/" rel="alternate" type="text/html" title="Jenius Engineer reading list #82" />
+      <published>2018-11-29T00:00:00+00:00</published>
+      <updated>2018-11-29T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/29/engineer-readinglist-82</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/29/engineer-readinglist-82/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab&quot;&gt;Kubernetes 202 — Making It Fully Operational&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/who-is-in-charge-of-developing-a-devops-culture/&quot;&gt;Who Is in Charge of Developing a DevOps Culture?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/open-source-serverless-platforms&quot;&gt;7 open source platforms to get started with serverless computing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8&quot;&gt;The End Is Near for Mobile Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/best-practices-cicd&quot;&gt;3 best practices for continuous integration and deployment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/reflecting-on-building-real-time-apis-at-facebook-6089f4b7de56&quot;&gt;Reflecting on Building Real-time APIs at Facebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/add-it-up-china-uses-open-source-to-deliver-cloud-services/&quot;&gt;Add It Up: China Uses Open Source to Deliver Cloud Services&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Kubernetes 202 — Making It Fully Operational Who Is in Charge of Developing a DevOps Culture? 7 open source platforms to get started with serverless computing The End Is Near for Mobile Apps 3 best practices for continuous integration and deployment Reflecting on Building Real-time APIs at Facebook Add It Up: China Uses Open Source to Deliver Cloud Services</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1107,59 +1161,6 @@ Tentunya ada browser untuk test aplikasi web Jenius, yang sudah dilengkapi denga
 
       
         <summary type="html">Demystifying JavaScript Testing How you can improve your workflow using the JavaScript console Disappearing Frameworks Coding as an Engineering Manager Weapons of Micro Destruction: How Our ‘Likes’ Hijacked Democracy Three Popular Clustering Methods and When to Use Each</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #64</title>
-      
-      <link href="http://jenius.tech/2018/11/02/engineer-readinglist-64/" rel="alternate" type="text/html" title="Jenius Engineer reading list #64" />
-      <published>2018-11-02T00:00:00+00:00</published>
-      <updated>2018-11-02T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/02/engineer-readinglist-64</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/02/engineer-readinglist-64/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://willcrichton.net/notes/systems-programming/&quot;&gt;What is Systems Programming, Really? &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pierrchen.blogspot.com/2018/08/understand-container-index.html?m=1&quot;&gt;Understand Container&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/elbstack/the-largest-benchmark-of-serverless-providers-ac19b55750f4&quot;&gt;The largest benchmark of Serverless providers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bravenewgeek.com/the-observability-pipeline/&quot;&gt;The Observability Pipeline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLs4CJRBY5F1KrUr7z_2mur2QdAKXyh-k3&quot;&gt;PyCon Australia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e&quot;&gt;Useful tricks you might not know about Git stash&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">What is Systems Programming, Really? Understand Container The largest benchmark of Serverless providers The Observability Pipeline PyCon Australia Useful tricks you might not know about Git stash</summary>
       
 
       
