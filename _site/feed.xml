@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-29T15:55:33+00:00</updated>
+  <updated>2018-11-30T04:14:11+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,61 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #83</title>
+      
+      <link href="http://jenius.tech/2018/11/30/engineer-readinglist-83/" rel="alternate" type="text/html" title="Jenius Engineer reading list #83" />
+      <published>2018-11-30T00:00:00+00:00</published>
+      <updated>2018-11-30T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/11/30/engineer-readinglist-83</id>
+      <content type="html" xml:base="http://jenius.tech/2018/11/30/engineer-readinglist-83/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@yellow/monolithic-architecture-vs-microservices-choosing-the-right-architecture-for-the-project-4985b2253778&quot;&gt;Monolithic Architecture vs. Microservices: Choosing the Right Architecture for the Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302&quot;&gt;Apache Kafka’s Distributed System Firefighter — The Controller Broker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/profiling-case-missing-milliseconds&quot;&gt;Profiling: The Case of the Missing Milliseconds &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/power-efficiency-for-performance-deficiency-a1ef79d1379b&quot;&gt;Power-efficiency for performance-deficiency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/avoid-architectural-change-disaster-with-app-performance-monitoring/&quot;&gt;Avoid Architectural Change Disaster with App Performance Monitoring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/neural-networks-for-music-a-journey-through-its-history-91f93c3459fb&quot;&gt;Neural Networks For Music: A Journey Through Its History&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devops.com/role-of-devops-in-mobile-app-development/&quot;&gt;Role of DevOps in Mobile App Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/outsystems-engineering/a-container-for-your-app-my-dear-87118ca84739&quot;&gt;A Container For Your App, My Dear!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Monolithic Architecture vs. Microservices: Choosing the Right Architecture for the Project Apache Kafka’s Distributed System Firefighter — The Controller Broker Profiling: The Case of the Missing Milliseconds Power-efficiency for performance-deficiency Avoid Architectural Change Disaster with App Performance Monitoring Neural Networks For Music: A Journey Through Its History Role of DevOps in Mobile App Development A Container For Your App, My Dear!</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1110,95 +1165,6 @@ Tentunya ada browser untuk test aplikasi web Jenius, yang sudah dilengkapi denga
 
       
         <summary type="html">The most dynamic static site you’ll ever see Docker Swarm or Kubernetes Harbor – Manage and serve container images in a secure environment PostgreSQL vs MySQL vs MariaDB The differing definitions of “serverless”</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Quality Assurance Lead: Setiati Rezeki</title>
-      
-      <link href="http://jenius.tech/2018/11/05/jenius-quality-assurance-lead-setiati-rezeki/" rel="alternate" type="text/html" title="Jenius Quality Assurance Lead: Setiati Rezeki" />
-      <published>2018-11-05T00:00:00+00:00</published>
-      <updated>2018-11-05T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/05/jenius-quality-assurance-lead-setiati-rezeki</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/05/jenius-quality-assurance-lead-setiati-rezeki/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/tia-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/tia-small.jpg&quot; alt=&quot;Setiati Rezeki&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Heyho! Saya Setiati Rezeki biasa di panggil Tia. Posisi saya di &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; sebagai Digital Banking Quality Assurance &amp;amp; Solution Lead. Biasanya lebih di kenal dengan Jenius &lt;a href=&quot;https://en.wikipedia.org/wiki/Software_quality_assurance&quot;&gt;SQA&lt;/a&gt; Lead yang menaungi Dua team QA &amp;amp; QE.&lt;/p&gt;
-
-&lt;p&gt;Sedikit cerita ya, dua team saya ini, QA &amp;amp; QE adalah team yang memastikan quality Dari Jenius App (baik itu Android, iOS maupun Web Desktop) sebelum naik ke production. Dari kedua team ini saya harus memastikan bahwa teman-teman QA &amp;amp; QE sudah melakukan end-to-end Quality Assurance Process. Mulai Dari create test cases/test script, create test plan, create test run sampai melakukan testing. Baik testing di device langsung maupun secara automation.&lt;/p&gt;
-
-&lt;p&gt;Jangan percaya kalau kerjaan SQA itu mudah. Justru kami tuh dituntut harus lebih kreatif dan berfikir lebih dari requirement applikasi yang akan dibuat maupun dari sisi user behaviour. Belum lagi ada beberapa Platform dan Operating System yang sering berbeda satu sama lainnya. Hehe cukup ribet tapi seru!
-&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://support.apple.com/kb/SP747&quot;&gt;MacBook Pro 13 Inch 2016&lt;/a&gt; macOS &lt;a href=&quot;https://en.wikipedia.org/wiki/MacOS_High_Sierra&quot;&gt;High Sierra&lt;/a&gt;, ditambah dengan Extended Monitor Dell, lumayan membantu agar posisi leher tidak tertekuk, kemudian &lt;a href=&quot;https://www.gsmarena.com/apple_iphone_6-6378.php&quot;&gt;iPhone 6&lt;/a&gt;, Personal Device yang juga di gunakan untuk testing, juga &lt;a href=&quot;https://www.gsmarena.com/samsung_galaxy_a7_(2018)-9340.php&quot;&gt;Samsung Galaxy A7&lt;/a&gt; dilengkapi Android 8.0 untuk keperluan testing juga.
-&lt;a href=&quot;https://www.wdc.com/products/portable-storage/wd-elements-portable.html&quot;&gt;WD External Harddisk 2TB&lt;/a&gt; - Kemarin digunakan untuk menyimpan foto dan sekarang lagi digunakan untuk menyimpan hasil tularan virus drama Korea ;)&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;Untuk pekerjaaan saya menggunakan multiple browser, &lt;a href=&quot;https://support.apple.com/en-sg/safari&quot;&gt;Safari&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Chrome&lt;/a&gt;, &lt;a href=&quot;https://www.mozilla.org/en-US/firefox/new/&quot;&gt;Firefox&lt;/a&gt; yang kebanyakan di pakai untuk testing, &lt;a href=&quot;https://meetfranz.com/&quot;&gt;Franz&lt;/a&gt;, &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;, &lt;a href=&quot;https://whatsapp.com/&quot;&gt;WhatsApp&lt;/a&gt;, &lt;a href=&quot;https://telegram.org/&quot;&gt;telegram&lt;/a&gt; di satu tempat untuk sarana Komunikasi, kemudian Outlook untuk melihat email &amp;amp; agenda meeting.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.getpostman.com/&quot;&gt;Postman&lt;/a&gt; - rencananya untuk ikutan test API tapi apa daya waktu sering tidak memungkinkan, &lt;a href=&quot;https://support.apple.com/en-sg/guide/stickies/welcome/mac&quot;&gt;Sticky notes&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://support.apple.com/en-sg/guide/notes/welcome/mac&quot;&gt;Apple Notes&lt;/a&gt; untuk membuat action items dan catatan kecil, &lt;a href=&quot;https://www.apple.com/itunes/&quot;&gt;Itunes&lt;/a&gt; untuk mendengarkan Musik (jika waktunya memungkinkan) :)&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;p&gt;Sering bekerja mobile, apalagi testing apps, Sudah pasti ada Apps Jenius dari berbagai environment (development, SIT, UAT, Staging, Production) mendominasi device saya (lihat screenshot :D). Termasuk dengan tools yang mempermudah pekerjaan supertitles Jira, confluence dan test flight.&lt;/p&gt;
-
-&lt;p&gt;Hobby lama utak atik foto juga membuat saya mempunyai beberapa aplikasi untuk photography supertitles &lt;a href=&quot;https://picsart.com/&quot;&gt;PicArt&lt;/a&gt;, Panorama, &lt;a href=&quot;https://www.flickr.com/&quot;&gt;Flickr&lt;/a&gt; dan &lt;a href=&quot;https://www.shutterstock.com/&quot;&gt;Shutterstock&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Perjalanan planning untuk pulang pergi juga membuat ada aplikasi &lt;a href=&quot;https://www.waze.com/&quot;&gt;Waze&lt;/a&gt; dan &lt;a href=&quot;https://www.google.com/maps&quot;&gt;google Maps&lt;/a&gt;. Termasuk juga &lt;a href=&quot;https://www.grab.com/&quot;&gt;Grab&lt;/a&gt; dan &lt;a href=&quot;https://www.go-jek.com/&quot;&gt;Gojek&lt;/a&gt; jika sedang di perlukan.&lt;/p&gt;
-
-&lt;p&gt;Aplikasi Slack, Whatsapp dan telegram merupakan bagian penting ada di mobile device sebagai sarana untuk komunikasi dengan keluarga, teman dan rekan kerja.&lt;/p&gt;
-
-&lt;h3&gt;Apa Isi Tas anda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Tissue kering dan basah&lt;/li&gt;
-  &lt;li&gt;Laptop + charger&lt;/li&gt;
-  &lt;li&gt;Pouch isi uang, kartu-kartu, pensil alis, kaca, lip-ice, gunting kuku&lt;/li&gt;
-  &lt;li&gt;Pouch isi tas lipat, pulpen, notes, earphone, external harddisk, kotak obat yang berisi berbagai vitamin, lip balm, sunblock UV protector, parfume&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/tia-hs-large.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/tia-hs-small.jpeg&quot; alt=&quot;Setiati Rezeki homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius quality assurance" />
-      
-        <category term="jenius quality engineer" />
-      
-        <category term="backstage" />
-      
-        <category term="engineer" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Heyho! Saya Setiati Rezeki biasa di panggil Tia. Posisi saya di Jenius sebagai Digital Banking Quality Assurance &amp;amp; Solution Lead. Biasanya lebih di kenal dengan Jenius SQA Lead yang menaungi Dua team QA &amp;amp; QE. Sedikit cerita ya, dua team saya ini, QA &amp;amp; QE adalah team yang memastikan quality Dari Jenius App (baik itu Android, iOS maupun Web Desktop) sebelum naik ke production. Dari kedua team ini saya harus memastikan bahwa teman-teman QA &amp;amp; QE sudah melakukan end-to-end Quality Assurance Process. Mulai Dari create test cases/test script, create test plan, create test run sampai melakukan testing. Baik testing di device langsung maupun secara automation. Jangan percaya kalau kerjaan SQA itu mudah. Justru kami tuh dituntut harus lebih kreatif dan berfikir lebih dari requirement applikasi yang akan dibuat maupun dari sisi user behaviour. Belum lagi ada beberapa Platform dan Operating System yang sering berbeda satu sama lainnya. Hehe cukup ribet tapi seru!</summary>
       
 
       
