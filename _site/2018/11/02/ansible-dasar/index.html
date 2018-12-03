@@ -141,7 +141,7 @@
 <h3>Install</h3>
 <p>Untuk macOS, bisa langsung pakai homebrew untuk instalasi</p>
 
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>brew install ansible
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>brew <span class="nb">install </span>ansible
 </code></pre></div></div>
 <p>Jika sukses di-instal, kita test dengan perintah</p>
 <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>ansible <span class="nt">--version</span>
@@ -150,7 +150,7 @@ ansible 2.7.0
 <!-- more -->
 <h3>Konfigurasi</h3>
 <p>Untuk contoh sederhana ini, kita buat dengan menuliskan konfigurasi file yang berisi <em>host</em> target yang akan kita <em>provisioning</em>, di dalam folder project kita,</p>
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>touch hosts
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">touch </span>hosts
 </code></pre></div></div>
 
 <p>Kemudian <code class="highlighter-rouge">vi hosts</code> dan masukkan daftar <em>host</em> yang akan digunakan, di sini menggunakan host yang telah saya buat sebelumnya di <a href="https://m.do.co/c/714b3c32b2e7">digitalocean</a>, menggunakan Terraform (!TODO nulis), contoh.</p>
@@ -194,7 +194,7 @@ ansible 2.7.0
 
 TASK <span class="o">[</span>Gathering Facts] <span class="k">*****************************************************************************************</span>ok: <span class="o">[</span>128.199.76.43]
 
-TASK <span class="o">[</span>install mysql-server] <span class="k">*****************************************************************************************</span>ok: <span class="o">[</span>128.199.76.43]
+TASK <span class="o">[</span><span class="nb">install </span>mysql-server] <span class="k">*****************************************************************************************</span>ok: <span class="o">[</span>128.199.76.43]
 
 TASK <span class="o">[</span>uninstall mysql-server 1.0] <span class="k">*****************************************************************************************</span>ok: <span class="o">[</span>128.199.76.43]
 

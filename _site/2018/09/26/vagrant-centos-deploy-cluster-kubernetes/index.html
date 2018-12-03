@@ -190,7 +190,7 @@ kube3   192.168.10.14
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
 <span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>setenforce 0 
-<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>sed <span class="nt">-i</span> <span class="nt">--follow-symlinks</span> <span class="se">\ </span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo sed</span> <span class="nt">-i</span> <span class="nt">--follow-symlinks</span> <span class="se">\ </span>
                     <span class="s1">'s/SELINUX=enforcing/SELINUX=disabled/g'</span> <span class="se">\</span>
                     /etc/sysconfig/selinux
 </code></pre></div></div>
@@ -222,7 +222,7 @@ kube3   192.168.10.14
 <p>Kubernetes membutuhkan <em>container</em>, dan yang kita gunakan untuk workshop ini adalah Docker, untuk menginstall-nya ikuti langkah berikut</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
-<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>yum install <span class="nt">-y</span> yum-utils <span class="se">\</span>
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>yum <span class="nb">install</span> <span class="nt">-y</span> yum-utils <span class="se">\</span>
   device-mapper-persistent-data <span class="se">\</span>
   lvm2
 </code></pre></div></div>
@@ -236,12 +236,12 @@ kube3   192.168.10.14
 </code></pre></div></div>
 
 <p>Di <em>howto</em> setup kubernetes, disarankan untuk menggunakan menggunakan docker versi <code class="highlighter-rouge">17.03</code>, tapi sejauh ini menggunakan versi <code class="highlighter-rouge">18.06.1-ce</code> tidak ada masalah, karena jika install langsung biasanya merujuk ke versi yang terbaru, maka untuk memilih menggunakan versi yang diharapkan bisa menggunakan perintah</p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>yum list docker-ce <span class="nt">--showduplicates</span> | sort <span class="nt">-r</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>yum list docker-ce <span class="nt">--showduplicates</span> | <span class="nb">sort</span> <span class="nt">-r</span>
 </code></pre></div></div>
 
 <p>Dan untuk install versi yang spesifik sesuai dengan tulisan versi yang keluar dari hasil menjalankan perintah di atas.</p>
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
-<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo sudo </span>yum install docker-ce-&lt;VERSION STRING&gt;
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo sudo </span>yum <span class="nb">install </span>docker-ce-&lt;VERSION STRING&gt;
 </code></pre></div></div>
 
 <h4>Install Kubernetes</h4>
@@ -261,7 +261,7 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 
 <p>Install <code class="highlighter-rouge">kubectl</code>, <code class="highlighter-rouge">kubeadm</code> dan <code class="highlighter-rouge">kubelet</code></p>
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
-<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>yum install <span class="nt">-y</span> kubelet kubeadm kubectl
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>yum <span class="nb">install</span> <span class="nt">-y</span> kubelet kubeadm kubectl
 </code></pre></div></div>
 
 <p>Kemudian reboot semua node.</p>
@@ -280,7 +280,7 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 
 <p>Masukkan cgroup-driver ini masuk ke konfigurasi <code class="highlighter-rouge">kubeadm</code> ke <code class="highlighter-rouge">cgroupfs</code></p>
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node</span>
-<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>sed <span class="nt">-i</span> <span class="s1">'s/cgroup-driver=systemd/cgroup-driver=cgroupfs/g'</span> /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo sed</span> <span class="nt">-i</span> <span class="s1">'s/cgroup-driver=systemd/cgroup-driver=cgroupfs/g'</span> /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
 </code></pre></div></div>
 
 <p>Reload systemd dan restart service kubelet</p>
@@ -302,9 +302,9 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 <p>Agar kubernetes bisa digunakan, maka diperlukan file konfigurasi yang akan kita simpan di <code class="highlighter-rouge">$HOME</code> user kita, tidak disarankan menjalankan kubernetes sebagai root. Untuk itu, kita siapkan direktori dotfile, dan juga salin file <code class="highlighter-rouge">admin.conf</code> di kubernetes folder.</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini HANYA di master</span>
-<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>mkdir <span class="nt">-p</span> <span class="nv">$HOME</span>/.kube
-<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>cp <span class="nt">-i</span> /etc/kubernetes/admin.conf <span class="nv">$HOME</span>/.kube/config
-<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo </span>chown <span class="k">$(</span>id <span class="nt">-u</span><span class="k">)</span>:<span class="k">$(</span>id <span class="nt">-g</span><span class="k">)</span> <span class="nv">$HOME</span>/.kube/config
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">mkdir</span> <span class="nt">-p</span> <span class="nv">$HOME</span>/.kube
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo cp</span> <span class="nt">-i</span> /etc/kubernetes/admin.conf <span class="nv">$HOME</span>/.kube/config
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo chown</span> <span class="k">$(</span><span class="nb">id</span> <span class="nt">-u</span><span class="k">)</span>:<span class="k">$(</span><span class="nb">id</span> <span class="nt">-g</span><span class="k">)</span> <span class="nv">$HOME</span>/.kube/config
 </code></pre></div></div>
 <p>Seperti yang kita sebutkan sebelumnya, kita menggunakan <code class="highlighter-rouge">flannel</code>, untuk itu kita akan mendeploy <code class="highlighter-rouge">flannel</code> di master node kita.</p>
 
@@ -332,7 +332,7 @@ kube-system   kube-scheduler-master            1/1       Running    7          1
 <p>Langkah selanjutnya adalah menambahkan <code class="highlighter-rouge">kube1</code>, <code class="highlighter-rouge">kube2</code> dan <code class="highlighter-rouge">kube3</code> ke cluster, yang pertama dilakukan adalah perintah yang sebelumnya muncul dari hasil <code class="highlighter-rouge">kubeadmin init</code> diatas.</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini di semua node WORKER</span>
-<span class="o">[</span>vagrant@kube1 ~]<span class="nv">$ </span><span class="nb">sudo </span>kubeadm join 192.168.10.11:6443 <span class="nt">--token</span> 0d3sfd.0ky3mcq2hof7a72a <span class="nt">--discovery-token-ca-cert-hash</span> sha256:9adc5abcb739cac1ff5fcf0b8d3523c869ed498af768eb85b5187e570869e949
+<span class="o">[</span>vagrant@kube1 ~]<span class="nv">$ </span><span class="nb">sudo </span>kubeadm <span class="nb">join </span>192.168.10.11:6443 <span class="nt">--token</span> 0d3sfd.0ky3mcq2hof7a72a <span class="nt">--discovery-token-ca-cert-hash</span> sha256:9adc5abcb739cac1ff5fcf0b8d3523c869ed498af768eb85b5187e570869e949
 </code></pre></div></div>
 <p>Jalankan perintah diatas disemua node worker di cluster.Jika sudah, silakan cek apakah node worker sudah bergabung dengan cluster ini atau belum.</p>
 
@@ -404,7 +404,7 @@ nginx        NodePort    10.96.12.181   &lt;none&gt;        80:31802/TCP   8m
 <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span>vagrant@master ~]<span class="nv">$ </span>curl 192.168.10.12:31802
 &lt;<span class="o">!</span>DOCTYPE html&gt;
 &lt;html&gt;
-&lt;head&gt;
+&lt;<span class="nb">head</span><span class="o">&gt;</span>
 &lt;title&gt;Welcome to nginx!&lt;/title&gt;
 ...
 

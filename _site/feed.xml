@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-11-30T04:14:11+00:00</updated>
+  <updated>2018-12-03T15:37:46+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #84</title>
+      
+      <link href="http://jenius.tech/2018/12/03/engineer-readinglist-84/" rel="alternate" type="text/html" title="Jenius Engineer reading list #84" />
+      <published>2018-12-03T00:00:00+00:00</published>
+      <updated>2018-12-03T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/12/03/engineer-readinglist-84</id>
+      <content type="html" xml:base="http://jenius.tech/2018/12/03/engineer-readinglist-84/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/&quot;&gt;Introducing FuseBox, an alternative to Webpack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/&quot;&gt;Advanced web security topics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/scaling-michelangelo/&quot;&gt;Scaling Machine Learning at Uber with Michelangelo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kgretzky/evilginx2&quot;&gt;EvilGinx – Standalone man-in-the-middle attack framework &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5&quot;&gt;Why you should avoid ORMs (with examples in Node.js)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.documentnode.io/learn-document-node-in-10-seconds&quot;&gt;Learn Document Node in 10 seconds from my business card&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Introducing FuseBox, an alternative to Webpack Advanced web security topics Scaling Machine Learning at Uber with Michelangelo EvilGinx – Standalone man-in-the-middle attack framework Why you should avoid ORMs (with examples in Node.js) Learn Document Node in 10 seconds from my business card</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1113,58 +1166,6 @@ Tentunya ada browser untuk test aplikasi web Jenius, yang sudah dilengkapi denga
 
       
         <summary type="html">How to be Strategic Introducing GitHub Actions Mole – Easily create SSH tunnels Evergreen – A Design System for the Web Cache Invalidation Complexity: Rails 5.2 and Dalli Cache Store How to avoid security fails in the public cloud</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #66</title>
-      
-      <link href="http://jenius.tech/2018/11/06/engineer-readinglist-66/" rel="alternate" type="text/html" title="Jenius Engineer reading list #66" />
-      <published>2018-11-06T00:00:00+00:00</published>
-      <updated>2018-11-06T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/06/engineer-readinglist-66</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/06/engineer-readinglist-66/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sgoel.org/posts/the-most-dynamic-static-site-youll-ever-see/&quot;&gt;The most dynamic static site you’ll ever see&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stackups/docker-swarm-vs-kubernetes&quot;&gt;Docker Swarm or Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://goharbor.io/&quot;&gt;Harbor – Manage and serve container images in a secure environment&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/stackups/mariadb-vs-mysql-vs-postgresql&quot;&gt;PostgreSQL vs MySQL vs MariaDB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://winterwindsoftware.com/serverless-definitions/&quot;&gt;The differing definitions of “serverless”&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">The most dynamic static site you’ll ever see Docker Swarm or Kubernetes Harbor – Manage and serve container images in a secure environment PostgreSQL vs MySQL vs MariaDB The differing definitions of “serverless”</summary>
       
 
       
