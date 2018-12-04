@@ -5,7 +5,7 @@
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-12-03T15:37:46+00:00</updated>
+  <updated>2018-12-04T04:41:04+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,61 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #85</title>
+      
+      <link href="http://jenius.tech/2018/12/04/engineer-readinglist-85/" rel="alternate" type="text/html" title="Jenius Engineer reading list #85" />
+      <published>2018-12-04T00:00:00+00:00</published>
+      <updated>2018-12-04T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/12/04/engineer-readinglist-85</id>
+      <content type="html" xml:base="http://jenius.tech/2018/12/04/engineer-readinglist-85/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GitSquared/edex-ui&quot;&gt;Edex-UI – A science fiction terminal emulator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jessfraz.com/post/you-might-not-need-k8s/&quot;&gt;You might not need Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slikts.github.io/concurrency-glossary/&quot;&gt;Concurrency glossary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/product-design/guide-to-onboarding-ux&quot;&gt;First Impressions - a Guide to Onboarding UX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code&quot;&gt;Want To Recruit Better Engineers? Open Source Your Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jarun/nnn&quot;&gt;nnn – The fastest terminal file manager ever written&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blairreeves.me/2018/08/30/why-youre-having-trouble-hiring/&quot;&gt;Why you’re having trouble hiring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/java-troubleshooting-guide/&quot;&gt;A Java troubleshooting guide: network, memory leaks and threads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Edex-UI – A science fiction terminal emulator You might not need Kubernetes Concurrency glossary First Impressions - a Guide to Onboarding UX Want To Recruit Better Engineers? Open Source Your Code nnn – The fastest terminal file manager ever written Why you’re having trouble hiring A Java troubleshooting guide: network, memory leaks and threads</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1113,59 +1168,6 @@ Tentunya ada browser untuk test aplikasi web Jenius, yang sudah dilengkapi denga
 
       
         <summary type="html">Workflows for the New Developer Experience What a Coding Dojo taught me about agile Technology Strategy Patterns Podman: A more secure way to run containers Buildah – A tool that facilitates building OCI images Monitoring Multiple Kubernetes Clusters</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #67</title>
-      
-      <link href="http://jenius.tech/2018/11/07/engineer-readinglist-67/" rel="alternate" type="text/html" title="Jenius Engineer reading list #67" />
-      <published>2018-11-07T00:00:00+00:00</published>
-      <updated>2018-11-07T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/07/engineer-readinglist-67</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/07/engineer-readinglist-67/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@joulee/how-to-be-strategic-f6630a44f86b&quot;&gt;How to be Strategic&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/introducing-github-actions/&quot;&gt;Introducing GitHub Actions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://davrodpin.github.io/mole/&quot;&gt;Mole – Easily create SSH tunnels&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://evergreen.segment.com/&quot;&gt;Evergreen – A Design System for the Web&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/cache-invalidation-rails-5-2-dalli-store&quot;&gt;Cache Invalidation Complexity: Rails 5.2 and Dalli Cache Store&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-avoid-security-fails-public-cloud&quot;&gt;How to avoid security fails in the public cloud&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">How to be Strategic Introducing GitHub Actions Mole – Easily create SSH tunnels Evergreen – A Design System for the Web Cache Invalidation Complexity: Rails 5.2 and Dalli Cache Store How to avoid security fails in the public cloud</summary>
       
 
       
