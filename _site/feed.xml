@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
   
   
-  <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-12-10T04:54:59+00:00</updated>
-  <id>http://jenius.tech//</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2018-12-10T04:55:53+00:00</updated>
+  <id>http://localhost:4000//</id>
 
   
     <title type="html">JeniusTech Engineering</title>
@@ -28,13 +28,105 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list #88</title>
+      <title type="html">Jenius Engineer: Ju Patric Sei</title>
       
-      <link href="http://jenius.tech/2018/12/10/engineer-readinglist-88/" rel="alternate" type="text/html" title="Jenius Engineer reading list #88" />
+      <link href="http://localhost:4000/2018/12/10/jenius-engineer-ju-patric-sei/" rel="alternate" type="text/html" title="Jenius Engineer: Ju Patric Sei" />
       <published>2018-12-10T00:00:00+00:00</published>
       <updated>2018-12-10T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/12/10/engineer-readinglist-88</id>
-      <content type="html" xml:base="http://jenius.tech/2018/12/10/engineer-readinglist-88/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/12/10/jenius-engineer-ju-patric-sei</id>
+      <content type="html" xml:base="http://localhost:4000/2018/12/10/jenius-engineer-ju-patric-sei/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/ju-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/ju-small.jpg&quot; alt=&quot;Ju Patric Sei&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
+&lt;p&gt;Hi, saya &lt;a href=&quot;https://github.com/jupatric&quot;&gt;Ju Patric Sei&lt;/a&gt;, &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; software engineer yang fokus di backend development untuk Digital Identity dan Access Management (yang mana sistem ini mengatur semua akun dan akses keamanan nasabah pengguna Jenius). Bahasa pemrograman yang digunakan Java dan Javascript (nodejs). Selain itu juga sebagai technical lead di salah satu squad Jenius, melakukan desain dan &lt;em&gt;architecture&lt;/em&gt; sistem.
+Join di Jenius dari 2015, banyak pengalaman menarik di Jenius selama bekerja, mulai dari development, deployment, maintenance sampai party!.
+&lt;!-- more --&gt;&lt;/p&gt;
+&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.apple.com/id/macbook-pro/specs/&quot;&gt;Macbook Pro 13 inch&lt;/a&gt;, perangkat utama sehari hari untuk bekerja, &lt;a href=&quot;https://www.asus.com/id/Phone/ZenFone-3-ZE552KL/&quot;&gt;Asus Zenfone 3&lt;/a&gt;, terima pesan dan call, non/work related &lt;a href=&quot;https://en.wikipedia.org/wiki/IPad_Mini&quot;&gt;Ipad mini&lt;/a&gt; untuk entertainment.&lt;/p&gt;
+
+&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
+&lt;h4&gt;Desktop&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt;/&lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; dan &lt;a href=&quot;https://eclipse.org/&quot;&gt;Eclipse&lt;/a&gt; sebagai editor utama, untuk mangatur dan adminitrasi &lt;em&gt;user access&lt;/em&gt; saya menggunakan &lt;a href=&quot;https://directory.apache.org/studio/&quot;&gt;Apache Directory Studio&lt;/a&gt; sebagai &lt;a href=&quot;https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol&quot;&gt;LDAP&lt;/a&gt; browser dan editor.&lt;/p&gt;
+
+&lt;p&gt;Untuk keperluan &lt;em&gt;source code management&lt;/em&gt; menggunakan &lt;a href=&quot;https://www.sourcetreeapp.com/&quot;&gt;Source Tree&lt;/a&gt; app, terkadang juga menggunakan &lt;a href=&quot;https://en.wikipedia.org/wiki/Terminal_(macOS)&quot;&gt;Terminal&lt;/a&gt;/&lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm&lt;/a&gt; untuk manage &lt;a href=&quot;https://git-scm.com/&quot;&gt;git&lt;/a&gt; dan ssh ke server-server jika diperlukan, &lt;a href=&quot;https://jmeter.apache.org/&quot;&gt;Jmeter&lt;/a&gt; dan &lt;a href=&quot;https://www.getpostman.com/&quot;&gt;Postman&lt;/a&gt; sebagai API client dan Performance testing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meetfranz.com/&quot;&gt;Franz&lt;/a&gt; (Slack, Skype, Whatsapp) sebagai messaging service dalam 1 aplikasi jadi &lt;em&gt;gak&lt;/em&gt; ribet. Ms Outlook, untuk organize email dan meeting, kemudian Chrome browser, membantu dalam mencari informasi, Google Drive, backup and sharing data.&lt;/p&gt;
+
+&lt;h4&gt;Mobile&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&amp;amp;c=2018HomePage-BannerApplikasiKartu&amp;amp;af_sub1=57fe7e1d-15b9-467f-bd9e-8ee0c6936ae2&quot;&gt;Jenius&lt;/a&gt;! untuk Digital Banking memudahkan untuk keperluan finansial&lt;/li&gt;
+  &lt;li&gt;Google Apps (Drive, Mail, Chrome, Hangouts, Keep)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://whatsapp.com/&quot;&gt;WhatsApp&lt;/a&gt;, &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;, &lt;a href=&quot;https://line.me/&quot;&gt;Line&lt;/a&gt; - Komunikasi untuk kerjaan dan non kerjaan&lt;/li&gt;
+  &lt;li&gt;Jira and Confluence, &lt;a href=&quot;https://www.pulsesecure.net/connect-secure/&quot;&gt;VPN Pulse Secure&lt;/a&gt;, New Relic Insights&lt;/li&gt;
+  &lt;li&gt;Instagram, Twitter, FB, LinkedIn, Udemy - Refreshing&lt;/li&gt;
+  &lt;li&gt;Spotify, Youtube, Sound Hound untuk dengerin dan identifikasi lagu&lt;/li&gt;
+  &lt;li&gt;Gojek, Grab, Traveloka&lt;/li&gt;
+  &lt;li&gt;Waze, GMap – Biar ga salah jalan dan shortpath&lt;/li&gt;
+  &lt;li&gt;XXI, CGV buat booking cinema&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Macbook Pro dan chargernya&lt;/li&gt;
+  &lt;li&gt;Cable USB C and micro&lt;/li&gt;
+  &lt;li&gt;Rokcetbook Wave + Bolpen&lt;/li&gt;
+  &lt;li&gt;Kunci&lt;/li&gt;
+  &lt;li&gt;Ricola&lt;/li&gt;
+  &lt;li&gt;Earphone&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
+&lt;p&gt;Menggunakan live wallpaper 3D biar lebih interactive dan ga bosen.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/ju-hr-large.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/ju-hr-small.jpeg&quot; alt=&quot;Ju Patric Sei Homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="backstage" />
+      
+
+      
+        <category term="jenius engineer" />
+      
+        <category term="backstage" />
+      
+        <category term="engineer" />
+      
+
+      
+        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Hi, saya Ju Patric Sei, Jenius software engineer yang fokus di backend development untuk Digital Identity dan Access Management (yang mana sistem ini mengatur semua akun dan akses keamanan nasabah pengguna Jenius). Bahasa pemrograman yang digunakan Java dan Javascript (nodejs). Selain itu juga sebagai technical lead di salah satu squad Jenius, melakukan desain dan architecture sistem. Join di Jenius dari 2015, banyak pengalaman menarik di Jenius selama bekerja, mulai dari development, deployment, maintenance sampai party!.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #88</title>
+      
+      <link href="http://localhost:4000/2018/12/10/engineer-readinglist-88/" rel="alternate" type="text/html" title="Jenius Engineer reading list #88" />
+      <published>2018-12-10T00:00:00+00:00</published>
+      <updated>2018-12-10T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2018/12/10/engineer-readinglist-88</id>
+      <content type="html" xml:base="http://localhost:4000/2018/12/10/engineer-readinglist-88/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/will-kubernetes-sink-the-hadoop-ship/&quot;&gt;Will Kubernetes Sink the Hadoop Ship?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/static-void-academy/easy-peasy-ci-cd-w-circleci-282bc85ddcf5&quot;&gt;Easy-Peasy CI/CD w/ CircleCI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/how-containerization-brings-ai-your-devops-pipeline&quot;&gt;How containerization brings AI to your DevOps pipeline&lt;/a&gt;&lt;/li&gt;
@@ -82,11 +174,11 @@
       
       <title type="html">Jenius Engineer reading list #87</title>
       
-      <link href="http://jenius.tech/2018/12/07/engineer-readinglist-87/" rel="alternate" type="text/html" title="Jenius Engineer reading list #87" />
+      <link href="http://localhost:4000/2018/12/07/engineer-readinglist-87/" rel="alternate" type="text/html" title="Jenius Engineer reading list #87" />
       <published>2018-12-07T00:00:00+00:00</published>
       <updated>2018-12-07T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/12/07/engineer-readinglist-87</id>
-      <content type="html" xml:base="http://jenius.tech/2018/12/07/engineer-readinglist-87/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/12/07/engineer-readinglist-87</id>
+      <content type="html" xml:base="http://localhost:4000/2018/12/07/engineer-readinglist-87/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@jaycoon/9-emerging-operations-gaps-that-will-accelerate-cloud-adoption-part-1-58cef12f34d2&quot;&gt;9 Emerging Operational Gaps That Will Accelerate Cloud Adoption — Part 1&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/why-sharing-important-devops-culture&quot;&gt;Why giving back is important to the DevOps culture&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/threat-modeling-devops-3-lessons-front-lines&quot;&gt;Threat modeling and DevOps: 3 lessons from the front lines&lt;/a&gt;&lt;/li&gt;
@@ -135,11 +227,11 @@
       
       <title type="html">Jenius Engineer reading list #86</title>
       
-      <link href="http://jenius.tech/2018/12/05/engineer-readinglist-86/" rel="alternate" type="text/html" title="Jenius Engineer reading list #86" />
+      <link href="http://localhost:4000/2018/12/05/engineer-readinglist-86/" rel="alternate" type="text/html" title="Jenius Engineer reading list #86" />
       <published>2018-12-05T00:00:00+00:00</published>
       <updated>2018-12-05T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/12/05/engineer-readinglist-86</id>
-      <content type="html" xml:base="http://jenius.tech/2018/12/05/engineer-readinglist-86/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/12/05/engineer-readinglist-86</id>
+      <content type="html" xml:base="http://localhost:4000/2018/12/05/engineer-readinglist-86/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ml-applications/horizon/&quot;&gt;Horizon: The first open source reinforcement learning platform for large-scale products and services&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.fastforwardlabs.com/2018/10/29/the-decentralized-web.html&quot;&gt;The Decentralized Web&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/11/01/more-efficient-range-scan-paging-with-scylla-3-0/&quot;&gt;More Efficient Range Scan Paging with Scylla 3.0&lt;/a&gt;&lt;/li&gt;
@@ -190,11 +282,11 @@
       
       <title type="html">Jenius Engineer reading list #85</title>
       
-      <link href="http://jenius.tech/2018/12/04/engineer-readinglist-85/" rel="alternate" type="text/html" title="Jenius Engineer reading list #85" />
+      <link href="http://localhost:4000/2018/12/04/engineer-readinglist-85/" rel="alternate" type="text/html" title="Jenius Engineer reading list #85" />
       <published>2018-12-04T00:00:00+00:00</published>
       <updated>2018-12-04T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/12/04/engineer-readinglist-85</id>
-      <content type="html" xml:base="http://jenius.tech/2018/12/04/engineer-readinglist-85/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/12/04/engineer-readinglist-85</id>
+      <content type="html" xml:base="http://localhost:4000/2018/12/04/engineer-readinglist-85/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/GitSquared/edex-ui&quot;&gt;Edex-UI – A science fiction terminal emulator&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.jessfraz.com/post/you-might-not-need-k8s/&quot;&gt;You might not need Kubernetes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://slikts.github.io/concurrency-glossary/&quot;&gt;Concurrency glossary&lt;/a&gt;&lt;/li&gt;
@@ -245,11 +337,11 @@
       
       <title type="html">Jenius Engineer reading list #84</title>
       
-      <link href="http://jenius.tech/2018/12/03/engineer-readinglist-84/" rel="alternate" type="text/html" title="Jenius Engineer reading list #84" />
+      <link href="http://localhost:4000/2018/12/03/engineer-readinglist-84/" rel="alternate" type="text/html" title="Jenius Engineer reading list #84" />
       <published>2018-12-03T00:00:00+00:00</published>
       <updated>2018-12-03T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/12/03/engineer-readinglist-84</id>
-      <content type="html" xml:base="http://jenius.tech/2018/12/03/engineer-readinglist-84/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/12/03/engineer-readinglist-84</id>
+      <content type="html" xml:base="http://localhost:4000/2018/12/03/engineer-readinglist-84/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/&quot;&gt;Introducing FuseBox, an alternative to Webpack&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/&quot;&gt;Advanced web security topics&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/scaling-michelangelo/&quot;&gt;Scaling Machine Learning at Uber with Michelangelo&lt;/a&gt;&lt;/li&gt;
@@ -298,11 +390,11 @@
       
       <title type="html">Jenius Engineer reading list #83</title>
       
-      <link href="http://jenius.tech/2018/11/30/engineer-readinglist-83/" rel="alternate" type="text/html" title="Jenius Engineer reading list #83" />
+      <link href="http://localhost:4000/2018/11/30/engineer-readinglist-83/" rel="alternate" type="text/html" title="Jenius Engineer reading list #83" />
       <published>2018-11-30T00:00:00+00:00</published>
       <updated>2018-11-30T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/30/engineer-readinglist-83</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/30/engineer-readinglist-83/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/30/engineer-readinglist-83</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/30/engineer-readinglist-83/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@yellow/monolithic-architecture-vs-microservices-choosing-the-right-architecture-for-the-project-4985b2253778&quot;&gt;Monolithic Architecture vs. Microservices: Choosing the Right Architecture for the Project&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302&quot;&gt;Apache Kafka’s Distributed System Firefighter — The Controller Broker&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.riotgames.com/news/profiling-case-missing-milliseconds&quot;&gt;Profiling: The Case of the Missing Milliseconds &lt;/a&gt;&lt;/li&gt;
@@ -353,11 +445,11 @@
       
       <title type="html">Jenius Quality Assurance: Dedi Setiadi</title>
       
-      <link href="http://jenius.tech/2018/11/29/jenius-quality-assurance-dedi-setiadi/" rel="alternate" type="text/html" title="Jenius Quality Assurance: Dedi Setiadi" />
+      <link href="http://localhost:4000/2018/11/29/jenius-quality-assurance-dedi-setiadi/" rel="alternate" type="text/html" title="Jenius Quality Assurance: Dedi Setiadi" />
       <published>2018-11-29T00:00:00+00:00</published>
       <updated>2018-11-29T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/29/jenius-quality-assurance-dedi-setiadi</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/29/jenius-quality-assurance-dedi-setiadi/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/dedi-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/dedi-small.jpg&quot; alt=&quot;Dedi Setiadi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <id>http://localhost:4000/2018/11/29/jenius-quality-assurance-dedi-setiadi</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/29/jenius-quality-assurance-dedi-setiadi/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/dedi-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/dedi-small.jpg&quot; alt=&quot;Dedi Setiadi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Halo! Perkenalkan nama saya Dedi Setiadi, saya bekerja di Jenius sebagai Quality Assurance Specialist. 
 Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Quality Assurance, sebuah perangkat lunak pun perlu ada Quality Assurance.&lt;/p&gt;
@@ -444,11 +536,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #82</title>
       
-      <link href="http://jenius.tech/2018/11/29/engineer-readinglist-82/" rel="alternate" type="text/html" title="Jenius Engineer reading list #82" />
+      <link href="http://localhost:4000/2018/11/29/engineer-readinglist-82/" rel="alternate" type="text/html" title="Jenius Engineer reading list #82" />
       <published>2018-11-29T00:00:00+00:00</published>
       <updated>2018-11-29T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/29/engineer-readinglist-82</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/29/engineer-readinglist-82/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/29/engineer-readinglist-82</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/29/engineer-readinglist-82/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab&quot;&gt;Kubernetes 202 — Making It Fully Operational&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/who-is-in-charge-of-developing-a-devops-culture/&quot;&gt;Who Is in Charge of Developing a DevOps Culture?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/11/open-source-serverless-platforms&quot;&gt;7 open source platforms to get started with serverless computing&lt;/a&gt;&lt;/li&gt;
@@ -498,11 +590,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #81</title>
       
-      <link href="http://jenius.tech/2018/11/27/engineer-readinglist-81/" rel="alternate" type="text/html" title="Jenius Engineer reading list #81" />
+      <link href="http://localhost:4000/2018/11/27/engineer-readinglist-81/" rel="alternate" type="text/html" title="Jenius Engineer reading list #81" />
       <published>2018-11-27T00:00:00+00:00</published>
       <updated>2018-11-27T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/27/engineer-readinglist-81</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/27/engineer-readinglist-81/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/27/engineer-readinglist-81</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/27/engineer-readinglist-81/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/troxler/awesome-css-frameworks&quot;&gt;awesome-css-frameworks&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/how-to-solve-the-last-mile-logistics-conundrum-2ced70f5f7f3&quot;&gt;How to solve the last mile logistics conundrum?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/10/performance-server-timing/&quot;&gt;Measuring Performance With Server Timing&lt;/a&gt;&lt;/li&gt;
@@ -552,11 +644,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #80</title>
       
-      <link href="http://jenius.tech/2018/11/26/engineer-readinglist-80/" rel="alternate" type="text/html" title="Jenius Engineer reading list #80" />
+      <link href="http://localhost:4000/2018/11/26/engineer-readinglist-80/" rel="alternate" type="text/html" title="Jenius Engineer reading list #80" />
       <published>2018-11-26T00:00:00+00:00</published>
       <updated>2018-11-26T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/26/engineer-readinglist-80</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/26/engineer-readinglist-80/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/26/engineer-readinglist-80</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/26/engineer-readinglist-80/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/xlni/&quot;&gt;Facebook, NYU expand available languages for natural language understanding systems&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/code-documentation&quot;&gt;How to Write Code That Documents Itself&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52&quot;&gt;Lazy-loading components in React 16.6&lt;/a&gt;&lt;/li&gt;
@@ -605,11 +697,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #79</title>
       
-      <link href="http://jenius.tech/2018/11/23/engineer-readinglist-79/" rel="alternate" type="text/html" title="Jenius Engineer reading list #79" />
+      <link href="http://localhost:4000/2018/11/23/engineer-readinglist-79/" rel="alternate" type="text/html" title="Jenius Engineer reading list #79" />
       <published>2018-11-23T00:00:00+00:00</published>
       <updated>2018-11-23T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/23/engineer-readinglist-79</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/23/engineer-readinglist-79/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/23/engineer-readinglist-79</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/23/engineer-readinglist-79/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/zammad/zammad&quot;&gt;Zammad – web based open source helpdesk/customer support system&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.contentful.com/blog/2018/11/20/graphql-ruby-love-backend-developer/&quot;&gt;Writing GraphQL queries in native Ruby = Love ❤️&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/uohzxela/clean-code-ruby&quot;&gt;🛁 Clean Code concepts adapted for Ruby&lt;/a&gt;&lt;/li&gt;
@@ -658,11 +750,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #78</title>
       
-      <link href="http://jenius.tech/2018/11/22/engineer-readinglist-78/" rel="alternate" type="text/html" title="Jenius Engineer reading list #78" />
+      <link href="http://localhost:4000/2018/11/22/engineer-readinglist-78/" rel="alternate" type="text/html" title="Jenius Engineer reading list #78" />
       <published>2018-11-22T00:00:00+00:00</published>
       <updated>2018-11-22T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/22/engineer-readinglist-78</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/22/engineer-readinglist-78/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/22/engineer-readinglist-78</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/22/engineer-readinglist-78/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://chrisshort.net/one-fish-two-fish-blue-fish-sporting-new-red-hat/&quot;&gt;One Fish, Two Fish, Blue Fish Sporting New Red Hat&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://dev.to/neshaz/ruby-on-rails-guide-to-debugging-22fg&quot;&gt;Ruby on Rails Guide to Debugging&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@dominik.tornow/kubernetes-api-server-part-i-3fbaf2138a31&quot;&gt;Kubernetes API Server, Part I&lt;/a&gt;&lt;/li&gt;
@@ -710,11 +802,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #77</title>
       
-      <link href="http://jenius.tech/2018/11/21/engineer-readinglist-77/" rel="alternate" type="text/html" title="Jenius Engineer reading list #77" />
+      <link href="http://localhost:4000/2018/11/21/engineer-readinglist-77/" rel="alternate" type="text/html" title="Jenius Engineer reading list #77" />
       <published>2018-11-21T00:00:00+00:00</published>
       <updated>2018-11-21T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/21/engineer-readinglist-77</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/21/engineer-readinglist-77/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/21/engineer-readinglist-77</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/21/engineer-readinglist-77/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@tamas.csaba/maintainable-software-why-would-i-care-and-once-i-do-how-do-i-know-i-see-one-91896ecff08f&quot;&gt;Maintainable software: why would I care and once I do, how do I know I see one?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://leewaterman.com/dont-make-squirrel-burgers/&quot;&gt;Don’t Make Squirrel Burgers&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/minimaxir/big-list-of-naughty-strings&quot;&gt;The Big List of Naughty Strings&lt;/a&gt;&lt;/li&gt;
@@ -761,11 +853,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #76</title>
       
-      <link href="http://jenius.tech/2018/11/20/engineer-readinglist-76/" rel="alternate" type="text/html" title="Jenius Engineer reading list #76" />
+      <link href="http://localhost:4000/2018/11/20/engineer-readinglist-76/" rel="alternate" type="text/html" title="Jenius Engineer reading list #76" />
       <published>2018-11-20T00:00:00+00:00</published>
       <updated>2018-11-20T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/20/engineer-readinglist-76</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/20/engineer-readinglist-76/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/20/engineer-readinglist-76</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/20/engineer-readinglist-76/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://gitlab.com/daamien/postgresql_anonymizer&quot;&gt;postgresql_anonymizer – 🐘🕶️ Anonymization &amp;amp; Data Masking for PostgreSQL&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://bundler.io/blog/2018/11/04/an-update-on-bundler-2.html&quot;&gt;An Update on Bundler 2.0&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://paulmillr.com/posts/using-dark-mode-in-css/&quot;&gt;Using dark mode in CSS with MacOS Mojave&lt;/a&gt;&lt;/li&gt;
@@ -812,11 +904,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #75</title>
       
-      <link href="http://jenius.tech/2018/11/19/engineer-readinglist-75/" rel="alternate" type="text/html" title="Jenius Engineer reading list #75" />
+      <link href="http://localhost:4000/2018/11/19/engineer-readinglist-75/" rel="alternate" type="text/html" title="Jenius Engineer reading list #75" />
       <published>2018-11-19T00:00:00+00:00</published>
       <updated>2018-11-19T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/19/engineer-readinglist-75</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/19/engineer-readinglist-75/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/19/engineer-readinglist-75</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/19/engineer-readinglist-75/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make&quot;&gt;Three Sales Mistakes Software Engineers Make&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.gitprime.com/drift-3-day-onboarding-process/&quot;&gt;How Drift Gets Engineers up to Speed by Day 3&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://buttercms.com/blog/launching-your-own-ruby-gem-build-it&quot;&gt;Launching Your Own Ruby Gem - Part 1: Build It&lt;/a&gt;&lt;/li&gt;
@@ -867,11 +959,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #74</title>
       
-      <link href="http://jenius.tech/2018/11/16/engineer-readinglist-74/" rel="alternate" type="text/html" title="Jenius Engineer reading list #74" />
+      <link href="http://localhost:4000/2018/11/16/engineer-readinglist-74/" rel="alternate" type="text/html" title="Jenius Engineer reading list #74" />
       <published>2018-11-16T00:00:00+00:00</published>
       <updated>2018-11-16T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/16/engineer-readinglist-74</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/16/engineer-readinglist-74/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/16/engineer-readinglist-74</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/16/engineer-readinglist-74/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961&quot;&gt;API Profiling at Pinterest&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.bugsnag.com/the-monitoring-landscape/&quot;&gt;Getting started with monitoring for developers&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/credentials-leaked-in-public-heres-what-grofers-implemented-to-prevent-such-mishaps-66a40b5743af&quot;&gt;Credentials leaked in public? Here’s what Grofers implemented to prevent such mishaps!&lt;/a&gt;&lt;/li&gt;
@@ -921,11 +1013,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #73</title>
       
-      <link href="http://jenius.tech/2018/11/15/engineer-readinglist-73/" rel="alternate" type="text/html" title="Jenius Engineer reading list #73" />
+      <link href="http://localhost:4000/2018/11/15/engineer-readinglist-73/" rel="alternate" type="text/html" title="Jenius Engineer reading list #73" />
       <published>2018-11-15T00:00:00+00:00</published>
       <updated>2018-11-15T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/15/engineer-readinglist-73</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/15/engineer-readinglist-73/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/15/engineer-readinglist-73</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/15/engineer-readinglist-73/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.vuedarkmode.com/&quot;&gt;A minimalist dark design system for vue.js 🎨&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.tanelpoder.com/posts/visualizing-sql-plan-execution-time-with-flamegraphs/&quot;&gt;Visualizing SQL Plan Execution Time With FlameGraphs&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/paxos/how-to-build-a-great-engineering-team-af545a7fe0ee&quot;&gt;How to Build a Great Engineering Team&lt;/a&gt;&lt;/li&gt;
@@ -975,11 +1067,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #72</title>
       
-      <link href="http://jenius.tech/2018/11/14/engineer-readinglist-72/" rel="alternate" type="text/html" title="Jenius Engineer reading list #72" />
+      <link href="http://localhost:4000/2018/11/14/engineer-readinglist-72/" rel="alternate" type="text/html" title="Jenius Engineer reading list #72" />
       <published>2018-11-14T00:00:00+00:00</published>
       <updated>2018-11-14T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/14/engineer-readinglist-72</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/14/engineer-readinglist-72/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/14/engineer-readinglist-72</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/14/engineer-readinglist-72/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/cullum/dank-selfhosted&quot;&gt;Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/vifreefly/procsd&quot;&gt;Procsd – Manage your application processes in production hassle-free like Heroku CLI with Procfile and Systemd&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8&quot;&gt;Immutable Infrastructure Using Packer, Ansible, and Terraform&lt;/a&gt;&lt;/li&gt;
@@ -1028,11 +1120,11 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
       
       <title type="html">Jenius Engineer reading list #71</title>
       
-      <link href="http://jenius.tech/2018/11/13/engineer-readinglist-71/" rel="alternate" type="text/html" title="Jenius Engineer reading list #71" />
+      <link href="http://localhost:4000/2018/11/13/engineer-readinglist-71/" rel="alternate" type="text/html" title="Jenius Engineer reading list #71" />
       <published>2018-11-13T00:00:00+00:00</published>
       <updated>2018-11-13T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/13/engineer-readinglist-71</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/13/engineer-readinglist-71/">&lt;ul&gt;
+      <id>http://localhost:4000/2018/11/13/engineer-readinglist-71</id>
+      <content type="html" xml:base="http://localhost:4000/2018/11/13/engineer-readinglist-71/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/poka-techblog/the-best-way-to-store-secrets-in-your-app-is-not-to-store-secrets-in-your-app-308a6807d3ed&quot;&gt;The best way to store secrets in your app is not to store secrets in your app&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/2017/07/how-to-safely-store-api-keys-in-rails-apps/&quot;&gt;How to safely store API keys in Rails apps&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.memsql.com/blog/announcing-memsql-free-tier/&quot;&gt;MemSQL: Now Free to Use&lt;/a&gt;&lt;/li&gt;
@@ -1070,62 +1162,6 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
 
       
         <summary type="html">The best way to store secrets in your app is not to store secrets in your app How to safely store API keys in Rails apps MemSQL: Now Free to Use Gitbase: Exploring Git repos with SQL Every service is an island An introduction to medieval cities and cloud security Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #70</title>
-      
-      <link href="http://jenius.tech/2018/11/12/engineer-readinglist-70/" rel="alternate" type="text/html" title="Jenius Engineer reading list #70" />
-      <published>2018-11-12T00:00:00+00:00</published>
-      <updated>2018-11-12T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/12/engineer-readinglist-70</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/12/engineer-readinglist-70/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://phoenixframework.org/blog/phoenix-1-4-0-released&quot;&gt;Phoenix 1.4.0 released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://craigmod.com/essays/ipad_pro/&quot;&gt;Getting the iPad to Pro&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/20-docker-security-tools/&quot;&gt;29 Docker security tools compared&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://realpython.com/python-comments-guide/&quot;&gt;Writing Comments in Python (Guide)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://narimiran.github.io/2018/05/10/python-numpy-nim.html&quot;&gt;Python vs NumPy vs Nim&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/looking-for-a-house-build-a-web-scraper-to-help-you-5ab25badc83e&quot;&gt;I was looking for a house, so I built a web scraper in Python!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.divio.com/blog/documentation/&quot;&gt;What nobody tells you about documentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://the-pastry-box-project.net/ed-finkler/2014-july-6&quot;&gt;The Developer’s Dystopian Future&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.peterbe.com/plog/jsonschema-validate-10x-faster-in-python&quot;&gt;How to JSON schema validate 10x (or 100x) faster in Python&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Phoenix 1.4.0 released Getting the iPad to Pro 29 Docker security tools compared Writing Comments in Python (Guide) Python vs NumPy vs Nim I was looking for a house, so I built a web scraper in Python! What nobody tells you about documentation The Developer’s Dystopian Future How to JSON schema validate 10x (or 100x) faster in Python</summary>
       
 
       
