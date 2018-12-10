@@ -9,7 +9,14 @@ layout: default
     {% else %}
       <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     {% endif %}
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">aaa{{ page.author }}</span></span>{% endif %}
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+      {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        {% assign authorz = site.authors | where: 'short_name', post.author | first %}
+        {% if authorz %}
+        <span itemprop="name"><a href="{{ authorz.url }}">{{ authorz.name }}</a></span>
+        {% endif %}
+        <!-- <span itemprop="name">{{ page.author }}</span></span> -->
+      {% endif %}
       {% if page.categories != empty %} • 
       {% for category in page.categories %}
         {% assign no_comma = forloop.last %}
