@@ -69,10 +69,30 @@ kramdown:
 
 # jekyll-archives
 #jekyll-archives:
-authors:
-  dedenf:
-    name: "Deden Fathurahman"
-    uri: https://notes.dedenf.com
-    email: me@dedenf.com
-    twitter: dedenf
-    description: ""
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# authors:
+#   dedenf:
+#     name: "Deden Fathurahman"
+#     uri: https://notes.dedenf.com
+#     email: me@dedenf.com
+#     twitter: dedenf
+#     description: ""

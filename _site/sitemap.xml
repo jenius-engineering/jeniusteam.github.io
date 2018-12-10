@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/authors/dedenf/</loc>
+<lastmod>2018-12-10T05:38:53+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/2017/04/05/jenius-says-hi/</loc>
 <lastmod>2017-04-05T00:00:00+00:00</lastmod>
 </url>
@@ -675,16 +679,19 @@
 <loc>http://localhost:4000/archives/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/authors/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/categories/backstage/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/engineer/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/categories/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/categories/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/newsletter/</loc>

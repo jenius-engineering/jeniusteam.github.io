@@ -19,7 +19,16 @@ layout: default
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
           </h1>
 
-          <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}
+          <p class="post-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+            {% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+              {% assign authorz = site.authors | where: 'short_name', post.author | first %}
+                {% if authorz %}
+                <span itemprop="name"><a href="{{ authorz.url }}">{{ authorz.name }}</a></span>
+                {% endif %}
+              <!-- <span itemprop="name"><a href="{{ author.url }}">{{ post.author }}</a></span> -->
+            </span>
+            {% endif %}
             {% if post.categories != empty %} • 
               {% for category in post.categories %}
                 {% assign no_comma = forloop.last %}
