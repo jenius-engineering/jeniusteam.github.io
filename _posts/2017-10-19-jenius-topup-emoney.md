@@ -70,5 +70,7 @@ Dan E-Money anda sudah terisi saldonya!
 
 Semua bisa dilakukan tanpa perlu anda keluar rumah atau beranjak dari kursi.
 
+### update 18 desember 2018
+Saat ini aplikasi *emoney isi ulang* tidak ada di playstore, dan untuk yang sudah terinstal aplikasinya, aplikasi tidak bisa digunakan untuk aktivasi saldo.
 
 [^1]:[Kajian Operasional E-Money ](http://www.bi.go.id/id/publikasi/sistem-pembayaran/riset/Documents/4a79ad4a8dbe4ebca2c0f86a5a2f1c69KajianEMoney.pdf)
