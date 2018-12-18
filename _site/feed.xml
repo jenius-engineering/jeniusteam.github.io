@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <generator uri="http://jekyllrb.com" version="3.7.3">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
   
   
   <link href="http://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-12-11T08:02:19+00:00</updated>
+  <updated>2018-12-18T08:31:31+00:00</updated>
   <id>http://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #90</title>
+      
+      <link href="http://jenius.tech/2018/12/18/engineer-readinglist-90/" rel="alternate" type="text/html" title="Jenius Engineer reading list #90" />
+      <published>2018-12-18T00:00:00+00:00</published>
+      <updated>2018-12-18T00:00:00+00:00</updated>
+      <id>http://jenius.tech/2018/12/18/engineer-readinglist-90</id>
+      <content type="html" xml:base="http://jenius.tech/2018/12/18/engineer-readinglist-90/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.papertrailapp.com/best-practices-for-logging-in-nodejs/&quot;&gt;Best Practices for Logging in Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/collaborating-with-marketing-on-launches/&quot;&gt;The Engineering Manager&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9&quot;&gt;A Netflix Web Performance Case Study&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://verve.co/engineering/graphql-a-retrospective/&quot;&gt;GraphQL: A Retrospective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0&quot;&gt;The Greatest Sales Deck I’ve Ever Seen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pcottle/learnGitBranching&quot;&gt;learn Git Branching&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Best Practices for Logging in Node.js The Engineering Manager A Netflix Web Performance Case Study GraphQL: A Retrospective The Greatest Sales Deck I’ve Ever Seen learn Git Branching</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1110,59 +1163,6 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
 
       
         <summary type="html">A minimalist dark design system for vue.js 🎨 Visualizing SQL Plan Execution Time With FlameGraphs How to Build a Great Engineering Team Testing Privacy-Preserving Telemetry with Prio Create your own dysfunctional single-page app in five easy steps A Safer RuboCop Internet-era ways of working</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #72</title>
-      
-      <link href="http://jenius.tech/2018/11/14/engineer-readinglist-72/" rel="alternate" type="text/html" title="Jenius Engineer reading list #72" />
-      <published>2018-11-14T00:00:00+00:00</published>
-      <updated>2018-11-14T00:00:00+00:00</updated>
-      <id>http://jenius.tech/2018/11/14/engineer-readinglist-72</id>
-      <content type="html" xml:base="http://jenius.tech/2018/11/14/engineer-readinglist-72/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/cullum/dank-selfhosted&quot;&gt;Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/vifreefly/procsd&quot;&gt;Procsd – Manage your application processes in production hassle-free like Heroku CLI with Procfile and Systemd&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/immutable-infrastructure-using-packer-ansible-and-terraform-7ca6f79582b8&quot;&gt;Immutable Infrastructure Using Packer, Ansible, and Terraform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/architecture-no-one-needs-is-server-side-templating-78331391274&quot;&gt;Architecture no one needs is server side templating&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.github.com/2018-10-30-oct21-post-incident-analysis/&quot;&gt;October 21 post-incident analysis &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-set-list/ruby-on-rails-security-be16bd1a8b02&quot;&gt;Ruby on Rails Security&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD Procsd – Manage your application processes in production hassle-free like Heroku CLI with Procfile and Systemd Immutable Infrastructure Using Packer, Ansible, and Terraform Architecture no one needs is server side templating October 21 post-incident analysis Ruby on Rails Security</summary>
       
 
       
