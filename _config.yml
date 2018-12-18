@@ -17,7 +17,7 @@ title: JeniusTech Engineering
 author: JeniusTech Engineering
 description: Jenius, bank reinvented
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jenius.tech" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jenius.tech" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
 exclude:
