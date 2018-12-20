@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-12-19T03:53:36+00:00</updated>
+  <updated>2018-12-20T09:30:15+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #92</title>
+      
+      <link href="https://jenius.tech/2018/12/20/engineer-readinglist-92/" rel="alternate" type="text/html" title="Jenius Engineer reading list #92" />
+      <published>2018-12-20T00:00:00+00:00</published>
+      <updated>2018-12-20T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2018/12/20/engineer-readinglist-92</id>
+      <content type="html" xml:base="https://jenius.tech/2018/12/20/engineer-readinglist-92/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/crash-reporting-in-desktop-python-applications/&quot;&gt;Crash reporting in desktop Python applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dataquest.io/blog/linear-regression-in-real-life/&quot;&gt;Linear Regression in Real Life&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/swlh/how-agile-done-wrong-can-hurt-your-company-7c0d26bd84f7&quot;&gt;How Agile done wrong can hurt your company&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/devops/terraform-aws-cloud-iac&quot;&gt;Terraform AWS Cloud: Sane Infrastructure Management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-your-role-changes-when-devops-goes-cloud-native/&quot;&gt;How Your Role Changes When DevOps Goes Cloud Native&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/12/deep-learning-inference&quot;&gt;How to build deep learning inference through Knative serverless framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Crash reporting in desktop Python applications Linear Regression in Real Life How Agile done wrong can hurt your company Terraform AWS Cloud: Sane Infrastructure Management How Your Role Changes When DevOps Goes Cloud Native How to build deep learning inference through Knative serverless framework</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1109,60 +1162,6 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
 
       
         <summary type="html">Three Sales Mistakes Software Engineers Make How Drift Gets Engineers up to Speed by Day 3 Launching Your Own Ruby Gem - Part 1: Build It Why React’s new Hooks API is a game changer 4 Anonymous Web Browsers That Are Completely Private Dive – A tool for exploring each layer in a docker image A Tour of The Top 10 Algorithms for Machine Learning Newbies CloudWatch Is of the Devil, but I Must Use It</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #74</title>
-      
-      <link href="https://jenius.tech/2018/11/16/engineer-readinglist-74/" rel="alternate" type="text/html" title="Jenius Engineer reading list #74" />
-      <published>2018-11-16T00:00:00+00:00</published>
-      <updated>2018-11-16T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/11/16/engineer-readinglist-74</id>
-      <content type="html" xml:base="https://jenius.tech/2018/11/16/engineer-readinglist-74/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Pinterest_Engineering/api-profiling-at-pinterest-6fa9333b4961&quot;&gt;API Profiling at Pinterest&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.bugsnag.com/the-monitoring-landscape/&quot;&gt;Getting started with monitoring for developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/credentials-leaked-in-public-heres-what-grofers-implemented-to-prevent-such-mishaps-66a40b5743af&quot;&gt;Credentials leaked in public? Here’s what Grofers implemented to prevent such mishaps!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/palmerhq/the-platform&quot;&gt;The Platform – Web. Components.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fs.blog/2018/10/long-game/&quot;&gt;The Surprising Power of The Long Game&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/zero-to-code/vuejs-cheat-sheet-part-1-b30f772ed72&quot;&gt;VueJS Cheat Sheet Part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e&quot;&gt;A Guide to Mindful Communication in Code Reviews&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">API Profiling at Pinterest Getting started with monitoring for developers Credentials leaked in public? Here’s what Grofers implemented to prevent such mishaps! The Platform – Web. Components. The Surprising Power of The Long Game VueJS Cheat Sheet Part 1 A Guide to Mindful Communication in Code Reviews</summary>
       
 
       
