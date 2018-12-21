@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-12-20T09:30:15+00:00</updated>
+  <updated>2018-12-21T05:48:04+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #93</title>
+      
+      <link href="https://jenius.tech/2018/12/21/engineer-readinglist-93/" rel="alternate" type="text/html" title="Jenius Engineer reading list #93" />
+      <published>2018-12-21T00:00:00+00:00</published>
+      <updated>2018-12-21T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2018/12/21/engineer-readinglist-93</id>
+      <content type="html" xml:base="https://jenius.tech/2018/12/21/engineer-readinglist-93/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/google-cloud/developing-with-containers-done-right-831a4bae1d28&quot;&gt;Developing With Containers Done Right&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/zero-shot-learning/&quot;&gt;Zero-shot learning: Using text to more accurately identify images&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d&quot;&gt;Building Services at Airbnb, Part 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/12/introduction-kubeflow&quot;&gt;An introduction to Kubeflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://13brane.net/rants/de-facto-closed-source/&quot;&gt;De-facto closed source: the case for understandable software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f&quot;&gt;Applying Deep Learning To Airbnb Search&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Developing With Containers Done Right Zero-shot learning: Using text to more accurately identify images Building Services at Airbnb, Part 3 An introduction to Kubeflow De-facto closed source: the case for understandable software Applying Deep Learning To Airbnb Search</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1107,61 +1160,6 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
 
       
         <summary type="html">postgresql_anonymizer – 🐘🕶️ Anonymization &amp;amp; Data Masking for PostgreSQL An Update on Bundler 2.0 Using dark mode in CSS with MacOS Mojave Meet Yabeda: A Ruby instrumentation framework</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #75</title>
-      
-      <link href="https://jenius.tech/2018/11/19/engineer-readinglist-75/" rel="alternate" type="text/html" title="Jenius Engineer reading list #75" />
-      <published>2018-11-19T00:00:00+00:00</published>
-      <updated>2018-11-19T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/11/19/engineer-readinglist-75</id>
-      <content type="html" xml:base="https://jenius.tech/2018/11/19/engineer-readinglist-75/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make&quot;&gt;Three Sales Mistakes Software Engineers Make&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.gitprime.com/drift-3-day-onboarding-process/&quot;&gt;How Drift Gets Engineers up to Speed by Day 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://buttercms.com/blog/launching-your-own-ruby-gem-build-it&quot;&gt;Launching Your Own Ruby Gem - Part 1: Build It&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/why-reacts-hooks-api-is-a-game-changer-8731c2b0a8c&quot;&gt;Why React’s new Hooks API is a game changer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/&quot;&gt;4 Anonymous Web Browsers That Are Completely Private&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/wagoodman/dive&quot;&gt;Dive – A tool for exploring each layer in a docker image&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11&quot;&gt;A Tour of The Top 10 Algorithms for Machine Learning Newbies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linuxjournal.com/content/cloudwatch-devil-i-must-use-it&quot;&gt;CloudWatch Is of the Devil, but I Must Use It&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Three Sales Mistakes Software Engineers Make How Drift Gets Engineers up to Speed by Day 3 Launching Your Own Ruby Gem - Part 1: Build It Why React’s new Hooks API is a game changer 4 Anonymous Web Browsers That Are Completely Private Dive – A tool for exploring each layer in a docker image A Tour of The Top 10 Algorithms for Machine Learning Newbies CloudWatch Is of the Devil, but I Must Use It</summary>
       
 
       
