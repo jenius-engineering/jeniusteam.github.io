@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: JeniusTech Engineering
 author: JeniusTech Engineering
-description: Jenius, bank reinvented
+description: "Jenius, bank reinvented. Jenius adalah cara baru mengatur kehidupan finansialmu, dan kami percaya semua bisa kamu lakukan di genggaman tanganmu.
+Jenius Tech Engineering ini kami bercerita bagaimana Jenius itu dibuat, bagaimana proses yang mengiringinya, proses kreatif, proses membangunnya, proses dimana kami mengenalkan Jenius ke dunia dan sesuai dengan motto Jenius 'Putting Jenius at the heart of your life finance'." 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jenius.tech" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
