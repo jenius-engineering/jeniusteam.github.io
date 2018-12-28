@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-12-27T05:40:40+00:00</updated>
+  <updated>2018-12-28T05:44:01+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,62 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #97</title>
+      
+      <link href="https://jenius.tech/2018/12/28/engineer-readinglist-97/" rel="alternate" type="text/html" title="Jenius Engineer reading list #97" />
+      <published>2018-12-28T00:00:00+00:00</published>
+      <updated>2018-12-28T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2018/12/28/engineer-readinglist-97</id>
+      <content type="html" xml:base="https://jenius.tech/2018/12/28/engineer-readinglist-97/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/analyzing-experiment-outcomes/&quot;&gt;Analyzing Experiment Outcomes: Beyond Average Treatment Effects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/i-am-a-developer-why-should-i-use-docker/&quot;&gt;I am a Developer: why should I use Docker?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cotten.io/a-very-sleepy-mysql-attack-bff80975fda7&quot;&gt;A Very SLEEPy MySQL Attack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-ii-d67939655586&quot;&gt;Scaling Time Series Data Storage — Part II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/front-end-development-is-not-a-problem-to-be-solved/&quot;&gt;Front-end development is not a problem to be solved&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeascraft.com/2018/11/07/double-bucketing-in-ab-testing/&quot;&gt;Double-bucketing in A/B Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/virtual-reality-model-real-time-cross-device-preview/&quot;&gt;How To Build A Virtual Reality Model With A Real-Time Cross-Device Preview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/running-apache-kafka-on-kubernetes-at-shopify&quot;&gt;Running Apache Kafka on Kubernetes at Shopify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://martinfowler.com/articles/refactoring-2nd-ed.html&quot;&gt;The Second Edition of “Refactoring”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Analyzing Experiment Outcomes: Beyond Average Treatment Effects I am a Developer: why should I use Docker? A Very SLEEPy MySQL Attack Scaling Time Series Data Storage — Part II Front-end development is not a problem to be solved Double-bucketing in A/B Testing How To Build A Virtual Reality Model With A Real-Time Cross-Device Preview Running Apache Kafka on Kubernetes at Shopify The Second Edition of “Refactoring”</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1112,59 +1168,6 @@ Kenapa Quality Assurance? Ga cuma makanan atau kendaraan aja dong yang perlu Qua
 
       
         <summary type="html">Facebook, NYU expand available languages for natural language understanding systems How to Write Code That Documents Itself Lazy-loading components in React 16.6 ATM Fraud Detection with Apache Kafka and KSQL Anomaly Detection in Zipkin Trace Data Deep Learning for Classifying Hotel Aesthetics Photos</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #79</title>
-      
-      <link href="https://jenius.tech/2018/11/23/engineer-readinglist-79/" rel="alternate" type="text/html" title="Jenius Engineer reading list #79" />
-      <published>2018-11-23T00:00:00+00:00</published>
-      <updated>2018-11-23T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/11/23/engineer-readinglist-79</id>
-      <content type="html" xml:base="https://jenius.tech/2018/11/23/engineer-readinglist-79/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zammad/zammad&quot;&gt;Zammad – web based open source helpdesk/customer support system&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.contentful.com/blog/2018/11/20/graphql-ruby-love-backend-developer/&quot;&gt;Writing GraphQL queries in native Ruby = Love ❤️&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/uohzxela/clean-code-ruby&quot;&gt;🛁 Clean Code concepts adapted for Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rebo_dood/the-benefits-of-materialized-views-and-how-to-use-them-in-your-ruby-on-rails-project-4ac1b5432881&quot;&gt;The Benefits of Materialized Views (and how to use them in your Ruby on Rails project)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.rubyguides.com/2018/11/ruby-mjit/?tl_inbound=1&amp;amp;tl_target_all=1&amp;amp;tl_form_type=1&amp;amp;tl_period_type=1&quot;&gt;What Is MJIT in Ruby 2.6 &amp;amp; How Does It Work?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.epages.com/blog/coding/no-more-hassle-with-rails-secret-management/&quot;&gt;No more hassle with Rails secret management&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Zammad – web based open source helpdesk/customer support system Writing GraphQL queries in native Ruby = Love ❤️ 🛁 Clean Code concepts adapted for Ruby The Benefits of Materialized Views (and how to use them in your Ruby on Rails project) What Is MJIT in Ruby 2.6 &amp;amp; How Does It Work? No more hassle with Rails secret management</summary>
       
 
       
