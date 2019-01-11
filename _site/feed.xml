@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-01-11T07:00:04+00:00</updated>
+  <updated>2019-01-11T10:53:22+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #103</title>
+      
+      <link href="https://jenius.tech/2019/01/11/engineer-readinglist-104/" rel="alternate" type="text/html" title="Jenius Engineer reading list #103" />
+      <published>2019-01-11T00:00:00+00:00</published>
+      <updated>2019-01-11T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/01/11/engineer-readinglist-104</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/11/engineer-readinglist-104/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/visual-hierarchy&quot;&gt;Boost Your UX with Clear Visual Hierarchy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/driver-app-ribs-architecture/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=driver-app-ribs-architecture&quot;&gt;Architecting Uber’s New Driver App in RIBs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/challenges-realtime-chat-service-pusher&quot;&gt;Challenges of Building a Reliable Realtime Chat Service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/blazor-web-assembly&quot;&gt;Blazor: C# Running in the Browser via WebAssembly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ferdychristant.com/the-state-of-web-browsers-f5a83a41c1cb&quot;&gt;The State of Web Browsers 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techcrunch.com/2019/01/05/how-trulia-began-paying-down-its-technical-debt/&quot;&gt;How Trulia began paying down its technical debt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2019/01/07/introduction-to-contract-testing-part-1.html&quot;&gt;Introduction to contract testing - pt.1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Boost Your UX with Clear Visual Hierarchy Architecting Uber’s New Driver App in RIBs Challenges of Building a Reliable Realtime Chat Service Blazor: C# Running in the Browser via WebAssembly The State of Web Browsers 2018 How Trulia began paying down its technical debt Introduction to contract testing - pt.1</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1110,61 +1164,6 @@ Join di Jenius dari 2015, banyak pengalaman menarik di Jenius selama bekerja, mu
 
       
         <summary type="html">9 Emerging Operational Gaps That Will Accelerate Cloud Adoption — Part 1 Why giving back is important to the DevOps culture Threat modeling and DevOps: 3 lessons from the front lines Agile Methodology at Zomato Google Integrates Istio Service Mesh into Kubernetes Service Containerizing modern front-end applications: Part 1 — Building</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #86</title>
-      
-      <link href="https://jenius.tech/2018/12/05/engineer-readinglist-86/" rel="alternate" type="text/html" title="Jenius Engineer reading list #86" />
-      <published>2018-12-05T00:00:00+00:00</published>
-      <updated>2018-12-05T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/12/05/engineer-readinglist-86</id>
-      <content type="html" xml:base="https://jenius.tech/2018/12/05/engineer-readinglist-86/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ml-applications/horizon/&quot;&gt;Horizon: The first open source reinforcement learning platform for large-scale products and services&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.fastforwardlabs.com/2018/10/29/the-decentralized-web.html&quot;&gt;The Decentralized Web&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2018/11/01/more-efficient-range-scan-paging-with-scylla-3-0/&quot;&gt;More Efficient Range Scan Paging with Scylla 3.0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0&quot;&gt;I hate manager READMEs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/201x/2018/11/18/Post-REST&quot;&gt;Post-REST&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blairreeves.me/2018/11/09/dont-work-remotely/?resubmit=hn&quot;&gt;Don’t work “remotely”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/aurelg/ipfs-wormhole&quot;&gt;ipfs-wormhole&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://qz.com/work/1470164/what-is-psychological-safety/&quot;&gt;What psychological safety is not&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Horizon: The first open source reinforcement learning platform for large-scale products and services The Decentralized Web More Efficient Range Scan Paging with Scylla 3.0 I hate manager READMEs Post-REST Don’t work “remotely” ipfs-wormhole What psychological safety is not</summary>
       
 
       
