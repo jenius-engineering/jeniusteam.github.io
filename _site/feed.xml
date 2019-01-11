@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-01-08T04:38:50+00:00</updated>
+  <updated>2019-01-11T07:00:04+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,111 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #103</title>
+      
+      <link href="https://jenius.tech/2019/01/10/engineer-readinglist-103/" rel="alternate" type="text/html" title="Jenius Engineer reading list #103" />
+      <published>2019-01-10T00:00:00+00:00</published>
+      <updated>2019-01-10T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/01/10/engineer-readinglist-103</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/10/engineer-readinglist-103/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://capgemini.github.io/accessibility/Basic-Accessibility-for-Web-Applications/&quot;&gt;Basic Accessibility for Web Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/&quot;&gt;Your Client Engagement Program Isn’t Doing What You Think It Is&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/optimizing-cluster-resources-for-kubernetes-team-development&quot;&gt;Optimizing Cluster Resources for Kubernetes Team Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/fuzzy-sharp/building-a-type-safe-embedded-dsl-for-form-components-with-validation-e7ffaaf537e4&quot;&gt;Using PureScript to create a domain-specific language for building forms with validation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/cloud-computing-without-containers/&quot;&gt;Cloud Computing without Containers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Basic Accessibility for Web Applications Your Client Engagement Program Isn’t Doing What You Think It Is Optimizing Cluster Resources for Kubernetes Team Development Using PureScript to create a domain-specific language for building forms with validation Cloud Computing without Containers</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #102</title>
+      
+      <link href="https://jenius.tech/2019/01/09/engineer-readinglist-102/" rel="alternate" type="text/html" title="Jenius Engineer reading list #102" />
+      <published>2019-01-09T00:00:00+00:00</published>
+      <updated>2019-01-09T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/01/09/engineer-readinglist-102</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/09/engineer-readinglist-102/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-mediadatabase-media-timeline-data-model-4e657e6ffe93&quot;&gt;Netflix Media Database — the Media Timeline Data Model&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/sre-case-study-mysterious-traffic-imbalance/&quot;&gt;SRE Case Study: Mysterious Traffic Imbalance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/zendesk-engineering/how-we-use-aws-batch-at-zendesk-to-build-all-the-machine-learning-models-a41d93eabd45&quot;&gt;How we use AWS Batch at Zendesk to Build All The Machine Learning Models&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/into-the-depths-the-technical-details-behind-av1/&quot;&gt;Into the Depths: The Technical Details Behind AV1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arcentry.com/blog/postgres-might-just-be-the-most-advanced-database-ever&quot;&gt;At 22 years old, Postgres might just be the most advanced database yet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudera.com/blog/2018/11/proactive-data-pipeline-alerting-with-pulse/&quot;&gt;Proactive Data Pipeline Alerting with Pulse&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Netflix Media Database — the Media Timeline Data Model SRE Case Study: Mysterious Traffic Imbalance How we use AWS Batch at Zendesk to Build All The Machine Learning Models Into the Depths: The Technical Details Behind AV1 At 22 years old, Postgres might just be the most advanced database yet Proactive Data Pipeline Alerting with Pulse</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1060,114 +1165,6 @@ Join di Jenius dari 2015, banyak pengalaman menarik di Jenius selama bekerja, mu
 
       
         <summary type="html">Horizon: The first open source reinforcement learning platform for large-scale products and services The Decentralized Web More Efficient Range Scan Paging with Scylla 3.0 I hate manager READMEs Post-REST Don’t work “remotely” ipfs-wormhole What psychological safety is not</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #85</title>
-      
-      <link href="https://jenius.tech/2018/12/04/engineer-readinglist-85/" rel="alternate" type="text/html" title="Jenius Engineer reading list #85" />
-      <published>2018-12-04T00:00:00+00:00</published>
-      <updated>2018-12-04T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/12/04/engineer-readinglist-85</id>
-      <content type="html" xml:base="https://jenius.tech/2018/12/04/engineer-readinglist-85/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/GitSquared/edex-ui&quot;&gt;Edex-UI – A science fiction terminal emulator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.jessfraz.com/post/you-might-not-need-k8s/&quot;&gt;You might not need Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://slikts.github.io/concurrency-glossary/&quot;&gt;Concurrency glossary&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/product-design/guide-to-onboarding-ux&quot;&gt;First Impressions - a Guide to Onboarding UX&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code&quot;&gt;Want To Recruit Better Engineers? Open Source Your Code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jarun/nnn&quot;&gt;nnn – The fastest terminal file manager ever written&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blairreeves.me/2018/08/30/why-youre-having-trouble-hiring/&quot;&gt;Why you’re having trouble hiring&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/java-troubleshooting-guide/&quot;&gt;A Java troubleshooting guide: network, memory leaks and threads&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Edex-UI – A science fiction terminal emulator You might not need Kubernetes Concurrency glossary First Impressions - a Guide to Onboarding UX Want To Recruit Better Engineers? Open Source Your Code nnn – The fastest terminal file manager ever written Why you’re having trouble hiring A Java troubleshooting guide: network, memory leaks and threads</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #84</title>
-      
-      <link href="https://jenius.tech/2018/12/03/engineer-readinglist-84/" rel="alternate" type="text/html" title="Jenius Engineer reading list #84" />
-      <published>2018-12-03T00:00:00+00:00</published>
-      <updated>2018-12-03T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/12/03/engineer-readinglist-84</id>
-      <content type="html" xml:base="https://jenius.tech/2018/12/03/engineer-readinglist-84/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/&quot;&gt;Introducing FuseBox, an alternative to Webpack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/&quot;&gt;Advanced web security topics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/scaling-michelangelo/&quot;&gt;Scaling Machine Learning at Uber with Michelangelo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kgretzky/evilginx2&quot;&gt;EvilGinx – Standalone man-in-the-middle attack framework &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5&quot;&gt;Why you should avoid ORMs (with examples in Node.js)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.documentnode.io/learn-document-node-in-10-seconds&quot;&gt;Learn Document Node in 10 seconds from my business card&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Introducing FuseBox, an alternative to Webpack Advanced web security topics Scaling Machine Learning at Uber with Michelangelo EvilGinx – Standalone man-in-the-middle attack framework Why you should avoid ORMs (with examples in Node.js) Learn Document Node in 10 seconds from my business card</summary>
       
 
       
