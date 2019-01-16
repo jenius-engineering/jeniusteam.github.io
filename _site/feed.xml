@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-01-15T04:45:36+00:00</updated>
+  <updated>2019-01-16T05:11:00+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -28,9 +28,61 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list #105</title>
+      <title type="html">Jenius Engineer reading list #107</title>
       
-      <link href="https://jenius.tech/2019/01/15/engineer-readinglist-106/" rel="alternate" type="text/html" title="Jenius Engineer reading list #105" />
+      <link href="https://jenius.tech/2019/01/16/engineer-readinglist-107/" rel="alternate" type="text/html" title="Jenius Engineer reading list #107" />
+      <published>2019-01-16T00:00:00+00:00</published>
+      <updated>2019-01-16T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/01/16/engineer-readinglist-107</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/16/engineer-readinglist-107/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/handling-addresses-from-all-around-the-world&quot;&gt;Handling Addresses from All Around the World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-rise-of-multivector-amplifications/&quot;&gt;The rise of multivector DDoS attacks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/10/23/automating-terraform-abstracting-terraform-behind-a-web-service.html&quot;&gt;Automating Terraform: Infrastructure as Code as a Service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/doing-machine-learning-the-uber-way-five-lessons-from-the-first-three-years-of-michelangelo-da584a857cc2&quot;&gt;Doing Machine Learning the Uber Way: Five Lessons From the First Three Years of Michelangelo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/&quot;&gt;How we spent two weeks hunting an NFS bug in the Linux kernel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Handling Addresses from All Around the World The rise of multivector DDoS attacks Automating Terraform: Infrastructure as Code as a Service Doing Machine Learning the Uber Way: Five Lessons From the First Three Years of Michelangelo How we spent two weeks hunting an NFS bug in the Linux kernel</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #106</title>
+      
+      <link href="https://jenius.tech/2019/01/15/engineer-readinglist-106/" rel="alternate" type="text/html" title="Jenius Engineer reading list #106" />
       <published>2019-01-15T00:00:00+00:00</published>
       <updated>2019-01-15T00:00:00+00:00</updated>
       <id>https://jenius.tech/2019/01/15/engineer-readinglist-106</id>
@@ -1075,98 +1127,6 @@ Untuk text editor saya menggunakan &lt;a href=&quot;https://www.sublimetext.com/
 
       
         <summary type="html">Modernizing your build pipelines Blockchains vs. Hashgraphs I’ll Get Back to You: Task, Await, and Asynchronous Methods Writing a Frontend Web Framework with WebAssembly And Go Create your own dysfunctional single-page app in five easy steps Never ‘ssh’ Into Production? The Software Defined Delivery Manifesto Tutorial: How to host your own distributed file sharing service on your pc</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer: Ju Patric Sei</title>
-      
-      <link href="https://jenius.tech/2018/12/10/jenius-engineer-ju-patric-sei/" rel="alternate" type="text/html" title="Jenius Engineer: Ju Patric Sei" />
-      <published>2018-12-10T00:00:00+00:00</published>
-      <updated>2018-12-10T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/12/10/jenius-engineer-ju-patric-sei</id>
-      <content type="html" xml:base="https://jenius.tech/2018/12/10/jenius-engineer-ju-patric-sei/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/ju-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/ju-small.jpg&quot; alt=&quot;Ju Patric Sei&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Hi, saya &lt;a href=&quot;https://github.com/jupatric&quot;&gt;Ju Patric Sei&lt;/a&gt;, &lt;a href=&quot;https://www.jenius.com&quot;&gt;Jenius&lt;/a&gt; software engineer yang fokus di backend development untuk Digital Identity dan Access Management (yang mana sistem ini mengatur semua akun dan akses keamanan nasabah pengguna Jenius). Bahasa pemrograman yang digunakan Java dan Javascript (nodejs). Selain itu juga sebagai technical lead di salah satu squad Jenius, melakukan desain dan &lt;em&gt;architecture&lt;/em&gt; sistem.
-Join di Jenius dari 2015, banyak pengalaman menarik di Jenius selama bekerja, mulai dari development, deployment, maintenance sampai party!.
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.apple.com/id/macbook-pro/specs/&quot;&gt;Macbook Pro 13 inch&lt;/a&gt;, perangkat utama sehari hari untuk bekerja, &lt;a href=&quot;https://www.asus.com/id/Phone/ZenFone-3-ZE552KL/&quot;&gt;Asus Zenfone 3&lt;/a&gt;, terima pesan dan call, non/work related &lt;a href=&quot;https://en.wikipedia.org/wiki/IPad_Mini&quot;&gt;Ipad mini&lt;/a&gt; untuk entertainment.&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt;/&lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; dan &lt;a href=&quot;https://eclipse.org/&quot;&gt;Eclipse&lt;/a&gt; sebagai editor utama, untuk mangatur dan adminitrasi &lt;em&gt;user access&lt;/em&gt; saya menggunakan &lt;a href=&quot;https://directory.apache.org/studio/&quot;&gt;Apache Directory Studio&lt;/a&gt; sebagai &lt;a href=&quot;https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol&quot;&gt;LDAP&lt;/a&gt; browser dan editor.&lt;/p&gt;
-
-&lt;p&gt;Untuk keperluan &lt;em&gt;source code management&lt;/em&gt; menggunakan &lt;a href=&quot;https://www.sourcetreeapp.com/&quot;&gt;Source Tree&lt;/a&gt; app, terkadang juga menggunakan &lt;a href=&quot;https://en.wikipedia.org/wiki/Terminal_(macOS)&quot;&gt;Terminal&lt;/a&gt;/&lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm&lt;/a&gt; untuk manage &lt;a href=&quot;https://git-scm.com/&quot;&gt;git&lt;/a&gt; dan ssh ke server-server jika diperlukan, &lt;a href=&quot;https://jmeter.apache.org/&quot;&gt;Jmeter&lt;/a&gt; dan &lt;a href=&quot;https://www.getpostman.com/&quot;&gt;Postman&lt;/a&gt; sebagai API client dan Performance testing.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://meetfranz.com/&quot;&gt;Franz&lt;/a&gt; (Slack, Skype, Whatsapp) sebagai messaging service dalam 1 aplikasi jadi &lt;em&gt;gak&lt;/em&gt; ribet. Ms Outlook, untuk organize email dan meeting, kemudian Chrome browser, membantu dalam mencari informasi, Google Drive, backup and sharing data.&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://app.appsflyer.com/com.btpn.dc?pid=jenius.com&amp;amp;c=2018HomePage-BannerApplikasiKartu&amp;amp;af_sub1=57fe7e1d-15b9-467f-bd9e-8ee0c6936ae2&quot;&gt;Jenius&lt;/a&gt;! untuk Digital Banking memudahkan untuk keperluan finansial&lt;/li&gt;
-  &lt;li&gt;Google Apps (Drive, Mail, Chrome, Hangouts, Keep)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://whatsapp.com/&quot;&gt;WhatsApp&lt;/a&gt;, &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;, &lt;a href=&quot;https://line.me/&quot;&gt;Line&lt;/a&gt; - Komunikasi untuk kerjaan dan non kerjaan&lt;/li&gt;
-  &lt;li&gt;Jira and Confluence, &lt;a href=&quot;https://www.pulsesecure.net/connect-secure/&quot;&gt;VPN Pulse Secure&lt;/a&gt;, New Relic Insights&lt;/li&gt;
-  &lt;li&gt;Instagram, Twitter, FB, LinkedIn, Udemy - Refreshing&lt;/li&gt;
-  &lt;li&gt;Spotify, Youtube, Sound Hound untuk dengerin dan identifikasi lagu&lt;/li&gt;
-  &lt;li&gt;Gojek, Grab, Traveloka&lt;/li&gt;
-  &lt;li&gt;Waze, GMap – Biar ga salah jalan dan shortpath&lt;/li&gt;
-  &lt;li&gt;XXI, CGV buat booking cinema&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Macbook Pro dan chargernya&lt;/li&gt;
-  &lt;li&gt;Cable USB C and micro&lt;/li&gt;
-  &lt;li&gt;Rokcetbook Wave + Bolpen&lt;/li&gt;
-  &lt;li&gt;Kunci&lt;/li&gt;
-  &lt;li&gt;Ricola&lt;/li&gt;
-  &lt;li&gt;Earphone&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;p&gt;Menggunakan live wallpaper 3D biar lebih interactive dan ga bosen.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/ju-hr-large.jpeg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/ju-hr-small.jpeg&quot; alt=&quot;Ju Patric Sei Homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius engineer" />
-      
-        <category term="backstage" />
-      
-        <category term="engineer" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Hi, saya Ju Patric Sei, Jenius software engineer yang fokus di backend development untuk Digital Identity dan Access Management (yang mana sistem ini mengatur semua akun dan akses keamanan nasabah pengguna Jenius). Bahasa pemrograman yang digunakan Java dan Javascript (nodejs). Selain itu juga sebagai technical lead di salah satu squad Jenius, melakukan desain dan architecture sistem. Join di Jenius dari 2015, banyak pengalaman menarik di Jenius selama bekerja, mulai dari development, deployment, maintenance sampai party!.</summary>
       
 
       
