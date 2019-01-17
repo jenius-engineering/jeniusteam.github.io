@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-01-16T05:11:00+00:00</updated>
+  <updated>2019-01-17T11:24:55+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #108</title>
+      
+      <link href="https://jenius.tech/2019/01/17/engineer-readinglist-108/" rel="alternate" type="text/html" title="Jenius Engineer reading list #108" />
+      <published>2019-01-17T00:00:00+00:00</published>
+      <updated>2019-01-17T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/01/17/engineer-readinglist-108</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/17/engineer-readinglist-108/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d&quot;&gt;Dash: A Beginner’s Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/principles-of-good-large-scale-agile/&quot;&gt;Principles of Good Large-Scale Agile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/automating-deployment-strategies-ansible&quot;&gt;Automating deployment strategies with Ansible&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/microservices-and-nosql-a-great-match/&quot;&gt;Microservices and NoSQL: A Great Match&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/aiops-and-the-myth-of-efficient-multitasking/&quot;&gt;AIOps and the Myth of Efficient Multitasking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Dash: A Beginner’s Guide Principles of Good Large-Scale Agile Automating deployment strategies with Ansible Microservices and NoSQL: A Great Match AIOps and the Myth of Efficient Multitasking</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1072,61 +1124,6 @@ Untuk text editor saya menggunakan &lt;a href=&quot;https://www.sublimetext.com/
 
       
         <summary type="html">Best Practices for Logging in Node.js The Engineering Manager A Netflix Web Performance Case Study GraphQL: A Retrospective The Greatest Sales Deck I’ve Ever Seen learn Git Branching</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #89</title>
-      
-      <link href="https://jenius.tech/2018/12/11/engineer-readinglist-89/" rel="alternate" type="text/html" title="Jenius Engineer reading list #89" />
-      <published>2018-12-11T00:00:00+00:00</published>
-      <updated>2018-12-11T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/12/11/engineer-readinglist-89</id>
-      <content type="html" xml:base="https://jenius.tech/2018/12/11/engineer-readinglist-89/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/modernizing-your-build-pipelines&quot;&gt;Modernizing your build pipelines&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/blockchains-vs-hashgraphs-66a2058c8b43&quot;&gt;Blockchains vs. Hashgraphs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/asynchronous-methods-task&quot;&gt;I’ll Get Back to You: Task, Await, and Asynchronous Methods&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/writing-a-frontend-web-framework-with-webassembly-and-go-ff84cd1346fe&quot;&gt;Writing a Frontend Web Framework with WebAssembly And Go&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/create-your-own-dysfunctional-single-page-app-in-five-easy-steps-7bfcba9df6df&quot;&gt;Create your own dysfunctional single-page app in five easy steps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://obdurodon.silvrback.com/never-ssh-into-production&quot;&gt; Never ‘ssh’ Into Production? &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sdd-manifesto.org/&quot;&gt;The Software Defined Delivery Manifesto&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.florence.chat/tutorial-how-to-host-your-own-file-transfer-service-on-your-pc-22698c9d6362&quot;&gt;Tutorial: How to host your own distributed file sharing service on your pc&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Modernizing your build pipelines Blockchains vs. Hashgraphs I’ll Get Back to You: Task, Await, and Asynchronous Methods Writing a Frontend Web Framework with WebAssembly And Go Create your own dysfunctional single-page app in five easy steps Never ‘ssh’ Into Production? The Software Defined Delivery Manifesto Tutorial: How to host your own distributed file sharing service on your pc</summary>
       
 
       
