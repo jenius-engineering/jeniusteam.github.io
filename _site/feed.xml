@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-01-21T04:01:31+00:00</updated>
+  <updated>2019-01-22T05:29:58+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #111</title>
+      
+      <link href="https://jenius.tech/2019/01/22/engineer-readinglist-111/" rel="alternate" type="text/html" title="Jenius Engineer reading list #111" />
+      <published>2019-01-22T00:00:00+00:00</published>
+      <updated>2019-01-22T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/01/22/engineer-readinglist-111</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/22/engineer-readinglist-111/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-1-34ccb2ea0b4d&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-2-efdf8e422085&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-3-fdfc8b8cc843&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 3&lt;/a&gt;- &lt;a href=&quot;https://m.subbu.org/contemporary-views-on-serverless-and-implications-1c5907c611d8&quot;&gt;Contemporary Views on Serverless and Implications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70&quot;&gt;Monorepo: please do!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/wso2-ceo-tyler-jewell-ballerina-and-the-end-of-middleware/&quot;&gt;WSO2 CEO Tyler Jewell: Ballerina and the End of Middleware&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Bonny: Extending Kubernetes with Elixir — Part 1 Bonny: Extending Kubernetes with Elixir — Part 2 Bonny: Extending Kubernetes with Elixir — Part 3- Contemporary Views on Serverless and Implications Monorepo: please do! WSO2 CEO Tyler Jewell: Ballerina and the End of Middleware</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1069,59 +1121,6 @@ Untuk text editor saya menggunakan &lt;a href=&quot;https://www.sublimetext.com/
 
       
         <summary type="html">Developing With Containers Done Right Zero-shot learning: Using text to more accurately identify images Building Services at Airbnb, Part 3 An introduction to Kubeflow De-facto closed source: the case for understandable software Applying Deep Learning To Airbnb Search</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #92</title>
-      
-      <link href="https://jenius.tech/2018/12/20/engineer-readinglist-92/" rel="alternate" type="text/html" title="Jenius Engineer reading list #92" />
-      <published>2018-12-20T00:00:00+00:00</published>
-      <updated>2018-12-20T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/12/20/engineer-readinglist-92</id>
-      <content type="html" xml:base="https://jenius.tech/2018/12/20/engineer-readinglist-92/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/crash-reporting-in-desktop-python-applications/&quot;&gt;Crash reporting in desktop Python applications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dataquest.io/blog/linear-regression-in-real-life/&quot;&gt;Linear Regression in Real Life&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/swlh/how-agile-done-wrong-can-hurt-your-company-7c0d26bd84f7&quot;&gt;How Agile done wrong can hurt your company&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/devops/terraform-aws-cloud-iac&quot;&gt;Terraform AWS Cloud: Sane Infrastructure Management&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-your-role-changes-when-devops-goes-cloud-native/&quot;&gt;How Your Role Changes When DevOps Goes Cloud Native&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/12/deep-learning-inference&quot;&gt;How to build deep learning inference through Knative serverless framework&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Crash reporting in desktop Python applications Linear Regression in Real Life How Agile done wrong can hurt your company Terraform AWS Cloud: Sane Infrastructure Management How Your Role Changes When DevOps Goes Cloud Native How to build deep learning inference through Knative serverless framework</summary>
       
 
       
