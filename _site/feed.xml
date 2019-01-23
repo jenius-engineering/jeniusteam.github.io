@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-01-22T05:29:58+00:00</updated>
+  <updated>2019-01-23T04:31:05+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #112</title>
+      
+      <link href="https://jenius.tech/2019/01/23/engineer-readinglist-112/" rel="alternate" type="text/html" title="Jenius Engineer reading list #112" />
+      <published>2019-01-23T00:00:00+00:00</published>
+      <updated>2019-01-23T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/01/23/engineer-readinglist-112</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/23/engineer-readinglist-112/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@midn/high-availability-vpn-on-aws-with-strongswan-bba12b5d4e55&quot;&gt;High-Availability VPN on AWS with Strongswan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theregister.co.uk/2019/01/16/devops_salary_report/&quot;&gt;The DevOps Salary Report is in, and is great news for American men&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/capital-one-tech/4-lessons-learned-from-scaling-ios-ci-cd-60c2f0cd7c94&quot;&gt;4 Lessons From Scaling iOS CI/CD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/why-you-cant-afford-to-ignore-distributed-tracing-for-observability/&quot;&gt;Why You Can’t Afford to Ignore Distributed Tracing for Observability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/my-journey-with-golang-web-services-4d922a8c9897&quot;&gt;Building Scalable Web Services in Golang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/4-agile-best-practices-every-enterprise-architect-should-follow&quot;&gt;4 agile best practices every enterprise architect should follow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">High-Availability VPN on AWS with Strongswan The DevOps Salary Report is in, and is great news for American men 4 Lessons From Scaling iOS CI/CD Why You Can’t Afford to Ignore Distributed Tracing for Observability Building Scalable Web Services in Golang 4 agile best practices every enterprise architect should follow</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1068,59 +1121,6 @@ Untuk text editor saya menggunakan &lt;a href=&quot;https://www.sublimetext.com/
 
       
         <summary type="html">A short introduction to Windows Containers Erllambda – Enable AWS Lambda functions to be written in Erlang Enabling Modern JavaScript in Rails with Webpack(er) How to Grow as an Engineer (Working Remotely) What’s the Difference Between Implicit vs. Explicit Programming?</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #93</title>
-      
-      <link href="https://jenius.tech/2018/12/21/engineer-readinglist-93/" rel="alternate" type="text/html" title="Jenius Engineer reading list #93" />
-      <published>2018-12-21T00:00:00+00:00</published>
-      <updated>2018-12-21T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/12/21/engineer-readinglist-93</id>
-      <content type="html" xml:base="https://jenius.tech/2018/12/21/engineer-readinglist-93/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/google-cloud/developing-with-containers-done-right-831a4bae1d28&quot;&gt;Developing With Containers Done Right&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/zero-shot-learning/&quot;&gt;Zero-shot learning: Using text to more accurately identify images&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d&quot;&gt;Building Services at Airbnb, Part 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/18/12/introduction-kubeflow&quot;&gt;An introduction to Kubeflow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://13brane.net/rants/de-facto-closed-source/&quot;&gt;De-facto closed source: the case for understandable software&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f&quot;&gt;Applying Deep Learning To Airbnb Search&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Developing With Containers Done Right Zero-shot learning: Using text to more accurately identify images Building Services at Airbnb, Part 3 An introduction to Kubeflow De-facto closed source: the case for understandable software Applying Deep Learning To Airbnb Search</summary>
       
 
       
