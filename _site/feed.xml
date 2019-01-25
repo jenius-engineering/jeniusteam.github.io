@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-01-24T08:58:04+00:00</updated>
+  <updated>2019-01-25T08:59:04+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #114</title>
+      
+      <link href="https://jenius.tech/2019/01/25/engineer-readinglist-114/" rel="alternate" type="text/html" title="Jenius Engineer reading list #114" />
+      <published>2019-01-25T00:00:00+00:00</published>
+      <updated>2019-01-25T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/01/25/engineer-readinglist-114</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/25/engineer-readinglist-114/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/measuring-what-makes-readers-subscribe-to-the-time-fa31f00a3cdd&quot;&gt;Measuring What Makes Readers Subscribe to The New York Times&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/&quot;&gt;Building An Interactive Infographic With Vue.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/can-snmp-still-be-used-to-detect-ddos-attacks-32b03aa9df8a&quot;&gt;Can SNMP (Still) Be Used to Detect DDoS Attacks?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bytes.grubhub.com/how-we-build-services-fast-a-look-at-the-grubhub-service-framework-181ae2091391&quot;&gt;How we build services fast: A look at the Grubhub service framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/3-prioritization-techniques-beat-software-deadline-stress&quot;&gt;3 prioritization techniques to beat software deadline stress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Measuring What Makes Readers Subscribe to The New York Times Building An Interactive Infographic With Vue.js Can SNMP (Still) Be Used to Detect DDoS Attacks? How we build services fast: A look at the Grubhub service framework 3 prioritization techniques to beat software deadline stress</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1067,60 +1119,6 @@ Untuk text editor saya menggunakan &lt;a href=&quot;https://www.sublimetext.com/
 
       
         <summary type="html">Bye bye Mongo, Hello Postgres Facebook Uses IP Address and Other Info to Deliver Location-Based Ads Even When Location Options are Disabled Sharding Cash Empowering personalized marketing with machine learning Building Distributed Engineering Teams AWSGeek – Diagrams of all AWS services</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #95</title>
-      
-      <link href="https://jenius.tech/2018/12/26/engineer-readinglist-95/" rel="alternate" type="text/html" title="Jenius Engineer reading list #95" />
-      <published>2018-12-26T00:00:00+00:00</published>
-      <updated>2018-12-26T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/12/26/engineer-readinglist-95</id>
-      <content type="html" xml:base="https://jenius.tech/2018/12/26/engineer-readinglist-95/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/rebuilding-the-groups-experience-on-linkedin&quot;&gt;Rebuilding the Groups Experience on LinkedIn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cameronlonsdale.com/2018/11/26/whats-in-a-docker-image/&quot;&gt;What’s in a Docker image?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/react-in-depth/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-67f1014d0eb7&quot;&gt;The how and why on React’s usage of linked list in Fiber to walk the component’s tree&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/&quot;&gt;Getafix: How Facebook tools learn to fix bugs automatically&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/rethinking-quality-engineers/&quot;&gt;Rethinking quality and the engineers who protect it&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://firecracker-microvm.github.io/&quot;&gt;Secure and fast microVMs for serverless computing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.bitnami.com/articles/announcing-the-bitnami-kubernetes-production-runtime-bkpr.html&quot;&gt;Announcing the Bitnami Kubernetes Production Runtime (BKPR)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Rebuilding the Groups Experience on LinkedIn What’s in a Docker image? The how and why on React’s usage of linked list in Fiber to walk the component’s tree Getafix: How Facebook tools learn to fix bugs automatically Rethinking quality and the engineers who protect it Secure and fast microVMs for serverless computing Announcing the Bitnami Kubernetes Production Runtime (BKPR)</summary>
       
 
       
