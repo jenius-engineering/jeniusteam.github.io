@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-01-25T08:59:04+00:00</updated>
+  <updated>2019-01-28T12:27:52+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #115</title>
+      
+      <link href="https://jenius.tech/2019/01/28/engineer-readinglist-115/" rel="alternate" type="text/html" title="Jenius Engineer reading list #115" />
+      <published>2019-01-28T00:00:00+00:00</published>
+      <updated>2019-01-28T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/01/28/engineer-readinglist-115</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/28/engineer-readinglist-115/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/what-small-scale-scrum&quot;&gt;What is Small Scale Scrum?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/devops-demands-netops/&quot;&gt;DevOps Demands NetOps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/real-time-context-based-smart-type-ahead-suggestions-316ac7a25107&quot;&gt;Real-time context based smart type-ahead suggestions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/achieving-blockchain-scalability-with-sparse-merkle-trees-and-bloom-filters-3b9945f003f&quot;&gt;Achieving Blockchain Scalability with Sparse Merkle Trees and Bloom Filters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/uber-big-data-dl-ml&quot;&gt;Big Data and Deep Learning: A Tale of Two Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2018/11/15/mysql-high-availability-on-premises-a-geographically-distributed-scenario/&quot;&gt;MySQL High Availability On-Premises: A Geographically Distributed Scenario&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">What is Small Scale Scrum? DevOps Demands NetOps Real-time context based smart type-ahead suggestions Achieving Blockchain Scalability with Sparse Merkle Trees and Bloom Filters Big Data and Deep Learning: A Tale of Two Systems MySQL High Availability On-Premises: A Geographically Distributed Scenario</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1066,59 +1119,6 @@ Untuk text editor saya menggunakan &lt;a href=&quot;https://www.sublimetext.com/
 
       
         <summary type="html">Analyzing Experiment Outcomes: Beyond Average Treatment Effects I am a Developer: why should I use Docker? A Very SLEEPy MySQL Attack Scaling Time Series Data Storage — Part II Front-end development is not a problem to be solved Double-bucketing in A/B Testing How To Build A Virtual Reality Model With A Real-Time Cross-Device Preview Running Apache Kafka on Kubernetes at Shopify The Second Edition of “Refactoring”</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #96</title>
-      
-      <link href="https://jenius.tech/2018/12/27/engineer-readinglist-96/" rel="alternate" type="text/html" title="Jenius Engineer reading list #96" />
-      <published>2018-12-27T00:00:00+00:00</published>
-      <updated>2018-12-27T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2018/12/27/engineer-readinglist-96</id>
-      <content type="html" xml:base="https://jenius.tech/2018/12/27/engineer-readinglist-96/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres&quot;&gt;Bye bye Mongo, Hello Postgres&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.macrumors.com/2018/12/18/facebook-ad-tracking-ip-address/&quot;&gt;Facebook Uses IP Address and Other Info to Deliver Location-Based Ads Even When Location Options are Disabled&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/sharding-cash-10280fa3ef3b&quot;&gt;Sharding Cash&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6&quot;&gt;Empowering personalized marketing with machine learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.brunomiranda.com/building-a-distributed-engineering-team-85d281b9b1c&quot;&gt;Building Distributed Engineering Teams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.awsgeek.com/&quot;&gt;AWSGeek – Diagrams of all AWS services&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Bye bye Mongo, Hello Postgres Facebook Uses IP Address and Other Info to Deliver Location-Based Ads Even When Location Options are Disabled Sharding Cash Empowering personalized marketing with machine learning Building Distributed Engineering Teams AWSGeek – Diagrams of all AWS services</summary>
       
 
       
