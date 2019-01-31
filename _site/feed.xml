@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-01-29T08:24:10+00:00</updated>
+  <updated>2019-01-31T04:56:21+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,112 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #118</title>
+      
+      <link href="https://jenius.tech/2019/01/31/engineer-readinglist-118/" rel="alternate" type="text/html" title="Jenius Engineer reading list #118" />
+      <published>2019-01-31T00:00:00+00:00</published>
+      <updated>2019-01-31T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/01/31/engineer-readinglist-118</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/31/engineer-readinglist-118/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/decentralizing-social-interactions-with-activitypub/&quot;&gt;Decentralizing Social Interactions with ActivityPub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drivy.engineering/airflow-architecture/&quot;&gt;Airflow Architecture at Drivy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/&quot;&gt;Fast Google Fonts with Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/5-ways-to-hack-an-api-and-how-to-defend/&quot;&gt;5 Ways To Hack An API (And How To Defend)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/&quot;&gt;Zero Config JavaScript App Prototyping with Webpack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning&quot;&gt;Using Apache Kafka to Drive Cutting-Edge Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Decentralizing Social Interactions with ActivityPub Airflow Architecture at Drivy Fast Google Fonts with Cloudflare Workers 5 Ways To Hack An API (And How To Defend) Zero Config JavaScript App Prototyping with Webpack Using Apache Kafka to Drive Cutting-Edge Machine Learning</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #117</title>
+      
+      <link href="https://jenius.tech/2019/01/30/engineer-readinglist-117/" rel="alternate" type="text/html" title="Jenius Engineer reading list #117" />
+      <published>2019-01-30T00:00:00+00:00</published>
+      <updated>2019-01-30T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/01/30/engineer-readinglist-117</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/30/engineer-readinglist-117/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.blogfoster.com/snapshot-testing-going-beyond-ui/&quot;&gt;Snapshot Testing Going Beyond UI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/experiments-with-link-previews-to-help-guide-readers-79dbe843ad29&quot;&gt;Experiments with Link Previews to Help Guide Readers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sourced.tech/post/pga_history/&quot;&gt;The Public Git Archive Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/observability-at-scale/&quot;&gt;Observability at Scale: Building Uber’s Alerting Ecosystem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/implications-blocks-blobs/&quot;&gt;Implications Of Thinking In Blocks Instead Of Blobs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d&quot;&gt;Scaling Spark Streaming for Logging Event Ingestion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Snapshot Testing Going Beyond UI Experiments with Link Previews to Help Guide Readers The Public Git Archive Story Observability at Scale: Building Uber’s Alerting Ecosystem Implications Of Thinking In Blocks Instead Of Blobs Scaling Spark Streaming for Logging Event Ingestion</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1009,112 +1115,6 @@ Untuk text editor saya menggunakan &lt;a href=&quot;https://www.sublimetext.com/
 
       
         <summary type="html">Siapa dan apa yang dilakukan di Jenius? Hello! Perkenalkan nama saya Eko Cahyo Pramulanto, Bisa dipanggil Eko. Posisi saya di Jenius sebagai Production Support Engineer. Production support engineer ini bertanggung jawab membantu menyelesaikan issue dan bugs yang terkadang muncul di production, meski Jenius memiliki environment dan pipeline lengkap untuk proses development, integration dan testing, terkadang akan ada issue yang berbeda muncul di production, itu hal yang wajar dan kemungkinan itu akan selalu ada di perusahaan manapun, yang penting kita selalu siap akan kemungkinan itu, dengan ketatnya alur development di Jenius hal-hal yang tidak diinginkan bisa dimininalisir.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #99</title>
-      
-      <link href="https://jenius.tech/2019/01/04/engineer-readinglist-99/" rel="alternate" type="text/html" title="Jenius Engineer reading list #99" />
-      <published>2019-01-04T00:00:00+00:00</published>
-      <updated>2019-01-04T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/04/engineer-readinglist-99</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/04/engineer-readinglist-99/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://lucteo.ro/2018/11/18/look-ma-no-locks/&quot;&gt;Look ma, no locks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://isc.sans.edu/diary/rss/24388&quot;&gt;A Dive into malicious Docker Containers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://henrikwarne.com/2018/12/03/developer-on-call/&quot;&gt;Developer On Call&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://robertheaton.com/2018/11/28/https-in-the-real-world/&quot;&gt;HTTPS in the real world&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2018/12/05/nondeterministic-functions-in-mysql-i-e-rand-can-surprise-you/&quot;&gt;Nondeterministic Functions in MySQL (i.e. rand) Can Surprise You&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Look ma, no locks A Dive into malicious Docker Containers Developer On Call HTTPS in the real world Nondeterministic Functions in MySQL (i.e. rand) Can Surprise You</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #98</title>
-      
-      <link href="https://jenius.tech/2019/01/03/engineer-readinglist-98/" rel="alternate" type="text/html" title="Jenius Engineer reading list #98" />
-      <published>2019-01-03T00:00:00+00:00</published>
-      <updated>2019-01-03T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/03/engineer-readinglist-98</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/03/engineer-readinglist-98/">&lt;h3&gt;Selamat tahun baru!&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.skybettingandgaming.com/2018/11/09/optimising-microservices-part-2/&quot;&gt;Optimising an AWS microservice - Part 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2&quot;&gt;How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.appfolio.com/appfolio-engineering/2018/11/28/how-fast-is-ruby-260preview3-for-discourse&quot;&gt;How Fast is Ruby 2.6.0preview3 for Discourse?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://robots.thoughtbot.com/ruby-memoization-and-alternatives&quot;&gt;Ruby Memoization and Alternatives&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tfnldxWlOhM&quot;&gt;Hillel Wayne - Everything about distributed systems is terrible&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Selamat tahun baru! Optimising an AWS microservice - Part 2 How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo How Fast is Ruby 2.6.0preview3 for Discourse? Ruby Memoization and Alternatives Hillel Wayne - Everything about distributed systems is terrible</summary>
       
 
       
