@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-01-31T04:56:21+00:00</updated>
+  <updated>2019-02-04T08:51:30+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,113 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #120</title>
+      
+      <link href="https://jenius.tech/2019/02/04/engineer-readinglist-120/" rel="alternate" type="text/html" title="Jenius Engineer reading list #120" />
+      <published>2019-02-04T00:00:00+00:00</published>
+      <updated>2019-02-04T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/04/engineer-readinglist-120</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/04/engineer-readinglist-120/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/&quot;&gt;Avoiding The Pitfalls Of Automatically Inlined Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance&quot;&gt;Errors in Go: From denial to acceptance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/web-standards-guide/&quot;&gt;Web Standards: The What, The Why, And The How&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b&quot;&gt;Interesting Web Technologies to follow in 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.heartinternet.uk/blog/the-developers-guide-to-native-web-animation/&quot;&gt;The developer’s guide to native web animation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/gradually-then-suddenly&quot;&gt;Gradually, then suddenly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/chingu/protect-application-assets-how-to-secure-your-secrets-a4165550c5fb&quot;&gt;Protect Application Assets: How to Secure Your Secrets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://standalone-sysadmin.com/the-impostor-effect-vs-dunning-kruger-d2bafb774347&quot;&gt;The Impostor Effect vs Dunning-Kruger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Avoiding The Pitfalls Of Automatically Inlined Code Errors in Go: From denial to acceptance Web Standards: The What, The Why, And The How Interesting Web Technologies to follow in 2019 The developer’s guide to native web animation Gradually, then suddenly Protect Application Assets: How to Secure Your Secrets The Impostor Effect vs Dunning-Kruger</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #119</title>
+      
+      <link href="https://jenius.tech/2019/02/01/engineer-readinglist-119/" rel="alternate" type="text/html" title="Jenius Engineer reading list #119" />
+      <published>2019-02-01T00:00:00+00:00</published>
+      <updated>2019-02-01T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/01/engineer-readinglist-119</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/01/engineer-readinglist-119/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html&quot;&gt;TTL as a Service: Automatic Revocation of Stale Privileges&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/fundamental-problem-search/&quot;&gt;The Fundamental Problem of Search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/these-are-the-features-in-es6-that-you-should-know-1411194c71cb&quot;&gt;These are the features in ES6 that you should know&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html&quot;&gt;Dynamic configuration at Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5&quot;&gt;Dissecting Front-end Job Titles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">TTL as a Service: Automatic Revocation of Stale Privileges The Fundamental Problem of Search These are the features in ES6 that you should know Dynamic configuration at Twitter Dissecting Front-end Job Titles</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -966,155 +1073,6 @@
 
       
         <summary type="html">Front-End Micro Services Software Sprawl, The Golden Path, and Scaling Teams With Agency A Weird and Wonderful Trip through Ruby’s Standard Library Unlearning for DynamoDB Yak shaving and fixing</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #100</title>
-      
-      <link href="https://jenius.tech/2019/01/07/engineer-readinglist-100/" rel="alternate" type="text/html" title="Jenius Engineer reading list #100" />
-      <published>2019-01-07T00:00:00+00:00</published>
-      <updated>2019-01-07T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/07/engineer-readinglist-100</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/07/engineer-readinglist-100/">&lt;h2&gt;whoa, 100th edition&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/&quot;&gt;Reasons to Scale Horizontally&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/wagoodman/dive&quot;&gt;Dive – A tool for exploring each layer in a docker image&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://serverless.com/blog/api-ruby-serverless-framework/&quot;&gt;Building an API with Ruby and the Serverless Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179&quot;&gt;Netflix Information Security: Preventing Credential Compromise in AWS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/eli5-plasma-cash-ff242c55e8de&quot;&gt;ELI5: Plasma Cash — Scaling Ethereum&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/&quot;&gt;How We Built a Cost-Based SQL Optimizer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">whoa, 100th edition Reasons to Scale Horizontally Dive – A tool for exploring each layer in a docker image Building an API with Ruby and the Serverless Framework Netflix Information Security: Preventing Credential Compromise in AWS ELI5: Plasma Cash — Scaling Ethereum How We Built a Cost-Based SQL Optimizer</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer: Eko Cahyo Pramulanto</title>
-      
-      <link href="https://jenius.tech/2019/01/05/jenius-engineer-eko-pramulanto/" rel="alternate" type="text/html" title="Jenius Engineer: Eko Cahyo Pramulanto" />
-      <published>2019-01-05T00:00:00+00:00</published>
-      <updated>2019-01-05T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/05/jenius-engineer-eko-pramulanto</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/05/jenius-engineer-eko-pramulanto/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/eko-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/eko-small.jpg&quot; alt=&quot;Eko Cahyo Pramulanto&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Hello! Perkenalkan nama saya Eko Cahyo Pramulanto, Bisa dipanggil Eko. Posisi saya di &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt; sebagai Production Support Engineer.&lt;/p&gt;
-
-&lt;p&gt;Production support engineer ini bertanggung jawab membantu menyelesaikan &lt;em&gt;issue&lt;/em&gt; dan &lt;em&gt;bugs&lt;/em&gt; yang terkadang muncul di &lt;em&gt;production&lt;/em&gt;, meski Jenius memiliki &lt;em&gt;environment&lt;/em&gt; dan &lt;em&gt;pipeline&lt;/em&gt; lengkap untuk proses &lt;em&gt;development&lt;/em&gt;, &lt;em&gt;integration&lt;/em&gt; dan &lt;em&gt;testing&lt;/em&gt;, terkadang akan ada &lt;em&gt;issue&lt;/em&gt; yang berbeda muncul di production, itu hal yang wajar dan kemungkinan itu akan selalu ada di perusahaan manapun, yang penting kita selalu siap akan kemungkinan itu, dengan ketatnya alur development di Jenius hal-hal yang tidak diinginkan bisa dimininalisir.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Di samping menyelesaikan issue, Production support engineer juga melakukan monitoring, baik system maupun &lt;em&gt;hardware&lt;/em&gt;, hal ini untuk mencegah hal sebelum menjadi sebuah issue yang mungkin bisa muncul di production, monitoring juga berguna untuk mengetahui kondisi Jenius terkini dari sisi resources baik hardware-nya atau system-nya (microservice).&lt;/p&gt;
-
-&lt;p&gt;Selain itu, sebagai &lt;strong&gt;L-2&lt;/strong&gt; dari layer support, saya bersama tim juga bertanggung jawab menangani masalah yang sedang dihadapai oleh nasabah dalam menggunakan aplikasi Jenius.&lt;/p&gt;
-
-&lt;p&gt;Di Jenius, saya bisa belajar dan mengeksplorasi teknologi baru dengan rekan kerja yang saling mendukung.&lt;/p&gt;
-
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;MacBook Pro 13-inch Early 2015 untuk kebutuhan komputing, terhubung ke server atau sekedar melihat monitoring system. Kemudian Samsung Galaxy Note 9 untuk komunikasi dengan server, tim dan keluarga, dan iPhone 6s sebagai backup. 
-Samsung Galaxy Gear S3 untuk tracking fit dan extended device dari Galaxy.&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://meetfranz.com/&quot;&gt;Franz&lt;/a&gt;, aplikasi ini bisa mengkombinasi banyak messaging service (e.g. Whatsapp, Telegram, dll). Sehingga saya cukup membuka 1 aplikasi untuk chat.&lt;/p&gt;
-
-&lt;p&gt;Untuk keperluan browsing saya hanya mengandalkan &lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Chrome&lt;/a&gt;. Sedangkan untuk email, saya menggunakan Microsoft Outlook.
-Untuk text editor saya menggunakan &lt;a href=&quot;https://www.sublimetext.com/&quot;&gt;Sublime&lt;/a&gt;, simple but powerful. Yang tak kalah pentingnya adalah Evernote, aplikasi ini memudahkan saya untuk mencatat hal-hal penting dan mengelompokkannya berdasarkan kategori.&lt;/p&gt;
-
-&lt;p&gt;Last but not least, &lt;a href=&quot;https://spotify.com/&quot;&gt;Spotify&lt;/a&gt;, aplikasi wajib untuk streaming music yang menurut saya sangat lengkap koleksinya.&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;JENIUS! tentu!&lt;/li&gt;
-  &lt;li&gt;Whatsapp&lt;/li&gt;
-  &lt;li&gt;Telegram&lt;/li&gt;
-  &lt;li&gt;Slack&lt;/li&gt;
-  &lt;li&gt;Gmail&lt;/li&gt;
-  &lt;li&gt;Chrome&lt;/li&gt;
-  &lt;li&gt;Spotify&lt;/li&gt;
-  &lt;li&gt;Google Maps&lt;/li&gt;
-  &lt;li&gt;Youtube&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;p&gt;Headphone &lt;a href=&quot;https://www.audio-technica.com/cms/headphones/c452c6214bf2b89e/index.html&quot;&gt;ATH WS1100&lt;/a&gt;, Samsung Galaxy Note 9 + charger, iPhone 6s+charger, MacBook Pro+charger, Pen, Kartu Parkir, Kunci, Buku, harddisk eksternal.&lt;/p&gt;
-
-&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/eko-hs-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/eko-hs-small.jpg&quot; alt=&quot;Eko Cahyo Pramulanto Homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/categories/engineer/&quot;&gt;Engineer Backstage&lt;/a&gt; adalah seri yang akan menampilkan &lt;em&gt;engineer&lt;/em&gt;  yang ada di Jenius, orang-orang kreatif dan berdedikasi membangun Jenius.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius engineer" />
-      
-        <category term="backstage" />
-      
-        <category term="engineer" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Hello! Perkenalkan nama saya Eko Cahyo Pramulanto, Bisa dipanggil Eko. Posisi saya di Jenius sebagai Production Support Engineer. Production support engineer ini bertanggung jawab membantu menyelesaikan issue dan bugs yang terkadang muncul di production, meski Jenius memiliki environment dan pipeline lengkap untuk proses development, integration dan testing, terkadang akan ada issue yang berbeda muncul di production, itu hal yang wajar dan kemungkinan itu akan selalu ada di perusahaan manapun, yang penting kita selalu siap akan kemungkinan itu, dengan ketatnya alur development di Jenius hal-hal yang tidak diinginkan bisa dimininalisir.</summary>
       
 
       
