@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
   
   
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-06T07:35:38+00:00</updated>
-  <id>http://localhost:4000//</id>
+  <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2019-02-07T15:16:28+00:00</updated>
+  <id>https://jenius.tech//</id>
 
   
     <title type="html">JeniusTech Engineering</title>
@@ -28,13 +28,65 @@
   
     <entry>
       
+      <title type="html">Jenius Engineer reading list #121</title>
+      
+      <link href="https://jenius.tech/2019/02/07/engineer-readinglist-121/" rel="alternate" type="text/html" title="Jenius Engineer reading list #121" />
+      <published>2019-02-07T00:00:00+00:00</published>
+      <updated>2019-02-07T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/07/engineer-readinglist-121</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/07/engineer-readinglist-121/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://richardmavis.info/a-complete-program&quot;&gt;A Complete Program&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/RustPython/RustPython&quot;&gt;A Python Interpreter written in Rust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/python-development-visual-studio-code/&quot;&gt;Python Development in Visual Studio Codehttps://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/google-chrome-kill-url-first-steps/&quot;&gt;Google Takes Its First Steps Toward Killing the URL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/css-browser-support/&quot;&gt;A Guide To CSS Support In Browsers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">A Complete Program A Python Interpreter written in Rust Python Development in Visual Studio Codehttps://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3 Google Takes Its First Steps Toward Killing the URL A Guide To CSS Support In Browsers</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Jenius Engineer: Heri Setiyawan</title>
       
-      <link href="http://localhost:4000/2019/02/05/jenius-engineer-heri-setiyawan/" rel="alternate" type="text/html" title="Jenius Engineer: Heri Setiyawan" />
+      <link href="https://jenius.tech/2019/02/05/jenius-engineer-heri-setiyawan/" rel="alternate" type="text/html" title="Jenius Engineer: Heri Setiyawan" />
       <published>2019-02-05T00:00:00+00:00</published>
       <updated>2019-02-05T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/02/05/jenius-engineer-heri-setiyawan</id>
-      <content type="html" xml:base="http://localhost:4000/2019/02/05/jenius-engineer-heri-setiyawan/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/heri-setiyawan/heri-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/heri-setiyawan/heri-small.jpg&quot; alt=&quot;Heri Setiyawan&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <id>https://jenius.tech/2019/02/05/jenius-engineer-heri-setiyawan</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/05/jenius-engineer-heri-setiyawan/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/heri-setiyawan/heri-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/heri-setiyawan/heri-small.jpg&quot; alt=&quot;Heri Setiyawan&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
 &lt;p&gt;Hello! nama saya Heri Setiyawan, dipanggil Heri. Posisi saya di Jenius sebagai Production Support Engineer.&lt;/p&gt;
 
@@ -119,11 +171,11 @@
       
       <title type="html">Jenius Engineer reading list #120</title>
       
-      <link href="http://localhost:4000/2019/02/04/engineer-readinglist-120/" rel="alternate" type="text/html" title="Jenius Engineer reading list #120" />
+      <link href="https://jenius.tech/2019/02/04/engineer-readinglist-120/" rel="alternate" type="text/html" title="Jenius Engineer reading list #120" />
       <published>2019-02-04T00:00:00+00:00</published>
       <updated>2019-02-04T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/02/04/engineer-readinglist-120</id>
-      <content type="html" xml:base="http://localhost:4000/2019/02/04/engineer-readinglist-120/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/02/04/engineer-readinglist-120</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/04/engineer-readinglist-120/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/&quot;&gt;Avoiding The Pitfalls Of Automatically Inlined Code&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance&quot;&gt;Errors in Go: From denial to acceptance&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/web-standards-guide/&quot;&gt;Web Standards: The What, The Why, And The How&lt;/a&gt;&lt;/li&gt;
@@ -174,11 +226,11 @@
       
       <title type="html">Jenius Engineer reading list #119</title>
       
-      <link href="http://localhost:4000/2019/02/01/engineer-readinglist-119/" rel="alternate" type="text/html" title="Jenius Engineer reading list #119" />
+      <link href="https://jenius.tech/2019/02/01/engineer-readinglist-119/" rel="alternate" type="text/html" title="Jenius Engineer reading list #119" />
       <published>2019-02-01T00:00:00+00:00</published>
       <updated>2019-02-01T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/02/01/engineer-readinglist-119</id>
-      <content type="html" xml:base="http://localhost:4000/2019/02/01/engineer-readinglist-119/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/02/01/engineer-readinglist-119</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/01/engineer-readinglist-119/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html&quot;&gt;TTL as a Service: Automatic Revocation of Stale Privileges&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/fundamental-problem-search/&quot;&gt;The Fundamental Problem of Search&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/these-are-the-features-in-es6-that-you-should-know-1411194c71cb&quot;&gt;These are the features in ES6 that you should know&lt;/a&gt;&lt;/li&gt;
@@ -226,11 +278,11 @@
       
       <title type="html">Jenius Engineer reading list #118</title>
       
-      <link href="http://localhost:4000/2019/01/31/engineer-readinglist-118/" rel="alternate" type="text/html" title="Jenius Engineer reading list #118" />
+      <link href="https://jenius.tech/2019/01/31/engineer-readinglist-118/" rel="alternate" type="text/html" title="Jenius Engineer reading list #118" />
       <published>2019-01-31T00:00:00+00:00</published>
       <updated>2019-01-31T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/31/engineer-readinglist-118</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/31/engineer-readinglist-118/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/31/engineer-readinglist-118</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/31/engineer-readinglist-118/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/decentralizing-social-interactions-with-activitypub/&quot;&gt;Decentralizing Social Interactions with ActivityPub&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://drivy.engineering/airflow-architecture/&quot;&gt;Airflow Architecture at Drivy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/&quot;&gt;Fast Google Fonts with Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
@@ -279,11 +331,11 @@
       
       <title type="html">Jenius Engineer reading list #117</title>
       
-      <link href="http://localhost:4000/2019/01/30/engineer-readinglist-117/" rel="alternate" type="text/html" title="Jenius Engineer reading list #117" />
+      <link href="https://jenius.tech/2019/01/30/engineer-readinglist-117/" rel="alternate" type="text/html" title="Jenius Engineer reading list #117" />
       <published>2019-01-30T00:00:00+00:00</published>
       <updated>2019-01-30T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/30/engineer-readinglist-117</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/30/engineer-readinglist-117/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/30/engineer-readinglist-117</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/30/engineer-readinglist-117/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.blogfoster.com/snapshot-testing-going-beyond-ui/&quot;&gt;Snapshot Testing Going Beyond UI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/experiments-with-link-previews-to-help-guide-readers-79dbe843ad29&quot;&gt;Experiments with Link Previews to Help Guide Readers&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.sourced.tech/post/pga_history/&quot;&gt;The Public Git Archive Story&lt;/a&gt;&lt;/li&gt;
@@ -332,11 +384,11 @@
       
       <title type="html">Jenius Engineer reading list #116</title>
       
-      <link href="http://localhost:4000/2019/01/29/engineer-readinglist-116/" rel="alternate" type="text/html" title="Jenius Engineer reading list #116" />
+      <link href="https://jenius.tech/2019/01/29/engineer-readinglist-116/" rel="alternate" type="text/html" title="Jenius Engineer reading list #116" />
       <published>2019-01-29T00:00:00+00:00</published>
       <updated>2019-01-29T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/29/engineer-readinglist-116</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/29/engineer-readinglist-116/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/29/engineer-readinglist-116</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/29/engineer-readinglist-116/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.insightdatascience.com/whats-the-big-deal-about-decentralized-consensus-12876bb80064?source=rss----d02e65779d7b---4&amp;amp;gi=35c8dc60af02&quot;&gt;What’s the big deal about Decentralized Consensus?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/breaking-the-ice-a-crash-course-in-ipfs-ethereum-and-fat-protocols-of-the-future-eb9bd15eb96e&quot;&gt;Breaking The Ice: A Crash Course In IPFS, Ethereum And Fat Protocols Of The Future&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/coding-conversations--the-perfect-storm--that-brought-down-linke&quot;&gt;Coding Conversations: The “Perfect Storm” that Brought Down LinkedIn.com&lt;/a&gt;&lt;/li&gt;
@@ -384,11 +436,11 @@
       
       <title type="html">Jenius Engineer reading list #115</title>
       
-      <link href="http://localhost:4000/2019/01/28/engineer-readinglist-115/" rel="alternate" type="text/html" title="Jenius Engineer reading list #115" />
+      <link href="https://jenius.tech/2019/01/28/engineer-readinglist-115/" rel="alternate" type="text/html" title="Jenius Engineer reading list #115" />
       <published>2019-01-28T00:00:00+00:00</published>
       <updated>2019-01-28T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/28/engineer-readinglist-115</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/28/engineer-readinglist-115/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/28/engineer-readinglist-115</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/28/engineer-readinglist-115/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/what-small-scale-scrum&quot;&gt;What is Small Scale Scrum?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/devops-demands-netops/&quot;&gt;DevOps Demands NetOps&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/real-time-context-based-smart-type-ahead-suggestions-316ac7a25107&quot;&gt;Real-time context based smart type-ahead suggestions&lt;/a&gt;&lt;/li&gt;
@@ -437,11 +489,11 @@
       
       <title type="html">Jenius Engineer reading list #114</title>
       
-      <link href="http://localhost:4000/2019/01/25/engineer-readinglist-114/" rel="alternate" type="text/html" title="Jenius Engineer reading list #114" />
+      <link href="https://jenius.tech/2019/01/25/engineer-readinglist-114/" rel="alternate" type="text/html" title="Jenius Engineer reading list #114" />
       <published>2019-01-25T00:00:00+00:00</published>
       <updated>2019-01-25T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/25/engineer-readinglist-114</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/25/engineer-readinglist-114/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/25/engineer-readinglist-114</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/25/engineer-readinglist-114/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/measuring-what-makes-readers-subscribe-to-the-time-fa31f00a3cdd&quot;&gt;Measuring What Makes Readers Subscribe to The New York Times&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/&quot;&gt;Building An Interactive Infographic With Vue.js&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/can-snmp-still-be-used-to-detect-ddos-attacks-32b03aa9df8a&quot;&gt;Can SNMP (Still) Be Used to Detect DDoS Attacks?&lt;/a&gt;&lt;/li&gt;
@@ -489,11 +541,11 @@
       
       <title type="html">Jenius Engineer reading list #113</title>
       
-      <link href="http://localhost:4000/2019/01/24/engineer-readinglist-113/" rel="alternate" type="text/html" title="Jenius Engineer reading list #113" />
+      <link href="https://jenius.tech/2019/01/24/engineer-readinglist-113/" rel="alternate" type="text/html" title="Jenius Engineer reading list #113" />
       <published>2019-01-24T00:00:00+00:00</published>
       <updated>2019-01-24T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/24/engineer-readinglist-113</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/24/engineer-readinglist-113/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/24/engineer-readinglist-113</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/24/engineer-readinglist-113/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/11/16/microcontainers-for-unit-testing/&quot;&gt;Microcontainers for Unit Testing&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://android-developers.googleblog.com/2018/11/combating-potentially-harmful.html&quot;&gt;Combating Potentially Harmful Applications with Machine Learning at Google: Datasets and Models&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@maarten.goet/securing-kubernetes-on-microsoft-azure-are-your-container-doors-wide-open-bb6e879cec5d&quot;&gt;Securing Kubernetes on Microsoft Azure: are your container doors wide open?&lt;/a&gt;&lt;/li&gt;
@@ -541,11 +593,11 @@
       
       <title type="html">Jenius Engineer reading list #112</title>
       
-      <link href="http://localhost:4000/2019/01/23/engineer-readinglist-112/" rel="alternate" type="text/html" title="Jenius Engineer reading list #112" />
+      <link href="https://jenius.tech/2019/01/23/engineer-readinglist-112/" rel="alternate" type="text/html" title="Jenius Engineer reading list #112" />
       <published>2019-01-23T00:00:00+00:00</published>
       <updated>2019-01-23T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/23/engineer-readinglist-112</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/23/engineer-readinglist-112/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/23/engineer-readinglist-112</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/23/engineer-readinglist-112/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@midn/high-availability-vpn-on-aws-with-strongswan-bba12b5d4e55&quot;&gt;High-Availability VPN on AWS with Strongswan&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.theregister.co.uk/2019/01/16/devops_salary_report/&quot;&gt;The DevOps Salary Report is in, and is great news for American men&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/capital-one-tech/4-lessons-learned-from-scaling-ios-ci-cd-60c2f0cd7c94&quot;&gt;4 Lessons From Scaling iOS CI/CD&lt;/a&gt;&lt;/li&gt;
@@ -594,11 +646,11 @@
       
       <title type="html">Jenius Engineer reading list #111</title>
       
-      <link href="http://localhost:4000/2019/01/22/engineer-readinglist-111/" rel="alternate" type="text/html" title="Jenius Engineer reading list #111" />
+      <link href="https://jenius.tech/2019/01/22/engineer-readinglist-111/" rel="alternate" type="text/html" title="Jenius Engineer reading list #111" />
       <published>2019-01-22T00:00:00+00:00</published>
       <updated>2019-01-22T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/22/engineer-readinglist-111</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/22/engineer-readinglist-111/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/22/engineer-readinglist-111</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/22/engineer-readinglist-111/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-1-34ccb2ea0b4d&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 1&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-2-efdf8e422085&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/coryodaniel/bonny-extending-kubernetes-with-elixir-part-3-fdfc8b8cc843&quot;&gt;Bonny: Extending Kubernetes with Elixir — Part 3&lt;/a&gt;- &lt;a href=&quot;https://m.subbu.org/contemporary-views-on-serverless-and-implications-1c5907c611d8&quot;&gt;Contemporary Views on Serverless and Implications&lt;/a&gt;&lt;/li&gt;
@@ -646,11 +698,11 @@
       
       <title type="html">Jenius Engineer reading list #110</title>
       
-      <link href="http://localhost:4000/2019/01/21/engineer-readinglist-110/" rel="alternate" type="text/html" title="Jenius Engineer reading list #110" />
+      <link href="https://jenius.tech/2019/01/21/engineer-readinglist-110/" rel="alternate" type="text/html" title="Jenius Engineer reading list #110" />
       <published>2019-01-21T00:00:00+00:00</published>
       <updated>2019-01-21T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/21/engineer-readinglist-110</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/21/engineer-readinglist-110/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/21/engineer-readinglist-110</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/21/engineer-readinglist-110/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/getting-legit-with-git-and-github-the-art-of-the-commit-message/&quot;&gt;Get Legit with Git (and GitHub): The Art of the Commit Message&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://grafana.com/blog/2018/12/12/loki-prometheus-inspired-open-source-logging-for-cloud-natives/&quot;&gt;Loki: Prometheus-inspired, open source logging for cloud natives&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/ballerina-an-api-first-programming-language/&quot;&gt;Ballerina: An API-First Programming Language&lt;/a&gt;&lt;/li&gt;
@@ -698,11 +750,11 @@
       
       <title type="html">Jenius Engineer reading list #109</title>
       
-      <link href="http://localhost:4000/2019/01/18/engineer-readinglist-109/" rel="alternate" type="text/html" title="Jenius Engineer reading list #109" />
+      <link href="https://jenius.tech/2019/01/18/engineer-readinglist-109/" rel="alternate" type="text/html" title="Jenius Engineer reading list #109" />
       <published>2019-01-18T00:00:00+00:00</published>
       <updated>2019-01-18T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/18/engineer-readinglist-109</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/18/engineer-readinglist-109/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/18/engineer-readinglist-109</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/18/engineer-readinglist-109/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/microservices-architecture-the-new-business-enablers-3b237807c103&quot;&gt;Microservices Architecture: The New Business Enablers&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://mesosphere.com/blog/the-4-top-service-orchestration-challenges/&quot;&gt;The 4 Top Service Orchestration Challenges &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/&quot;&gt;Engineering Management: The Pendulum Or The Ladder&lt;/a&gt;&lt;/li&gt;
@@ -751,11 +803,11 @@
       
       <title type="html">Jenius Engineer reading list #108</title>
       
-      <link href="http://localhost:4000/2019/01/17/engineer-readinglist-108/" rel="alternate" type="text/html" title="Jenius Engineer reading list #108" />
+      <link href="https://jenius.tech/2019/01/17/engineer-readinglist-108/" rel="alternate" type="text/html" title="Jenius Engineer reading list #108" />
       <published>2019-01-17T00:00:00+00:00</published>
       <updated>2019-01-17T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/17/engineer-readinglist-108</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/17/engineer-readinglist-108/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/17/engineer-readinglist-108</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/17/engineer-readinglist-108/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d&quot;&gt;Dash: A Beginner’s Guide&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/principles-of-good-large-scale-agile/&quot;&gt;Principles of Good Large-Scale Agile&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/automating-deployment-strategies-ansible&quot;&gt;Automating deployment strategies with Ansible&lt;/a&gt;&lt;/li&gt;
@@ -803,11 +855,11 @@
       
       <title type="html">Jenius Engineer reading list #107</title>
       
-      <link href="http://localhost:4000/2019/01/16/engineer-readinglist-107/" rel="alternate" type="text/html" title="Jenius Engineer reading list #107" />
+      <link href="https://jenius.tech/2019/01/16/engineer-readinglist-107/" rel="alternate" type="text/html" title="Jenius Engineer reading list #107" />
       <published>2019-01-16T00:00:00+00:00</published>
       <updated>2019-01-16T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/16/engineer-readinglist-107</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/16/engineer-readinglist-107/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/16/engineer-readinglist-107</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/16/engineer-readinglist-107/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/handling-addresses-from-all-around-the-world&quot;&gt;Handling Addresses from All Around the World&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-rise-of-multivector-amplifications/&quot;&gt;The rise of multivector DDoS attacks&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/10/23/automating-terraform-abstracting-terraform-behind-a-web-service.html&quot;&gt;Automating Terraform: Infrastructure as Code as a Service&lt;/a&gt;&lt;/li&gt;
@@ -855,11 +907,11 @@
       
       <title type="html">Jenius Engineer reading list #106</title>
       
-      <link href="http://localhost:4000/2019/01/15/engineer-readinglist-106/" rel="alternate" type="text/html" title="Jenius Engineer reading list #106" />
+      <link href="https://jenius.tech/2019/01/15/engineer-readinglist-106/" rel="alternate" type="text/html" title="Jenius Engineer reading list #106" />
       <published>2019-01-15T00:00:00+00:00</published>
       <updated>2019-01-15T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/15/engineer-readinglist-106</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/15/engineer-readinglist-106/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/15/engineer-readinglist-106</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/15/engineer-readinglist-106/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/nodejs-microservices-scaling-case-study/&quot;&gt;Serving Millions of Users in Real-Time with Node.js &amp;amp; Microservices [Case Study]&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/the-power-of-web-components/&quot;&gt;The Power of Web Components&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/planning-and-execution-of-a-high-risk-network-upgrade/&quot;&gt;Working on the Engines While the Plane is Flying&lt;/a&gt;&lt;/li&gt;
@@ -908,11 +960,11 @@
       
       <title type="html">Jenius Engineer reading list #105</title>
       
-      <link href="http://localhost:4000/2019/01/14/engineer-readinglist-105/" rel="alternate" type="text/html" title="Jenius Engineer reading list #105" />
+      <link href="https://jenius.tech/2019/01/14/engineer-readinglist-105/" rel="alternate" type="text/html" title="Jenius Engineer reading list #105" />
       <published>2019-01-14T00:00:00+00:00</published>
       <updated>2019-01-14T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/14/engineer-readinglist-105</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/14/engineer-readinglist-105/">&lt;h3&gt;Happy Monday!&lt;/h3&gt;
+      <id>https://jenius.tech/2019/01/14/engineer-readinglist-105</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/14/engineer-readinglist-105/">&lt;h3&gt;Happy Monday!&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c&quot;&gt;How Druid enables analytics at Airbnb&lt;/a&gt;&lt;/li&gt;
@@ -963,11 +1015,11 @@
       
       <title type="html">Jenius Engineer reading list #104</title>
       
-      <link href="http://localhost:4000/2019/01/11/engineer-readinglist-104/" rel="alternate" type="text/html" title="Jenius Engineer reading list #104" />
+      <link href="https://jenius.tech/2019/01/11/engineer-readinglist-104/" rel="alternate" type="text/html" title="Jenius Engineer reading list #104" />
       <published>2019-01-11T00:00:00+00:00</published>
       <updated>2019-01-11T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/11/engineer-readinglist-104</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/11/engineer-readinglist-104/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/11/engineer-readinglist-104</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/11/engineer-readinglist-104/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/visual-hierarchy&quot;&gt;Boost Your UX with Clear Visual Hierarchy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/driver-app-ribs-architecture/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=driver-app-ribs-architecture&quot;&gt;Architecting Uber’s New Driver App in RIBs&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/challenges-realtime-chat-service-pusher&quot;&gt;Challenges of Building a Reliable Realtime Chat Service&lt;/a&gt;&lt;/li&gt;
@@ -1017,11 +1069,11 @@
       
       <title type="html">Jenius Engineer reading list #103</title>
       
-      <link href="http://localhost:4000/2019/01/10/engineer-readinglist-103/" rel="alternate" type="text/html" title="Jenius Engineer reading list #103" />
+      <link href="https://jenius.tech/2019/01/10/engineer-readinglist-103/" rel="alternate" type="text/html" title="Jenius Engineer reading list #103" />
       <published>2019-01-10T00:00:00+00:00</published>
       <updated>2019-01-10T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/10/engineer-readinglist-103</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/10/engineer-readinglist-103/">&lt;ul&gt;
+      <id>https://jenius.tech/2019/01/10/engineer-readinglist-103</id>
+      <content type="html" xml:base="https://jenius.tech/2019/01/10/engineer-readinglist-103/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://capgemini.github.io/accessibility/Basic-Accessibility-for-Web-Applications/&quot;&gt;Basic Accessibility for Web Applications&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/&quot;&gt;Your Client Engagement Program Isn’t Doing What You Think It Is&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/optimizing-cluster-resources-for-kubernetes-team-development&quot;&gt;Optimizing Cluster Resources for Kubernetes Team Development&lt;/a&gt;&lt;/li&gt;
@@ -1057,59 +1109,6 @@
 
       
         <summary type="html">Basic Accessibility for Web Applications Your Client Engagement Program Isn’t Doing What You Think It Is Optimizing Cluster Resources for Kubernetes Team Development Using PureScript to create a domain-specific language for building forms with validation Cloud Computing without Containers</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #102</title>
-      
-      <link href="http://localhost:4000/2019/01/09/engineer-readinglist-102/" rel="alternate" type="text/html" title="Jenius Engineer reading list #102" />
-      <published>2019-01-09T00:00:00+00:00</published>
-      <updated>2019-01-09T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/01/09/engineer-readinglist-102</id>
-      <content type="html" xml:base="http://localhost:4000/2019/01/09/engineer-readinglist-102/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-mediadatabase-media-timeline-data-model-4e657e6ffe93&quot;&gt;Netflix Media Database — the Media Timeline Data Model&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/sre-case-study-mysterious-traffic-imbalance/&quot;&gt;SRE Case Study: Mysterious Traffic Imbalance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/zendesk-engineering/how-we-use-aws-batch-at-zendesk-to-build-all-the-machine-learning-models-a41d93eabd45&quot;&gt;How we use AWS Batch at Zendesk to Build All The Machine Learning Models&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/into-the-depths-the-technical-details-behind-av1/&quot;&gt;Into the Depths: The Technical Details Behind AV1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arcentry.com/blog/postgres-might-just-be-the-most-advanced-database-ever&quot;&gt;At 22 years old, Postgres might just be the most advanced database yet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudera.com/blog/2018/11/proactive-data-pipeline-alerting-with-pulse/&quot;&gt;Proactive Data Pipeline Alerting with Pulse&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Netflix Media Database — the Media Timeline Data Model SRE Case Study: Mysterious Traffic Imbalance How we use AWS Batch at Zendesk to Build All The Machine Learning Models Into the Depths: The Technical Details Behind AV1 At 22 years old, Postgres might just be the most advanced database yet Proactive Data Pipeline Alerting with Pulse</summary>
       
 
       
