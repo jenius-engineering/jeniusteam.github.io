@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-13T08:13:52+00:00</updated>
+  <updated>2019-02-13T08:20:25+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -36,7 +36,7 @@
       <id>https://jenius.tech/2019/02/13/engineer-readinglist-123</id>
       <content type="html" xml:base="https://jenius.tech/2019/02/13/engineer-readinglist-123/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/the-trinity-of-errors-in-financial-models-an-introductory-analysis-using-tensorflow-probability&quot;&gt;The trinity of errors in financial models: An introductory analysis using TensorFlow Probability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;[Using machine learning and analytics to attract and retain empl&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/using-machine-learning-and-analytics-to-attract-and-retain-employees&quot;&gt;Using machine learning and analytics to attract and retain employees&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/ankane/blazer&quot;&gt;Blazer – Business intelligence made simple&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/@jamal.robinson/how-facebook-scales-artificial-intelligence-machine-learning-693706ae296f&quot;&gt;How Facebook Scales Machine Learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
@@ -68,7 +68,7 @@
       
 
       
-        <summary type="html">The trinity of errors in financial models: An introductory analysis using TensorFlow Probability [Using machine learning and analytics to attract and retain empl Blazer – Business intelligence made simple How Facebook Scales Machine Learning</summary>
+        <summary type="html">The trinity of errors in financial models: An introductory analysis using TensorFlow Probability Using machine learning and analytics to attract and retain employees Blazer – Business intelligence made simple How Facebook Scales Machine Learning</summary>
       
 
       
