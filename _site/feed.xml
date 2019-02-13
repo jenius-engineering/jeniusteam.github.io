@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-07T15:16:28+00:00</updated>
+  <updated>2019-02-08T09:07:44+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #122</title>
+      
+      <link href="https://jenius.tech/2019/02/08/engineer-readinglist-122/" rel="alternate" type="text/html" title="Jenius Engineer reading list #122" />
+      <published>2019-02-08T00:00:00+00:00</published>
+      <updated>2019-02-08T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/08/engineer-readinglist-122</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/08/engineer-readinglist-122/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/fm-stories/how-developers-and-designers-can-collaborate-using-flutter-35b3e49046ca&quot;&gt;How Developers and Designers Can Collaborate Using Flutter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/the-hamato-yogi-chronichels/how-we-moved-from-wordpress-to-react-and-raised-80-million-6e80b88be28&quot;&gt;How We Moved From Wordpress to React and Raised $80 Million&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/manifold/&quot;&gt;Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/artificial-intelligence-and-machine-learning-adoption-in-european-enterprise&quot;&gt;Artificial intelligence and machine learning adoption in European enterprise&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9&quot;&gt;The cold start problem: how to build your machine learning portfolio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">How Developers and Designers Can Collaborate Using Flutter How We Moved From Wordpress to React and Raised $80 Million Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber Artificial intelligence and machine learning adoption in European enterprise The cold start problem: how to build your machine learning portfolio</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1057,58 +1109,6 @@
 
       
         <summary type="html">Boost Your UX with Clear Visual Hierarchy Architecting Uber’s New Driver App in RIBs Challenges of Building a Reliable Realtime Chat Service Blazor: C# Running in the Browser via WebAssembly The State of Web Browsers 2018 How Trulia began paying down its technical debt Introduction to contract testing - pt.1</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #103</title>
-      
-      <link href="https://jenius.tech/2019/01/10/engineer-readinglist-103/" rel="alternate" type="text/html" title="Jenius Engineer reading list #103" />
-      <published>2019-01-10T00:00:00+00:00</published>
-      <updated>2019-01-10T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/10/engineer-readinglist-103</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/10/engineer-readinglist-103/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://capgemini.github.io/accessibility/Basic-Accessibility-for-Web-Applications/&quot;&gt;Basic Accessibility for Web Applications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/&quot;&gt;Your Client Engagement Program Isn’t Doing What You Think It Is&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/optimizing-cluster-resources-for-kubernetes-team-development&quot;&gt;Optimizing Cluster Resources for Kubernetes Team Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/fuzzy-sharp/building-a-type-safe-embedded-dsl-for-form-components-with-validation-e7ffaaf537e4&quot;&gt;Using PureScript to create a domain-specific language for building forms with validation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/cloud-computing-without-containers/&quot;&gt;Cloud Computing without Containers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Basic Accessibility for Web Applications Your Client Engagement Program Isn’t Doing What You Think It Is Optimizing Cluster Resources for Kubernetes Team Development Using PureScript to create a domain-specific language for building forms with validation Cloud Computing without Containers</summary>
       
 
       
