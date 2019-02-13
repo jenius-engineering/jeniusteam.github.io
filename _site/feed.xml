@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-08T09:07:44+00:00</updated>
+  <updated>2019-02-13T08:13:52+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,57 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #123</title>
+      
+      <link href="https://jenius.tech/2019/02/13/engineer-readinglist-123/" rel="alternate" type="text/html" title="Jenius Engineer reading list #123" />
+      <published>2019-02-13T00:00:00+00:00</published>
+      <updated>2019-02-13T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/13/engineer-readinglist-123</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/13/engineer-readinglist-123/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/the-trinity-of-errors-in-financial-models-an-introductory-analysis-using-tensorflow-probability&quot;&gt;The trinity of errors in financial models: An introductory analysis using TensorFlow Probability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[Using machine learning and analytics to attract and retain empl&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ankane/blazer&quot;&gt;Blazer – Business intelligence made simple&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jamal.robinson/how-facebook-scales-artificial-intelligence-machine-learning-693706ae296f&quot;&gt;How Facebook Scales Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">The trinity of errors in financial models: An introductory analysis using TensorFlow Probability [Using machine learning and analytics to attract and retain empl Blazer – Business intelligence made simple How Facebook Scales Machine Learning</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1055,60 +1106,6 @@
 
       
         <summary type="html">Happy Monday! How Druid enables analytics at Airbnb Private by Design: How we built Firefox Sync Sinkholing - Face the Threat, Beat the Threat – Part II - Implementation Demystify The Multi-threading in Node.JS Federated learning: distributed machine learning with data locality and privacy Progressive Service Architecture At Auth0</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #104</title>
-      
-      <link href="https://jenius.tech/2019/01/11/engineer-readinglist-104/" rel="alternate" type="text/html" title="Jenius Engineer reading list #104" />
-      <published>2019-01-11T00:00:00+00:00</published>
-      <updated>2019-01-11T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/11/engineer-readinglist-104</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/11/engineer-readinglist-104/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/visual-hierarchy&quot;&gt;Boost Your UX with Clear Visual Hierarchy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/driver-app-ribs-architecture/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=driver-app-ribs-architecture&quot;&gt;Architecting Uber’s New Driver App in RIBs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/challenges-realtime-chat-service-pusher&quot;&gt;Challenges of Building a Reliable Realtime Chat Service&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/blazor-web-assembly&quot;&gt;Blazor: C# Running in the Browser via WebAssembly&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ferdychristant.com/the-state-of-web-browsers-f5a83a41c1cb&quot;&gt;The State of Web Browsers 2018&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techcrunch.com/2019/01/05/how-trulia-began-paying-down-its-technical-debt/&quot;&gt;How Trulia began paying down its technical debt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2019/01/07/introduction-to-contract-testing-part-1.html&quot;&gt;Introduction to contract testing - pt.1&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Boost Your UX with Clear Visual Hierarchy Architecting Uber’s New Driver App in RIBs Challenges of Building a Reliable Realtime Chat Service Blazor: C# Running in the Browser via WebAssembly The State of Web Browsers 2018 How Trulia began paying down its technical debt Introduction to contract testing - pt.1</summary>
       
 
       
