@@ -12,8 +12,6 @@ categories:
 published: true
 ---
 
-
-
 - [How Developers and Designers Can Collaborate Using Flutter](https://medium.com/fm-stories/how-developers-and-designers-can-collaborate-using-flutter-35b3e49046ca)
 - [How We Moved From Wordpress to React and Raised $80 Million](https://medium.com/the-hamato-yogi-chronichels/how-we-moved-from-wordpress-to-react-and-raised-80-million-6e80b88be28)
 - [Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber](https://eng.uber.com/manifold/)

@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-13T08:20:25+00:00</updated>
+  <updated>2019-02-14T07:56:37+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #124</title>
+      
+      <link href="https://jenius.tech/2019/02/14/engineer-readinglist-124/" rel="alternate" type="text/html" title="Jenius Engineer reading list #124" />
+      <published>2019-02-14T00:00:00+00:00</published>
+      <updated>2019-02-14T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/14/engineer-readinglist-124</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/14/engineer-readinglist-124/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://smallstep.com/blog/everything-pki.html&quot;&gt;Everything you should know about certificates and PKI but are too afraid to ask&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d&quot;&gt;The Ultimate Guide To Starting Your First IoT Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/driver-app-optimistic-mode/&quot;&gt;How Uber’s New Driver App Overcomes Network Lag&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/reimagining-the-morning-briefing-655100304624&quot;&gt;Reimagining the Morning Briefing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2018/11/28/artsy-auth/&quot;&gt;Everything You Ever Wanted To Know About Authentication at Artsy (But Didn’t Know How To Ask)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Everything you should know about certificates and PKI but are too afraid to ask The Ultimate Guide To Starting Your First IoT Project How Uber’s New Driver App Overcomes Network Lag Reimagining the Morning Briefing Everything You Ever Wanted To Know About Authentication at Artsy (But Didn’t Know How To Ask)</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1051,61 +1103,6 @@
 
       
         <summary type="html">Serving Millions of Users in Real-Time with Node.js &amp;amp; Microservices [Case Study] The Power of Web Components Working on the Engines While the Plane is Flying Cross shard transactions at 10 million requests per second ActiveRecord on MySQL— Iterating over large tables with conditions Transport: Towards Logical Independence Using Translatable Portable UDFs</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #105</title>
-      
-      <link href="https://jenius.tech/2019/01/14/engineer-readinglist-105/" rel="alternate" type="text/html" title="Jenius Engineer reading list #105" />
-      <published>2019-01-14T00:00:00+00:00</published>
-      <updated>2019-01-14T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/14/engineer-readinglist-105</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/14/engineer-readinglist-105/">&lt;h3&gt;Happy Monday!&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c&quot;&gt;How Druid enables analytics at Airbnb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/firefox-sync-privacy/&quot;&gt;Private by Design: How we built Firefox Sync&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/11/sinkholing-2/&quot;&gt;Sinkholing - Face the Threat, Beat the Threat – Part II - Implementation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@wei.surya/demystify-the-multi-threading-in-node-js-4ff07eae9abe&quot;&gt;Demystify The Multi-threading in Node.JS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html&quot;&gt;Federated learning: distributed machine learning with data locality and privacy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/progressive-service-architecture-at-auth0/&quot;&gt;Progressive Service Architecture At Auth0&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Happy Monday! How Druid enables analytics at Airbnb Private by Design: How we built Firefox Sync Sinkholing - Face the Threat, Beat the Threat – Part II - Implementation Demystify The Multi-threading in Node.JS Federated learning: distributed machine learning with data locality and privacy Progressive Service Architecture At Auth0</summary>
       
 
       
