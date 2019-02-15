@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-14T07:56:37+00:00</updated>
+  <updated>2019-02-15T03:01:28+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #125</title>
+      
+      <link href="https://jenius.tech/2019/02/15/engineer-readinglist-125/" rel="alternate" type="text/html" title="Jenius Engineer reading list #125" />
+      <published>2019-02-15T00:00:00+00:00</published>
+      <updated>2019-02-15T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/15/engineer-readinglist-125</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/15/engineer-readinglist-125/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tbray.org/ongoing/When/201x/2018/12/09/Serverlessness&quot;&gt;Tim Bray – Serverlessness&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/quickstart/architecture/git-to-s3-using-webhooks/&quot;&gt;Git Webhooks with AWS services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/intika/Librefox&quot;&gt;Librefox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/how-to-run-docker-and-get-more-sleep-than-i-did/&quot;&gt;How to run Docker and get more sleep than I did&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sicpers.info/2018/12/more-speed-lower-velocity/&quot;&gt;More speed, lower velocity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Tim Bray – Serverlessness Git Webhooks with AWS services Librefox How to run Docker and get more sleep than I did More speed, lower velocity</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1050,59 +1102,6 @@
 
       
         <summary type="html">Handling Addresses from All Around the World The rise of multivector DDoS attacks Automating Terraform: Infrastructure as Code as a Service Doing Machine Learning the Uber Way: Five Lessons From the First Three Years of Michelangelo How we spent two weeks hunting an NFS bug in the Linux kernel</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #106</title>
-      
-      <link href="https://jenius.tech/2019/01/15/engineer-readinglist-106/" rel="alternate" type="text/html" title="Jenius Engineer reading list #106" />
-      <published>2019-01-15T00:00:00+00:00</published>
-      <updated>2019-01-15T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/15/engineer-readinglist-106</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/15/engineer-readinglist-106/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/nodejs-microservices-scaling-case-study/&quot;&gt;Serving Millions of Users in Real-Time with Node.js &amp;amp; Microservices [Case Study]&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/the-power-of-web-components/&quot;&gt;The Power of Web Components&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/planning-and-execution-of-a-high-risk-network-upgrade/&quot;&gt;Working on the Engines While the Plane is Flying&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/&quot;&gt;Cross shard transactions at 10 million requests per second&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/activerecord-on-mysql-iterating-over-large-tables-with-conditions-453bd8761c8b&quot;&gt;ActiveRecord on MySQL— Iterating over large tables with conditions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/using-translatable-portable-UDFs&quot;&gt;Transport: Towards Logical Independence Using Translatable Portable UDFs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Serving Millions of Users in Real-Time with Node.js &amp;amp; Microservices [Case Study] The Power of Web Components Working on the Engines While the Plane is Flying Cross shard transactions at 10 million requests per second ActiveRecord on MySQL— Iterating over large tables with conditions Transport: Towards Logical Independence Using Translatable Portable UDFs</summary>
       
 
       
