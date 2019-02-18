@@ -12,8 +12,6 @@ categories:
 published: true
 ---
 
-
-
 - [Tim Bray -- Serverlessness](https://www.tbray.org/ongoing/When/201x/2018/12/09/Serverlessness)
 - [Git Webhooks with AWS services](https://aws.amazon.com/quickstart/architecture/git-to-s3-using-webhooks/)
 - [Librefox](https://github.com/intika/Librefox)

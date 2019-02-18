@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-15T03:01:28+00:00</updated>
+  <updated>2019-02-18T09:57:13+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #126</title>
+      
+      <link href="https://jenius.tech/2019/02/18/engineer-readinglist-126/" rel="alternate" type="text/html" title="Jenius Engineer reading list #126" />
+      <published>2019-02-18T00:00:00+00:00</published>
+      <updated>2019-02-18T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/18/engineer-readinglist-126</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/18/engineer-readinglist-126/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be&quot;&gt;How Pinterest runs Kafka at scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://circleci.com/blog/tools-for-effective-pairing/&quot;&gt;Tools for effective pairing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/advanced-search-experience-for-e-commerce/&quot;&gt;Beyond the search bar: advanced e-commerce search experiences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/11/27/microservices-debugging-openshift-kubernetes/&quot;&gt;Solving the challenges of debugging microservices on a container platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/reliable-webhooks-using-serverless-architecture-e009a2096732&quot;&gt;Reliable Webhooks Using Serverless Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/&quot;&gt;An Extensive Guide To Progressive Web Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">How Pinterest runs Kafka at scale Tools for effective pairing Beyond the search bar: advanced e-commerce search experiences Solving the challenges of debugging microservices on a container platform Reliable Webhooks Using Serverless Architecture An Extensive Guide To Progressive Web Applications</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1050,58 +1103,6 @@
 
       
         <summary type="html">Dash: A Beginner’s Guide Principles of Good Large-Scale Agile Automating deployment strategies with Ansible Microservices and NoSQL: A Great Match AIOps and the Myth of Efficient Multitasking</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #107</title>
-      
-      <link href="https://jenius.tech/2019/01/16/engineer-readinglist-107/" rel="alternate" type="text/html" title="Jenius Engineer reading list #107" />
-      <published>2019-01-16T00:00:00+00:00</published>
-      <updated>2019-01-16T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/16/engineer-readinglist-107</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/16/engineer-readinglist-107/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/handling-addresses-from-all-around-the-world&quot;&gt;Handling Addresses from All Around the World&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/the-rise-of-multivector-amplifications/&quot;&gt;The rise of multivector DDoS attacks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2018/10/23/automating-terraform-abstracting-terraform-behind-a-web-service.html&quot;&gt;Automating Terraform: Infrastructure as Code as a Service&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/doing-machine-learning-the-uber-way-five-lessons-from-the-first-three-years-of-michelangelo-da584a857cc2&quot;&gt;Doing Machine Learning the Uber Way: Five Lessons From the First Three Years of Michelangelo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/&quot;&gt;How we spent two weeks hunting an NFS bug in the Linux kernel&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Handling Addresses from All Around the World The rise of multivector DDoS attacks Automating Terraform: Infrastructure as Code as a Service Doing Machine Learning the Uber Way: Five Lessons From the First Three Years of Michelangelo How we spent two weeks hunting an NFS bug in the Linux kernel</summary>
       
 
       
