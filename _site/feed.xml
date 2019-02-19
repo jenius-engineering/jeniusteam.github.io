@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-18T09:57:13+00:00</updated>
+  <updated>2019-02-19T07:43:43+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #127</title>
+      
+      <link href="https://jenius.tech/2019/02/19/engineer-readinglist-127/" rel="alternate" type="text/html" title="Jenius Engineer reading list #127" />
+      <published>2019-02-19T00:00:00+00:00</published>
+      <updated>2019-02-19T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/19/engineer-readinglist-127</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/19/engineer-readinglist-127/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/xworks-my-machine-and-also-everywhere-else-local-build-and-testing-environments-code&quot;&gt;Works on my machine… and also everywhere else: local build and testing environments as code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/debugging-node-services-in-kubernetes-with-linkerd-2-0-f878382fb380&quot;&gt;Debugging Node Services in Kubernetes With Linkerd 2.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/design-thinking-process&quot;&gt;Breaking Down the Design Thinking Process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179&quot;&gt;Netflix Information Security: Preventing Credential Compromise in AWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/structured-content-done-right/&quot;&gt;Strategies For Headless Projects With Structured Content Management Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/our-slack-bot-now-on-lambda-with-ruby/&quot;&gt;Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Works on my machine… and also everywhere else: local build and testing environments as code Debugging Node Services in Kubernetes With Linkerd 2.0 Breaking Down the Design Thinking Process Netflix Information Security: Preventing Credential Compromise in AWS Strategies For Headless Projects With Structured Content Management Systems Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1051,58 +1104,6 @@
 
       
         <summary type="html">Microservices Architecture: The New Business Enablers The 4 Top Service Orchestration Challenges Engineering Management: The Pendulum Or The Ladder 3 top tips for your next serverless project Learn Enough Docker to be Useful Why data scientists love Kubernetes</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #108</title>
-      
-      <link href="https://jenius.tech/2019/01/17/engineer-readinglist-108/" rel="alternate" type="text/html" title="Jenius Engineer reading list #108" />
-      <published>2019-01-17T00:00:00+00:00</published>
-      <updated>2019-01-17T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/17/engineer-readinglist-108</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/17/engineer-readinglist-108/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d&quot;&gt;Dash: A Beginner’s Guide&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/principles-of-good-large-scale-agile/&quot;&gt;Principles of Good Large-Scale Agile&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/1/automating-deployment-strategies-ansible&quot;&gt;Automating deployment strategies with Ansible&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/microservices-and-nosql-a-great-match/&quot;&gt;Microservices and NoSQL: A Great Match&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/aiops-and-the-myth-of-efficient-multitasking/&quot;&gt;AIOps and the Myth of Efficient Multitasking&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Dash: A Beginner’s Guide Principles of Good Large-Scale Agile Automating deployment strategies with Ansible Microservices and NoSQL: A Great Match AIOps and the Myth of Efficient Multitasking</summary>
       
 
       
