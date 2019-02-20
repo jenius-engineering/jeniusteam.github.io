@@ -17,6 +17,7 @@ published: true
 ### Siapa dan apa yang dilakukan di Jenius?
 Hi, nama saya [Eddyson Taniwan](https://github.com/eddysontaniwan), posisi sebagai Software Developer di [Jenius](https://www.jenius.com/). Saat ini mengerjakan bagian frontend (Android, IOS, Web). Juga bertanggung jawab untuk pengerjaan fitur/bugs native untuk iOS, develop stories dan bugfixing issues yang muncul.
 
+<!-- more -->
 ### Hardware yang digunakan
 Main device untuk kerja pakai [Macbook Pro 2017 15”](https://support.apple.com/kb/SP756?locale=en_US). Untuk komunikasi pakai iPhone X untuk ngecek notifikasi dan agar lebih gampang melihat google maps saat berkendara dengan roda dua. Untuk mendengarkan musik menggunakan airpods.
 
