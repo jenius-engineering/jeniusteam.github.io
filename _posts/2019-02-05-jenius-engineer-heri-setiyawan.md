@@ -9,7 +9,7 @@ tags:
 
 categories: 
     - backstage
-image: /images/posts/engineers/heri-small.jpg
+image: /images/posts/engineers/heri-setiyawan/heri-small.jpg
 published: true
 ---
 
