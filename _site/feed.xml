@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-27T05:01:38+00:00</updated>
+  <updated>2019-02-27T05:02:33+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #131</title>
+      
+      <link href="https://jenius.tech/2019/02/25/engineer-readinglist-131/" rel="alternate" type="text/html" title="Jenius Engineer reading list #131" />
+      <published>2019-02-25T00:00:00+00:00</published>
+      <updated>2019-02-25T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/25/engineer-readinglist-131</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/25/engineer-readinglist-131/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/payments-platform/&quot;&gt;Engineering Uber’s Next-Gen Payments Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/caching-smartly-gutenberg/&quot;&gt;Caching Smartly In The Age Of Gutenberg&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/relational-nosql-fauna&quot;&gt;Back to the Future with Relational NoSQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/cross-shard-queries-lookup-tables-9d5d0ed847c1&quot;&gt;Cross-Shard Queries &amp;amp; Lookup Tables&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/visbug-101-749f26a485c8&quot;&gt;VisBug 101&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b&quot;&gt;An update on Pixie, Pinterest’s recommendation system&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Engineering Uber’s Next-Gen Payments Platform Caching Smartly In The Age Of Gutenberg Back to the Future with Relational NoSQL Cross-Shard Queries &amp;amp; Lookup Tables VisBug 101 An update on Pixie, Pinterest’s recommendation system</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1081,58 +1134,6 @@
 
       
         <summary type="html">Measuring What Makes Readers Subscribe to The New York Times Building An Interactive Infographic With Vue.js Can SNMP (Still) Be Used to Detect DDoS Attacks? How we build services fast: A look at the Grubhub service framework 3 prioritization techniques to beat software deadline stress</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #113</title>
-      
-      <link href="https://jenius.tech/2019/01/24/engineer-readinglist-113/" rel="alternate" type="text/html" title="Jenius Engineer reading list #113" />
-      <published>2019-01-24T00:00:00+00:00</published>
-      <updated>2019-01-24T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/24/engineer-readinglist-113</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/24/engineer-readinglist-113/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/11/16/microcontainers-for-unit-testing/&quot;&gt;Microcontainers for Unit Testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://android-developers.googleblog.com/2018/11/combating-potentially-harmful.html&quot;&gt;Combating Potentially Harmful Applications with Machine Learning at Google: Datasets and Models&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@maarten.goet/securing-kubernetes-on-microsoft-azure-are-your-container-doors-wide-open-bb6e879cec5d&quot;&gt;Securing Kubernetes on Microsoft Azure: are your container doors wide open?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/earnest-engineering/continuous-improvement-delivering-jenkins-through-jenkins-pt-1-4dd3e5af8cb0&quot;&gt;Continuous Improvement: Delivering Jenkins Through Jenkins Pt 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/earnest-engineering/continuous-delivery-of-jenkins-by-jenkins-26b649a94fac&quot;&gt;Continuous Improvement: Delivering Jenkins Through Jenkins Pt 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Microcontainers for Unit Testing Combating Potentially Harmful Applications with Machine Learning at Google: Datasets and Models Securing Kubernetes on Microsoft Azure: are your container doors wide open? Continuous Improvement: Delivering Jenkins Through Jenkins Pt 1 Continuous Improvement: Delivering Jenkins Through Jenkins Pt 2</summary>
       
 
       
