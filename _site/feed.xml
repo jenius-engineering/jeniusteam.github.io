@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-21T05:28:12+00:00</updated>
+  <updated>2019-02-27T05:01:38+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #130</title>
+      
+      <link href="https://jenius.tech/2019/02/22/engineer-readinglist-130/" rel="alternate" type="text/html" title="Jenius Engineer reading list #130" />
+      <published>2019-02-22T00:00:00+00:00</published>
+      <updated>2019-02-22T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/22/engineer-readinglist-130</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/22/engineer-readinglist-130/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/apollo-client-with-rest-apis-7f3b15a291a4&quot;&gt;Apollo Client with REST APIs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/exploring-fashion-catalog/index.html&quot;&gt;Tag-based Navigation of a Fashion Catalog &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/shard-splits-with-consistent-snapshots-adcf622842dd&quot;&gt;Shard Splits with Consistent Snapshots&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/state-ai-marketing&quot;&gt;The State of AI Marketing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html&quot;&gt;TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/google-microservices&quot;&gt;What We Got Wrong: Lessons from the Birth of Microservices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Apollo Client with REST APIs Tag-based Navigation of a Fashion Catalog Shard Splits with Consistent Snapshots The State of AI Marketing TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank What We Got Wrong: Lessons from the Birth of Microservices</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1080,59 +1133,6 @@
 
       
         <summary type="html">Microcontainers for Unit Testing Combating Potentially Harmful Applications with Machine Learning at Google: Datasets and Models Securing Kubernetes on Microsoft Azure: are your container doors wide open? Continuous Improvement: Delivering Jenkins Through Jenkins Pt 1 Continuous Improvement: Delivering Jenkins Through Jenkins Pt 2</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #112</title>
-      
-      <link href="https://jenius.tech/2019/01/23/engineer-readinglist-112/" rel="alternate" type="text/html" title="Jenius Engineer reading list #112" />
-      <published>2019-01-23T00:00:00+00:00</published>
-      <updated>2019-01-23T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/23/engineer-readinglist-112</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/23/engineer-readinglist-112/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@midn/high-availability-vpn-on-aws-with-strongswan-bba12b5d4e55&quot;&gt;High-Availability VPN on AWS with Strongswan&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theregister.co.uk/2019/01/16/devops_salary_report/&quot;&gt;The DevOps Salary Report is in, and is great news for American men&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/capital-one-tech/4-lessons-learned-from-scaling-ios-ci-cd-60c2f0cd7c94&quot;&gt;4 Lessons From Scaling iOS CI/CD&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/why-you-cant-afford-to-ignore-distributed-tracing-for-observability/&quot;&gt;Why You Can’t Afford to Ignore Distributed Tracing for Observability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/my-journey-with-golang-web-services-4d922a8c9897&quot;&gt;Building Scalable Web Services in Golang&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/4-agile-best-practices-every-enterprise-architect-should-follow&quot;&gt;4 agile best practices every enterprise architect should follow&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">High-Availability VPN on AWS with Strongswan The DevOps Salary Report is in, and is great news for American men 4 Lessons From Scaling iOS CI/CD Why You Can’t Afford to Ignore Distributed Tracing for Observability Building Scalable Web Services in Golang 4 agile best practices every enterprise architect should follow</summary>
       
 
       
