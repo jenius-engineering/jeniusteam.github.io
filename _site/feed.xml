@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-27T05:02:33+00:00</updated>
+  <updated>2019-02-27T05:03:36+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #132</title>
+      
+      <link href="https://jenius.tech/2019/02/26/engineer-readinglist-132/" rel="alternate" type="text/html" title="Jenius Engineer reading list #132" />
+      <published>2019-02-26T00:00:00+00:00</published>
+      <updated>2019-02-26T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/26/engineer-readinglist-132</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/26/engineer-readinglist-132/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/sessionizing-data/&quot;&gt;Sessionizing Uber Trips in Real Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.instacart.com/predicting-real-time-availability-of-200-million-grocery-items-in-us-canada-stores-61f43a16eafe&quot;&gt;Predicting the real-time availability of 200 million grocery items&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@baweaver/sf-abusing-operators-and-method-missing-ced78ab428cb&quot;&gt;Sf — Abusing Operators and Method Missing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/automated-cross-browser-testing-webgl-not-going-happen/&quot;&gt;Automated Cross-Browser Testing for WebGL— It’s Not Going to Happen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://emilyfreeman.io/blog/developer-relations-more-than-the-art-of-talking-good&quot;&gt;Developer Relations: (More Than) The Art of Talking Good&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Sessionizing Uber Trips in Real Time Predicting the real-time availability of 200 million grocery items Sf — Abusing Operators and Method Missing Automated Cross-Browser Testing for WebGL— It’s Not Going to Happen Developer Relations: (More Than) The Art of Talking Good</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1082,58 +1134,6 @@
 
       
         <summary type="html">What is Small Scale Scrum? DevOps Demands NetOps Real-time context based smart type-ahead suggestions Achieving Blockchain Scalability with Sparse Merkle Trees and Bloom Filters Big Data and Deep Learning: A Tale of Two Systems MySQL High Availability On-Premises: A Geographically Distributed Scenario</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #114</title>
-      
-      <link href="https://jenius.tech/2019/01/25/engineer-readinglist-114/" rel="alternate" type="text/html" title="Jenius Engineer reading list #114" />
-      <published>2019-01-25T00:00:00+00:00</published>
-      <updated>2019-01-25T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/25/engineer-readinglist-114</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/25/engineer-readinglist-114/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/measuring-what-makes-readers-subscribe-to-the-time-fa31f00a3cdd&quot;&gt;Measuring What Makes Readers Subscribe to The New York Times&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/&quot;&gt;Building An Interactive Infographic With Vue.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/can-snmp-still-be-used-to-detect-ddos-attacks-32b03aa9df8a&quot;&gt;Can SNMP (Still) Be Used to Detect DDoS Attacks?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bytes.grubhub.com/how-we-build-services-fast-a-look-at-the-grubhub-service-framework-181ae2091391&quot;&gt;How we build services fast: A look at the Grubhub service framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/3-prioritization-techniques-beat-software-deadline-stress&quot;&gt;3 prioritization techniques to beat software deadline stress&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Measuring What Makes Readers Subscribe to The New York Times Building An Interactive Infographic With Vue.js Can SNMP (Still) Be Used to Detect DDoS Attacks? How we build services fast: A look at the Grubhub service framework 3 prioritization techniques to beat software deadline stress</summary>
       
 
       
