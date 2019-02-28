@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-27T05:04:31+00:00</updated>
+  <updated>2019-02-28T02:14:19+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #134</title>
+      
+      <link href="https://jenius.tech/2019/02/28/engineer-readinglist-134/" rel="alternate" type="text/html" title="Jenius Engineer reading list #134" />
+      <published>2019-02-28T00:00:00+00:00</published>
+      <updated>2019-02-28T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/02/28/engineer-readinglist-134</id>
+      <content type="html" xml:base="https://jenius.tech/2019/02/28/engineer-readinglist-134/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop&quot;&gt;Big on Heroku: Scaling Fountain without losing a drop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://benchling.engineering/enforcing-transitive-constraints-in-sql-bc9caaf06884&quot;&gt;Enforcing Transitive Constraints in SQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/why-is-a-pull-vs-a-push-pipeline-important&quot;&gt;Why is a PULL vs a PUSH pipeline important?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642&quot;&gt;Cache warming: Agility for a stateful service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://objective-see.com/blog/blog_0x3C.html&quot;&gt;The Mac Malware of 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Big on Heroku: Scaling Fountain without losing a drop Enforcing Transitive Constraints in SQL Why is a PULL vs a PUSH pipeline important? Cache warming: Agility for a stateful service The Mac Malware of 2018</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1081,58 +1133,6 @@
 
       
         <summary type="html">Snapshot Testing Going Beyond UI Experiments with Link Previews to Help Guide Readers The Public Git Archive Story Observability at Scale: Building Uber’s Alerting Ecosystem Implications Of Thinking In Blocks Instead Of Blobs Scaling Spark Streaming for Logging Event Ingestion</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #116</title>
-      
-      <link href="https://jenius.tech/2019/01/29/engineer-readinglist-116/" rel="alternate" type="text/html" title="Jenius Engineer reading list #116" />
-      <published>2019-01-29T00:00:00+00:00</published>
-      <updated>2019-01-29T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/29/engineer-readinglist-116</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/29/engineer-readinglist-116/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.insightdatascience.com/whats-the-big-deal-about-decentralized-consensus-12876bb80064?source=rss----d02e65779d7b---4&amp;amp;gi=35c8dc60af02&quot;&gt;What’s the big deal about Decentralized Consensus?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/breaking-the-ice-a-crash-course-in-ipfs-ethereum-and-fat-protocols-of-the-future-eb9bd15eb96e&quot;&gt;Breaking The Ice: A Crash Course In IPFS, Ethereum And Fat Protocols Of The Future&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/11/coding-conversations--the-perfect-storm--that-brought-down-linke&quot;&gt;Coding Conversations: The “Perfect Storm” that Brought Down LinkedIn.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/&quot;&gt;Offensive testing to make Dropbox (and the world) a safer place&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/storing-files-in-a-distributed-file-system-using-blockchain-technology/&quot;&gt;Storing files in a distributed file system using blockchain technology&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">What’s the big deal about Decentralized Consensus? Breaking The Ice: A Crash Course In IPFS, Ethereum And Fat Protocols Of The Future Coding Conversations: The “Perfect Storm” that Brought Down LinkedIn.com Offensive testing to make Dropbox (and the world) a safer place Storing files in a distributed file system using blockchain technology</summary>
       
 
       
