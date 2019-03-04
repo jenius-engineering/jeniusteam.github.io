@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-02-28T02:14:19+00:00</updated>
+  <updated>2019-03-04T13:55:12+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,109 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #136</title>
+      
+      <link href="https://jenius.tech/2019/03/04/engineer-readinglist-136/" rel="alternate" type="text/html" title="Jenius Engineer reading list #136" />
+      <published>2019-03-04T00:00:00+00:00</published>
+      <updated>2019-03-04T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/04/engineer-readinglist-136</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/04/engineer-readinglist-136/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@chris.rimondi/devops-embedding-as-aiding-and-abetting-db112d1977a&quot;&gt;DevOps embedding as aiding and abetting&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/learning-fixing-value-triage-engineers/&quot;&gt;Learning by fixing — the value of triage engineer rotations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/lorin/resilience-engineering&quot;&gt;resilience engineering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sosedoff.github.io/pgweb/&quot;&gt;Pgweb – Cross-platform client for PostgreSQL databases&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackertarget.com/ssh-examples-tunnels/&quot;&gt;SSH Examples, Tips &amp;amp; Tunnels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">DevOps embedding as aiding and abetting Learning by fixing — the value of triage engineer rotations resilience engineering Pgweb – Cross-platform client for PostgreSQL databases SSH Examples, Tips &amp;amp; Tunnels</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #135</title>
+      
+      <link href="https://jenius.tech/2019/03/01/engineer-readinglist-135/" rel="alternate" type="text/html" title="Jenius Engineer reading list #135" />
+      <published>2019-03-01T00:00:00+00:00</published>
+      <updated>2019-03-01T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/01/engineer-readinglist-135</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/01/engineer-readinglist-135/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/linux-noah/noah&quot;&gt;Bash on Ubuntu on macOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616&quot;&gt;Forget Docker, the future is JAMstack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/why-we-fancied-testcafe-over-webdriver/&quot;&gt;Why we fancied Testcafe over Webdriver for a mordern web app?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/airbnb-soa-migration&quot;&gt;The Great Migration: from Monolith to Service-Oriented&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Bash on Ubuntu on macOS Forget Docker, the future is JAMstack Why we fancied Testcafe over Webdriver for a mordern web app? The Great Migration: from Monolith to Service-Oriented</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1027,112 +1130,6 @@
 
       
         <summary type="html">TTL as a Service: Automatic Revocation of Stale Privileges The Fundamental Problem of Search These are the features in ES6 that you should know Dynamic configuration at Twitter Dissecting Front-end Job Titles</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #118</title>
-      
-      <link href="https://jenius.tech/2019/01/31/engineer-readinglist-118/" rel="alternate" type="text/html" title="Jenius Engineer reading list #118" />
-      <published>2019-01-31T00:00:00+00:00</published>
-      <updated>2019-01-31T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/31/engineer-readinglist-118</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/31/engineer-readinglist-118/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/11/decentralizing-social-interactions-with-activitypub/&quot;&gt;Decentralizing Social Interactions with ActivityPub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drivy.engineering/airflow-architecture/&quot;&gt;Airflow Architecture at Drivy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/&quot;&gt;Fast Google Fonts with Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/5-ways-to-hack-an-api-and-how-to-defend/&quot;&gt;5 Ways To Hack An API (And How To Defend)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/&quot;&gt;Zero Config JavaScript App Prototyping with Webpack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/using-apache-kafka-drive-cutting-edge-machine-learning&quot;&gt;Using Apache Kafka to Drive Cutting-Edge Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Decentralizing Social Interactions with ActivityPub Airflow Architecture at Drivy Fast Google Fonts with Cloudflare Workers 5 Ways To Hack An API (And How To Defend) Zero Config JavaScript App Prototyping with Webpack Using Apache Kafka to Drive Cutting-Edge Machine Learning</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #117</title>
-      
-      <link href="https://jenius.tech/2019/01/30/engineer-readinglist-117/" rel="alternate" type="text/html" title="Jenius Engineer reading list #117" />
-      <published>2019-01-30T00:00:00+00:00</published>
-      <updated>2019-01-30T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/01/30/engineer-readinglist-117</id>
-      <content type="html" xml:base="https://jenius.tech/2019/01/30/engineer-readinglist-117/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.blogfoster.com/snapshot-testing-going-beyond-ui/&quot;&gt;Snapshot Testing Going Beyond UI&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/experiments-with-link-previews-to-help-guide-readers-79dbe843ad29&quot;&gt;Experiments with Link Previews to Help Guide Readers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.sourced.tech/post/pga_history/&quot;&gt;The Public Git Archive Story&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/observability-at-scale/&quot;&gt;Observability at Scale: Building Uber’s Alerting Ecosystem&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/implications-blocks-blobs/&quot;&gt;Implications Of Thinking In Blocks Instead Of Blobs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d&quot;&gt;Scaling Spark Streaming for Logging Event Ingestion&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Snapshot Testing Going Beyond UI Experiments with Link Previews to Help Guide Readers The Public Git Archive Story Observability at Scale: Building Uber’s Alerting Ecosystem Implications Of Thinking In Blocks Instead Of Blobs Scaling Spark Streaming for Logging Event Ingestion</summary>
       
 
       
