@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-03-04T13:55:12+00:00</updated>
+  <updated>2019-03-05T06:00:18+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #137</title>
+      
+      <link href="https://jenius.tech/2019/03/05/engineer-readinglist-137/" rel="alternate" type="text/html" title="Jenius Engineer reading list #137" />
+      <published>2019-03-05T00:00:00+00:00</published>
+      <updated>2019-03-05T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/05/engineer-readinglist-137</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/05/engineer-readinglist-137/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture&quot;&gt;Better Android Apps Using MVVM with Clean Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/midway-simplifying-mocked-responses-da5601fc667d&quot;&gt;Midway: Simplifying Mocked Responses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/containers-net&quot;&gt;Containers - What Are They Good For?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/how-we-load-tested-our-apis-in-production-18225ee77f45&quot;&gt;How we load tested our APIs in Production&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f&quot;&gt;Our learnings from adopting GraphQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/an-approach-for-metadata-store-on-large-volume-data-sets/&quot;&gt;Providing Metadata Discovery on Large-Volume Data Sets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/gutenberg-accessibility-situation/&quot;&gt;What Can Be Learned From The Gutenberg Accessibility Situation?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Better Android Apps Using MVVM with Clean Architecture Midway: Simplifying Mocked Responses Containers - What Are They Good For? How we load tested our APIs in Production Our learnings from adopting GraphQL Providing Metadata Discovery on Large-Volume Data Sets What Can Be Learned From The Gutenberg Accessibility Situation?</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1078,58 +1132,6 @@
 
       
         <summary type="html">Avoiding The Pitfalls Of Automatically Inlined Code Errors in Go: From denial to acceptance Web Standards: The What, The Why, And The How Interesting Web Technologies to follow in 2019 The developer’s guide to native web animation Gradually, then suddenly Protect Application Assets: How to Secure Your Secrets The Impostor Effect vs Dunning-Kruger</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #119</title>
-      
-      <link href="https://jenius.tech/2019/02/01/engineer-readinglist-119/" rel="alternate" type="text/html" title="Jenius Engineer reading list #119" />
-      <published>2019-02-01T00:00:00+00:00</published>
-      <updated>2019-02-01T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/01/engineer-readinglist-119</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/01/engineer-readinglist-119/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2018/11/ttl-as-a-service.html&quot;&gt;TTL as a Service: Automatic Revocation of Stale Privileges&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/fundamental-problem-search/&quot;&gt;The Fundamental Problem of Search&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/these-are-the-features-in-es6-that-you-should-know-1411194c71cb&quot;&gt;These are the features in ES6 that you should know&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html&quot;&gt;Dynamic configuration at Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5&quot;&gt;Dissecting Front-end Job Titles&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">TTL as a Service: Automatic Revocation of Stale Privileges The Fundamental Problem of Search These are the features in ES6 that you should know Dynamic configuration at Twitter Dissecting Front-end Job Titles</summary>
       
 
       
