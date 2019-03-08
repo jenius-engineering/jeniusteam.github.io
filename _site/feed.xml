@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-03-05T06:00:18+00:00</updated>
+  <updated>2019-03-08T01:12:05+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,161 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #140</title>
+      
+      <link href="https://jenius.tech/2019/03/08/engineer-readinglist-140/" rel="alternate" type="text/html" title="Jenius Engineer reading list #140" />
+      <published>2019-03-08T00:00:00+00:00</published>
+      <updated>2019-03-08T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/08/engineer-readinglist-140</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/08/engineer-readinglist-140/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/event-streams-kafka-redshift-metabase&quot;&gt;Managing Real-time Event Streams and SQL Analytics with Apache Kafka on Heroku, Amazon Redshift, and Metabase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bkuhlmann/git-cop&quot;&gt;git-cop – enforces consistent Git commits.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md&quot;&gt;Learn JSON web tokens&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://altkomsoftware.pl/en/blog/headless-cms-as-a-microservice/&quot;&gt;Headless CMS as a Microservice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anonoz.github.io/tech/2018/12/29/aws-secrets-in-rails.html&quot;&gt;How to use AWS Secrets Manager in Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Managing Real-time Event Streams and SQL Analytics with Apache Kafka on Heroku, Amazon Redshift, and Metabase git-cop – enforces consistent Git commits. Learn JSON web tokens Headless CMS as a Microservice How to use AWS Secrets Manager in Ruby on Rails</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #139</title>
+      
+      <link href="https://jenius.tech/2019/03/07/engineer-readinglist-139/" rel="alternate" type="text/html" title="Jenius Engineer reading list #139" />
+      <published>2019-03-07T00:00:00+00:00</published>
+      <updated>2019-03-07T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/07/engineer-readinglist-139</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/07/engineer-readinglist-139/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2018/12/building-scalable-highly-reliable-asynchronous-user-service/&quot;&gt;Building a scalable, highly reliable, asynchronous user service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/tagoverflow-correlating-tags-in-stackoverflow-66e2b0e1117b&quot;&gt;TagOverflow — Correlating Tags in Stackoverflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2018/12/rust-2018-is-here/&quot;&gt;Rust 2018 is here… but what is it?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/front-end-micro-services/index.html&quot;&gt;Front-End Micro Services&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/12/07/ip-packet-buffering-in-ovn/&quot;&gt;IP packet buffering in OVN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Building a scalable, highly reliable, asynchronous user service TagOverflow — Correlating Tags in Stackoverflow Rust 2018 is here… but what is it? Front-End Micro Services IP packet buffering in OVN</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #138</title>
+      
+      <link href="https://jenius.tech/2019/03/06/engineer-readinglist-138/" rel="alternate" type="text/html" title="Jenius Engineer reading list #138" />
+      <published>2019-03-06T00:00:00+00:00</published>
+      <updated>2019-03-06T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/06/engineer-readinglist-138</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/06/engineer-readinglist-138/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/makisu/#utm_source=jakartadev&quot;&gt;Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/from-mvc-to-modern-web-frameworks-8067ec9dee65&quot;&gt;From MVC to Modern Web Frameworks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/real-time-app-graphql-subscriptions-postgres/&quot;&gt;How To Build A Real-Time App With GraphQL Subscriptions On Postgres&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.timescale.com/high-availability-timescaledb-postgresql-patroni-a4572264a831/&quot;&gt;Evaluating high availability solutions for TimescaleDB + PostgreSQL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes From MVC to Modern Web Frameworks How To Build A Real-Time App With GraphQL Subscriptions On Postgres Evaluating high availability solutions for TimescaleDB + PostgreSQL</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -936,202 +1091,6 @@
 
       
         <summary type="html">How Developers and Designers Can Collaborate Using Flutter How We Moved From Wordpress to React and Raised $80 Million Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber Artificial intelligence and machine learning adoption in European enterprise The cold start problem: how to build your machine learning portfolio</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #121</title>
-      
-      <link href="https://jenius.tech/2019/02/07/engineer-readinglist-121/" rel="alternate" type="text/html" title="Jenius Engineer reading list #121" />
-      <published>2019-02-07T00:00:00+00:00</published>
-      <updated>2019-02-07T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/07/engineer-readinglist-121</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/07/engineer-readinglist-121/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://richardmavis.info/a-complete-program&quot;&gt;A Complete Program&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/RustPython/RustPython&quot;&gt;A Python Interpreter written in Rust&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://realpython.com/python-development-visual-studio-code/&quot;&gt;Python Development in Visual Studio Codehttps://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/story/google-chrome-kill-url-first-steps/&quot;&gt;Google Takes Its First Steps Toward Killing the URL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/css-browser-support/&quot;&gt;A Guide To CSS Support In Browsers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">A Complete Program A Python Interpreter written in Rust Python Development in Visual Studio Codehttps://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3 Google Takes Its First Steps Toward Killing the URL A Guide To CSS Support In Browsers</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer: Heri Setiyawan</title>
-      
-      <link href="https://jenius.tech/2019/02/05/jenius-engineer-heri-setiyawan/" rel="alternate" type="text/html" title="Jenius Engineer: Heri Setiyawan" />
-      <published>2019-02-05T00:00:00+00:00</published>
-      <updated>2019-02-05T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/05/jenius-engineer-heri-setiyawan</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/05/jenius-engineer-heri-setiyawan/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/heri-setiyawan/heri-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/heri-setiyawan/heri-small.jpg&quot; alt=&quot;Heri Setiyawan&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Hello! nama saya Heri Setiyawan, dipanggil Heri. Posisi saya di Jenius sebagai Production Support Engineer.&lt;/p&gt;
-
-&lt;p&gt;Sama seperti &lt;a href=&quot;https://jenius.tech/2019/01/05/jenius-engineer-eko-pramulanto/&quot;&gt;Eko sebelumnya&lt;/a&gt; (kita satu tim), Production support engineer ini bertanggung jawab membantu menyelesaikan issues dan bugs yang terkadang muncul di production, melaporkannya ke developer terkait sambil membuat case yang bisa dijadikan acuan oleh developer tersebut untuk menyelesaikan issue yang ada, JIRA dalam hal ini sangat membantu untuk mendokumentasikan dan memonitor isu.
-&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;p&gt;Disamping melaporkan isu, PSE juga diharapkan bisa menyelesaikan masalah-masalah yang muncul dari mulai menganalisa, sampai solusinya, bisa dari kenapa terjadi kegagalan transfer sampai memonitor server yang saat ini Jenius miliki dan operasikan.&lt;/p&gt;
-
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;MacBook Pro 13-inch Early 2015 untuk kebutuhan pekerjaan sehari-hari, terhubung ke server atau sekedar melihat monitoring system. Kemudian Samsung Galaxy Note 7 untuk komunikasi dengan server, tim dan keluarga, Xiaomi M8 sebagai device PVT(Production Verification Test) untuk backup, Casio G-Shock DW-5600BB-1, Modem Portable sebagai backup koneksi.&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://meetfranz.com/&quot;&gt;Franz&lt;/a&gt;, aplikasi ini bisa mengkombinasi banyak messaging service (e.g. Whatsapp, Telegram, dll). Sehingga saya cukup membuka 1 aplikasi untuk chat.&lt;/p&gt;
-
-&lt;p&gt;Untuk keperluan browsing menggunakan Chrome. untuk email, saya menggunakan Microsoft Outlook. Untuk text editor Sublime.&lt;/p&gt;
-
-&lt;p&gt;Terkadang issues production membutuhkan investigasi lebih dalam jadi POSTMAN sangat membantu untuk keperluan verifikasi status menggunakan URL, dari sisi database dan Queue kafka ROBO T3 dan Kafka Tools bisa diandalkan, iTerm terminal emulator yang sering saya gunakan, tapi seblumnya Xcode wajib intall.&lt;/p&gt;
-
-&lt;p&gt;untuk keperluan file sharing dalam internal saya menggunakan jBox dan untuk koneksi internal saya menggunakan EndPoint dengan ini saat terjadi production issue saya dapat melakukan investigasi via splunk dan newrelic dimanapun tanpa perlu datang ke kantor&lt;/p&gt;
-
-&lt;p&gt;Untuk keperluan komunikasi dengan rekan kerja atau tim monitoring Bankwide saya menggunakan GS Wave&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;JENIUS! tentu!&lt;/li&gt;
-  &lt;li&gt;Whatsapp&lt;/li&gt;
-  &lt;li&gt;Telegram&lt;/li&gt;
-  &lt;li&gt;Slack&lt;/li&gt;
-  &lt;li&gt;Gmail&lt;/li&gt;
-  &lt;li&gt;Newrelic&lt;/li&gt;
-  &lt;li&gt;Waze&lt;/li&gt;
-  &lt;li&gt;Chrome&lt;/li&gt;
-  &lt;li&gt;Spotify&lt;/li&gt;
-  &lt;li&gt;Google Maps&lt;/li&gt;
-  &lt;li&gt;Youtube&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;p&gt;Headphone Samsung Galaxy Note 7 +charger, Xiaomi M8+charger, MacBook Pro+charger, Kartu Parkir, Kunci, Notebook, harddisk eksternal, Modem Portable&lt;/p&gt;
-
-&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/heri-setiyawan/heri-hs-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/heri-setiyawan/heri-hs-small.jpg&quot; alt=&quot;Heri Setiyawan Homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius engineer" />
-      
-        <category term="backstage" />
-      
-        <category term="engineer" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Hello! nama saya Heri Setiyawan, dipanggil Heri. Posisi saya di Jenius sebagai Production Support Engineer. Sama seperti Eko sebelumnya (kita satu tim), Production support engineer ini bertanggung jawab membantu menyelesaikan issues dan bugs yang terkadang muncul di production, melaporkannya ke developer terkait sambil membuat case yang bisa dijadikan acuan oleh developer tersebut untuk menyelesaikan issue yang ada, JIRA dalam hal ini sangat membantu untuk mendokumentasikan dan memonitor isu.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #120</title>
-      
-      <link href="https://jenius.tech/2019/02/04/engineer-readinglist-120/" rel="alternate" type="text/html" title="Jenius Engineer reading list #120" />
-      <published>2019-02-04T00:00:00+00:00</published>
-      <updated>2019-02-04T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/04/engineer-readinglist-120</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/04/engineer-readinglist-120/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/&quot;&gt;Avoiding The Pitfalls Of Automatically Inlined Code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance&quot;&gt;Errors in Go: From denial to acceptance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/web-standards-guide/&quot;&gt;Web Standards: The What, The Why, And The How&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b&quot;&gt;Interesting Web Technologies to follow in 2019&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.heartinternet.uk/blog/the-developers-guide-to-native-web-animation/&quot;&gt;The developer’s guide to native web animation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/gradually-then-suddenly&quot;&gt;Gradually, then suddenly&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/chingu/protect-application-assets-how-to-secure-your-secrets-a4165550c5fb&quot;&gt;Protect Application Assets: How to Secure Your Secrets&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://standalone-sysadmin.com/the-impostor-effect-vs-dunning-kruger-d2bafb774347&quot;&gt;The Impostor Effect vs Dunning-Kruger&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Avoiding The Pitfalls Of Automatically Inlined Code Errors in Go: From denial to acceptance Web Standards: The What, The Why, And The How Interesting Web Technologies to follow in 2019 The developer’s guide to native web animation Gradually, then suddenly Protect Application Assets: How to Secure Your Secrets The Impostor Effect vs Dunning-Kruger</summary>
       
 
       
