@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-03-11T17:25:04+00:00</updated>
+  <updated>2019-03-13T08:04:42+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,112 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #143</title>
+      
+      <link href="https://jenius.tech/2019/03/13/engineer-readinglist-143/" rel="alternate" type="text/html" title="Jenius Engineer reading list #143" />
+      <published>2019-03-13T00:00:00+00:00</published>
+      <updated>2019-03-13T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/13/engineer-readinglist-143</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/13/engineer-readinglist-143/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/the-three-principles-of-excellent-api-design/&quot;&gt;The Three Principles of Excellent API Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://americanexpress.io/on-the-importance-of-commit-messages/&quot;&gt;On the Importance of Commit Messages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/&quot;&gt;GraphQL Stitching 101&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/the-quiet-revolution-how-json-displaced-xml-1e1f3e8552f7&quot;&gt;The quiet revolution: How JSON displaced XML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">The Three Principles of Excellent API Design On the Importance of Commit Messages GraphQL Stitching 101 The quiet revolution: How JSON displaced XML</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #142</title>
+      
+      <link href="https://jenius.tech/2019/03/12/engineer-readinglist-142/" rel="alternate" type="text/html" title="Jenius Engineer reading list #142" />
+      <published>2019-03-12T00:00:00+00:00</published>
+      <updated>2019-03-12T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/12/engineer-readinglist-142</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/12/engineer-readinglist-142/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/big-ol-ball-o-javascript/&quot;&gt;Big ol’ Ball o’ JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@chris.rimondi/aws-app-mesh-first-take-f959b7d8430b&quot;&gt;AWS App Mesh — First Take&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/serious-scrum/top-traits-of-a-lazy-scrum-master-9ff49cc23e7a&quot;&gt;Top Traits of a lazy Scrum Master&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/2/linux-distributions-still-matter-containers&quot;&gt;Do Linux distributions still matter with containers?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/7-key-considerations-for-kubernetes-in-production/&quot;&gt;7 Key Considerations for Kubernetes in Production&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/2/infrastructure-monitoring&quot;&gt;Infrastructure monitoring: Defense against surprise downtime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/serverless-needs-a-bolder-stateful-vision/&quot;&gt;Serverless Needs a Bolder, Stateful Vision&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/5-red-flags-when-devops-might-not-be-good-fit&quot;&gt;5 red flags: When DevOps might not be a good fit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Big ol’ Ball o’ JavaScript AWS App Mesh — First Take Top Traits of a lazy Scrum Master Do Linux distributions still matter with containers? 7 Key Considerations for Kubernetes in Production Infrastructure monitoring: Defense against surprise downtime Serverless Needs a Bolder, Stateful Vision 5 red flags: When DevOps might not be a good fit</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -988,109 +1094,6 @@
 
       
         <summary type="html">Tim Bray – Serverlessness Git Webhooks with AWS services Librefox How to run Docker and get more sleep than I did More speed, lower velocity</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #124</title>
-      
-      <link href="https://jenius.tech/2019/02/14/engineer-readinglist-124/" rel="alternate" type="text/html" title="Jenius Engineer reading list #124" />
-      <published>2019-02-14T00:00:00+00:00</published>
-      <updated>2019-02-14T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/14/engineer-readinglist-124</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/14/engineer-readinglist-124/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://smallstep.com/blog/everything-pki.html&quot;&gt;Everything you should know about certificates and PKI but are too afraid to ask&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d&quot;&gt;The Ultimate Guide To Starting Your First IoT Project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/driver-app-optimistic-mode/&quot;&gt;How Uber’s New Driver App Overcomes Network Lag&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/reimagining-the-morning-briefing-655100304624&quot;&gt;Reimagining the Morning Briefing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2018/11/28/artsy-auth/&quot;&gt;Everything You Ever Wanted To Know About Authentication at Artsy (But Didn’t Know How To Ask)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Everything you should know about certificates and PKI but are too afraid to ask The Ultimate Guide To Starting Your First IoT Project How Uber’s New Driver App Overcomes Network Lag Reimagining the Morning Briefing Everything You Ever Wanted To Know About Authentication at Artsy (But Didn’t Know How To Ask)</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #123</title>
-      
-      <link href="https://jenius.tech/2019/02/13/engineer-readinglist-123/" rel="alternate" type="text/html" title="Jenius Engineer reading list #123" />
-      <published>2019-02-13T00:00:00+00:00</published>
-      <updated>2019-02-13T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/13/engineer-readinglist-123</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/13/engineer-readinglist-123/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/the-trinity-of-errors-in-financial-models-an-introductory-analysis-using-tensorflow-probability&quot;&gt;The trinity of errors in financial models: An introductory analysis using TensorFlow Probability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/using-machine-learning-and-analytics-to-attract-and-retain-employees&quot;&gt;Using machine learning and analytics to attract and retain employees&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ankane/blazer&quot;&gt;Blazer – Business intelligence made simple&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jamal.robinson/how-facebook-scales-artificial-intelligence-machine-learning-693706ae296f&quot;&gt;How Facebook Scales Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">The trinity of errors in financial models: An introductory analysis using TensorFlow Probability Using machine learning and analytics to attract and retain employees Blazer – Business intelligence made simple How Facebook Scales Machine Learning</summary>
       
 
       
