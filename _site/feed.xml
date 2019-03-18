@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-03-14T07:58:48+00:00</updated>
+  <updated>2019-03-18T07:25:04+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,111 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #146</title>
+      
+      <link href="https://jenius.tech/2019/03/18/engineer-readinglist-146/" rel="alternate" type="text/html" title="Jenius Engineer reading list #146" />
+      <published>2019-03-18T00:00:00+00:00</published>
+      <updated>2019-03-18T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/18/engineer-readinglist-146</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/18/engineer-readinglist-146/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/&quot;&gt;Liveness Detection with OpenCV&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13&quot;&gt;10 Steps to Set Up Your Python Project for Success&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.phoronix.com/scan.php?page=article&amp;amp;item=wsl-february-2018&amp;amp;num=1&quot;&gt;Windows 10 WSL vs. Linux Performance For Early 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mattlayman.com/blog/2018/python-code-black/&quot;&gt;Consistent Python code with Black&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/lessons/what-pep-8-and-why-you-need-it/&quot;&gt;What PEP 8 Is and Why You Need It&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Liveness Detection with OpenCV 10 Steps to Set Up Your Python Project for Success Windows 10 WSL vs. Linux Performance For Early 2018 Consistent Python code with Black What PEP 8 Is and Why You Need It</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #145</title>
+      
+      <link href="https://jenius.tech/2019/03/15/engineer-readinglist-145/" rel="alternate" type="text/html" title="Jenius Engineer reading list #145" />
+      <published>2019-03-15T00:00:00+00:00</published>
+      <updated>2019-03-15T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/15/engineer-readinglist-145</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/15/engineer-readinglist-145/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/what-the-fork-amazon/&quot;&gt;What the Fork, Amazon?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mezerotm.com/i-learned-python-in-a-week-here-is-my-reflection/&quot;&gt;I Learned Python in a week and only sorta regret it&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/eabglobal/minik&quot;&gt;Minik: Serverless Web Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://victorzhou.com/blog/intro-to-neural-networks/&quot;&gt;Machine Learning for Beginners: An Introduction to Neural Networks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.quiltdata.com/import-almost-anything-in-python-an-intro-to-module-loaders-and-finders-f5e7b15cda47&quot;&gt;Import almost anything in Python: an intro to module loaders and finders&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://realpython.com/intro-to-pyenv/&quot;&gt;Managing Multiple Python Versions With pyenv&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">What the Fork, Amazon? I Learned Python in a week and only sorta regret it Minik: Serverless Web Framework Machine Learning for Beginners: An Introduction to Neural Networks Import almost anything in Python: an intro to module loaders and finders Managing Multiple Python Versions With pyenv</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -993,112 +1098,6 @@
 
       
         <summary type="html">Abstracting Sharding with Vitess and Distributed Deadlocks Managing Remote Teams - A Crash Course Splitting Stateful Services across Continents at Instagram Globalizing Player Accounts How to Get a Better GAN (Almost) for Free: Introducing the Metropolis-Hastings GAN Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it) Certainty Theater</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #127</title>
-      
-      <link href="https://jenius.tech/2019/02/19/engineer-readinglist-127/" rel="alternate" type="text/html" title="Jenius Engineer reading list #127" />
-      <published>2019-02-19T00:00:00+00:00</published>
-      <updated>2019-02-19T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/19/engineer-readinglist-127</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/19/engineer-readinglist-127/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/xworks-my-machine-and-also-everywhere-else-local-build-and-testing-environments-code&quot;&gt;Works on my machine… and also everywhere else: local build and testing environments as code&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/debugging-node-services-in-kubernetes-with-linkerd-2-0-f878382fb380&quot;&gt;Debugging Node Services in Kubernetes With Linkerd 2.0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/design-thinking-process&quot;&gt;Breaking Down the Design Thinking Process&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179&quot;&gt;Netflix Information Security: Preventing Credential Compromise in AWS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/structured-content-done-right/&quot;&gt;Strategies For Headless Projects With Structured Content Management Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/our-slack-bot-now-on-lambda-with-ruby/&quot;&gt;Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Works on my machine… and also everywhere else: local build and testing environments as code Debugging Node Services in Kubernetes With Linkerd 2.0 Breaking Down the Design Thinking Process Netflix Information Security: Preventing Credential Compromise in AWS Strategies For Headless Projects With Structured Content Management Systems Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #126</title>
-      
-      <link href="https://jenius.tech/2019/02/18/engineer-readinglist-126/" rel="alternate" type="text/html" title="Jenius Engineer reading list #126" />
-      <published>2019-02-18T00:00:00+00:00</published>
-      <updated>2019-02-18T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/18/engineer-readinglist-126</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/18/engineer-readinglist-126/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be&quot;&gt;How Pinterest runs Kafka at scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://circleci.com/blog/tools-for-effective-pairing/&quot;&gt;Tools for effective pairing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/advanced-search-experience-for-e-commerce/&quot;&gt;Beyond the search bar: advanced e-commerce search experiences&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/11/27/microservices-debugging-openshift-kubernetes/&quot;&gt;Solving the challenges of debugging microservices on a container platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/reliable-webhooks-using-serverless-architecture-e009a2096732&quot;&gt;Reliable Webhooks Using Serverless Architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/&quot;&gt;An Extensive Guide To Progressive Web Applications&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">How Pinterest runs Kafka at scale Tools for effective pairing Beyond the search bar: advanced e-commerce search experiences Solving the challenges of debugging microservices on a container platform Reliable Webhooks Using Serverless Architecture An Extensive Guide To Progressive Web Applications</summary>
       
 
       
