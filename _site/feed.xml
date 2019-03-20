@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-03-19T16:45:43+00:00</updated>
+  <updated>2019-03-20T05:52:16+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #148</title>
+      
+      <link href="https://jenius.tech/2019/03/20/engineer-readinglist-148/" rel="alternate" type="text/html" title="Jenius Engineer reading list #148" />
+      <published>2019-03-20T00:00:00+00:00</published>
+      <updated>2019-03-20T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/20/engineer-readinglist-148</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/20/engineer-readinglist-148/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.gruntwork.io/automated-testing-for-kubernetes-and-helm-charts-using-terratest-a4ddc4e67344&quot;&gt;Automated Testing for Kubernetes and Helm Charts using Terratest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@samdemers/software-estimates-and-other-lies-17ffc29ea6b7&quot;&gt;Software Estimates and Other Lies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/outsystems-engineering/the-three-pillars-of-product-agility-part-1-the-north-star-354ddf4ef51&quot;&gt;The Three Pillars of Product Agility — Part 1: The North Star&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/whats-wrong-your-value-stream-mapping&quot;&gt;What’s wrong with your value stream mapping &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/murder-on-the-kubernetes-express-the-life-and-death-of-a-docker-container-d7aec13f8188&quot;&gt;Murder On The Kubernetes Express: The Life And Death Of A Docker Container&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Automated Testing for Kubernetes and Helm Charts using Terratest Software Estimates and Other Lies The Three Pillars of Product Agility — Part 1: The North Star What’s wrong with your value stream mapping Murder On The Kubernetes Express: The Life And Death Of A Docker Container</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1020,82 +1072,6 @@
 
       
         <summary type="html">Tailwind CSS Command sourcing - why I am considering it Tests won’t make your software correct Seven Tips for Visual Search at Scale Model, document and share Hackers love Docker: Container catastrophe in 3, 2, 1… How Serverless Platforms Could Power an Event-Driven AI Pipeline DevOps Disillusionment? 4 Behaviors to Get Your Team to the Other Side How to set up continuous deployment in your home project the easy way</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer: Eddyson Taniwan</title>
-      
-      <link href="https://jenius.tech/2019/02/20/jenius-engineer-eddyson-taniwan/" rel="alternate" type="text/html" title="Jenius Engineer: Eddyson Taniwan" />
-      <published>2019-02-20T00:00:00+00:00</published>
-      <updated>2019-02-20T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/20/jenius-engineer-eddyson-taniwan</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/20/jenius-engineer-eddyson-taniwan/">&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/eddyson-taniwan-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/eddyson-taniwan-small.jpg&quot; alt=&quot;Eddyson Taniwan&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Siapa dan apa yang dilakukan di Jenius?&lt;/h3&gt;
-&lt;p&gt;Hi, nama saya &lt;a href=&quot;https://github.com/eddysontaniwan&quot;&gt;Eddyson Taniwan&lt;/a&gt;, posisi sebagai Software Developer di &lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt;. Saat ini mengerjakan bagian frontend (Android, IOS, Web). Juga bertanggung jawab untuk pengerjaan fitur/bugs native untuk iOS, develop stories dan bugfixing issues yang muncul.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;h3&gt;Hardware yang digunakan&lt;/h3&gt;
-&lt;p&gt;Main device untuk kerja pakai &lt;a href=&quot;https://support.apple.com/kb/SP756?locale=en_US&quot;&gt;Macbook Pro 2017 15”&lt;/a&gt;. Untuk komunikasi pakai iPhone X untuk ngecek notifikasi dan agar lebih gampang melihat google maps saat berkendara dengan roda dua. Untuk mendengarkan musik menggunakan airpods.&lt;/p&gt;
-
-&lt;h3&gt;Software yang digunakan&lt;/h3&gt;
-&lt;h4&gt;Desktop&lt;/h4&gt;
-&lt;p&gt;Ada beberapa coding tools yang saya gunakan, Untuk develop aplikasi Android saya menggunakan &lt;a href=&quot;https://developer.android.com/studio/&quot;&gt;Android Studio&lt;/a&gt;, dan Xcode untuk develop aplikasi iOS. IDE utama saya saat ini &lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot;&gt;Webstorm&lt;/a&gt; untuk javascript.&lt;/p&gt;
-
-&lt;p&gt;Saya juga menggunakan &lt;a href=&quot;https://www.spotify.com/&quot;&gt;Spotify&lt;/a&gt; untuk mendengarkan musik di saat ngoding di kantor dan gym. Selain itu ada &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; untuk komunikasi kantor, dan yang pasti ada &lt;a href=&quot;https://www.google.com/chrome/&quot;&gt;Google Chrome&lt;/a&gt; untuk browsing &lt;a href=&quot;https://stackoverflow.com/&quot;&gt;StackOverflow&lt;/a&gt; :D.&lt;/p&gt;
-
-&lt;h4&gt;Mobile&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.jenius.com/&quot;&gt;Jenius&lt;/a&gt; pastinya untuk mengatur keuangan saya. &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&quot;&gt;Jira Cloud&lt;/a&gt; untuk monitor ticket, issue, story dan bug. &lt;a href=&quot;https://slack.com/?utm_source=jeniustech&quot;&gt;Slack&lt;/a&gt; untuk komunikasi internal Jenius. Instagram untuk social media. &lt;a href=&quot;https://www.grab.com/id/&quot;&gt;Grab&lt;/a&gt; untuk transportasi. &lt;a href=&quot;http://bola.net/&quot;&gt;bola.net&lt;/a&gt; untuk update berita bola.&lt;/p&gt;
-
-&lt;h3&gt;Apa isi tas anda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Macbook,&lt;/li&gt;
-  &lt;li&gt;Kabel-kabel charger,&lt;/li&gt;
-  &lt;li&gt;Powerbank,&lt;/li&gt;
-  &lt;li&gt;Airpods,&lt;/li&gt;
-  &lt;li&gt;Kunci Apartment,&lt;/li&gt;
-  &lt;li&gt;Baju Gym (Stay healthy)&lt;/li&gt;
-  &lt;li&gt;Tumbler (Say no to plastic)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Smartphone homescreen&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;/images/posts/engineers/eddyson-taniwan-hs-large.jpg&quot;&gt;&lt;img src=&quot;/images/posts/engineers/eddyson-taniwan-hs-small.jpg&quot; alt=&quot;Eddyson Taniwan Homescreen&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="backstage" />
-      
-
-      
-        <category term="jenius engineer" />
-      
-        <category term="backstage" />
-      
-        <category term="engineer" />
-      
-
-      
-        <summary type="html">Siapa dan apa yang dilakukan di Jenius? Hi, nama saya Eddyson Taniwan, posisi sebagai Software Developer di Jenius. Saat ini mengerjakan bagian frontend (Android, IOS, Web). Juga bertanggung jawab untuk pengerjaan fitur/bugs native untuk iOS, develop stories dan bugfixing issues yang muncul.</summary>
       
 
       
