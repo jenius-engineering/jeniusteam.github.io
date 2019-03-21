@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-03-20T05:52:16+00:00</updated>
+  <updated>2019-03-21T08:54:55+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #148</title>
+      
+      <link href="https://jenius.tech/2019/03/21/engineer-readinglist-149/" rel="alternate" type="text/html" title="Jenius Engineer reading list #148" />
+      <published>2019-03-21T00:00:00+00:00</published>
+      <updated>2019-03-21T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/21/engineer-readinglist-149</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/21/engineer-readinglist-149/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/3-trends-in-tracking-software-delivery/&quot;&gt;3 Trends in Tracking Software Delivery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thispointer.com/pandas-how-to-merge-dataframes-using-dataframe-merge-in-python-part-1/&quot;&gt;Pandas : How to Merge Dataframes using Dataframe.merge() in Python – Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jpaulreed/the-737max-and-why-software-engineers-should-pay-attention-a041290994bd&quot;&gt;The 737Max and Why Software Engineers Might Want to Pay Attention&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/sarahjwells/qcon-london-2019-mature-microservices-and-how-to-operate-them&quot;&gt;QCon London 2019: Mature microservices and how to operate them&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@semaphoreci/a-reality-check-about-cloud-native-devops-384aee39a2e0&quot;&gt;A Reality Check About Cloud Native DevOps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/a-docker-product-manager-on-what-the-future-holds-for-containers/&quot;&gt;A Docker Product Manager on What the Future Holds for Containers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">3 Trends in Tracking Software Delivery Pandas : How to Merge Dataframes using Dataframe.merge() in Python – Part 1 The 737Max and Why Software Engineers Might Want to Pay Attention QCon London 2019: Mature microservices and how to operate them A Reality Check About Cloud Native DevOps A Docker Product Manager on What the Future Holds for Containers</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1016,62 +1069,6 @@
 
       
         <summary type="html">Apollo Client with REST APIs Tag-based Navigation of a Fashion Catalog Shard Splits with Consistent Snapshots The State of AI Marketing TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank What We Got Wrong: Lessons from the Birth of Microservices</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #129</title>
-      
-      <link href="https://jenius.tech/2019/02/21/engineer-readinglist-129/" rel="alternate" type="text/html" title="Jenius Engineer reading list #129" />
-      <published>2019-02-21T00:00:00+00:00</published>
-      <updated>2019-02-21T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/21/engineer-readinglist-129</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/21/engineer-readinglist-129/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tailwindcss.com/&quot;&gt;Tailwind CSS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.arkency.com/command-sourcing-why-i-am-considering-it/&quot;&gt;Command sourcing - why I am considering it&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codewithoutrules.com/2018/12/12/tests-are-not-enough/&quot;&gt;Tests won’t make your software correct&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/tips-for-visual-search-at-scale/&quot;&gt;Seven Tips for Visual Search at Scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lethain.com//model-document-share/&quot;&gt;Model, document and share&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/security/hackers-love-docker-container-catastrophe-3-2-1&quot;&gt;Hackers love Docker: Container catastrophe in 3, 2, 1…&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-serverless-platforms-could-power-an-event-driven-ai-pipeline/&quot;&gt;How Serverless Platforms Could Power an Event-Driven AI Pipeline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devops.com/devops-disillusionment-4-behaviors-to-get-your-team-to-the-other-side/&quot;&gt;DevOps Disillusionment? 4 Behaviors to Get Your Team to the Other Side&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed&quot;&gt;How to set up continuous deployment in your home project the easy way&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Tailwind CSS Command sourcing - why I am considering it Tests won’t make your software correct Seven Tips for Visual Search at Scale Model, document and share Hackers love Docker: Container catastrophe in 3, 2, 1… How Serverless Platforms Could Power an Event-Driven AI Pipeline DevOps Disillusionment? 4 Behaviors to Get Your Team to the Other Side How to set up continuous deployment in your home project the easy way</summary>
       
 
       
