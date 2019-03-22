@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-03-21T08:54:55+00:00</updated>
+  <updated>2019-03-22T04:53:09+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -28,9 +28,62 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list #148</title>
+      <title type="html">Jenius Engineer reading list #150</title>
       
-      <link href="https://jenius.tech/2019/03/21/engineer-readinglist-149/" rel="alternate" type="text/html" title="Jenius Engineer reading list #148" />
+      <link href="https://jenius.tech/2019/03/22/engineer-readinglist-150/" rel="alternate" type="text/html" title="Jenius Engineer reading list #150" />
+      <published>2019-03-22T00:00:00+00:00</published>
+      <updated>2019-03-22T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/22/engineer-readinglist-150</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/22/engineer-readinglist-150/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/garethr/a-continuation-of-devops-policy-as-code&quot;&gt;A continuation of devops: policy as code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thewomenintechshow.com/2019/03/11/cloud-computing-tools-with-priyanka-sharma/&quot;&gt;Cloud Computing Tools with Priyanka Sharma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/launchdarkly/redux-scaling-launchdarkly-from-4-to-200-billion-feature-flags-daily&quot;&gt; Redux: Scaling LaunchDarkly from 4 to 200 billion feature flags daily &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cloudatomiclab.com/rustyk8s/&quot;&gt;Kubernetes as an API standard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getdockup.com/&quot;&gt;On demand staging environments for engineering teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/&quot;&gt; Cloud Irregular: IAM Is The Real Cloud Lock-In &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">A continuation of devops: policy as code Cloud Computing Tools with Priyanka Sharma Redux: Scaling LaunchDarkly from 4 to 200 billion feature flags daily Kubernetes as an API standard On demand staging environments for engineering teams Cloud Irregular: IAM Is The Real Cloud Lock-In</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #149</title>
+      
+      <link href="https://jenius.tech/2019/03/21/engineer-readinglist-149/" rel="alternate" type="text/html" title="Jenius Engineer reading list #149" />
       <published>2019-03-21T00:00:00+00:00</published>
       <updated>2019-03-21T00:00:00+00:00</updated>
       <id>https://jenius.tech/2019/03/21/engineer-readinglist-149</id>
@@ -1016,59 +1069,6 @@
 
       
         <summary type="html">Engineering Uber’s Next-Gen Payments Platform Caching Smartly In The Age Of Gutenberg Back to the Future with Relational NoSQL Cross-Shard Queries &amp;amp; Lookup Tables VisBug 101 An update on Pixie, Pinterest’s recommendation system</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #130</title>
-      
-      <link href="https://jenius.tech/2019/02/22/engineer-readinglist-130/" rel="alternate" type="text/html" title="Jenius Engineer reading list #130" />
-      <published>2019-02-22T00:00:00+00:00</published>
-      <updated>2019-02-22T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/22/engineer-readinglist-130</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/22/engineer-readinglist-130/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codeburst.io/apollo-client-with-rest-apis-7f3b15a291a4&quot;&gt;Apollo Client with REST APIs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jobs.zalando.com/tech/blog/exploring-fashion-catalog/index.html&quot;&gt;Tag-based Navigation of a Fashion Catalog &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/shard-splits-with-consistent-snapshots-adcf622842dd&quot;&gt;Shard Splits with Consistent Snapshots&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/state-ai-marketing&quot;&gt;The State of AI Marketing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html&quot;&gt;TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/google-microservices&quot;&gt;What We Got Wrong: Lessons from the Birth of Microservices&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Apollo Client with REST APIs Tag-based Navigation of a Fashion Catalog Shard Splits with Consistent Snapshots The State of AI Marketing TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank What We Got Wrong: Lessons from the Birth of Microservices</summary>
       
 
       
