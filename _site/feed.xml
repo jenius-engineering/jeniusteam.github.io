@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-03-26T08:51:51+00:00</updated>
+  <updated>2019-03-27T10:50:39+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #153</title>
+      
+      <link href="https://jenius.tech/2019/03/26/engineer-readinglist-153/" rel="alternate" type="text/html" title="Jenius Engineer reading list #153" />
+      <published>2019-03-26T00:00:00+00:00</published>
+      <updated>2019-03-26T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/26/engineer-readinglist-153</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/26/engineer-readinglist-153/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/joelparkerhenderson/queueing_theory&quot;&gt;Queueing theory: an introduction for software development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@fxn/zeitwerk-a-new-code-loader-for-ruby-ae7895977e73&quot;&gt;Zeitwerk: A new code loader for Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/going-agile-c9fcce6cb65&quot;&gt;“Going Agile”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/blog/products/devops-sre/canary-analysis-lessons-learned-and-best-practices-from-google-and-waze&quot;&gt;Canary analysis: Lessons learned and best practices from Google and Waze&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/four-startup-engineering-killers-1fb5c498391d&quot;&gt;Four Startup Engineering Killers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amy.dev/?p=853&quot;&gt;Data structures to name-drop when you want to sound smart in an interview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e&quot;&gt;Effective Mental Models for Code and Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Queueing theory: an introduction for software development Zeitwerk: A new code loader for Ruby “Going Agile” Canary analysis: Lessons learned and best practices from Google and Waze Four Startup Engineering Killers Data structures to name-drop when you want to sound smart in an interview Effective Mental Models for Code and Systems</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1015,58 +1069,6 @@
 
       
         <summary type="html">Big on Heroku: Scaling Fountain without losing a drop Enforcing Transitive Constraints in SQL Why is a PULL vs a PUSH pipeline important? Cache warming: Agility for a stateful service The Mac Malware of 2018</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #133</title>
-      
-      <link href="https://jenius.tech/2019/02/27/engineer-readinglist-133/" rel="alternate" type="text/html" title="Jenius Engineer reading list #133" />
-      <published>2019-02-27T00:00:00+00:00</published>
-      <updated>2019-02-27T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/02/27/engineer-readinglist-133</id>
-      <content type="html" xml:base="https://jenius.tech/2019/02/27/engineer-readinglist-133/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html&quot;&gt;Twitter’s Kafka adoption story&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.future-processing.pl/blog/how-to-build-a-fault-tolerant-system/&quot;&gt;How to build a fault tolerant system?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.pivotal.io/post/ssh_handshake_failed/&quot;&gt;Troubleshooting Obscure OpenSSH Failures&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/carousell-insider/deep-image-understanding-at-carousell-121857434837&quot;&gt;Deep image understanding at Carousell&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/&quot;&gt;Reasons to Scale Horizontally&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Twitter’s Kafka adoption story How to build a fault tolerant system? Troubleshooting Obscure OpenSSH Failures Deep image understanding at Carousell Reasons to Scale Horizontally</summary>
       
 
       
