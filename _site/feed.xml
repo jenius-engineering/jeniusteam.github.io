@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-03-28T03:22:46+00:00</updated>
+  <updated>2019-03-29T08:09:05+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #155</title>
+      
+      <link href="https://jenius.tech/2019/03/29/engineer-readinglist-155/" rel="alternate" type="text/html" title="Jenius Engineer reading list #155" />
+      <published>2019-03-29T00:00:00+00:00</published>
+      <updated>2019-03-29T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/03/29/engineer-readinglist-155</id>
+      <content type="html" xml:base="https://jenius.tech/2019/03/29/engineer-readinglist-155/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html&quot;&gt;3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://heleo.com/conversation-why-the-best-leaders-dont-always-have-a-plan/19649/&quot;&gt;Why the Best Leaders Don’t Always Have a Plan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.usejournal.com/agile-isnt-new-it-s-just-common-sense-rebranded-d4238a40c800&quot;&gt;Agile Isn’t New, It’s Just Common Sense Rebranded&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2018/12/stackoverflow-monitoring&quot;&gt;Inside Stack Overflow’s Monitoring Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/generic-css-mobile-first/&quot;&gt;Generic First CSS: New Thinking On Mobile First&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present Why the Best Leaders Don’t Always Have a Plan Agile Isn’t New, It’s Just Common Sense Rebranded Inside Stack Overflow’s Monitoring Systems Generic First CSS: New Thinking On Mobile First</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1019,57 +1071,6 @@
 
       
         <summary type="html">DevOps embedding as aiding and abetting Learning by fixing — the value of triage engineer rotations resilience engineering Pgweb – Cross-platform client for PostgreSQL databases SSH Examples, Tips &amp;amp; Tunnels</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #135</title>
-      
-      <link href="https://jenius.tech/2019/03/01/engineer-readinglist-135/" rel="alternate" type="text/html" title="Jenius Engineer reading list #135" />
-      <published>2019-03-01T00:00:00+00:00</published>
-      <updated>2019-03-01T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/01/engineer-readinglist-135</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/01/engineer-readinglist-135/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/linux-noah/noah&quot;&gt;Bash on Ubuntu on macOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616&quot;&gt;Forget Docker, the future is JAMstack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/why-we-fancied-testcafe-over-webdriver/&quot;&gt;Why we fancied Testcafe over Webdriver for a mordern web app?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/airbnb-soa-migration&quot;&gt;The Great Migration: from Monolith to Service-Oriented&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Bash on Ubuntu on macOS Forget Docker, the future is JAMstack Why we fancied Testcafe over Webdriver for a mordern web app? The Great Migration: from Monolith to Service-Oriented</summary>
       
 
       
