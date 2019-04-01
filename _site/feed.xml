@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-03-29T08:09:05+00:00</updated>
+  <updated>2019-04-01T04:54:30+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #156</title>
+      
+      <link href="https://jenius.tech/2019/04/01/engineer-readinglist-156/" rel="alternate" type="text/html" title="Jenius Engineer reading list #156" />
+      <published>2019-04-01T00:00:00+00:00</published>
+      <updated>2019-04-01T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/04/01/engineer-readinglist-156</id>
+      <content type="html" xml:base="https://jenius.tech/2019/04/01/engineer-readinglist-156/">&lt;p&gt;Happy monday!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/designing-resilient-systems-part-1&quot;&gt;Designing resilient systems – part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dpc/crev&quot;&gt;Crev – Scalable, social, Code REView and recommendation system that we desperately need&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/flexibility-is-the-greatest-perk/&quot;&gt;Flexibility is the greatest perk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.schemacrawler.com/diagramming.html&quot;&gt;SchemaCrawler Database Diagramming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/&quot;&gt;Seven tough lessons from ten years in bootstrapped business&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Happy monday! Designing resilient systems – part 1 Crev – Scalable, social, Code REView and recommendation system that we desperately need Flexibility is the greatest perk SchemaCrawler Database Diagramming Seven tough lessons from ten years in bootstrapped business</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1019,58 +1073,6 @@
 
       
         <summary type="html">Better Android Apps Using MVVM with Clean Architecture Midway: Simplifying Mocked Responses Containers - What Are They Good For? How we load tested our APIs in Production Our learnings from adopting GraphQL Providing Metadata Discovery on Large-Volume Data Sets What Can Be Learned From The Gutenberg Accessibility Situation?</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #136</title>
-      
-      <link href="https://jenius.tech/2019/03/04/engineer-readinglist-136/" rel="alternate" type="text/html" title="Jenius Engineer reading list #136" />
-      <published>2019-03-04T00:00:00+00:00</published>
-      <updated>2019-03-04T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/04/engineer-readinglist-136</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/04/engineer-readinglist-136/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@chris.rimondi/devops-embedding-as-aiding-and-abetting-db112d1977a&quot;&gt;DevOps embedding as aiding and abetting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.intercom.com/blog/learning-fixing-value-triage-engineers/&quot;&gt;Learning by fixing — the value of triage engineer rotations&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/lorin/resilience-engineering&quot;&gt;resilience engineering&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sosedoff.github.io/pgweb/&quot;&gt;Pgweb – Cross-platform client for PostgreSQL databases&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackertarget.com/ssh-examples-tunnels/&quot;&gt;SSH Examples, Tips &amp;amp; Tunnels&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">DevOps embedding as aiding and abetting Learning by fixing — the value of triage engineer rotations resilience engineering Pgweb – Cross-platform client for PostgreSQL databases SSH Examples, Tips &amp;amp; Tunnels</summary>
       
 
       
