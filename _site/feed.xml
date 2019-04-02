@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-04-01T04:54:30+00:00</updated>
+  <updated>2019-04-02T05:45:20+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #157</title>
+      
+      <link href="https://jenius.tech/2019/04/02/engineer-readinglist-157/" rel="alternate" type="text/html" title="Jenius Engineer reading list #157" />
+      <published>2019-04-02T00:00:00+00:00</published>
+      <updated>2019-04-02T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/04/02/engineer-readinglist-157</id>
+      <content type="html" xml:base="https://jenius.tech/2019/04/02/engineer-readinglist-157/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudera.com/blog/2018/12/faster-swarms-of-data-accelerating-hive-queries-with-parquet-vectorization/&quot;&gt;Faster Swarms of Data : Accelerating Hive Queries with Parquet Vectorization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2018/12/20/benchmark-postgresql-with-linux-hugepages/&quot;&gt;Benchmark PostgreSQL With Linux HugePages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/nevergrad/&quot;&gt;Nevergrad: An open source tool for derivative-free optimization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kubedb.com/&quot;&gt;KubeDB – Run production-grade databases easily on Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://diogomonica.com/2018/10/07/a-pirates-take-on-strategy-vs-tactics/&quot;&gt;A Pirate’s take on Strategy vs. Tactics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@wgalyean/how-to-lead-f4383da7047c&quot;&gt;How To Lead&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Faster Swarms of Data : Accelerating Hive Queries with Parquet Vectorization Benchmark PostgreSQL With Linux HugePages Nevergrad: An open source tool for derivative-free optimization KubeDB – Run production-grade databases easily on Kubernetes A Pirate’s take on Strategy vs. Tactics How To Lead</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1019,60 +1072,6 @@
 
       
         <summary type="html">Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes From MVC to Modern Web Frameworks How To Build A Real-Time App With GraphQL Subscriptions On Postgres Evaluating high availability solutions for TimescaleDB + PostgreSQL</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #137</title>
-      
-      <link href="https://jenius.tech/2019/03/05/engineer-readinglist-137/" rel="alternate" type="text/html" title="Jenius Engineer reading list #137" />
-      <published>2019-03-05T00:00:00+00:00</published>
-      <updated>2019-03-05T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/05/engineer-readinglist-137</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/05/engineer-readinglist-137/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture&quot;&gt;Better Android Apps Using MVVM with Clean Architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/midway-simplifying-mocked-responses-da5601fc667d&quot;&gt;Midway: Simplifying Mocked Responses&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/containers-net&quot;&gt;Containers - What Are They Good For?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/how-we-load-tested-our-apis-in-production-18225ee77f45&quot;&gt;How we load tested our APIs in Production&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f&quot;&gt;Our learnings from adopting GraphQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebayinc.com/stories/blogs/tech/an-approach-for-metadata-store-on-large-volume-data-sets/&quot;&gt;Providing Metadata Discovery on Large-Volume Data Sets&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/gutenberg-accessibility-situation/&quot;&gt;What Can Be Learned From The Gutenberg Accessibility Situation?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Better Android Apps Using MVVM with Clean Architecture Midway: Simplifying Mocked Responses Containers - What Are They Good For? How we load tested our APIs in Production Our learnings from adopting GraphQL Providing Metadata Discovery on Large-Volume Data Sets What Can Be Learned From The Gutenberg Accessibility Situation?</summary>
       
 
       
