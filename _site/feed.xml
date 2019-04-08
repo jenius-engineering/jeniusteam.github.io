@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-04-04T07:44:25+00:00</updated>
+  <updated>2019-04-08T08:36:07+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,110 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #161</title>
+      
+      <link href="https://jenius.tech/2019/04/08/engineer-readinglist-161/" rel="alternate" type="text/html" title="Jenius Engineer reading list #161" />
+      <published>2019-04-08T00:00:00+00:00</published>
+      <updated>2019-04-08T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/04/08/engineer-readinglist-161</id>
+      <content type="html" xml:base="https://jenius.tech/2019/04/08/engineer-readinglist-161/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/from-code-quality-to-integration-optimizing-alibabas-blink-testing-framework-dc9c357319de&quot;&gt;From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/learnings-from-rebuilding-our-checkout-experience-1d1ddebed00&quot;&gt;Learnings from rebuilding our checkout experience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://redditblog.com/2018/12/18/envoy-proxy-at-reddit/&quot;&gt;Envoy Proxy at Reddit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/operating-vitess-d90eb01e5b4d&quot;&gt;Operating Vitess&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56&quot;&gt;Lessons Learned at Instagram Stories and Feed Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework Learnings from rebuilding our checkout experience Envoy Proxy at Reddit Operating Vitess Lessons Learned at Instagram Stories and Feed Machine Learning</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #160</title>
+      
+      <link href="https://jenius.tech/2019/04/05/engineer-readinglist-160/" rel="alternate" type="text/html" title="Jenius Engineer reading list #160" />
+      <published>2019-04-05T00:00:00+00:00</published>
+      <updated>2019-04-05T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/04/05/engineer-readinglist-160</id>
+      <content type="html" xml:base="https://jenius.tech/2019/04/05/engineer-readinglist-160/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/12/19/security-considerations-for-container-runtimes/&quot;&gt;Security Considerations for Container Runtimes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thoughtbot.com/blog/how-to-get-better-at-pair-programming&quot;&gt; How to Get Better at Pair Programming &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/12/cape-technical-deep-dive/&quot;&gt;Cape Technical Deep Dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.golang.org/modules2019&quot;&gt;Go Modules in 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/netflix-migration-resilience&quot;&gt;Building Resilience in Production Migrations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Security Considerations for Container Runtimes How to Get Better at Pair Programming Cape Technical Deep Dive Go Modules in 2019 Building Resilience in Production Migrations</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -968,110 +1072,6 @@
 
       
         <summary type="html">Big ol’ Ball o’ JavaScript AWS App Mesh — First Take Top Traits of a lazy Scrum Master Do Linux distributions still matter with containers? 7 Key Considerations for Kubernetes in Production Infrastructure monitoring: Defense against surprise downtime Serverless Needs a Bolder, Stateful Vision 5 red flags: When DevOps might not be a good fit</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #141</title>
-      
-      <link href="https://jenius.tech/2019/03/11/engineer-readinglist-141/" rel="alternate" type="text/html" title="Jenius Engineer reading list #141" />
-      <published>2019-03-11T00:00:00+00:00</published>
-      <updated>2019-03-11T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/11/engineer-readinglist-141</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/11/engineer-readinglist-141/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.brunomiranda.com/professional-focus-8f9fe082a593&quot;&gt;Professional Focus Planning for the New Year&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lwn.net/Articles/775736/&quot;&gt;The Firecracker virtual machine monitor&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b&quot;&gt;Monorepos: Please don’t!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering&quot;&gt;How Accenture retrofitted for site reliability engineering&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/Xtext/&quot;&gt;Xtext&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Professional Focus Planning for the New Year The Firecracker virtual machine monitor Monorepos: Please don’t! How Accenture retrofitted for site reliability engineering Xtext</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #140</title>
-      
-      <link href="https://jenius.tech/2019/03/08/engineer-readinglist-140/" rel="alternate" type="text/html" title="Jenius Engineer reading list #140" />
-      <published>2019-03-08T00:00:00+00:00</published>
-      <updated>2019-03-08T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/08/engineer-readinglist-140</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/08/engineer-readinglist-140/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/event-streams-kafka-redshift-metabase&quot;&gt;Managing Real-time Event Streams and SQL Analytics with Apache Kafka on Heroku, Amazon Redshift, and Metabase&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/bkuhlmann/git-cop&quot;&gt;git-cop – enforces consistent Git commits.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md&quot;&gt;Learn JSON web tokens&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://altkomsoftware.pl/en/blog/headless-cms-as-a-microservice/&quot;&gt;Headless CMS as a Microservice&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://anonoz.github.io/tech/2018/12/29/aws-secrets-in-rails.html&quot;&gt;How to use AWS Secrets Manager in Ruby on Rails&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Managing Real-time Event Streams and SQL Analytics with Apache Kafka on Heroku, Amazon Redshift, and Metabase git-cop – enforces consistent Git commits. Learn JSON web tokens Headless CMS as a Microservice How to use AWS Secrets Manager in Ruby on Rails</summary>
       
 
       
