@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-04-08T08:36:07+00:00</updated>
+  <updated>2019-04-09T04:54:18+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #161</title>
+      
+      <link href="https://jenius.tech/2019/04/09/engineer-readinglist-162/" rel="alternate" type="text/html" title="Jenius Engineer reading list #161" />
+      <published>2019-04-09T00:00:00+00:00</published>
+      <updated>2019-04-09T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/04/09/engineer-readinglist-162</id>
+      <content type="html" xml:base="https://jenius.tech/2019/04/09/engineer-readinglist-162/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/beyond-how-may-i-help-you-fd6a0d385d02&quot;&gt;Beyond “How May I Help You?”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/introducing-deploy-pipelines-to-airbnb-fc804ac2a157&quot;&gt;Introducing Pipelines to Airbnb’s Deployment Process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2018/12/07/monte-carlo-power-analysis.html&quot;&gt;Monte Carlo Power Analysis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/cf-pipeline-mastercard&quot;&gt;Extreme Pipelines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/native-secondary-indexing-in-manhattan.html&quot;&gt;Native secondary indexing in Manhattan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/android/benefits-of-clean-architecture-android&quot;&gt;Discover the Benefits of Android Clean Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Beyond “How May I Help You?” Introducing Pipelines to Airbnb’s Deployment Process Monte Carlo Power Analysis Extreme Pipelines Native secondary indexing in Manhattan Discover the Benefits of Android Clean Architecture</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1017,61 +1070,6 @@
 
       
         <summary type="html">The Three Principles of Excellent API Design On the Importance of Commit Messages GraphQL Stitching 101 The quiet revolution: How JSON displaced XML Continuous Delivery Foundation Introducing Quarkus: a next-generation Kubernetes native Java framework</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #142</title>
-      
-      <link href="https://jenius.tech/2019/03/12/engineer-readinglist-142/" rel="alternate" type="text/html" title="Jenius Engineer reading list #142" />
-      <published>2019-03-12T00:00:00+00:00</published>
-      <updated>2019-03-12T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/12/engineer-readinglist-142</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/12/engineer-readinglist-142/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/big-ol-ball-o-javascript/&quot;&gt;Big ol’ Ball o’ JavaScript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@chris.rimondi/aws-app-mesh-first-take-f959b7d8430b&quot;&gt;AWS App Mesh — First Take&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/serious-scrum/top-traits-of-a-lazy-scrum-master-9ff49cc23e7a&quot;&gt;Top Traits of a lazy Scrum Master&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/2/linux-distributions-still-matter-containers&quot;&gt;Do Linux distributions still matter with containers?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/7-key-considerations-for-kubernetes-in-production/&quot;&gt;7 Key Considerations for Kubernetes in Production&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/2/infrastructure-monitoring&quot;&gt;Infrastructure monitoring: Defense against surprise downtime&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/serverless-needs-a-bolder-stateful-vision/&quot;&gt;Serverless Needs a Bolder, Stateful Vision&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/5-red-flags-when-devops-might-not-be-good-fit&quot;&gt;5 red flags: When DevOps might not be a good fit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Big ol’ Ball o’ JavaScript AWS App Mesh — First Take Top Traits of a lazy Scrum Master Do Linux distributions still matter with containers? 7 Key Considerations for Kubernetes in Production Infrastructure monitoring: Defense against surprise downtime Serverless Needs a Bolder, Stateful Vision 5 red flags: When DevOps might not be a good fit</summary>
       
 
       
