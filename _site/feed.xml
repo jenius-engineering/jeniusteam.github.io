@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-04-09T04:54:18+00:00</updated>
+  <updated>2019-04-10T08:11:37+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -28,9 +28,63 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list #161</title>
+      <title type="html">Jenius Engineer reading list #163</title>
       
-      <link href="https://jenius.tech/2019/04/09/engineer-readinglist-162/" rel="alternate" type="text/html" title="Jenius Engineer reading list #161" />
+      <link href="https://jenius.tech/2019/04/10/engineer-readinglist-163/" rel="alternate" type="text/html" title="Jenius Engineer reading list #163" />
+      <published>2019-04-10T00:00:00+00:00</published>
+      <updated>2019-04-10T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/04/10/engineer-readinglist-163</id>
+      <content type="html" xml:base="https://jenius.tech/2019/04/10/engineer-readinglist-163/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.plataformatec.com.br/2019/01/lets-talk-about-story-mapping/&quot;&gt;Let’s talk about Story Mapping&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/&quot;&gt;What is an Engineering Manager?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zegl/kube-score&quot;&gt;kube-score – Kubernetes object analysis with recommendations for improved reliability and security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mattholt/its-2019-and-i-still-make-websites-with-my-bare-hands-73d4eec6b7&quot;&gt;It’s 2019 and I Still Make Websites with my Bare Hands&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/pytext-open-source-nlp-framework/&quot;&gt;Open-sourcing PyText for faster NLP development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/scaling-secure-tunnels-for-browser-testing-9673c71505d&quot;&gt;Scaling secure tunnels for browser testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.doyensec.com/2019/01/24/electronegativity.html&quot;&gt;Electronegativity is finally out!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Let’s talk about Story Mapping What is an Engineering Manager? kube-score – Kubernetes object analysis with recommendations for improved reliability and security It’s 2019 and I Still Make Websites with my Bare Hands Open-sourcing PyText for faster NLP development Scaling secure tunnels for browser testing Electronegativity is finally out!</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #162</title>
+      
+      <link href="https://jenius.tech/2019/04/09/engineer-readinglist-162/" rel="alternate" type="text/html" title="Jenius Engineer reading list #162" />
       <published>2019-04-09T00:00:00+00:00</published>
       <updated>2019-04-09T00:00:00+00:00</updated>
       <id>https://jenius.tech/2019/04/09/engineer-readinglist-162</id>
@@ -1017,59 +1071,6 @@
 
       
         <summary type="html">The truth about Black Friday and Cyber Monday Building Services at Airbnb, Part 3 Faster Neural Networks Straight from JPEG The Ultimate Guide To Memorable Tech Talks AWS, MongoDB, and the Economic Realities of Open Source Learn Enough Python to be Useful: argparse setup servers (Nginx, Gunicorn) 🦄 on macOS 🍎 for Python 🐍 Running Flask on Kubernetes</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #143</title>
-      
-      <link href="https://jenius.tech/2019/03/13/engineer-readinglist-143/" rel="alternate" type="text/html" title="Jenius Engineer reading list #143" />
-      <published>2019-03-13T00:00:00+00:00</published>
-      <updated>2019-03-13T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/13/engineer-readinglist-143</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/13/engineer-readinglist-143/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/the-three-principles-of-excellent-api-design/&quot;&gt;The Three Principles of Excellent API Design&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://americanexpress.io/on-the-importance-of-commit-messages/&quot;&gt;On the Importance of Commit Messages&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/&quot;&gt;GraphQL Stitching 101&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/the-quiet-revolution-how-json-displaced-xml-1e1f3e8552f7&quot;&gt;The quiet revolution: How JSON displaced XML&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cd.foundation/&quot;&gt;Continuous Delivery Foundation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2019/03/07/quarkus-next-generation-kubernetes-native-java-framework/&quot;&gt;Introducing Quarkus: a next-generation Kubernetes native Java framework&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">The Three Principles of Excellent API Design On the Importance of Commit Messages GraphQL Stitching 101 The quiet revolution: How JSON displaced XML Continuous Delivery Foundation Introducing Quarkus: a next-generation Kubernetes native Java framework</summary>
       
 
       
