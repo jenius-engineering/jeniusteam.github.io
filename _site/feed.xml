@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-04-11T09:39:54+00:00</updated>
+  <updated>2019-04-15T04:42:29+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #165</title>
+      
+      <link href="https://jenius.tech/2019/04/15/engineer-readinglist-165/" rel="alternate" type="text/html" title="Jenius Engineer reading list #165" />
+      <published>2019-04-15T00:00:00+00:00</published>
+      <updated>2019-04-15T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/04/15/engineer-readinglist-165</id>
+      <content type="html" xml:base="https://jenius.tech/2019/04/15/engineer-readinglist-165/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.techcoil.com/blog/how-i-use-my-raspberry-pis-to-help-me-work-on-with-my-side-projects/&quot;&gt;How I use my Raspberry Pis to help me work on with my side projects &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/alash3al/sqler&quot;&gt;Sqler – write APIs using direct SQL queries with no hassle, let’s rethink about SQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cathydutton.co.uk/posts/why-i-stopped-using-sass/&quot;&gt;Stepping away from Sass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://securitycheckli.st/&quot;&gt;Be safe on the internet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.abstract.com/blog/decolonizing-silicon-valley/&quot;&gt;Decolonizing Silicon Valley: The critical role of inclusion in tech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://research.swtch.com/deps&quot;&gt;Our Software Dependency Problem &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">How I use my Raspberry Pis to help me work on with my side projects Sqler – write APIs using direct SQL queries with no hassle, let’s rethink about SQL Stepping away from Sass Be safe on the internet Decolonizing Silicon Valley: The critical role of inclusion in tech Our Software Dependency Problem</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1017,59 +1070,6 @@
 
       
         <summary type="html">Liveness Detection with OpenCV 10 Steps to Set Up Your Python Project for Success Windows 10 WSL vs. Linux Performance For Early 2018 Consistent Python code with Black What PEP 8 Is and Why You Need It</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #145</title>
-      
-      <link href="https://jenius.tech/2019/03/15/engineer-readinglist-145/" rel="alternate" type="text/html" title="Jenius Engineer reading list #145" />
-      <published>2019-03-15T00:00:00+00:00</published>
-      <updated>2019-03-15T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/15/engineer-readinglist-145</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/15/engineer-readinglist-145/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/what-the-fork-amazon/&quot;&gt;What the Fork, Amazon?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mezerotm.com/i-learned-python-in-a-week-here-is-my-reflection/&quot;&gt;I Learned Python in a week and only sorta regret it&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/eabglobal/minik&quot;&gt;Minik: Serverless Web Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://victorzhou.com/blog/intro-to-neural-networks/&quot;&gt;Machine Learning for Beginners: An Introduction to Neural Networks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.quiltdata.com/import-almost-anything-in-python-an-intro-to-module-loaders-and-finders-f5e7b15cda47&quot;&gt;Import almost anything in Python: an intro to module loaders and finders&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://realpython.com/intro-to-pyenv/&quot;&gt;Managing Multiple Python Versions With pyenv&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">What the Fork, Amazon? I Learned Python in a week and only sorta regret it Minik: Serverless Web Framework Machine Learning for Beginners: An Introduction to Neural Networks Import almost anything in Python: an intro to module loaders and finders Managing Multiple Python Versions With pyenv</summary>
       
 
       
