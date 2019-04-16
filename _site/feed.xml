@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-04-15T04:42:29+00:00</updated>
+  <updated>2019-04-16T09:53:33+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #165</title>
+      
+      <link href="https://jenius.tech/2019/04/16/engineer-readinglist-166/" rel="alternate" type="text/html" title="Jenius Engineer reading list #165" />
+      <published>2019-04-16T00:00:00+00:00</published>
+      <updated>2019-04-16T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/04/16/engineer-readinglist-166</id>
+      <content type="html" xml:base="https://jenius.tech/2019/04/16/engineer-readinglist-166/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://diamantidis.github.io/2019/01/06/curl-options&quot;&gt;Useful Curl features&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/the-joy-of-caretaking/&quot;&gt;The joy of caretaking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.plataformatec.com.br/2019/01/working-with-distributed-teams/&quot;&gt;Working with distributed teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/twpayne/chezmoi&quot;&gt;Chezmoi – Manage your dotfiles across multiple machines, securely&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/implementing-the-netflix-media-database-53b5a840b42a&quot;&gt;Implementing the Netflix Media Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.pivotal.io/post/stateful-apps-toc/&quot;&gt;Stateful Apps in Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Useful Curl features The joy of caretaking Working with distributed teams Chezmoi – Manage your dotfiles across multiple machines, securely Implementing the Netflix Media Database Stateful Apps in Kubernetes</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1018,58 +1071,6 @@
 
       
         <summary type="html">Is AWS Fargate The Future of Containers? The What and the Why of the Cluster API A Brief Guide to Securing Containers at Scale Aktion – Translates GitHub Actions into Tekton and Knative Objects Structured Logging: The Best Friend You’ll Want When Things Go Wrong</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #146</title>
-      
-      <link href="https://jenius.tech/2019/03/18/engineer-readinglist-146/" rel="alternate" type="text/html" title="Jenius Engineer reading list #146" />
-      <published>2019-03-18T00:00:00+00:00</published>
-      <updated>2019-03-18T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/18/engineer-readinglist-146</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/18/engineer-readinglist-146/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/&quot;&gt;Liveness Detection with OpenCV&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13&quot;&gt;10 Steps to Set Up Your Python Project for Success&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.phoronix.com/scan.php?page=article&amp;amp;item=wsl-february-2018&amp;amp;num=1&quot;&gt;Windows 10 WSL vs. Linux Performance For Early 2018&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.mattlayman.com/blog/2018/python-code-black/&quot;&gt;Consistent Python code with Black&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://realpython.com/lessons/what-pep-8-and-why-you-need-it/&quot;&gt;What PEP 8 Is and Why You Need It&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Liveness Detection with OpenCV 10 Steps to Set Up Your Python Project for Success Windows 10 WSL vs. Linux Performance For Early 2018 Consistent Python code with Black What PEP 8 Is and Why You Need It</summary>
       
 
       
