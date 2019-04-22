@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-04-16T09:53:33+00:00</updated>
+  <updated>2019-04-22T05:09:56+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -28,9 +28,61 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list #165</title>
+      <title type="html">Jenius Engineer reading list #167</title>
       
-      <link href="https://jenius.tech/2019/04/16/engineer-readinglist-166/" rel="alternate" type="text/html" title="Jenius Engineer reading list #165" />
+      <link href="https://jenius.tech/2019/04/22/engineer-readinglist-167/" rel="alternate" type="text/html" title="Jenius Engineer reading list #167" />
+      <published>2019-04-22T00:00:00+00:00</published>
+      <updated>2019-04-22T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/04/22/engineer-readinglist-167</id>
+      <content type="html" xml:base="https://jenius.tech/2019/04/22/engineer-readinglist-167/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/data-infrastructure/hyperloglog/&quot;&gt;HyperLogLog in Presto: A significantly faster way to handle cardinality estimation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/the-role-of-domain-driven-architecture-and-graphql-in-digital-transformation/&quot;&gt;The Role of Domain Driven Architecture and GraphQL in Digital Transformation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/typography/web-typography-infographic&quot;&gt;Designing for Readability - A Guide to Web Typography (with Infographic)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://labs.spotify.com/2018/12/18/bigtable-autoscaler-saving-money-and-time-using-managed-storage/&quot;&gt;Bigtable Autoscaler: saving money and time using managed storage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/security/dns-over-tls/&quot;&gt;DNS over TLS: Encrypting DNS end-to-end&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">HyperLogLog in Presto: A significantly faster way to handle cardinality estimation The Role of Domain Driven Architecture and GraphQL in Digital Transformation Designing for Readability - A Guide to Web Typography (with Infographic) Bigtable Autoscaler: saving money and time using managed storage DNS over TLS: Encrypting DNS end-to-end</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #166</title>
+      
+      <link href="https://jenius.tech/2019/04/16/engineer-readinglist-166/" rel="alternate" type="text/html" title="Jenius Engineer reading list #166" />
       <published>2019-04-16T00:00:00+00:00</published>
       <updated>2019-04-16T00:00:00+00:00</updated>
       <id>https://jenius.tech/2019/04/16/engineer-readinglist-166</id>
@@ -1019,58 +1071,6 @@
 
       
         <summary type="html">Automated Testing for Kubernetes and Helm Charts using Terratest Software Estimates and Other Lies The Three Pillars of Product Agility — Part 1: The North Star What’s wrong with your value stream mapping Murder On The Kubernetes Express: The Life And Death Of A Docker Container</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #147</title>
-      
-      <link href="https://jenius.tech/2019/03/19/engineer-readinglist-147/" rel="alternate" type="text/html" title="Jenius Engineer reading list #147" />
-      <published>2019-03-19T00:00:00+00:00</published>
-      <updated>2019-03-19T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/19/engineer-readinglist-147</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/19/engineer-readinglist-147/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.hltbra.net/2019/03/06/aws-fargate.html&quot;&gt;Is AWS Fargate The Future of Containers?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.vmware.com/cloudnative/2019/03/14/what-and-why-of-cluster-api/&quot;&gt;The What and the Why of the Cluster API&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cloudops.com/2019/01/a-brief-guide-to-securing-containers-at-scale/&quot;&gt;A Brief Guide to Securing Containers at Scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/triggermesh/aktion&quot;&gt;Aktion – Translates GitHub Actions into Tekton and Knative Objects&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/structured-logging&quot;&gt;Structured Logging: The Best Friend You’ll Want When Things Go Wrong&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Is AWS Fargate The Future of Containers? The What and the Why of the Cluster API A Brief Guide to Securing Containers at Scale Aktion – Translates GitHub Actions into Tekton and Knative Objects Structured Logging: The Best Friend You’ll Want When Things Go Wrong</summary>
       
 
       
