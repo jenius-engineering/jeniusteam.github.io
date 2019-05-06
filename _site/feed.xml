@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-02T06:59:38+00:00</updated>
+  <updated>2019-05-06T07:03:09+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #171</title>
+      
+      <link href="https://jenius.tech/2019/05/06/engineer-readinglist-171/" rel="alternate" type="text/html" title="Jenius Engineer reading list #171" />
+      <published>2019-05-06T00:00:00+00:00</published>
+      <updated>2019-05-06T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/05/06/engineer-readinglist-171</id>
+      <content type="html" xml:base="https://jenius.tech/2019/05/06/engineer-readinglist-171/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.felipe.rs/2019/01/29/demystifying-join-algorithms/&quot;&gt;Demystifying JOIN Algorithms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rubypigeon.com/posts/value-semantics-gem-for-making-value-classes/&quot;&gt;ValueSemantics—A Gem for Making Value Classes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codewithjason.com/rspec-mocks-stubs-plain-english/&quot;&gt;RSpec mocks and stubs in plain English&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://larahogan.me/blog/team-introspection/&quot;&gt;Tools for Introspection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gruns/ImmortalDB&quot;&gt;ImmortalDB – 🔩 A relentless key-value store for the browser&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/security/2019/01/28/defining-the-tracking-practices-that-will-be-blocked-in-firefox/&quot;&gt;Defining the tracking practices that will be blocked in Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Demystifying JOIN Algorithms ValueSemantics—A Gem for Making Value Classes RSpec mocks and stubs in plain English Tools for Introspection ImmortalDB – 🔩 A relentless key-value store for the browser Defining the tracking practices that will be blocked in Firefox</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1024,58 +1077,6 @@
 
       
         <summary type="html">Don’t Make It Callable Using Packagr with poetry Why I, A Serverless Developer, Don’t Care About Your Containers Talos is a modern Linux distribution designed to be secure, immutable, and minimal.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #151</title>
-      
-      <link href="https://jenius.tech/2019/03/25/engineer-readinglist-151/" rel="alternate" type="text/html" title="Jenius Engineer reading list #151" />
-      <published>2019-03-25T00:00:00+00:00</published>
-      <updated>2019-03-25T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/25/engineer-readinglist-151</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/25/engineer-readinglist-151/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.loodse.com/blog/2019-03-12-running-kubernetes-in-the-ci-pipeline-/&quot;&gt;Running Kubernetes In The CI Pipeline For Integration and End-To-End Tests&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/wallyqs/connect-everything-with-nats-cloud-expo-europe&quot;&gt;Connect Everything with NATS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pydist.com/blog/python-packages-since-2005&quot;&gt;Python Packages Since 2005&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://m.subbu.org/taming-the-rate-of-change-439e3dccbb5d&quot;&gt;Taming the Rate of Change&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/adobetech/serverless-microservices-and-service-mesh-oh-my-cd7903bd499d&quot;&gt;Serverless, Microservices, and Service Mesh — Oh My&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Running Kubernetes In The CI Pipeline For Integration and End-To-End Tests Connect Everything with NATS Python Packages Since 2005 Taming the Rate of Change Serverless, Microservices, and Service Mesh — Oh My</summary>
       
 
       
