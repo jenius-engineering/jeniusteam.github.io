@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-06T07:03:09+00:00</updated>
+  <updated>2019-05-07T12:19:20+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #172</title>
+      
+      <link href="https://jenius.tech/2019/05/07/engineer-readinglist-172/" rel="alternate" type="text/html" title="Jenius Engineer reading list #172" />
+      <published>2019-05-07T00:00:00+00:00</published>
+      <updated>2019-05-07T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/05/07/engineer-readinglist-172</id>
+      <content type="html" xml:base="https://jenius.tech/2019/05/07/engineer-readinglist-172/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/19/4/devops-pipeline-acceptance-testing&quot;&gt;Automate user acceptance testing with your DevOps pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/app-dev-testing/4-tips-agile-testing-waterfall-world&quot;&gt;4 tips for agile testing in a waterfall world&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://enterprisersproject.com/article/2019/4/kubernetes-jobs-hunt-how-land-role&quot;&gt;Kubernetes jobs hunt: How to land that role&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/forbestechcouncil/2019/04/09/how-to-approach-the-transformation-to-microservices/&quot;&gt;How To Approach The Transformation To Microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/logging-and-monitoring-why-you-need-both/&quot;&gt;Logging and Monitoring: Why You Need Both&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/&quot;&gt;Git as a NoSql database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Automate user acceptance testing with your DevOps pipeline 4 tips for agile testing in a waterfall world Kubernetes jobs hunt: How to land that role How To Approach The Transformation To Microservices Logging and Monitoring: Why You Need Both Git as a NoSql database</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1026,57 +1079,6 @@
 
       
         <summary type="html">Queueing theory: an introduction for software development Zeitwerk: A new code loader for Ruby “Going Agile” Canary analysis: Lessons learned and best practices from Google and Waze Four Startup Engineering Killers Data structures to name-drop when you want to sound smart in an interview Effective Mental Models for Code and Systems</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #152</title>
-      
-      <link href="https://jenius.tech/2019/03/26/engineer-readinglist-152/" rel="alternate" type="text/html" title="Jenius Engineer reading list #152" />
-      <published>2019-03-26T00:00:00+00:00</published>
-      <updated>2019-03-26T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/26/engineer-readinglist-152</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/26/engineer-readinglist-152/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://orbifold.xyz/not-callable.html&quot;&gt;Don’t Make It Callable&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/packagr/using-packagr-with-poetry-4bc986215bd2&quot;&gt;Using Packagr with poetry&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/adobetech/why-i-a-serverless-developer-dont-care-about-your-containers-40c08d36aee4&quot;&gt;Why I, A Serverless Developer, Don’t Care About Your Containers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/autonomy/talos&quot;&gt;Talos is a modern Linux distribution designed to be secure, immutable, and minimal.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Don’t Make It Callable Using Packagr with poetry Why I, A Serverless Developer, Don’t Care About Your Containers Talos is a modern Linux distribution designed to be secure, immutable, and minimal.</summary>
       
 
       
