@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-07T12:19:20+00:00</updated>
+  <updated>2019-05-08T06:45:59+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #173</title>
+      
+      <link href="https://jenius.tech/2019/05/08/engineer-readinglist-173/" rel="alternate" type="text/html" title="Jenius Engineer reading list #173" />
+      <published>2019-05-08T00:00:00+00:00</published>
+      <updated>2019-05-08T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/05/08/engineer-readinglist-173</id>
+      <content type="html" xml:base="https://jenius.tech/2019/05/08/engineer-readinglist-173/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/improving-html-time-to-first-byte/&quot;&gt;Improving HTML Time to First Byte&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/blockchain-basics-use-cases&quot;&gt;Understanding Blockchain Basics and Use Cases&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/reactive-ddd&quot;&gt;Reactive DDD—When Concurrent Waxes Fluent&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-2-the-messy-middle-59f16a959b7f&quot;&gt;The history of infrastructure at Zendesk (Part 2) — the messy middle&lt;/a&gt; (&lt;a href=&quot;https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-constant-tradeoffs-bdfa916ff4c3&quot;&gt;part 1&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/12/improving-member-productivity-with-in-product-help-&quot;&gt;Improving Member Productivity with In-Product Help&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Improving HTML Time to First Byte Understanding Blockchain Basics and Use Cases Reactive DDD—When Concurrent Waxes Fluent The history of infrastructure at Zendesk (Part 2) — the messy middle (part 1) Improving Member Productivity with In-Product Help</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1025,60 +1077,6 @@
 
       
         <summary type="html">Call Logger – A debugging tool that lets you log method usage The State Of Software Security In 2019 Introducing Merlin — A cross-platform post-exploitation HTTP/2 Command &amp;amp; Control Tool Debugging what you deploy in Go 1.12 The Paradox of Design Systems Karabiner God Mode</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #153</title>
-      
-      <link href="https://jenius.tech/2019/03/26/engineer-readinglist-153/" rel="alternate" type="text/html" title="Jenius Engineer reading list #153" />
-      <published>2019-03-26T00:00:00+00:00</published>
-      <updated>2019-03-26T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/26/engineer-readinglist-153</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/26/engineer-readinglist-153/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/joelparkerhenderson/queueing_theory&quot;&gt;Queueing theory: an introduction for software development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@fxn/zeitwerk-a-new-code-loader-for-ruby-ae7895977e73&quot;&gt;Zeitwerk: A new code loader for Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/going-agile-c9fcce6cb65&quot;&gt;“Going Agile”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/blog/products/devops-sre/canary-analysis-lessons-learned-and-best-practices-from-google-and-waze&quot;&gt;Canary analysis: Lessons learned and best practices from Google and Waze&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/four-startup-engineering-killers-1fb5c498391d&quot;&gt;Four Startup Engineering Killers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amy.dev/?p=853&quot;&gt;Data structures to name-drop when you want to sound smart in an interview&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e&quot;&gt;Effective Mental Models for Code and Systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Queueing theory: an introduction for software development Zeitwerk: A new code loader for Ruby “Going Agile” Canary analysis: Lessons learned and best practices from Google and Waze Four Startup Engineering Killers Data structures to name-drop when you want to sound smart in an interview Effective Mental Models for Code and Systems</summary>
       
 
       

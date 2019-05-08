@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://jenius.tech/authors/dedenf/</loc>
-<lastmod>2019-05-07T12:19:20+00:00</lastmod>
+<lastmod>2019-05-08T06:45:59+00:00</lastmod>
 </url>
 <url>
 <loc>https://jenius.tech/2017/04/05/jenius-says-hi/</loc>
@@ -1019,6 +1019,10 @@
 <url>
 <loc>https://jenius.tech/2019/05/07/engineer-readinglist-172/</loc>
 <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://jenius.tech/2019/05/08/engineer-readinglist-173/</loc>
+<lastmod>2019-05-08T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://jenius.tech/about/</loc>
