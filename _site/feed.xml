@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-08T06:45:59+00:00</updated>
+  <updated>2019-05-09T12:52:20+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,61 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #174</title>
+      
+      <link href="https://jenius.tech/2019/05/09/engineer-readinglist-174/" rel="alternate" type="text/html" title="Jenius Engineer reading list #174" />
+      <published>2019-05-09T00:00:00+00:00</published>
+      <updated>2019-05-09T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/05/09/engineer-readinglist-174</id>
+      <content type="html" xml:base="https://jenius.tech/2019/05/09/engineer-readinglist-174/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spin.atomicobject.com/2018/12/27/inheriting-a-codebase/&quot;&gt;Four Steps for Inheriting a Codebase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/12/common-css-issues-front-end-projects/&quot;&gt;Common CSS Issues For Front-End Projects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/risk-management-engineering-resilience&quot;&gt;Risk Management for Engineering Resilience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/sharding-writes-with-mysql-and-increment-offsets-48df32379563&quot;&gt;Sharding Writes with MySQL and Increment Offsets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/big-data-real-time-presto-talariadb&quot;&gt;Querying Big Data in Real-Time with Presto &amp;amp; Grab’s TalariaDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/key-lessons-from-100-api-projects/&quot;&gt;Key Lessons From 100 API Projects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/one-year-with-flutter-my-experience-5bfe64acc96f&quot;&gt;One Year with Flutter: My Experience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2018/12/envoycon-ebay-edge&quot;&gt;Running Envoy as an Edge Proxy at eBay: Replacing Hardware Load Balancers with a Software Solution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Four Steps for Inheriting a Codebase Common CSS Issues For Front-End Projects Risk Management for Engineering Resilience Sharding Writes with MySQL and Increment Offsets Querying Big Data in Real-Time with Presto &amp;amp; Grab’s TalariaDB Key Lessons From 100 API Projects One Year with Flutter: My Experience Running Envoy as an Edge Proxy at eBay: Replacing Hardware Load Balancers with a Software Solution</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1024,59 +1079,6 @@
 
       
         <summary type="html">3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present Why the Best Leaders Don’t Always Have a Plan Agile Isn’t New, It’s Just Common Sense Rebranded Inside Stack Overflow’s Monitoring Systems Generic First CSS: New Thinking On Mobile First</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #154</title>
-      
-      <link href="https://jenius.tech/2019/03/28/engineer-readinglist-154/" rel="alternate" type="text/html" title="Jenius Engineer reading list #154" />
-      <published>2019-03-28T00:00:00+00:00</published>
-      <updated>2019-03-28T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/03/28/engineer-readinglist-154</id>
-      <content type="html" xml:base="https://jenius.tech/2019/03/28/engineer-readinglist-154/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/mrzasa/call_logger&quot;&gt;Call Logger – A debugging tool that lets you log method usage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://noncombatant.org/2019/01/06/state-of-security-2019/&quot;&gt;The State Of Software Security In 2019&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a&quot;&gt;Introducing Merlin — A cross-platform post-exploitation HTTP/2 Command &amp;amp; Control Tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.golang.org/debugging-what-you-deploy&quot;&gt;Debugging what you deploy in Go 1.12&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://spotify.design/articles/2018-12-04/the-paradox-of-design-systems/&quot;&gt;The Paradox of Design Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6&quot;&gt;Karabiner God Mode&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Call Logger – A debugging tool that lets you log method usage The State Of Software Security In 2019 Introducing Merlin — A cross-platform post-exploitation HTTP/2 Command &amp;amp; Control Tool Debugging what you deploy in Go 1.12 The Paradox of Design Systems Karabiner God Mode</summary>
       
 
       
