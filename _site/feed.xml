@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-10T03:29:18+00:00</updated>
+  <updated>2019-05-13T07:39:13+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -28,9 +28,62 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list #174</title>
+      <title type="html">Jenius Engineer reading list #176</title>
       
-      <link href="https://jenius.tech/2019/05/10/engineer-readinglist-175/" rel="alternate" type="text/html" title="Jenius Engineer reading list #174" />
+      <link href="https://jenius.tech/2019/05/13/engineer-readinglist-176/" rel="alternate" type="text/html" title="Jenius Engineer reading list #176" />
+      <published>2019-05-13T00:00:00+00:00</published>
+      <updated>2019-05-13T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/05/13/engineer-readinglist-176</id>
+      <content type="html" xml:base="https://jenius.tech/2019/05/13/engineer-readinglist-176/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/usability/mobile-heuristic-principles&quot;&gt;Heuristic Principles for Mobile Interfaces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-typescript-transforms-to-enrich-runtime-code-3fd2863221ed?source=rss----7f3d96429888---4&quot;&gt;Using TypeScript transforms to enrich runtime code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/review-of-gloo-the-function-api-gateway/&quot;&gt;Review of Gloo, The Function Gateway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.vena.io/2019/01/02/fast-gaussian-distributed-random-numbers/&quot;&gt;Fast Gaussian-distributed Random Numbers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/understanding-high-dimensional-spaces-in-machine-learning-4c5c38930b6a&quot;&gt;Understanding High Dimensional Spaces in Machine Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/implementing-audioworklets-with-react-8a80a470474&quot;&gt;Implementing AudioWorklets with React&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Heuristic Principles for Mobile Interfaces Using TypeScript transforms to enrich runtime code Review of Gloo, The Function Gateway Fast Gaussian-distributed Random Numbers Understanding High Dimensional Spaces in Machine Learning Implementing AudioWorklets with React</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #175</title>
+      
+      <link href="https://jenius.tech/2019/05/10/engineer-readinglist-175/" rel="alternate" type="text/html" title="Jenius Engineer reading list #175" />
       <published>2019-05-10T00:00:00+00:00</published>
       <updated>2019-05-10T00:00:00+00:00</updated>
       <id>https://jenius.tech/2019/05/10/engineer-readinglist-175</id>
@@ -1026,60 +1079,6 @@
 
       
         <summary type="html">Faster Swarms of Data : Accelerating Hive Queries with Parquet Vectorization Benchmark PostgreSQL With Linux HugePages Nevergrad: An open source tool for derivative-free optimization KubeDB – Run production-grade databases easily on Kubernetes A Pirate’s take on Strategy vs. Tactics How To Lead</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #156</title>
-      
-      <link href="https://jenius.tech/2019/04/01/engineer-readinglist-156/" rel="alternate" type="text/html" title="Jenius Engineer reading list #156" />
-      <published>2019-04-01T00:00:00+00:00</published>
-      <updated>2019-04-01T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/04/01/engineer-readinglist-156</id>
-      <content type="html" xml:base="https://jenius.tech/2019/04/01/engineer-readinglist-156/">&lt;p&gt;Happy monday!&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/designing-resilient-systems-part-1&quot;&gt;Designing resilient systems – part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/dpc/crev&quot;&gt;Crev – Scalable, social, Code REView and recommendation system that we desperately need&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/flexibility-is-the-greatest-perk/&quot;&gt;Flexibility is the greatest perk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.schemacrawler.com/diagramming.html&quot;&gt;SchemaCrawler Database Diagramming&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/&quot;&gt;Seven tough lessons from ten years in bootstrapped business&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Happy monday! Designing resilient systems – part 1 Crev – Scalable, social, Code REView and recommendation system that we desperately need Flexibility is the greatest perk SchemaCrawler Database Diagramming Seven tough lessons from ten years in bootstrapped business</summary>
       
 
       
