@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-20T07:55:51+00:00</updated>
+  <updated>2019-05-21T07:47:16+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #180</title>
+      
+      <link href="https://jenius.tech/2019/05/21/engineer-readinglist-180/" rel="alternate" type="text/html" title="Jenius Engineer reading list #180" />
+      <published>2019-05-21T00:00:00+00:00</published>
+      <updated>2019-05-21T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/05/21/engineer-readinglist-180</id>
+      <content type="html" xml:base="https://jenius.tech/2019/05/21/engineer-readinglist-180/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/reverse-engineering-an-obfuscated-malicious-macro-3fd4d4f9c439&quot;&gt;Reverse Engineering an Obfuscated Malicious Macro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/design-automatic-pipelines-ml&quot;&gt;Designing Automated Pipelines for Unseen Custom Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/stack-too-deep-error-in-solidity-ca83326ff0f0&quot;&gt;Understanding the “Stack Too Deep” Error in Solidity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/java-responsive-cloud&quot;&gt;Building Responsive Systems with Serverless, Event-Driven Java&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/poet-open-ended-deep-learning/&quot;&gt;POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/mobile-testing-apps&quot;&gt;Break Things to Fix Things: Testing More than What “Should” Work&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Reverse Engineering an Obfuscated Malicious Macro Designing Automated Pipelines for Unseen Custom Data Understanding the “Stack Too Deep” Error in Solidity Building Responsive Systems with Serverless, Event-Driven Java POET: Endlessly Generating Increasingly Complex and Diverse Learning Environments and their Solutions through the Paired Open-Ended Trailblazer Break Things to Fix Things: Testing More than What “Should” Work</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1030,58 +1083,6 @@
 
       
         <summary type="html">From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework Learnings from rebuilding our checkout experience Envoy Proxy at Reddit Operating Vitess Lessons Learned at Instagram Stories and Feed Machine Learning</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #160</title>
-      
-      <link href="https://jenius.tech/2019/04/05/engineer-readinglist-160/" rel="alternate" type="text/html" title="Jenius Engineer reading list #160" />
-      <published>2019-04-05T00:00:00+00:00</published>
-      <updated>2019-04-05T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/04/05/engineer-readinglist-160</id>
-      <content type="html" xml:base="https://jenius.tech/2019/04/05/engineer-readinglist-160/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2018/12/19/security-considerations-for-container-runtimes/&quot;&gt;Security Considerations for Container Runtimes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thoughtbot.com/blog/how-to-get-better-at-pair-programming&quot;&gt; How to Get Better at Pair Programming &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2018/12/cape-technical-deep-dive/&quot;&gt;Cape Technical Deep Dive&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.golang.org/modules2019&quot;&gt;Go Modules in 2019&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/netflix-migration-resilience&quot;&gt;Building Resilience in Production Migrations&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Security Considerations for Container Runtimes How to Get Better at Pair Programming Cape Technical Deep Dive Go Modules in 2019 Building Resilience in Production Migrations</summary>
       
 
       
