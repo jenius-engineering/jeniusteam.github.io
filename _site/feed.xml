@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-23T04:58:54+00:00</updated>
+  <updated>2019-05-23T05:02:51+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,61 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #182</title>
+      
+      <link href="https://jenius.tech/2019/05/23/engineer-readinglist-182/" rel="alternate" type="text/html" title="Jenius Engineer reading list #182" />
+      <published>2019-05-23T00:00:00+00:00</published>
+      <updated>2019-05-23T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/05/23/engineer-readinglist-182</id>
+      <content type="html" xml:base="https://jenius.tech/2019/05/23/engineer-readinglist-182/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/exploring-distributed-system-theory-availability-and-consistency-e8c59e0875cd&quot;&gt;Exploring Distributed System Theory: Availability and Consistency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/better-understanding-of-android-accessibility-for-blind-people/&quot;&gt;Better understanding of Android accessibility for blind people&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/designing-resilient-systems-part-2&quot;&gt;Designing resilient systems: Circuit Breakers or Retries? (Part 2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/progressive-web-apps-ux-and-engagement-96aca0025580&quot;&gt;Progressive Web Apps, UX and Engagement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.vena.io/2019/01/08/the-case-of-the-hidden-mongo-data/&quot;&gt;The Case of the Hidden Mongo Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study&quot;&gt;The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/lessons-ive-learned-building-distributed-systems-with-cqrs-and-event-sourcing-ece284ecc1a1&quot;&gt;Lessons Learned Building Distributed Systems with CQRS and Event Sourcing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb&quot;&gt;Impress your colleagues with these NPM tricks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Exploring Distributed System Theory: Availability and Consistency Better understanding of Android accessibility for blind people Designing resilient systems: Circuit Breakers or Retries? (Part 2) Progressive Web Apps, UX and Engagement The Case of the Hidden Mongo Data The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study Lessons Learned Building Distributed Systems with CQRS and Event Sourcing Impress your colleagues with these NPM tricks</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1031,59 +1086,6 @@
 
       
         <summary type="html">Let’s talk about Story Mapping What is an Engineering Manager? kube-score – Kubernetes object analysis with recommendations for improved reliability and security It’s 2019 and I Still Make Websites with my Bare Hands Open-sourcing PyText for faster NLP development Scaling secure tunnels for browser testing Electronegativity is finally out!</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #162</title>
-      
-      <link href="https://jenius.tech/2019/04/09/engineer-readinglist-162/" rel="alternate" type="text/html" title="Jenius Engineer reading list #162" />
-      <published>2019-04-09T00:00:00+00:00</published>
-      <updated>2019-04-09T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/04/09/engineer-readinglist-162</id>
-      <content type="html" xml:base="https://jenius.tech/2019/04/09/engineer-readinglist-162/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/beyond-how-may-i-help-you-fd6a0d385d02&quot;&gt;Beyond “How May I Help You?”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/introducing-deploy-pipelines-to-airbnb-fc804ac2a157&quot;&gt;Introducing Pipelines to Airbnb’s Deployment Process&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2018/12/07/monte-carlo-power-analysis.html&quot;&gt;Monte Carlo Power Analysis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/cf-pipeline-mastercard&quot;&gt;Extreme Pipelines&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/native-secondary-indexing-in-manhattan.html&quot;&gt;Native secondary indexing in Manhattan&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/android/benefits-of-clean-architecture-android&quot;&gt;Discover the Benefits of Android Clean Architecture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Beyond “How May I Help You?” Introducing Pipelines to Airbnb’s Deployment Process Monte Carlo Power Analysis Extreme Pipelines Native secondary indexing in Manhattan Discover the Benefits of Android Clean Architecture</summary>
       
 
       
