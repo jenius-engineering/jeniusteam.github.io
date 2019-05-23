@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-21T07:47:16+00:00</updated>
+  <updated>2019-05-23T04:58:54+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,59 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #181</title>
+      
+      <link href="https://jenius.tech/2019/05/22/engineer-readinglist-181/" rel="alternate" type="text/html" title="Jenius Engineer reading list #181" />
+      <published>2019-05-22T00:00:00+00:00</published>
+      <updated>2019-05-22T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/05/22/engineer-readinglist-181</id>
+      <content type="html" xml:base="https://jenius.tech/2019/05/22/engineer-readinglist-181/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/&quot;&gt;Courier: Dropbox migration to gRPC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/should-you-build-an-api-gateway-in-house/&quot;&gt;Should You Build An API Gateway In-House?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/a-deep-dive-into-data-quality-c1d1ee576046&quot;&gt;A Deep Dive Into Data Quality&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/industrial-document-classification-with-deep-learning/&quot;&gt;Industrial document classification with Deep Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/&quot;&gt;Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/pointlessly-writing-redux-in-lua-b64894e8ede5&quot;&gt;Redux on an ESP8266&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Courier: Dropbox migration to gRPC Should You Build An API Gateway In-House? A Deep Dive Into Data Quality Industrial document classification with Deep Learning Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word] Redux on an ESP8266</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1031,58 +1084,6 @@
 
       
         <summary type="html">Beyond “How May I Help You?” Introducing Pipelines to Airbnb’s Deployment Process Monte Carlo Power Analysis Extreme Pipelines Native secondary indexing in Manhattan Discover the Benefits of Android Clean Architecture</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #161</title>
-      
-      <link href="https://jenius.tech/2019/04/08/engineer-readinglist-161/" rel="alternate" type="text/html" title="Jenius Engineer reading list #161" />
-      <published>2019-04-08T00:00:00+00:00</published>
-      <updated>2019-04-08T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/04/08/engineer-readinglist-161</id>
-      <content type="html" xml:base="https://jenius.tech/2019/04/08/engineer-readinglist-161/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/from-code-quality-to-integration-optimizing-alibabas-blink-testing-framework-dc9c357319de&quot;&gt;From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/learnings-from-rebuilding-our-checkout-experience-1d1ddebed00&quot;&gt;Learnings from rebuilding our checkout experience&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://redditblog.com/2018/12/18/envoy-proxy-at-reddit/&quot;&gt;Envoy Proxy at Reddit&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/square-corner-blog/operating-vitess-d90eb01e5b4d&quot;&gt;Operating Vitess&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56&quot;&gt;Lessons Learned at Instagram Stories and Feed Machine Learning&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">From Code Quality to Integration: Optimizing Alibaba’s Blink Testing Framework Learnings from rebuilding our checkout experience Envoy Proxy at Reddit Operating Vitess Lessons Learned at Instagram Stories and Feed Machine Learning</summary>
       
 
       
