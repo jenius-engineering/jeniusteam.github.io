@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-23T05:02:51+00:00</updated>
+  <updated>2019-05-24T06:33:13+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,64 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #183</title>
+      
+      <link href="https://jenius.tech/2019/05/24/engineer-readinglist-183/" rel="alternate" type="text/html" title="Jenius Engineer reading list #183" />
+      <published>2019-05-24T00:00:00+00:00</published>
+      <updated>2019-05-24T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/05/24/engineer-readinglist-183</id>
+      <content type="html" xml:base="https://jenius.tech/2019/05/24/engineer-readinglist-183/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/tlakomy/7-years-as-a-developer-lessons-learned-29ic&quot;&gt;7 years as a developer - lessons learned &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-animation-worklet-4a3914c19112?source=rss----7f3d96429888---4&quot;&gt;Using Animation Worklet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/&quot;&gt;Designing the Flexbox Inspector&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/ronsoak/the-lies-and-lack-of-self-respect-that-lead-to-burnout-5007&quot;&gt;The lies and lack of self respect that lead to burnout &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2019/01/divide-encode-1/&quot;&gt;Divide &amp;amp; Encode: How to Encode Videos Blazingly Fast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb&quot;&gt;Impress your colleagues with these NPM tricks &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/websockets-api-gateway-9d4aca493d39?source=rss----3a8144eabfe3---4&quot;&gt;WebSockets &amp;amp; API Gateway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/introducing-thirdeye--linkedins-business-wide-monitoring-platfor&quot;&gt;Introducing ThirdEye: LinkedIn’s Business-Wide Monitoring Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/atari-zoo-deep-reinforcement-learning/&quot;&gt;Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb?source=rss----7f3d96429888---4&quot;&gt;New horizons in CSS: Houdini and the Paint API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.viget.com/articles/using-arkit-and-image-tracking/&quot;&gt;Using ARKit and Image Tracking to Augment a Postcard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">7 years as a developer - lessons learned Using Animation Worklet Designing the Flexbox Inspector The lies and lack of self respect that lead to burnout Divide &amp;amp; Encode: How to Encode Videos Blazingly Fast Impress your colleagues with these NPM tricks WebSockets &amp;amp; API Gateway Introducing ThirdEye: LinkedIn’s Business-Wide Monitoring Platform Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning New horizons in CSS: Houdini and the Paint API Using ARKit and Image Tracking to Augment a Postcard</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1032,60 +1090,6 @@
 
       
         <summary type="html">Large-Scale Agile: Where Do You Want Your Complexity? #MenteeGoals Prepping for a mentoring relationship Building trust in teams: What and why? What Does Open Source Mean in the Era of Cloud APIs? The Design of Engineering Culture A collection of full-stack resources for programmers What exactly do developer advocates do?</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #163</title>
-      
-      <link href="https://jenius.tech/2019/04/10/engineer-readinglist-163/" rel="alternate" type="text/html" title="Jenius Engineer reading list #163" />
-      <published>2019-04-10T00:00:00+00:00</published>
-      <updated>2019-04-10T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/04/10/engineer-readinglist-163</id>
-      <content type="html" xml:base="https://jenius.tech/2019/04/10/engineer-readinglist-163/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.plataformatec.com.br/2019/01/lets-talk-about-story-mapping/&quot;&gt;Let’s talk about Story Mapping&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/&quot;&gt;What is an Engineering Manager?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zegl/kube-score&quot;&gt;kube-score – Kubernetes object analysis with recommendations for improved reliability and security&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@mattholt/its-2019-and-i-still-make-websites-with-my-bare-hands-73d4eec6b7&quot;&gt;It’s 2019 and I Still Make Websites with my Bare Hands&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/ai-research/pytext-open-source-nlp-framework/&quot;&gt;Open-sourcing PyText for faster NLP development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/scaling-secure-tunnels-for-browser-testing-9673c71505d&quot;&gt;Scaling secure tunnels for browser testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.doyensec.com/2019/01/24/electronegativity.html&quot;&gt;Electronegativity is finally out!&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Let’s talk about Story Mapping What is an Engineering Manager? kube-score – Kubernetes object analysis with recommendations for improved reliability and security It’s 2019 and I Still Make Websites with my Bare Hands Open-sourcing PyText for faster NLP development Scaling secure tunnels for browser testing Electronegativity is finally out!</summary>
       
 
       
