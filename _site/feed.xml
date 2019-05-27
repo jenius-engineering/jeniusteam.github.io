@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-24T06:33:13+00:00</updated>
+  <updated>2019-05-27T06:21:37+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #184</title>
+      
+      <link href="https://jenius.tech/2019/05/27/engineer-readinglist-184/" rel="alternate" type="text/html" title="Jenius Engineer reading list #184" />
+      <published>2019-05-27T00:00:00+00:00</published>
+      <updated>2019-05-27T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/05/27/engineer-readinglist-184</id>
+      <content type="html" xml:base="https://jenius.tech/2019/05/27/engineer-readinglist-184/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/reverse-engineering-observable-4069f3853139&quot;&gt; Reverse engineering Observable&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/nvme-cache&quot;&gt;Caching Beyond RAM: The Case for NVMe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/why-and-how-we-built-a-temporal-database-system-called-sirixdb-open-source-from-scratch-a7446f56f201&quot;&gt;Pushing Database Versioning to Its Limits by Means of a Novel Sliding Snapshot Algorithm and Efficient Time Travel Queries&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://security.googleblog.com/2019/01/pha-family-highlights-zen-and-its.html&quot;&gt;PHA Family Highlights: Zen and its cousins&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/modern-operating-systems&quot;&gt;The Operating System in 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Reverse engineering Observable Caching Beyond RAM: The Case for NVMe Pushing Database Versioning to Its Limits by Means of a Novel Sliding Snapshot Algorithm and Efficient Time Travel Queries PHA Family Highlights: Zen and its cousins The Operating System in 2018</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1036,60 +1088,6 @@
 
       
         <summary type="html">How I use my Raspberry Pis to help me work on with my side projects Sqler – write APIs using direct SQL queries with no hassle, let’s rethink about SQL Stepping away from Sass Be safe on the internet Decolonizing Silicon Valley: The critical role of inclusion in tech Our Software Dependency Problem</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #164</title>
-      
-      <link href="https://jenius.tech/2019/04/11/engineer-readinglist-164/" rel="alternate" type="text/html" title="Jenius Engineer reading list #164" />
-      <published>2019-04-11T00:00:00+00:00</published>
-      <updated>2019-04-11T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/04/11/engineer-readinglist-164</id>
-      <content type="html" xml:base="https://jenius.tech/2019/04/11/engineer-readinglist-164/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.jamesshore.com/Blog/Where-Do-You-Want-Your-Complexity.html&quot;&gt;Large-Scale Agile: Where Do You Want Your Complexity?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nickcaldwell/menteegoals-prepping-for-your-mentoring-relationship-bdfeca70f0a3&quot;&gt;#MenteeGoals Prepping for a mentoring relationship&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://knowyourteam.com/blog/2019/01/15/building-trust-in-teams-what-and-why/&quot;&gt; Building trust in teams: What and why? &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://redmonk.com/sogrady/2019/01/25/open-source-cloud-apis/&quot;&gt;What Does Open Source Mean in the Era of Cloud APIs?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dzone.com/articles/the-design-of-engineering-culture&quot;&gt;The Design of Engineering Culture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/charlax/professional-programming&quot;&gt;A collection of full-stack resources for programmers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.keyvalues.com/blog/what-exactly-do-developer-advocates-do?&quot;&gt;What exactly do developer advocates do?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Large-Scale Agile: Where Do You Want Your Complexity? #MenteeGoals Prepping for a mentoring relationship Building trust in teams: What and why? What Does Open Source Mean in the Era of Cloud APIs? The Design of Engineering Culture A collection of full-stack resources for programmers What exactly do developer advocates do?</summary>
       
 
       
