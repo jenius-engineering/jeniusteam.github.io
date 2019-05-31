@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-29T03:53:09+00:00</updated>
+  <updated>2019-05-31T08:44:30+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,63 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #187</title>
+      
+      <link href="https://jenius.tech/2019/05/31/engineer-readinglist-187/" rel="alternate" type="text/html" title="Jenius Engineer reading list #187" />
+      <published>2019-05-31T00:00:00+00:00</published>
+      <updated>2019-05-31T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/05/31/engineer-readinglist-187</id>
+      <content type="html" xml:base="https://jenius.tech/2019/05/31/engineer-readinglist-187/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/&quot;&gt;GraphQL: Union vs. Interface&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/how-to-limit-front-end-bugs-27d5648dd3ee?source=rss----7f3d96429888---4&quot;&gt;How to limit front-end bugs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript&quot;&gt;The History (and Future) of Asynchronous JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.com/demystifying-radix-trees/&quot;&gt;How Radix trees made blocking IPs 5000 times faster&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linecorp.com/en/blog/overview-of-2018-language-models/&quot;&gt;An overview of 2018 language models&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2019/01/rearchitecture-system-success/&quot;&gt;An Incremental Architecture Approach to Building Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html&quot;&gt;Migrating Kafka’s Zookeeper With No Downtime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/&quot;&gt;Automating Datacenter Operations at Dropbox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/why-are-we-getting-streams-in-redis-8c36498aaac5?source=rss----7f3d96429888---4&quot;&gt;Why are we getting Streams in Redis?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/why-would-webpack-stop-re-compiling-the-quest-for-micro-apps/&quot;&gt;Why Would Webpack Stop Re-compiling? (The Quest for Micro-Apps)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">GraphQL: Union vs. Interface How to limit front-end bugs The History (and Future) of Asynchronous JavaScript How Radix trees made blocking IPs 5000 times faster An overview of 2018 language models An Incremental Architecture Approach to Building Systems Migrating Kafka’s Zookeeper With No Downtime Automating Datacenter Operations at Dropbox Why are we getting Streams in Redis? Why Would Webpack Stop Re-compiling? (The Quest for Micro-Apps)</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1034,58 +1091,6 @@
 
       
         <summary type="html">Packages and Modern Security Introducing dry-schema Advice to new Programmers How to Make Things High-Quality kommando faucet-pipeline λ# — Accelerate Serverless Development with CloudFormation Scrum Master ≠ Project Manager</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #167</title>
-      
-      <link href="https://jenius.tech/2019/04/22/engineer-readinglist-167/" rel="alternate" type="text/html" title="Jenius Engineer reading list #167" />
-      <published>2019-04-22T00:00:00+00:00</published>
-      <updated>2019-04-22T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/04/22/engineer-readinglist-167</id>
-      <content type="html" xml:base="https://jenius.tech/2019/04/22/engineer-readinglist-167/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/data-infrastructure/hyperloglog/&quot;&gt;HyperLogLog in Presto: A significantly faster way to handle cardinality estimation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/the-role-of-domain-driven-architecture-and-graphql-in-digital-transformation/&quot;&gt;The Role of Domain Driven Architecture and GraphQL in Digital Transformation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/typography/web-typography-infographic&quot;&gt;Designing for Readability - A Guide to Web Typography (with Infographic)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://labs.spotify.com/2018/12/18/bigtable-autoscaler-saving-money-and-time-using-managed-storage/&quot;&gt;Bigtable Autoscaler: saving money and time using managed storage&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://code.fb.com/security/dns-over-tls/&quot;&gt;DNS over TLS: Encrypting DNS end-to-end&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">HyperLogLog in Presto: A significantly faster way to handle cardinality estimation The Role of Domain Driven Architecture and GraphQL in Digital Transformation Designing for Readability - A Guide to Web Typography (with Infographic) Bigtable Autoscaler: saving money and time using managed storage DNS over TLS: Encrypting DNS end-to-end</summary>
       
 
       
