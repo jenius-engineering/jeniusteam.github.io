@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-05-31T08:44:30+00:00</updated>
+  <updated>2019-06-03T05:59:02+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #188</title>
+      
+      <link href="https://jenius.tech/2019/06/03/engineer-readinglist-188/" rel="alternate" type="text/html" title="Jenius Engineer reading list #188" />
+      <published>2019-06-03T00:00:00+00:00</published>
+      <updated>2019-06-03T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/06/03/engineer-readinglist-188</id>
+      <content type="html" xml:base="https://jenius.tech/2019/06/03/engineer-readinglist-188/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/&quot;&gt;Why we built CockroachDB on top of RocksDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/patient-care-stream-processing/&quot;&gt;Increasing the Quality of Patient Care through Stream Processing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rockthecode.io/blog/distributed-application-using-raft/&quot;&gt;Application Scaling with Raft&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2019/01/17/using-parallel-query-with-amazon-aurora-for-mysql/&quot;&gt;Using Parallel Query with Amazon Aurora for MySQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb&quot;&gt;Avoiding Double Payments in a Distributed Payments System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Why we built CockroachDB on top of RocksDB Increasing the Quality of Patient Care through Stream Processing Application Scaling with Raft Using Parallel Query with Amazon Aurora for MySQL Avoiding Double Payments in a Distributed Payments System</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1036,61 +1088,6 @@
 
       
         <summary type="html">Why Don’t People Use Formal Methods? WebAuthn Design Patterns for Managing Up On Accountability Practical Deep Learning for Coders 2019 Using the Product Canvas to Define Your Product: Getting Started Agoo – A High Performance HTTP Server for Ruby</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #168</title>
-      
-      <link href="https://jenius.tech/2019/04/29/engineer-readinglist-168/" rel="alternate" type="text/html" title="Jenius Engineer reading list #168" />
-      <published>2019-04-29T00:00:00+00:00</published>
-      <updated>2019-04-29T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/04/29/engineer-readinglist-168</id>
-      <content type="html" xml:base="https://jenius.tech/2019/04/29/engineer-readinglist-168/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pragmacoders.com/blog/packages-and-modern-security&quot;&gt;Packages and Modern Security&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://solnic.codes/2019/01/31/introducing-dry-schema/&quot;&gt;Introducing dry-schema&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://olafurw.com/2019-01-27-programmer-advice/&quot;&gt;Advice to new Programmers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/how-make-things-high-quality-julie-zhuo/&quot;&gt;How to Make Things High-Quality&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/matti/kommando&quot;&gt;kommando&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.faucet-pipeline.org/&quot;&gt;faucet-pipeline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/mindtouch-engineering/%CE%BB-accelerate-serverless-development-with-cloudformation-3f57ab27d6a3&quot;&gt;λ# — Accelerate Serverless Development with CloudFormation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/once-again-scrum-master-project-manager-tobias-mayer-/&quot;&gt;Scrum Master ≠ Project Manager&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Packages and Modern Security Introducing dry-schema Advice to new Programmers How to Make Things High-Quality kommando faucet-pipeline λ# — Accelerate Serverless Development with CloudFormation Scrum Master ≠ Project Manager</summary>
       
 
       
