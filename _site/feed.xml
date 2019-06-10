@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-06-03T05:59:02+00:00</updated>
+  <updated>2019-06-10T07:42:08+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #189</title>
+      
+      <link href="https://jenius.tech/2019/06/10/engineer-readinglist-189/" rel="alternate" type="text/html" title="Jenius Engineer reading list #189" />
+      <published>2019-06-10T00:00:00+00:00</published>
+      <updated>2019-06-10T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/06/10/engineer-readinglist-189</id>
+      <content type="html" xml:base="https://jenius.tech/2019/06/10/engineer-readinglist-189/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/octos-vision-on-the-service-mesh-radiography-of-the-service-mesh/&quot;&gt;OCTO’s vision on the Service Mesh: radiography of the Service Mesh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@octoz/thoughts-about-scaled-agile-frameworks-and-why-they-are-useless-bfdf29f968af&quot;&gt;Thoughts about scaled agile frameworks and why they are useless&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/experimentation-platform-data-pipeline&quot;&gt;A Lean and Scalable Data Pipeline To Capture Large Scale Events and Support Experimentation Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/empowering-data-science-with-data-engineering-education-ef2acabd3042&quot;&gt;Empowering Data Science with Engineering Education&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2019/1/8/mysql-high-availability-framework-explained-part-ii.html&quot;&gt;MySQL High Availability Framework Explained – Part II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">OCTO’s vision on the Service Mesh: radiography of the Service Mesh Thoughts about scaled agile frameworks and why they are useless A Lean and Scalable Data Pipeline To Capture Large Scale Events and Support Experimentation Platform Empowering Data Science with Engineering Education MySQL High Availability Framework Explained – Part II</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1034,60 +1086,6 @@
 
       
         <summary type="html">Staying Safe with Open Source Some delightful developer experiences in 2019. Towards remote working ReiKey From relational DB to single DynamoDB table: a step-by-step exploration The TypeScript Tax McKinsey &amp;amp; Company and Scrum.org Release Joint Research Study on Agile Teams</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #169</title>
-      
-      <link href="https://jenius.tech/2019/04/30/engineer-readinglist-169/" rel="alternate" type="text/html" title="Jenius Engineer reading list #169" />
-      <published>2019-04-30T00:00:00+00:00</published>
-      <updated>2019-04-30T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/04/30/engineer-readinglist-169</id>
-      <content type="html" xml:base="https://jenius.tech/2019/04/30/engineer-readinglist-169/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/&quot;&gt;Why Don’t People Use Formal Methods?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://webauthn.guide/&quot;&gt;WebAuthn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://queue.acm.org/detail.cfm?id=3308563&quot;&gt;Design Patterns for Managing Up&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jwongworks.com/blog/2019/1/17/on-accountability&quot;&gt;On Accountability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.fast.ai/2019/01/24/course-v3/&quot;&gt;Practical Deep Learning for Coders 2019 &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ebgconsulting.com/blog/using-product-canvas-define-product-getting-started/&quot;&gt;Using the Product Canvas to Define Your Product: Getting Started&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ohler55/agoo&quot;&gt;Agoo – A High Performance HTTP Server for Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Why Don’t People Use Formal Methods? WebAuthn Design Patterns for Managing Up On Accountability Practical Deep Learning for Coders 2019 Using the Product Canvas to Define Your Product: Getting Started Agoo – A High Performance HTTP Server for Ruby</summary>
       
 
       
