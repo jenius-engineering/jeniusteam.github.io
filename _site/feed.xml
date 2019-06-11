@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-06-10T07:42:08+00:00</updated>
+  <updated>2019-06-11T15:43:36+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #190</title>
+      
+      <link href="https://jenius.tech/2019/06/11/engineer-readinglist-190/" rel="alternate" type="text/html" title="Jenius Engineer reading list #190" />
+      <published>2019-06-11T00:00:00+00:00</published>
+      <updated>2019-06-11T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/06/11/engineer-readinglist-190</id>
+      <content type="html" xml:base="https://jenius.tech/2019/06/11/engineer-readinglist-190/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/why-architectural-diagrams/&quot;&gt;Why Do We Need Architectural Diagrams?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/microsoft-tfs-azure-devops&quot;&gt;Journey to Cloud Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rewind.io/blog/feature-flagging-in-ruby-using-eightball/&quot;&gt;Feature Flagging in Ruby Using EightBall&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10?source=rss----7f3d96429888---4&quot;&gt;Node.js multithreading: What are Worker Threads and why do they matter?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/performance-analysis-of-linux-kernel-library-user-space-tcp-stack-be75fb198730&quot;&gt;Performance Analysis of Linux Kernel Library User-Space Tcp Stack Go to the profile of Aditya Kamath&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Why Do We Need Architectural Diagrams? Journey to Cloud Architecture Feature Flagging in Ruby Using EightBall Node.js multithreading: What are Worker Threads and why do they matter? Performance Analysis of Linux Kernel Library User-Space Tcp Stack Go to the profile of Aditya Kamath</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1032,60 +1084,6 @@
 
       
         <summary type="html">Demystifying JOIN Algorithms ValueSemantics—A Gem for Making Value Classes RSpec mocks and stubs in plain English Tools for Introspection ImmortalDB – 🔩 A relentless key-value store for the browser Defining the tracking practices that will be blocked in Firefox</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #170</title>
-      
-      <link href="https://jenius.tech/2019/05/02/engineer-readinglist-170/" rel="alternate" type="text/html" title="Jenius Engineer reading list #170" />
-      <published>2019-05-02T00:00:00+00:00</published>
-      <updated>2019-05-02T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/05/02/engineer-readinglist-170</id>
-      <content type="html" xml:base="https://jenius.tech/2019/05/02/engineer-readinglist-170/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://orbifold.xyz/open-source-safety.html&quot;&gt;Staying Safe with Open Source&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lethain.com//examples-delightful-developer-experiences/&quot;&gt;Some delightful developer experiences in 2019.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://theengineeringmanager.com/growth/towards-remote-working/&quot;&gt;Towards remote working&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://objective-see.com/products/reikey.html&quot;&gt;ReiKey&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/&quot;&gt;From relational DB to single DynamoDB table: a step-by-step exploration&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b&quot;&gt;The TypeScript Tax&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.businesswire.com/news/home/20190122005035/en/McKinsey-Company-Scrum.org-Release-Joint-Research-Study&quot;&gt;McKinsey &amp;amp; Company and Scrum.org Release Joint Research Study on Agile Teams&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Staying Safe with Open Source Some delightful developer experiences in 2019. Towards remote working ReiKey From relational DB to single DynamoDB table: a step-by-step exploration The TypeScript Tax McKinsey &amp;amp; Company and Scrum.org Release Joint Research Study on Agile Teams</summary>
       
 
       
