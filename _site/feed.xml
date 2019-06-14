@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-06-13T05:14:35+00:00</updated>
+  <updated>2019-06-14T07:45:55+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #193</title>
+      
+      <link href="https://jenius.tech/2019/06/14/engineer-readinglist-193/" rel="alternate" type="text/html" title="Jenius Engineer reading list #193" />
+      <published>2019-06-14T00:00:00+00:00</published>
+      <updated>2019-06-14T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/06/14/engineer-readinglist-193</id>
+      <content type="html" xml:base="https://jenius.tech/2019/06/14/engineer-readinglist-193/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.railscarma.com/blog/technical-articles/preload-eager-load-includes-and-joins-in-ruby-on-rails/&quot;&gt;Preload, Eager Load, Includes and Joins in Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.xkyle.com/Being-a-Great-Engineering-Mentor/&quot;&gt;Being a Great Engineering Mentor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chriskiehl.com/article/event-sourcing-is-hard&quot;&gt;Don’t Let the Internet Dupe You, Event Sourcing is Hard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudbootup.com/post/the-cost-of-bad-software-architecture.html&quot;&gt;The Cost of Bad Software Architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/postlight/mercury-parser&quot;&gt;Mercury parser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>JeniusTech Engineering</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Preload, Eager Load, Includes and Joins in Ruby on Rails Being a Great Engineering Mentor Don’t Let the Internet Dupe You, Event Sourcing is Hard The Cost of Bad Software Architecture Mercury parser</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1032,58 +1084,6 @@
 
       
         <summary type="html">Four Steps for Inheriting a Codebase Common CSS Issues For Front-End Projects Risk Management for Engineering Resilience Sharding Writes with MySQL and Increment Offsets Querying Big Data in Real-Time with Presto &amp;amp; Grab’s TalariaDB Key Lessons From 100 API Projects One Year with Flutter: My Experience Running Envoy as an Edge Proxy at eBay: Replacing Hardware Load Balancers with a Software Solution</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #173</title>
-      
-      <link href="https://jenius.tech/2019/05/08/engineer-readinglist-173/" rel="alternate" type="text/html" title="Jenius Engineer reading list #173" />
-      <published>2019-05-08T00:00:00+00:00</published>
-      <updated>2019-05-08T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/05/08/engineer-readinglist-173</id>
-      <content type="html" xml:base="https://jenius.tech/2019/05/08/engineer-readinglist-173/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/improving-html-time-to-first-byte/&quot;&gt;Improving HTML Time to First Byte&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/blockchain-basics-use-cases&quot;&gt;Understanding Blockchain Basics and Use Cases&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/reactive-ddd&quot;&gt;Reactive DDD—When Concurrent Waxes Fluent&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-2-the-messy-middle-59f16a959b7f&quot;&gt;The history of infrastructure at Zendesk (Part 2) — the messy middle&lt;/a&gt; (&lt;a href=&quot;https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-constant-tradeoffs-bdfa916ff4c3&quot;&gt;part 1&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2018/12/improving-member-productivity-with-in-product-help-&quot;&gt;Improving Member Productivity with In-Product Help&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Improving HTML Time to First Byte Understanding Blockchain Basics and Use Cases Reactive DDD—When Concurrent Waxes Fluent The history of infrastructure at Zendesk (Part 2) — the messy middle (part 1) Improving Member Productivity with In-Product Help</summary>
       
 
       
