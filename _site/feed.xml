@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-06-17T11:41:53+00:00</updated>
+  <updated>2019-06-18T06:00:22+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,56 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #1934</title>
+      
+      <link href="https://jenius.tech/2019/06/18/engineer-readinglist-195/" rel="alternate" type="text/html" title="Jenius Engineer reading list #1934" />
+      <published>2019-06-18T00:00:00+00:00</published>
+      <updated>2019-06-18T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/06/18/engineer-readinglist-195</id>
+      <content type="html" xml:base="https://jenius.tech/2019/06/18/engineer-readinglist-195/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.pregamemagazine.com/dear-ceo-your-feel-good-diversity-initiative-is-undermined-by-every-other-way-youre-doing-business/&quot;&gt;Dear CEO: Your Feel-Good Diversity Initiative is Undermined By Every Other Way You’re Doing Business&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/amatsuda/heavens_door&quot;&gt;Capybara test scenario recorder for Rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/capgemini-dynamics-365-team/opportunity-cost-for-developers-a02aa3dc1035&quot;&gt;Opportunity Cost for developers — or how I stopped worrying about the future and learned to code for the present&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>JeniusTech Engineering</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Dear CEO: Your Feel-Good Diversity Initiative is Undermined By Every Other Way You’re Doing Business Capybara test scenario recorder for Rails Opportunity Cost for developers — or how I stopped worrying about the future and learned to code for the present</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1028,59 +1078,6 @@
 
       
         <summary type="html">Heuristic Principles for Mobile Interfaces Using TypeScript transforms to enrich runtime code Review of Gloo, The Function Gateway Fast Gaussian-distributed Random Numbers Understanding High Dimensional Spaces in Machine Learning Implementing AudioWorklets with React</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #175</title>
-      
-      <link href="https://jenius.tech/2019/05/10/engineer-readinglist-175/" rel="alternate" type="text/html" title="Jenius Engineer reading list #175" />
-      <published>2019-05-10T00:00:00+00:00</published>
-      <updated>2019-05-10T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/05/10/engineer-readinglist-175</id>
-      <content type="html" xml:base="https://jenius.tech/2019/05/10/engineer-readinglist-175/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/postgresql-connection-pooling-and-load-balancing-with-pgpool-ii-cluster-edbbb7959ef1&quot;&gt;PostgreSQL Connection Pooling and Load Balancing with PgPool-II Cluster (Updated)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/design-app-improve&quot;&gt;Improving the Design of Existing Software&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.opensooq.com/testing-android-deep-linking-at-opensooq/&quot;&gt;Testing Android Deep Linking at OpenSooq&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c&quot;&gt;webpack: From 0 to automated testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.wayfair.com/2018/12/self-service-hybrid-performance-engineering/&quot;&gt;Our Self-Service Hybrid Performance Engineering Platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/service-mesh-microservices-2018&quot;&gt;Connecting, Managing, Observing, and Securing Services&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">PostgreSQL Connection Pooling and Load Balancing with PgPool-II Cluster (Updated) Improving the Design of Existing Software Testing Android Deep Linking at OpenSooq webpack: From 0 to automated testing Our Self-Service Hybrid Performance Engineering Platform Connecting, Managing, Observing, and Securing Services</summary>
       
 
       
