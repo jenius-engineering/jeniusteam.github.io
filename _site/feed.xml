@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-06-19T06:27:49+00:00</updated>
+  <updated>2019-06-20T11:34:40+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,57 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #197</title>
+      
+      <link href="https://jenius.tech/2019/06/20/engineer-readinglist-197/" rel="alternate" type="text/html" title="Jenius Engineer reading list #197" />
+      <published>2019-06-20T00:00:00+00:00</published>
+      <updated>2019-06-20T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/06/20/engineer-readinglist-197</id>
+      <content type="html" xml:base="https://jenius.tech/2019/06/20/engineer-readinglist-197/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/designing-emotional-interfaces-future/&quot;&gt;Designing Emotional Interfaces Of The Future&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/front-end-performance-optimization&quot;&gt;Fantastic Front-End Performance Tricks &amp;amp; Why We Do Them&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/&quot;&gt;Type-Driven Development – Replacing Unit Tests with Types in Typescript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/discovering-and-classifying-in-app-message-intent-at-airbnb-6a55f5400a0c&quot;&gt;Discovering and Classifying In-app Message Intent at Airbnb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>JeniusTech Engineering</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Designing Emotional Interfaces Of The Future Fantastic Front-End Performance Tricks &amp;amp; Why We Do Them Type-Driven Development – Replacing Unit Tests with Types in Typescript Discovering and Classifying In-app Message Intent at Airbnb</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1023,59 +1074,6 @@
 
       
         <summary type="html">Integration Testing for Memory Leaks MongoDB Engines: MMAPV1 Vs WiredTiger Data Science Project Flow for Startups Basics of Caching Data in GraphQL Apollo React Client Crisis to Calm: Story of Data Validation @ Netflix Hey, you busy? I have thousands of questions to ask you Why VTS is Moving Off of AngularJS</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #177</title>
-      
-      <link href="https://jenius.tech/2019/05/14/engineer-readinglist-177/" rel="alternate" type="text/html" title="Jenius Engineer reading list #177" />
-      <published>2019-05-14T00:00:00+00:00</published>
-      <updated>2019-05-14T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/05/14/engineer-readinglist-177</id>
-      <content type="html" xml:base="https://jenius.tech/2019/05/14/engineer-readinglist-177/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/understanding-how-ime-shapley-values-explains-predictions-d75c0fceca5a&quot;&gt;Understanding how IME (Shapley Values) explains predictions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/how-to-learn-css/&quot;&gt;How To Learn CSS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/&quot;&gt;Tutorial: Advanced Jupyter Notebooks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/reactivity-with-rxjs-force-press-63bfc907f295?source=rss----7f3d96429888---4&quot;&gt;Reactivity with RxJS: force press&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin&quot;&gt;Scaling Machine Learning Productivity at LinkedIn&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/carbon-dual-binary-mobile-app/#utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=carbon-dual-binary-mobile-app&quot;&gt;How to Ship an App Rewrite Without Risking Your Entire Business&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Understanding how IME (Shapley Values) explains predictions How To Learn CSS Tutorial: Advanced Jupyter Notebooks Reactivity with RxJS: force press Scaling Machine Learning Productivity at LinkedIn How to Ship an App Rewrite Without Risking Your Entire Business</summary>
       
 
       
