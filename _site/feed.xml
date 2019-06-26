@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-06-25T12:55:18+00:00</updated>
+  <updated>2019-06-26T06:18:20+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -28,6 +28,62 @@
   
     <entry>
       
+      <title type="html">Jenius Engineer reading list #200</title>
+      
+      <link href="http://localhost:4000/2019/06/26/engineer-readinglist-200/" rel="alternate" type="text/html" title="Jenius Engineer reading list #200" />
+      <published>2019-06-26T00:00:00+00:00</published>
+      <updated>2019-06-26T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/06/26/engineer-readinglist-200</id>
+      <content type="html" xml:base="http://localhost:4000/2019/06/26/engineer-readinglist-200/">&lt;p&gt;whoa! edisi ke-200 :tada:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/microservices-bdd-interface-oriented/&quot;&gt;Developing Microservices with Behavior Driven Development and Interface Oriented Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nebulab.it/blog/actioncable-vs-anycable-fight/&quot;&gt;Action Cable vs AnyCable: fight! &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.shopify.com/blogs/engineering/how-shopify-uses-recommender-systems-to-empower-entrepreneurs&quot;&gt;How Shopify Uses Recommender Systems to Empower Entrepreneurs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/blog/2019/02/04/putting-users-and-publishers-at-the-center-of-the-online-value-exchange/&quot;&gt;Putting Users and Publishers at the Center of the Online Value Exchange&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/derailed/k9s&quot;&gt;K9s – 🐶 Kubernetes CLI To Manage Your Clusters In Style!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rieckpil/30-minutes-every-day-for-your-craft-committing-code-to-github-for-365-consecutive-days-eec8b73b5105&quot;&gt;30 minutes every day for your craft: Committing code to GitHub for 365 consecutive days&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cssreference.io/&quot;&gt;CSS Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>JeniusTech Engineering</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">whoa! edisi ke-200 :tada: Developing Microservices with Behavior Driven Development and Interface Oriented Design Action Cable vs AnyCable: fight! How Shopify Uses Recommender Systems to Empower Entrepreneurs Putting Users and Publishers at the Center of the Online Value Exchange K9s – 🐶 Kubernetes CLI To Manage Your Clusters In Style! 30 minutes every day for your craft: Committing code to GitHub for 365 consecutive days CSS Reference</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">GraphQL: The Documentary</title>
       
       <link href="http://localhost:4000/2019/06/25/graphql-documentary/" rel="alternate" type="text/html" title="GraphQL: The Documentary" />
@@ -38,7 +94,7 @@
 
 &lt;p&gt;Di Jenius, sebagai digital bank terdepan, bahkan didalam pengadopsian teknologi, Jenius mengadopsi teknologi &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; ini lumayan lama, GraphQL digunakan di Jenius untuk komunikasi antara aplikasi client (&lt;a href=&quot;https://apps.apple.com/id/app/jenius/id1079340119&quot;&gt;iOS&lt;/a&gt;, &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.btpn.dc&amp;amp;hl=en&quot;&gt;Android&lt;/a&gt;, &lt;a href=&quot;https://2secure.jenius.co.id/&quot;&gt;web&lt;/a&gt;) ke backend.&lt;/p&gt;
 
-&lt;p&gt;Dokumenter ini bercerita tentang bagaimana GraphQL diciptakan di Facebook, dan perkembangannya hingga sekarang&lt;/p&gt;</content>
+&lt;p&gt;Dokumenter ini bercerita tentang bagaimana GraphQL diciptakan di Facebook, dan perkembangannya hingga sekarang.&lt;/p&gt;</content>
 
       
       
@@ -65,7 +121,7 @@
       
 
       
-        <summary type="html">Di Jenius, sebagai digital bank terdepan, bahkan didalam pengadopsian teknologi, Jenius mengadopsi teknologi GraphQL ini lumayan lama, GraphQL digunakan di Jenius untuk komunikasi antara aplikasi client (iOS, Android, web) ke backend. Dokumenter ini bercerita tentang bagaimana GraphQL diciptakan di Facebook, dan perkembangannya hingga sekarang</summary>
+        <summary type="html">Di Jenius, sebagai digital bank terdepan, bahkan didalam pengadopsian teknologi, Jenius mengadopsi teknologi GraphQL ini lumayan lama, GraphQL digunakan di Jenius untuk komunikasi antara aplikasi client (iOS, Android, web) ke backend. Dokumenter ini bercerita tentang bagaimana GraphQL diciptakan di Facebook, dan perkembangannya hingga sekarang.</summary>
       
 
       
@@ -1016,59 +1072,6 @@
 
       
         <summary type="html">Exploring Distributed System Theory: Availability and Consistency Better understanding of Android accessibility for blind people Designing resilient systems: Circuit Breakers or Retries? (Part 2) Progressive Web Apps, UX and Engagement The Case of the Hidden Mongo Data The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study Lessons Learned Building Distributed Systems with CQRS and Event Sourcing Impress your colleagues with these NPM tricks</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #181</title>
-      
-      <link href="http://localhost:4000/2019/05/22/engineer-readinglist-181/" rel="alternate" type="text/html" title="Jenius Engineer reading list #181" />
-      <published>2019-05-22T00:00:00+00:00</published>
-      <updated>2019-05-22T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/05/22/engineer-readinglist-181</id>
-      <content type="html" xml:base="http://localhost:4000/2019/05/22/engineer-readinglist-181/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/&quot;&gt;Courier: Dropbox migration to gRPC&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/should-you-build-an-api-gateway-in-house/&quot;&gt;Should You Build An API Gateway In-House?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/a-deep-dive-into-data-quality-c1d1ee576046&quot;&gt;A Deep Dive Into Data Quality&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/industrial-document-classification-with-deep-learning/&quot;&gt;Industrial document classification with Deep Learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/&quot;&gt;Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/pointlessly-writing-redux-in-lua-b64894e8ede5&quot;&gt;Redux on an ESP8266&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Courier: Dropbox migration to gRPC Should You Build An API Gateway In-House? A Deep Dive Into Data Quality Industrial document classification with Deep Learning Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word] Redux on an ESP8266</summary>
       
 
       
