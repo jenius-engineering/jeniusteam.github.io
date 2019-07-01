@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-06-26T06:22:27+00:00</updated>
+  <updated>2019-07-01T09:57:59+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,164 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #203</title>
+      
+      <link href="https://jenius.tech/2019/07/01/engineer-readinglist-203/" rel="alternate" type="text/html" title="Jenius Engineer reading list #203" />
+      <published>2019-07-01T00:00:00+00:00</published>
+      <updated>2019-07-01T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/07/01/engineer-readinglist-203</id>
+      <content type="html" xml:base="https://jenius.tech/2019/07/01/engineer-readinglist-203/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/kubernetes-yaml/&quot;&gt;Dissecting Kubernetes (K8s) - An Intro to Main Components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.appsignal.com/2019/02/26/diving-into-dup-and-clone.html&quot;&gt;Diving into Ruby’s #dup and #clone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/aresdb/&quot;&gt;Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/auditing-containers-with-osquery-389636f8c420&quot;&gt;Auditing containers with osquery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://andycroll.com/ruby/secure-your-staging-environment-with-basic-auth/&quot;&gt;Secure Your Rails Staging Environment with HTTP Basic Authentication&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/parallel-programming-and-developing-fast-solutions-for-your-slow-programs-using-threads-585708c1e533&quot;&gt;Parallel programming and developing fast solutions for your slow programs using threads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Dissecting Kubernetes (K8s) - An Intro to Main Components Diving into Ruby’s #dup and #clone Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine Auditing containers with osquery Secure Your Rails Staging Environment with HTTP Basic Authentication Parallel programming and developing fast solutions for your slow programs using threads</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #202</title>
+      
+      <link href="https://jenius.tech/2019/06/28/engineer-readinglist-202/" rel="alternate" type="text/html" title="Jenius Engineer reading list #202" />
+      <published>2019-06-28T00:00:00+00:00</published>
+      <updated>2019-06-28T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/06/28/engineer-readinglist-202</id>
+      <content type="html" xml:base="https://jenius.tech/2019/06/28/engineer-readinglist-202/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/be-creative-with-midway-mock-3e0e0c2d1524&quot;&gt;Be creative with Midway mock&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2019/1/28/a-hybrid-cloud-approach-from-fraudguardio-that-handles-50m-r.html&quot;&gt;A Hybrid Cloud Approach from FraudGuard.io that Handles 50M Requests a Day&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.just-eat.com/2019/01/28/ltdd/&quot;&gt;Building Stable Systems with Load-Test Driven Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/distributed-pki-development-and-use-cases-a828287a2e67&quot;&gt;Distributed PKI: Development and Use Cases&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/debugging-year-old-sprockets-bug&quot;&gt;Debugging in Ruby—Busting a Year-old Bug in Sprockets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/nholden/how-i-replaced-a-rails-app-with-a-few-dozen-lines-of-ruby-3l1m&quot;&gt;How I replaced a Rails app with a few dozen lines of Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Be creative with Midway mock A Hybrid Cloud Approach from FraudGuard.io that Handles 50M Requests a Day Building Stable Systems with Load-Test Driven Development Distributed PKI: Development and Use Cases Debugging in Ruby—Busting a Year-old Bug in Sprockets How I replaced a Rails app with a few dozen lines of Ruby</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #201</title>
+      
+      <link href="https://jenius.tech/2019/06/27/engineer-readinglist-201/" rel="alternate" type="text/html" title="Jenius Engineer reading list #201" />
+      <published>2019-06-27T00:00:00+00:00</published>
+      <updated>2019-06-27T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/06/27/engineer-readinglist-201</id>
+      <content type="html" xml:base="https://jenius.tech/2019/06/27/engineer-readinglist-201/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/type-system-typescript-flow-graphql/&quot;&gt;Learning to Love Type Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/applied-behavioral-science-at-scale/&quot;&gt;How Uber Leverages Applied Behavioral Science at Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/api-based-platforms-product-managers/&quot;&gt;Understanding API-Based Platforms: A Guide For Product Managers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/rolling-our-own-medium-style-wysiwyg-c10fda0e5699&quot;&gt;Rolling our own Medium-style WYSIWYG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ruby-toolbox.com/blog/2019-02-25/historical-gem-download-charts&quot;&gt;Historical Rubygem Download Charts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Learning to Love Type Systems How Uber Leverages Applied Behavioral Science at Scale Understanding API-Based Platforms: A Guide For Product Managers Rolling our own Medium-style WYSIWYG Historical Rubygem Download Charts</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -907,171 +1065,6 @@
 
       
         <summary type="html">Podman: Managing pods and containers in a local container runtime Managing Secrets in Kubernetes With Jetpack, Android Development Has Leapfrogged iOS Using Git Bisect To Find Bugs Common api mistakes and how to avoid them</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #184</title>
-      
-      <link href="https://jenius.tech/2019/05/27/engineer-readinglist-184/" rel="alternate" type="text/html" title="Jenius Engineer reading list #184" />
-      <published>2019-05-27T00:00:00+00:00</published>
-      <updated>2019-05-27T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/05/27/engineer-readinglist-184</id>
-      <content type="html" xml:base="https://jenius.tech/2019/05/27/engineer-readinglist-184/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/reverse-engineering-observable-4069f3853139&quot;&gt; Reverse engineering Observable&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/nvme-cache&quot;&gt;Caching Beyond RAM: The Case for NVMe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/why-and-how-we-built-a-temporal-database-system-called-sirixdb-open-source-from-scratch-a7446f56f201&quot;&gt;Pushing Database Versioning to Its Limits by Means of a Novel Sliding Snapshot Algorithm and Efficient Time Travel Queries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://security.googleblog.com/2019/01/pha-family-highlights-zen-and-its.html&quot;&gt;PHA Family Highlights: Zen and its cousins&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/modern-operating-systems&quot;&gt;The Operating System in 2018&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Reverse engineering Observable Caching Beyond RAM: The Case for NVMe Pushing Database Versioning to Its Limits by Means of a Novel Sliding Snapshot Algorithm and Efficient Time Travel Queries PHA Family Highlights: Zen and its cousins The Operating System in 2018</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #183</title>
-      
-      <link href="https://jenius.tech/2019/05/24/engineer-readinglist-183/" rel="alternate" type="text/html" title="Jenius Engineer reading list #183" />
-      <published>2019-05-24T00:00:00+00:00</published>
-      <updated>2019-05-24T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/05/24/engineer-readinglist-183</id>
-      <content type="html" xml:base="https://jenius.tech/2019/05/24/engineer-readinglist-183/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/tlakomy/7-years-as-a-developer-lessons-learned-29ic&quot;&gt;7 years as a developer - lessons learned &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/using-animation-worklet-4a3914c19112?source=rss----7f3d96429888---4&quot;&gt;Using Animation Worklet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/&quot;&gt;Designing the Flexbox Inspector&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/ronsoak/the-lies-and-lack-of-self-respect-that-lead-to-burnout-5007&quot;&gt;The lies and lack of self respect that lead to burnout &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2019/01/divide-encode-1/&quot;&gt;Divide &amp;amp; Encode: How to Encode Videos Blazingly Fast&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb&quot;&gt;Impress your colleagues with these NPM tricks &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/websockets-api-gateway-9d4aca493d39?source=rss----3a8144eabfe3---4&quot;&gt;WebSockets &amp;amp; API Gateway&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/introducing-thirdeye--linkedins-business-wide-monitoring-platfor&quot;&gt;Introducing ThirdEye: LinkedIn’s Business-Wide Monitoring Platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/atari-zoo-deep-reinforcement-learning/&quot;&gt;Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb?source=rss----7f3d96429888---4&quot;&gt;New horizons in CSS: Houdini and the Paint API&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.viget.com/articles/using-arkit-and-image-tracking/&quot;&gt;Using ARKit and Image Tracking to Augment a Postcard&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">7 years as a developer - lessons learned Using Animation Worklet Designing the Flexbox Inspector The lies and lack of self respect that lead to burnout Divide &amp;amp; Encode: How to Encode Videos Blazingly Fast Impress your colleagues with these NPM tricks WebSockets &amp;amp; API Gateway Introducing ThirdEye: LinkedIn’s Business-Wide Monitoring Platform Creating a Zoo of Atari-Playing Agents to Catalyze the Understanding of Deep Reinforcement Learning New horizons in CSS: Houdini and the Paint API Using ARKit and Image Tracking to Augment a Postcard</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #182</title>
-      
-      <link href="https://jenius.tech/2019/05/23/engineer-readinglist-182/" rel="alternate" type="text/html" title="Jenius Engineer reading list #182" />
-      <published>2019-05-23T00:00:00+00:00</published>
-      <updated>2019-05-23T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/05/23/engineer-readinglist-182</id>
-      <content type="html" xml:base="https://jenius.tech/2019/05/23/engineer-readinglist-182/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/exploring-distributed-system-theory-availability-and-consistency-e8c59e0875cd&quot;&gt;Exploring Distributed System Theory: Availability and Consistency&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/better-understanding-of-android-accessibility-for-blind-people/&quot;&gt;Better understanding of Android accessibility for blind people&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/designing-resilient-systems-part-2&quot;&gt;Designing resilient systems: Circuit Breakers or Retries? (Part 2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/progressive-web-apps-ux-and-engagement-96aca0025580&quot;&gt;Progressive Web Apps, UX and Engagement&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.vena.io/2019/01/08/the-case-of-the-hidden-mongo-data/&quot;&gt;The Case of the Hidden Mongo Data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shopifyengineering.myshopify.com/blogs/engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study&quot;&gt;The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/lessons-ive-learned-building-distributed-systems-with-cqrs-and-event-sourcing-ece284ecc1a1&quot;&gt;Lessons Learned Building Distributed Systems with CQRS and Event Sourcing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb&quot;&gt;Impress your colleagues with these NPM tricks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Exploring Distributed System Theory: Availability and Consistency Better understanding of Android accessibility for blind people Designing resilient systems: Circuit Breakers or Retries? (Part 2) Progressive Web Apps, UX and Engagement The Case of the Hidden Mongo Data The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study Lessons Learned Building Distributed Systems with CQRS and Event Sourcing Impress your colleagues with these NPM tricks</summary>
       
 
       
