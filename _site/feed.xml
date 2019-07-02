@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
   
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-07-01T09:57:59+00:00</updated>
+  <updated>2019-07-02T03:46:30+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,60 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #204</title>
+      
+      <link href="https://jenius.tech/2019/07/02/engineer-readinglist-204/" rel="alternate" type="text/html" title="Jenius Engineer reading list #204" />
+      <published>2019-07-02T00:00:00+00:00</published>
+      <updated>2019-07-02T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/07/02/engineer-readinglist-204</id>
+      <content type="html" xml:base="https://jenius.tech/2019/07/02/engineer-readinglist-204/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/ux/ux-trends-2018&quot;&gt;UX Trends 2018: A Retrospective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://99designs.com/blog/inside-99designs/engineering-managers-guide-to-rebranding/&quot;&gt;An engineering manager’s guide to rebranding &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codewithjason.com/write-characterization-tests/&quot;&gt;How I write characterization tests&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/managing-distributed-tasks-with-helix-task-framework&quot;&gt;Managing Distributed Tasks with Helix Task Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/faster-and-lighter-moving-ad-tech-server-side-ef4bd6d2f2eb&quot;&gt;Faster and Lighter: Moving Ad Tech Server-Side&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/http-3-from-root-to-tip/&quot;&gt;HTTP/3: From root to tip&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/devops/state-devops-europe-how-become-devops-determined&quot;&gt;The state of DevOps in Europe: How to become ‘DevOps Determined’&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">UX Trends 2018: A Retrospective An engineering manager’s guide to rebranding How I write characterization tests Managing Distributed Tasks with Helix Task Framework Faster and Lighter: Moving Ad Tech Server-Side HTTP/3: From root to tip The state of DevOps in Europe: How to become ‘DevOps Determined’</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1013,58 +1067,6 @@
 
       
         <summary type="html">TLS Fingerprinting with JA3 and JA3S Porting 30K Lines of Code from Flow to TypeScript Augmented Reality and the Browser — An App Experiment iOS Application Testing Strategies at Shopify Interpretable Machine learning : Part I</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #185</title>
-      
-      <link href="https://jenius.tech/2019/05/28/engineer-readinglist-185/" rel="alternate" type="text/html" title="Jenius Engineer reading list #185" />
-      <published>2019-05-28T00:00:00+00:00</published>
-      <updated>2019-05-28T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/05/28/engineer-readinglist-185</id>
-      <content type="html" xml:base="https://jenius.tech/2019/05/28/engineer-readinglist-185/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.redhat.com/blog/2019/01/15/podman-managing-containers-pods/&quot;&gt;Podman: Managing pods and containers in a local container runtime&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/managing-secrets-in-kubernetes&quot;&gt;Managing Secrets in Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://spin.atomicobject.com/2019/01/14/android-vs-ios-development/&quot;&gt;With Jetpack, Android Development Has Leapfrogged iOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://americanexpress.io/git-bisect/&quot;&gt;Using Git Bisect To Find Bugs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/common-api-mistakes-and-how-to-avoid-them-804fbcb9cc4b&quot;&gt;Common api mistakes and how to avoid them&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Podman: Managing pods and containers in a local container runtime Managing Secrets in Kubernetes With Jetpack, Android Development Has Leapfrogged iOS Using Git Bisect To Find Bugs Common api mistakes and how to avoid them</summary>
       
 
       

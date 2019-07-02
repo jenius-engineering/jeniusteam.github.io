@@ -311,7 +311,7 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># lakukan ini HANYA di master</span>
 <span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">mkdir</span> <span class="nt">-p</span> <span class="nv">$HOME</span>/.kube
 <span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo cp</span> <span class="nt">-i</span> /etc/kubernetes/admin.conf <span class="nv">$HOME</span>/.kube/config
-<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo chown</span> <span class="k">$(</span><span class="nb">id</span> <span class="nt">-u</span><span class="k">)</span>:<span class="k">$(</span><span class="nb">id</span> <span class="nt">-g</span><span class="k">)</span> <span class="nv">$HOME</span>/.kube/config
+<span class="o">[</span>vagrant@master ~]<span class="nv">$ </span><span class="nb">sudo chown</span> <span class="si">$(</span><span class="nb">id</span> <span class="nt">-u</span><span class="si">)</span>:<span class="si">$(</span><span class="nb">id</span> <span class="nt">-g</span><span class="si">)</span> <span class="nv">$HOME</span>/.kube/config
 </code></pre></div></div>
 <p>Seperti yang kita sebutkan sebelumnya, kita menggunakan <code class="highlighter-rouge">flannel</code>, untuk itu kita akan mendeploy <code class="highlighter-rouge">flannel</code> di master node kita.</p>
 

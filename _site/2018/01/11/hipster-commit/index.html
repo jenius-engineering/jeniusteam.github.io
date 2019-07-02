@@ -169,9 +169,9 @@
 
 </span><span class="nv">FILENAME</span><span class="o">=</span><span class="s1">''</span>
 <span class="k">if </span><span class="nb">command</span> <span class="nt">-v</span> git rev-parse HEAD  <span class="o">&gt;</span> /dev/null<span class="p">;</span> <span class="k">then
-    </span><span class="nv">FILENAME</span><span class="o">=</span><span class="k">$(</span><span class="nb">date</span> +%Y-%m-%d-%H-%M-%s<span class="k">)</span>_FIRST
+    </span><span class="nv">FILENAME</span><span class="o">=</span><span class="si">$(</span><span class="nb">date</span> +%Y-%m-%d-%H-%M-%s<span class="si">)</span>_FIRST
 <span class="k">else
-    </span><span class="nv">FILENAME</span><span class="o">=</span><span class="k">$(</span><span class="nb">date</span> +%Y-%m-%d-%H-%M-%S<span class="k">)</span>_<span class="k">$(</span>git rev-parse HEAD<span class="k">)</span>
+    </span><span class="nv">FILENAME</span><span class="o">=</span><span class="si">$(</span><span class="nb">date</span> +%Y-%m-%d-%H-%M-%S<span class="si">)</span>_<span class="si">$(</span>git rev-parse HEAD<span class="si">)</span>
 <span class="k">fi</span>
 <span class="c">### take a selfie!</span>
 <span class="nb">printf</span> <span class="s2">"📸  trying to take your awesome selfie..... 📸</span><span class="se">\n</span><span class="s2">"</span>
