@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-07-03T04:42:32+00:00</updated>
+  <updated>2019-07-09T06:06:43+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,224 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #209</title>
+      
+      <link href="https://jenius.tech/2019/07/09/engineer-readinglist-209/" rel="alternate" type="text/html" title="Jenius Engineer reading list #209" />
+      <published>2019-07-09T00:00:00+00:00</published>
+      <updated>2019-07-09T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/07/09/engineer-readinglist-209</id>
+      <content type="html" xml:base="https://jenius.tech/2019/07/09/engineer-readinglist-209/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2019/02/01/meshify-and-scylla-an-industrial-strength-iot-solution/&quot;&gt;Meshify and Scylla: an Industrial-Strength IoT Solution&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeascraft.com/2019/02/01/executing-a-sunset/&quot;&gt;Executing a Sunset&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cockroachlabs.com/blog/vectorized-hash-joiner/&quot;&gt;40x faster hash joiner with vectorized execution&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2019/01/31/the-curious-case-of-disappeared-buses.html&quot;&gt;The curious case of disappearing buses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sourced.tech/post/formatting-with-style/&quot;&gt;Formatting. With style.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.semantics3.com/blog/how-we-do-data-qa-semantics3-processes-humans-in-the-loop-part-2/&quot;&gt;How we do Data QA @ Semantics3: Processes &amp;amp; Humans-in-the-Loop (Part 2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Meshify and Scylla: an Industrial-Strength IoT Solution Executing a Sunset 40x faster hash joiner with vectorized execution The curious case of disappearing buses Formatting. With style. How we do Data QA @ Semantics3: Processes &amp;amp; Humans-in-the-Loop (Part 2)</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #208</title>
+      
+      <link href="https://jenius.tech/2019/07/08/engineer-readinglist-208/" rel="alternate" type="text/html" title="Jenius Engineer reading list #208" />
+      <published>2019-07-08T00:00:00+00:00</published>
+      <updated>2019-07-08T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/07/08/engineer-readinglist-208</id>
+      <content type="html" xml:base="https://jenius.tech/2019/07/08/engineer-readinglist-208/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/ios-performance-tricks-apps/&quot;&gt;iOS Performance Tricks To Make Your App Feel More Performant&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/engineering-to-scale-paid-media-campaigns-84ba018fb3fa&quot;&gt;Engineering to Improve Marketing Effectiveness (Part 3) — Scaling Paid Media campaigns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/beginners-perspective-kafka-streams-building-real-time-walkthrough-detection&quot;&gt;A Beginner’s Perspective on Kafka Streams: Building Real-Time Walkthrough Detection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46&quot;&gt;Detecting Performance Anomalies in External Firmware Deployments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/overcoming-restlessness/&quot;&gt;Overcoming RESTlessness&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/debug-nodejs-dependencies-51eb40f484ec&quot;&gt;Debug Node.js Dependencies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/asymmetric-cryptography-in-blockchains-d1a4c1654a71&quot;&gt;Asymmetric Cryptography In Blockchains&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">iOS Performance Tricks To Make Your App Feel More Performant Engineering to Improve Marketing Effectiveness (Part 3) — Scaling Paid Media campaigns A Beginner’s Perspective on Kafka Streams: Building Real-Time Walkthrough Detection Detecting Performance Anomalies in External Firmware Deployments Overcoming RESTlessness Debug Node.js Dependencies Asymmetric Cryptography In Blockchains</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #207</title>
+      
+      <link href="https://jenius.tech/2019/07/05/engineer-readinglist-207/" rel="alternate" type="text/html" title="Jenius Engineer reading list #207" />
+      <published>2019-07-05T00:00:00+00:00</published>
+      <updated>2019-07-05T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/07/05/engineer-readinglist-207</id>
+      <content type="html" xml:base="https://jenius.tech/2019/07/05/engineer-readinglist-207/">&lt;p&gt;Selamat berakhir pekan!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/un-safe-any-speed-rethinking-scale-agility-sam-mcafee&quot;&gt;Un-SAFe At Any Speed: Rethinking Scale and Agility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/01/bridging-offline-and-nearline-computations-with-apache-calcite&quot;&gt;Bridging Offline and Nearline Computations with Apache Calcite&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/trimstray/nginx-admins-handbook&quot;&gt;nginx-admins-handbook – How to improve NGINX performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a&quot;&gt;Contextualizing Airbnb by Building Knowledge Graph&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2019/01/29/from-tslint-to-eslint/&quot;&gt;From TSLint to ESLint, or How I Learned to Lint GraphQL Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/building-a-scalable-event-pipeline-with-heroku-and-salesforce-2549cb20ce06&quot;&gt;Building a Scalable Event Pipeline with Heroku and Salesforce&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything&quot;&gt;Journey to Event Driven – Part 1: Why Event-First Thinking Changes Everything&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2019/02/05/improving-stream-data-quality-with-protobuf-schema-validation.html&quot;&gt;Improving Stream Data Quality With Protobuf Schema Validation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Selamat berakhir pekan! Un-SAFe At Any Speed: Rethinking Scale and Agility Bridging Offline and Nearline Computations with Apache Calcite nginx-admins-handbook – How to improve NGINX performance Contextualizing Airbnb by Building Knowledge Graph From TSLint to ESLint, or How I Learned to Lint GraphQL Code Building a Scalable Event Pipeline with Heroku and Salesforce Journey to Event Driven – Part 1: Why Event-First Thinking Changes Everything Improving Stream Data Quality With Protobuf Schema Validation</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #206</title>
+      
+      <link href="https://jenius.tech/2019/07/04/engineer-readinglist-206/" rel="alternate" type="text/html" title="Jenius Engineer reading list #206" />
+      <published>2019-07-04T00:00:00+00:00</published>
+      <updated>2019-07-04T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/07/04/engineer-readinglist-206</id>
+      <content type="html" xml:base="https://jenius.tech/2019/07/04/engineer-readinglist-206/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/api-gateways-are-going-through-an-identity-crisis-e5dc3a5ab6d4&quot;&gt;API Gateways are going through an identity crisis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/arp242/hello-css&quot;&gt;hello-css - A CSS template focused on readability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/&quot;&gt;Finding Kafka’s throughput limit in Dropbox infrastructure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/myntra-engineering/how-to-build-a-technology-platform-5d0b0fc92af1&quot;&gt;How to build a technology platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/streamlining-frontend-as-a-service-for-backend-teams-69d9223efcec&quot;&gt;Streamlining Frontend-as-a-Service for Backend Teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pomber/git-history&quot;&gt;git-history – Quickly browse the history of a file from any git repository&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stylelint.io/&quot;&gt;stylelint – A mighty, modern linter for css/no-css&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">API Gateways are going through an identity crisis hello-css - A CSS template focused on readability Finding Kafka’s throughput limit in Dropbox infrastructure How to build a technology platform Streamlining Frontend-as-a-Service for Backend Teams git-history – Quickly browse the history of a file from any git repository stylelint – A mighty, modern linter for css/no-css</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -855,219 +1073,6 @@
 
       
         <summary type="html">Introducing: @pika/pack npm package building, reimagined React as a UI Runtime How We Use Trello to Help Us Onboard Our New Employees Working with GraphQL using Vanilla JS Analyzing twitch chat during a pokémon marathon Introducing Templates: A way to share your Serverless Functions with the Community</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #190</title>
-      
-      <link href="https://jenius.tech/2019/06/11/engineer-readinglist-190/" rel="alternate" type="text/html" title="Jenius Engineer reading list #190" />
-      <published>2019-06-11T00:00:00+00:00</published>
-      <updated>2019-06-11T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/06/11/engineer-readinglist-190</id>
-      <content type="html" xml:base="https://jenius.tech/2019/06/11/engineer-readinglist-190/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/why-architectural-diagrams/&quot;&gt;Why Do We Need Architectural Diagrams?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/microsoft-tfs-azure-devops&quot;&gt;Journey to Cloud Architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rewind.io/blog/feature-flagging-in-ruby-using-eightball/&quot;&gt;Feature Flagging in Ruby Using EightBall&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10?source=rss----7f3d96429888---4&quot;&gt;Node.js multithreading: What are Worker Threads and why do they matter?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/performance-analysis-of-linux-kernel-library-user-space-tcp-stack-be75fb198730&quot;&gt;Performance Analysis of Linux Kernel Library User-Space Tcp Stack Go to the profile of Aditya Kamath&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Why Do We Need Architectural Diagrams? Journey to Cloud Architecture Feature Flagging in Ruby Using EightBall Node.js multithreading: What are Worker Threads and why do they matter? Performance Analysis of Linux Kernel Library User-Space Tcp Stack Go to the profile of Aditya Kamath</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #189</title>
-      
-      <link href="https://jenius.tech/2019/06/10/engineer-readinglist-189/" rel="alternate" type="text/html" title="Jenius Engineer reading list #189" />
-      <published>2019-06-10T00:00:00+00:00</published>
-      <updated>2019-06-10T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/06/10/engineer-readinglist-189</id>
-      <content type="html" xml:base="https://jenius.tech/2019/06/10/engineer-readinglist-189/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/octos-vision-on-the-service-mesh-radiography-of-the-service-mesh/&quot;&gt;OCTO’s vision on the Service Mesh: radiography of the Service Mesh&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@octoz/thoughts-about-scaled-agile-frameworks-and-why-they-are-useless-bfdf29f968af&quot;&gt;Thoughts about scaled agile frameworks and why they are useless&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/experimentation-platform-data-pipeline&quot;&gt;A Lean and Scalable Data Pipeline To Capture Large Scale Events and Support Experimentation Platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/empowering-data-science-with-data-engineering-education-ef2acabd3042&quot;&gt;Empowering Data Science with Engineering Education&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2019/1/8/mysql-high-availability-framework-explained-part-ii.html&quot;&gt;MySQL High Availability Framework Explained – Part II&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">OCTO’s vision on the Service Mesh: radiography of the Service Mesh Thoughts about scaled agile frameworks and why they are useless A Lean and Scalable Data Pipeline To Capture Large Scale Events and Support Experimentation Platform Empowering Data Science with Engineering Education MySQL High Availability Framework Explained – Part II</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #188</title>
-      
-      <link href="https://jenius.tech/2019/06/03/engineer-readinglist-188/" rel="alternate" type="text/html" title="Jenius Engineer reading list #188" />
-      <published>2019-06-03T00:00:00+00:00</published>
-      <updated>2019-06-03T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/06/03/engineer-readinglist-188</id>
-      <content type="html" xml:base="https://jenius.tech/2019/06/03/engineer-readinglist-188/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/&quot;&gt;Why we built CockroachDB on top of RocksDB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/patient-care-stream-processing/&quot;&gt;Increasing the Quality of Patient Care through Stream Processing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://rockthecode.io/blog/distributed-application-using-raft/&quot;&gt;Application Scaling with Raft&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2019/01/17/using-parallel-query-with-amazon-aurora-for-mysql/&quot;&gt;Using Parallel Query with Amazon Aurora for MySQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb&quot;&gt;Avoiding Double Payments in a Distributed Payments System&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Why we built CockroachDB on top of RocksDB Increasing the Quality of Patient Care through Stream Processing Application Scaling with Raft Using Parallel Query with Amazon Aurora for MySQL Avoiding Double Payments in a Distributed Payments System</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #187</title>
-      
-      <link href="https://jenius.tech/2019/05/31/engineer-readinglist-187/" rel="alternate" type="text/html" title="Jenius Engineer reading list #187" />
-      <published>2019-05-31T00:00:00+00:00</published>
-      <updated>2019-05-31T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/05/31/engineer-readinglist-187</id>
-      <content type="html" xml:base="https://jenius.tech/2019/05/31/engineer-readinglist-187/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/&quot;&gt;GraphQL: Union vs. Interface&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/how-to-limit-front-end-bugs-27d5648dd3ee?source=rss----7f3d96429888---4&quot;&gt;How to limit front-end bugs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript&quot;&gt;The History (and Future) of Asynchronous JavaScript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.com/demystifying-radix-trees/&quot;&gt;How Radix trees made blocking IPs 5000 times faster&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linecorp.com/en/blog/overview-of-2018-language-models/&quot;&gt;An overview of 2018 language models&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2019/01/rearchitecture-system-success/&quot;&gt;An Incremental Architecture Approach to Building Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html&quot;&gt;Migrating Kafka’s Zookeeper With No Downtime&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/&quot;&gt;Automating Datacenter Operations at Dropbox&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/why-are-we-getting-streams-in-redis-8c36498aaac5?source=rss----7f3d96429888---4&quot;&gt;Why are we getting Streams in Redis?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.com/engineering/why-would-webpack-stop-re-compiling-the-quest-for-micro-apps/&quot;&gt;Why Would Webpack Stop Re-compiling? (The Quest for Micro-Apps)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">GraphQL: Union vs. Interface How to limit front-end bugs The History (and Future) of Asynchronous JavaScript How Radix trees made blocking IPs 5000 times faster An overview of 2018 language models An Incremental Architecture Approach to Building Systems Migrating Kafka’s Zookeeper With No Downtime Automating Datacenter Operations at Dropbox Why are we getting Streams in Redis? Why Would Webpack Stop Re-compiling? (The Quest for Micro-Apps)</summary>
       
 
       
