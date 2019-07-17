@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-07-16T04:44:16+00:00</updated>
+  <updated>2019-07-17T04:33:11+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,58 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #215</title>
+      
+      <link href="https://jenius.tech/2019/07/17/engineer-readinglist-215/" rel="alternate" type="text/html" title="Jenius Engineer reading list #215" />
+      <published>2019-07-17T00:00:00+00:00</published>
+      <updated>2019-07-17T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/07/17/engineer-readinglist-215</id>
+      <content type="html" xml:base="https://jenius.tech/2019/07/17/engineer-readinglist-215/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/security-metrics-that-actually-matter-in-a-devops-world/&quot;&gt;Security Metrics that Actually Matter in a DevOps World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sdtimes.com/test/a-guide-to-continuous-testing-tools/&quot;&gt;A guide to continuous testing tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://elementsofprogramming.com/&quot;&gt;Elements of Programming – &lt;em&gt;free&lt;/em&gt; &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.softwaremill.com/autoscaling-kafka-streams-applications-with-kubernetes-9aed2e37d3a0?gi=5c72db3c9281&quot;&gt;Autoscaling Kafka Streams applications with Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://huseyinpolatyuruk.com/2019/05/03/the-most-important-skill-a-programmer-can-learn/&quot;&gt;The Most Important Skill a Programmer Can Learn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Security Metrics that Actually Matter in a DevOps World A guide to continuous testing tools Elements of Programming – free Autoscaling Kafka Streams applications with Kubernetes The Most Important Skill a Programmer Can Learn</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1025,57 +1077,6 @@
 
       
         <summary type="html">Designing Emotional Interfaces Of The Future Fantastic Front-End Performance Tricks &amp;amp; Why We Do Them Type-Driven Development – Replacing Unit Tests with Types in Typescript Discovering and Classifying In-app Message Intent at Airbnb</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #196</title>
-      
-      <link href="https://jenius.tech/2019/06/19/engineer-readinglist-196/" rel="alternate" type="text/html" title="Jenius Engineer reading list #196" />
-      <published>2019-06-19T00:00:00+00:00</published>
-      <updated>2019-06-19T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/06/19/engineer-readinglist-196</id>
-      <content type="html" xml:base="https://jenius.tech/2019/06/19/engineer-readinglist-196/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/info/2019/jan/24/leaving-scribe&quot;&gt;Leaving Scribe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications&quot;&gt;Garbage Collection in Redux Applications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/engineering-uber-lite/&quot;&gt;Expanding Access: Engineering Uber Lite&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/01/the-scalable-fabric-behind-our-growing-data-center-network/&quot;&gt;The scalable fabric behind our growing data center network&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Leaving Scribe Garbage Collection in Redux Applications Expanding Access: Engineering Uber Lite The scalable fabric behind our growing data center network</summary>
       
 
       
