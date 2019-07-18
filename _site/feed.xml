@@ -5,7 +5,7 @@
   
   <link href="https://jenius.tech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jenius.tech/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-07-17T04:33:11+00:00</updated>
+  <updated>2019-07-18T06:55:17+00:00</updated>
   <id>https://jenius.tech//</id>
 
   
@@ -24,6 +24,57 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #216</title>
+      
+      <link href="https://jenius.tech/2019/07/18/engineer-readinglist.216/" rel="alternate" type="text/html" title="Jenius Engineer reading list #216" />
+      <published>2019-07-18T00:00:00+00:00</published>
+      <updated>2019-07-18T00:00:00+00:00</updated>
+      <id>https://jenius.tech/2019/07/18/engineer-readinglist.216</id>
+      <content type="html" xml:base="https://jenius.tech/2019/07/18/engineer-readinglist.216/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lethain.com//head-in-the-clouds/&quot;&gt;Head in the clouds.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.dereferenced.org/federation-what-flows-where-and-why&quot;&gt;Federation – what flows where, and why?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pixelstech.net/article/1562942424-A-simple-example-of-git-bisect-command&quot;&gt;A simple example of git bisect command&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nora.codes/post/what-is-rusts-unsafe/&quot;&gt;What Is Rust’s unsafe?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Head in the clouds. Federation – what flows where, and why? A simple example of git bisect command What Is Rust’s unsafe?</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -1026,57 +1077,6 @@
 
       
         <summary type="html">Infrastructure Development Environment – A docker image that contains the necessary tools for doing Infrastructure Development 8 Ruby frameworks that aren’t Rails Creating Raspberry Pi applications with Raylib and Ruby Enjoy a slice of QUIC, and Rust! Scylla Summit Video: Grab and Scylla Driving Southeast Asia Forward Sail - lightweight Rails engine for admin panel</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #197</title>
-      
-      <link href="https://jenius.tech/2019/06/20/engineer-readinglist-197/" rel="alternate" type="text/html" title="Jenius Engineer reading list #197" />
-      <published>2019-06-20T00:00:00+00:00</published>
-      <updated>2019-06-20T00:00:00+00:00</updated>
-      <id>https://jenius.tech/2019/06/20/engineer-readinglist-197</id>
-      <content type="html" xml:base="https://jenius.tech/2019/06/20/engineer-readinglist-197/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/01/designing-emotional-interfaces-future/&quot;&gt;Designing Emotional Interfaces Of The Future&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/front-end-performance-optimization&quot;&gt;Fantastic Front-End Performance Tricks &amp;amp; Why We Do Them&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/&quot;&gt;Type-Driven Development – Replacing Unit Tests with Types in Typescript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/discovering-and-classifying-in-app-message-intent-at-airbnb-6a55f5400a0c&quot;&gt;Discovering and Classifying In-app Message Intent at Airbnb&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Designing Emotional Interfaces Of The Future Fantastic Front-End Performance Tricks &amp;amp; Why We Do Them Type-Driven Development – Replacing Unit Tests with Types in Typescript Discovering and Classifying In-app Message Intent at Airbnb</summary>
       
 
       
