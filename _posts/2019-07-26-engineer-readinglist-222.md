@@ -12,8 +12,6 @@ categories:
 published: true
 ---
 
-- [Menu (or not)](https://marcus.io/blog/menu-or-not)
-- [Beginner's Guide to Variable Fonts: Part 1](https://www.viget.com/articles/beginners-guide-to-variable-fonts-part-1/)
-- [Beginner's Guide to Variable Fonts: Part 2](https://www.viget.com/articles/beginners-guide-to-variable-fonts-2/)
-- [React + WebAssembly = ❤️](https://changelog.com/jsparty/84)
-- [Learning to Code by Hacking Minecraft](https://medium.com/young-coder/learning-to-code-by-hacking-minecraft-8c3da41e741a)
+- [Babel 7.5.0 Released](https://babeljs.io/blog/2019/07/03/7.5.0)
+- [50 Things You Should Know Before Going to a JavaScript Developer Job Interview](https://medium.com/better-programming/50-thingsyou-should-know-before-going-to-a-javascript-developer-job-interview-b1f1dfbf945c)
+- [The Layout Instability API](https://web.dev/layout-instability-api/)
