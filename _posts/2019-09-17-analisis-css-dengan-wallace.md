@@ -15,6 +15,7 @@ published: true
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (Cascading Style Sheet) sebagai "bahasa" untuk menjadikan halaman web menjadi lebih cantik, saat ini sudah dalan versi 3 (CSS3 ditulisnya), adalah standar yang didukung oleh peramban-peramban (browser) yang mana akan me-render element yang ada di HTML/XML sesuai dengan apa yang kita ingin tampilkan di layar atau media lainnya.
 
 <!-- break -->
+<!-- more -->
 
 CSS dalam web moderen digunakan sebagai modul yang dipakai ketika halaman di*render*, dengan semakin banyaknya *tools* yang digunakan untuk membuat dan merawat kode CSS yang dibuat, kemudian lahir juga CSS *pre-processor* seperti [SASS](https://sass-lang.com/), [LESS](http://lesscss.org/), [Stylus](http://stylus-lang.com/) dan beberapa preprocessor lainnya, dengan tujuan hampir sama, yakni agar CSS lebih bisa modular, dinamis dan lebih ekspresif dibanding dengan menulis CSS biasa.
 
