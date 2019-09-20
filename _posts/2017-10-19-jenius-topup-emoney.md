@@ -73,4 +73,8 @@ Semua bisa dilakukan tanpa perlu anda keluar rumah atau beranjak dari kursi.
 ### update 18 desember 2018
 Saat ini aplikasi *emoney isi ulang* tidak ada di playstore, dan untuk yang sudah terinstal aplikasinya, aplikasi tidak bisa digunakan untuk aktivasi saldo.
 
+### Update 20 September 2019
+Untuk melakukan update saldo, bisa menggunakan aplikasi Tokopedia setelah anda melakukan transfer, lakukan seperti biasa, transfer ke nomer e-money, kemudian tempelkan kartu di smartphone NFC, biasanya aplikasi tokopedia akan popup, kemudian bisa melakukan update saldo otomatis.
+
+
 [^1]:[Kajian Operasional E-Money ](http://www.bi.go.id/id/publikasi/sistem-pembayaran/riset/Documents/4a79ad4a8dbe4ebca2c0f86a5a2f1c69KajianEMoney.pdf)
