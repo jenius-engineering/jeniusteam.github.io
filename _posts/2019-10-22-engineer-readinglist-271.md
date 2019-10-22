@@ -10,6 +10,8 @@ categories:
     - readinglist
     - engineer
 published: true
+canonical: https://jakartadev.org/daily-digest-440/
+
 ---
 
 - [Single-page applications need better auditing](https://blog.sqreen.com/single-page-application-auditing/)

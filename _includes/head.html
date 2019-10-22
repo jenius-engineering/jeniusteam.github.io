@@ -7,7 +7,7 @@
   {% assign title = page.title | default: site.title | escape %}
   {% assign canonical = page.url | replace:'index.html','' | absolute_url %}
   {% assign description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | escape %}
-  {% assign image = page.image | default: page.image | default: site.image | strip_html | normalize_whitespace | escape %}
+  {% assign image = page.image | default: page.image | default: site.image | strip_html | normalize_w{hitespace | escape %}
   <title>{{ title }}</title>
   <meta name="description" content="{{ description | truncate: 200 }}">
   {% if page.keywords %}
@@ -21,7 +21,11 @@
 
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  {% if page.canonical != "" %}
+  <link rel="canonical" href="{{ page.canonical }}">
+  {% else %}
   <link rel="canonical" href="{{ canonical }}">
+  {% endif %}
   <link rel="icon" type="image/png" href="https://assets.jenius.com/assets/themes/jenius/20170608131821/assets/images/favicon.png">
   {% assign feed_path = "/feed.xml" %}
   {% if site.feed and site.feed.path %}
