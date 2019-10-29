@@ -1,6 +1,17 @@
 ---
 layout: post
 title: "Jenius Engineer reading list #275"
+author: "dedenf"
+tags:
+    - news
+    - jenius
+
+categories:
+    - readinglist
+    - engineer
+published: true
+canonical: https://jakartadev.org/daily-digest-444/
+
 ---
 
 - [VMware Tanzu -- Cloud native open source from VMware](https://github.com/vmware-tanzu)
