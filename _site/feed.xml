@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
+  <generator uri="http://jekyllrb.com" version="3.8.6">Jekyll</generator>
   
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-10-22T15:49:21+00:00</updated>
+  <updated>2019-10-31T05:48:36+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -24,6 +24,372 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #277</title>
+      
+      <link href="http://localhost:4000/2019/10/31/engineer-readinglist-278/" rel="alternate" type="text/html" title="Jenius Engineer reading list #277" />
+      <published>2019-10-31T00:00:00+00:00</published>
+      <updated>2019-10-31T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/10/31/engineer-readinglist-278</id>
+      <content type="html" xml:base="http://localhost:4000/2019/10/31/engineer-readinglist-278/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.kubecost.com/blog/requests-and-limits/&quot;&gt;A Practical Guide to Setting Kubernetes Requests and Limits &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://semaphoreci.com/blog/observability-measuring-microservices&quot;&gt;What Is Observability &amp;amp; How to Measure the Quality of Microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.stackrox.com/post/2019/09/5-kubernetes-rbac-mistakes-you-must-avoid/&quot;&gt;5 Kubernetes RBAC Mistakes You Must Avoid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4&quot;&gt;When a rewrite isn’t: rebuilding Slack on the desktop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/accelerating-nifi-flows-delivery-part-1/&quot;&gt;Accelerating NiFi flows delivery: Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudera.com/kafka-replication-the-case-for-mirrormaker-2-0/&quot;&gt;Kafka Replication: The case for MirrorMaker 2.0&lt;/a&gt;, part 2 &lt;a href=&quot;https://blog.cloudera.com/a-look-inside-kafka-mirrormaker-2/&quot;&gt;A look inside Kafka Mirrormaker 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">A Practical Guide to Setting Kubernetes Requests and Limits What Is Observability &amp;amp; How to Measure the Quality of Microservices 5 Kubernetes RBAC Mistakes You Must Avoid When a rewrite isn’t: rebuilding Slack on the desktop Accelerating NiFi flows delivery: Part 1 Kafka Replication: The case for MirrorMaker 2.0, part 2 A look inside Kafka Mirrormaker 2</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #277</title>
+      
+      <link href="http://localhost:4000/2019/10/30/engineer-readinglist-277/" rel="alternate" type="text/html" title="Jenius Engineer reading list #277" />
+      <published>2019-10-30T00:00:00+00:00</published>
+      <updated>2019-10-30T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/10/30/engineer-readinglist-277</id>
+      <content type="html" xml:base="http://localhost:4000/2019/10/30/engineer-readinglist-277/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/how-tcp-segment-size-can-affect-application-traffic-flow-7bbceed5816e&quot;&gt;How TCP segment size can affect application traffic flow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/cruise/container-platform-networking-kubernetes-e888a07407ab&quot;&gt;Container Platform Networking at Cruise&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2019/07/23/Testing-WebSockets-for-beginners.html&quot;&gt;Testing WebSockets for beginners&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/build-streaming-etl-solutions-with-kafka-and-rail-data&quot;&gt;On Track with Apache Kafka – Building a Streaming ETL Solution with Rail Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sugarkube.io/blog/2019-10-16-your-kubernetes-clusters-should-be-ephemeral-too/&quot;&gt;Your Kubernetes clusters should be ephemeral too&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.docker.com/blog/designing-your-first-application-kubernetes-part1/&quot;&gt;Designing Your First App in Kubernetes, Part 1: Getting Started&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">How TCP segment size can affect application traffic flow Container Platform Networking at Cruise Testing WebSockets for beginners On Track with Apache Kafka – Building a Streaming ETL Solution with Rail Data Your Kubernetes clusters should be ephemeral too Designing Your First App in Kubernetes, Part 1: Getting Started</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #276</title>
+      
+      <link href="http://localhost:4000/2019/10/29/engineer-readinglist-276/" rel="alternate" type="text/html" title="Jenius Engineer reading list #276" />
+      <published>2019-10-29T00:00:00+00:00</published>
+      <updated>2019-10-29T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/10/29/engineer-readinglist-276</id>
+      <content type="html" xml:base="http://localhost:4000/2019/10/29/engineer-readinglist-276/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b&quot;&gt;Comparing Ingress controllers for Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/rust-webassembly-javascript/&quot;&gt;Rust, WebAssembly, and Javascript Make Three: An FFI Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.magalix.com/blog/kubernetes-patterns-capacity-planning&quot;&gt;Kubernetes Patterns : Capacity Planning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/linkerd-cloud-native/&quot;&gt;The Service Mesh: It’s about Traffic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://linkerd.io/2019/10/07/a-guide-to-distributed-tracing-with-linkerd/&quot;&gt;A guide to distributed tracing with Linkerd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Comparing Ingress controllers for Kubernetes Rust, WebAssembly, and Javascript Make Three: An FFI Story Kubernetes Patterns : Capacity Planning The Service Mesh: It’s about Traffic A guide to distributed tracing with Linkerd</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #275</title>
+      
+      <link href="http://localhost:4000/2019/10/28/engineer-readinglist-275/" rel="alternate" type="text/html" title="Jenius Engineer reading list #275" />
+      <published>2019-10-28T00:00:00+00:00</published>
+      <updated>2019-10-28T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/10/28/engineer-readinglist-275</id>
+      <content type="html" xml:base="http://localhost:4000/2019/10/28/engineer-readinglist-275/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/vmware-tanzu&quot;&gt;VMware Tanzu – Cloud native open source from VMware&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projectcontour.io/from-ingressroute-to-httpproxy/&quot;&gt;From IngressRoute to HTTPProxy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/salesforce/sloop&quot;&gt;Sloop – Kubernetes History Visualization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.getambassador.io/resources/envoyproxy-performance-on-k8s/&quot;&gt;Benchmarking Envoy Proxy, HAProxy, and NGINX Performance on Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://srcco.de/posts/how-zalando-manages-140-kubernetes-clusters.html&quot;&gt;How Zalando manages 140+ Kubernetes Clusters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html&quot;&gt;Liveness Probes are Dangerous&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">VMware Tanzu – Cloud native open source from VMware From IngressRoute to HTTPProxy Sloop – Kubernetes History Visualization Benchmarking Envoy Proxy, HAProxy, and NGINX Performance on Kubernetes How Zalando manages 140+ Kubernetes Clusters Liveness Probes are Dangerous</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #274</title>
+      
+      <link href="http://localhost:4000/2019/10/25/engineer-readinglist-274/" rel="alternate" type="text/html" title="Jenius Engineer reading list #274" />
+      <published>2019-10-25T00:00:00+00:00</published>
+      <updated>2019-10-25T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/10/25/engineer-readinglist-274</id>
+      <content type="html" xml:base="http://localhost:4000/2019/10/25/engineer-readinglist-274/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.ebayinc.com/product/how-ebay-uses-microinteractions-to-delight-customers-in-china/&quot;&gt;How eBay Uses Microinteractions to Delight Customers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/stretching-the-mold-how-alibaba-enhances-database-flexibility-78ec97fcfd8a?source=rss----3a8144eabfe3---4&quot;&gt;Stretching the Mold: How Alibaba Enhances Database Flexibility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/rust-security-guarantees/&quot;&gt;The Most Secure Program Is One That Doesn’t Exist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html&quot;&gt;Productionizing ML with workflows at Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://geshan.com.np/blog/2019/10/get-laravel-6-running-on-google-cloud-run-step-by-step-with-ci/&quot;&gt;Set up Laravel 6 on Google Cloud Run step by step with Continuous Integration (CI)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vfoley.xyz/lesser-known-coding-fonts/&quot;&gt;Lesser Known Coding Fonts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">How eBay Uses Microinteractions to Delight Customers Stretching the Mold: How Alibaba Enhances Database Flexibility The Most Secure Program Is One That Doesn’t Exist Productionizing ML with workflows at Twitter Set up Laravel 6 on Google Cloud Run step by step with Continuous Integration (CI) Lesser Known Coding Fonts</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #273</title>
+      
+      <link href="http://localhost:4000/2019/10/24/engineer-readinglist-273/" rel="alternate" type="text/html" title="Jenius Engineer reading list #273" />
+      <published>2019-10-24T00:00:00+00:00</published>
+      <updated>2019-10-24T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/10/24/engineer-readinglist-273</id>
+      <content type="html" xml:base="http://localhost:4000/2019/10/24/engineer-readinglist-273/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/diving-into-technical-seo-cloudflare-workers/&quot;&gt;Diving into Technical SEO using Cloudflare Workers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weave.works/blog/10-tips-for-building-and-managing-containers&quot;&gt;10 Tips for Building and Managing Containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/zendesk-engineering/datadog-log-management-from-zero-to-one-3a5a5675dff9&quot;&gt;Datadog Log Management from Zero to One&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://distill.pub/2019/activation-atlas/&quot;&gt;Exploring Neural Networks with Activation Atlases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Diving into Technical SEO using Cloudflare Workers 10 Tips for Building and Managing Containers Datadog Log Management from Zero to One Exploring Neural Networks with Activation Atlases</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #272</title>
+      
+      <link href="http://localhost:4000/2019/10/23/engineer-readinglist-272/" rel="alternate" type="text/html" title="Jenius Engineer reading list #272" />
+      <published>2019-10-23T00:00:00+00:00</published>
+      <updated>2019-10-23T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/10/23/engineer-readinglist-272</id>
+      <content type="html" xml:base="http://localhost:4000/2019/10/23/engineer-readinglist-272/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/monitor-workflow-collaborating-microservices/&quot;&gt;Monitoring and Managing Workflows across Collaborating Microservices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/architecting-transactional-system/&quot;&gt;Achieving High Throughput with Reliability in Transactional Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2019/03/04/lambda-global-state.html&quot;&gt;Maintaining global state in AWS Lambda functions with Async Hooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/machine-learning-capacity-safety/&quot;&gt;Using Machine Learning to Ensure the Capacity Safety of Individual Microservices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Monitoring and Managing Workflows across Collaborating Microservices Achieving High Throughput with Reliability in Transactional Systems Maintaining global state in AWS Lambda functions with Async Hooks Using Machine Learning to Ensure the Capacity Safety of Individual Microservices</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -683,361 +1049,6 @@
 
       
         <summary type="html">Is a Shared Database in Microservices Actually an Anti-pattern? Debugging Sidekiq Poison Pills In-Memory Scylla, or Racing the Red Queen Sysmon Security Event Processing in Real Time with KSQL and HELK</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Kubernetes: Up and Running, Second Edition</title>
-      
-      <link href="http://localhost:4000/2019/10/03/kubernetes-up-and-running-ebook/" rel="alternate" type="text/html" title="Kubernetes: Up and Running, Second Edition" />
-      <published>2019-10-03T00:00:00+00:00</published>
-      <updated>2019-10-03T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/10/03/kubernetes-up-and-running-ebook</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/03/kubernetes-up-and-running-ebook/">&lt;p&gt;Ebook yang ditulis oleh Brendan Burns, Joe Beda &amp;amp; Kelsey Hightower. Brendan dan Joe merupakan developer awal yang membuat Kubernetes, buku ini diterbitkan oleh O’reilly dan Microsoft, ebook ini merupakan edisi ke-dua, gratis.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/&quot;&gt;Download link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/public/images/posts/kubernetes-up-and-running-2.png&quot; alt=&quot;Kubernetes: Up and Running, Second Edition&quot; /&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="development" />
-      
-
-      
-        <category term="dev" />
-      
-        <category term="css" />
-      
-
-      
-        <summary type="html">Ebook yang ditulis oleh Brendan Burns, Joe Beda &amp;amp; Kelsey Hightower. Brendan dan Joe merupakan developer awal yang membuat Kubernetes, buku ini diterbitkan oleh O’reilly dan Microsoft, ebook ini merupakan edisi ke-dua, gratis. Download link</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #258</title>
-      
-      <link href="http://localhost:4000/2019/10/03/engineer-readinglist-258/" rel="alternate" type="text/html" title="Jenius Engineer reading list #258" />
-      <published>2019-10-03T00:00:00+00:00</published>
-      <updated>2019-10-03T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/10/03/engineer-readinglist-258</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/03/engineer-readinglist-258/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://deliveroo.engineering/2019/02/22/go-down-the-rabbit-hole.html&quot;&gt;Go down the rabbit hole&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/02/wordpress-modern-php/&quot;&gt;Improving WordPress Code With Modern PHP&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/wepay-database-streaming/&quot;&gt;The Whys and Hows of Database Streaming&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity&quot;&gt;Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Go down the rabbit hole Improving WordPress Code With Modern PHP The Whys and Hows of Database Streaming Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #257</title>
-      
-      <link href="http://localhost:4000/2019/10/02/engineer-readinglist-257/" rel="alternate" type="text/html" title="Jenius Engineer reading list #257" />
-      <published>2019-10-02T00:00:00+00:00</published>
-      <updated>2019-10-02T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/10/02/engineer-readinglist-257</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/02/engineer-readinglist-257/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/deconstructing-the-magic-behind-react-hooks-33ca987e5307?source=rss----3a8144eabfe3---4&quot;&gt;Deconstructing the Magic Behind React Hooks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.colorbox.io/&quot;&gt;ColorBox by Lyft Design&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bugsnag.com/blog/avoid-android-app-crashes&quot;&gt;How to avoid delivering a crash-prone Android app&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/monolith-microservices-refactoring-analysis-tools/&quot;&gt;Getting from Monolith to Microservices&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Deconstructing the Magic Behind React Hooks ColorBox by Lyft Design How to avoid delivering a crash-prone Android app Getting from Monolith to Microservices</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #256</title>
-      
-      <link href="http://localhost:4000/2019/10/01/engineer-readinglist-256/" rel="alternate" type="text/html" title="Jenius Engineer reading list #256" />
-      <published>2019-10-01T00:00:00+00:00</published>
-      <updated>2019-10-01T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/10/01/engineer-readinglist-256</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/01/engineer-readinglist-256/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/credhub-kubernetes-pcf/&quot;&gt;Using CredHub for Kubernetes Deployments&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://codeclimate.com/blog/time-wasting-code-review/&quot;&gt;Keep Code Review from Wasting Everyone’s Time&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/microservices-agility-communication/&quot;&gt;Microservice Agility&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/how-to-fail-at-accessibility-99bdf3504f19&quot;&gt;How to Fail at Accessibility&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Using CredHub for Kubernetes Deployments Keep Code Review from Wasting Everyone’s Time Microservice Agility How to Fail at Accessibility</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #255</title>
-      
-      <link href="http://localhost:4000/2019/09/30/engineer-readinglist-255/" rel="alternate" type="text/html" title="Jenius Engineer reading list #255" />
-      <published>2019-09-30T00:00:00+00:00</published>
-      <updated>2019-09-30T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/09/30/engineer-readinglist-255</id>
-      <content type="html" xml:base="http://localhost:4000/2019/09/30/engineer-readinglist-255/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.railstutorial.org/book/beginning&quot;&gt;Ruby on Rails Tutorial&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://m.stopa.io/how-to-get-those-9s-on-improving-service-uptime-7f5b42ac6a47&quot;&gt;How to get those 9s: on improving service uptime&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/carousell-insider/introducing-image-search-price-suggestions-ce8e40a0163f&quot;&gt;Introducing Image Search &amp;amp; Price Suggestions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/swlh/rethinking-web-accounts-using-rails-e74f3ad7098&quot;&gt;Rethinking web accounts (using Rails)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Ruby on Rails Tutorial How to get those 9s: on improving service uptime Introducing Image Search &amp;amp; Price Suggestions Rethinking web accounts (using Rails)</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #254</title>
-      
-      <link href="http://localhost:4000/2019/09/25/engineer-readinglist-254/" rel="alternate" type="text/html" title="Jenius Engineer reading list #254" />
-      <published>2019-09-25T00:00:00+00:00</published>
-      <updated>2019-09-25T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/09/25/engineer-readinglist-254</id>
-      <content type="html" xml:base="http://localhost:4000/2019/09/25/engineer-readinglist-254/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/02/migz-for-compression-and-decompression&quot;&gt;MiGz for Compression and Decompression&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techbeacon.com/enterprise-it/why-cios-need-build-cloud-culture-drive-digital-transformation&quot;&gt;Why CIOs need to build cloud culture to drive digital transformation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.techrepublic.com/article/why-doesnt-anyone-weep-for-docker/&quot;&gt;Why doesn’t anyone weep for Docker?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenewstack.io/4-different-approaches-for-kubernetes-in-the-enterprise/&quot;&gt;4 Different Approaches for Kubernetes in the Enterprise&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts&quot;&gt;DevOps terms: 10 essential concepts, explained&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">MiGz for Compression and Decompression Why CIOs need to build cloud culture to drive digital transformation Why doesn’t anyone weep for Docker? 4 Different Approaches for Kubernetes in the Enterprise DevOps terms: 10 essential concepts, explained</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #253</title>
-      
-      <link href="http://localhost:4000/2019/09/24/engineer-readinglist-253/" rel="alternate" type="text/html" title="Jenius Engineer reading list #253" />
-      <published>2019-09-24T00:00:00+00:00</published>
-      <updated>2019-09-24T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/09/24/engineer-readinglist-253</id>
-      <content type="html" xml:base="http://localhost:4000/2019/09/24/engineer-readinglist-253/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.opensooq.com/opensooq-android-performance-testing-make-hard-things-easy/&quot;&gt;OpenSooq Android Performance Testing: Make Hard Things Easy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.grab.com/understanding-supply-demand-ride-hailing-data&quot;&gt;Understanding Supply &amp;amp; Demand in Ride-hailing Through the Lens of Data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/functional-architecture-e9031090ff18?source=rss----5b301f10ddcd---4&amp;amp;gi=f5f865632a25&quot;&gt;Taming Side-Effects&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/remembering-a-programming-language-that-helped-shape-the-digital-new-york-times-cd809d707c74&quot;&gt;Remembering a Programming Language that Helped Shape the Digital New York Times&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">OpenSooq Android Performance Testing: Make Hard Things Easy Understanding Supply &amp;amp; Demand in Ride-hailing Through the Lens of Data Taming Side-Effects Remembering a Programming Language that Helped Shape the Digital New York Times</summary>
       
 
       
