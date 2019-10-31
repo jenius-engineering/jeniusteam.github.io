@@ -14,6 +14,7 @@ categories:
     - devops
 
 published: true
+canonical: https://jakartadev.org/deploy-kubernetes-cluster-vagrant-centos/
 ---
 
 
