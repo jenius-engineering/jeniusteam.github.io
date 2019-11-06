@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-10-31T05:48:36+00:00</updated>
+  <updated>2019-11-06T05:42:43+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
@@ -28,9 +28,304 @@
   
     <entry>
       
-      <title type="html">Jenius Engineer reading list #277</title>
+      <title type="html">Top 10 Ekstensi (plugin) untuk Visual Studio Code</title>
       
-      <link href="http://localhost:4000/2019/10/31/engineer-readinglist-278/" rel="alternate" type="text/html" title="Jenius Engineer reading list #277" />
+      <link href="http://localhost:4000/2019/11/06/visual-code-studio-extension/" rel="alternate" type="text/html" title="Top 10 Ekstensi (plugin) untuk Visual Studio Code" />
+      <published>2019-11-06T00:00:00+00:00</published>
+      <updated>2019-11-06T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/11/06/visual-code-studio-extension</id>
+      <content type="html" xml:base="http://localhost:4000/2019/11/06/visual-code-studio-extension/">&lt;p&gt;Ekstensi yang disediakan diekosistem Visual Studio Code sangat beragam, dan digunakan untuk banyak hal, dari mulai mempercepat kerja, menjadikan kode, document, lebih mudah dibaca, menjadikan tampilan lebih menarik, dan lainnya.&lt;/p&gt;
+
+&lt;p&gt;Berikut Ekstensi yang banyak digunakan di Jenius.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync&amp;amp;WT.mc_id=jakartadev&quot;&gt;Settings Sync&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Dengan ekstensi ini, konfigurasi Visual Studio Code (VSC) bisa lebih portabel, kita install ulang sistem operasi, atau pindah mesin, bisa konsisten menggunakan profile konfigurasi yang sama, pikirkan ini seperti menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;.vim&lt;/code&gt; profile (&lt;a href=&quot;https://github.com/dedenf/dotfiles&quot;&gt;koleksi dotfiles&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&quot;&gt;Prettier - Code formatter&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Ekstensi ini melakukan apa yang prettify lakukan, tapi ada fitur lebih dan juga konfigurasi yang membantu, yan menjadikan kode yang kita tulis lebih gampang dibaca, direview.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks&quot;&gt;Bookmarks&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Bookmarks ini berguna jika kita ingin menandai baris kode yang hendak kita tandai, bisa itu untuk direvisit nanti, atau menandakan hal yang penting yang hendak dijabarkan, atau untuk kebutuhan laiinnya.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments&quot;&gt;Better Comments&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Seperti yang developer ketahui, comment adalah salah satu bentuk komunikasi, memudahkan developer lain atau documentation generator untuk membaca dan memahami apa yang ditulis kode tersebut.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint&quot;&gt;ESLint&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Ekstensi ini untuk Javascript dan JSX linter, menjadikan kode yang dibuat mudah dibaca, &lt;a href=&quot;https://eslint.org/&quot;&gt;dokumetasi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&quot;&gt;GitLens — Git supercharged&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Dengan GitLens, kita dapat melihat informasi histori dari kode yang sedang kita buka, lengkap dengan siapa yang melakukan commit di baris tersebut, dan informasi lain yang didapat dari GIT. Ekstensi lain yang berhubungan dengan git, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory&quot;&gt;Git History&lt;/a&gt;, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager&quot;&gt;Git Project Manager&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-python.python&quot;&gt;Python&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Python merupakan salah satu bahasa yang sangat populer, dan ekstensi ini membantu developer agar lebih produktif dengan fitur seperti IntelliSense, linting, debugging, dan lainnya.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml&quot;&gt;YAML&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;YAML sebagai salah satu format yang biasanya digunakan oleh orang operation di infrastuktur, terutama untuk dukungan terhadap Kubernetes.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=humao.rest-client&quot;&gt;REST Client&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Dengan menggunakan ekstensi ini, developer bisa melakukan HTTP request/API call dan melihat responnya langsung di Editor.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=vscoss.vscode-ansible&quot;&gt;Ansible&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Untuk DevOps, dan organisasi yang menggunakan falsafah infrastructure as a code, Ansible (dan tools lainnya) sangat berguna, tools automation/provisioning lain yang bisa digunakan, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=mauve.terraform&quot;&gt;Terraform&lt;/a&gt;, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=chef-software.Chef&quot;&gt;Chef&lt;/a&gt;, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=jpogran.puppet-vscode&quot;&gt;Puppet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&quot;&gt;Docker&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Ekstensi resmi dari Microsoft, yang menangani Docker, baik Dockerfile, membangun atau deploy container.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme&quot;&gt;Material Icon Theme&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Dengan menggunakan Material icon theme ini, tampilan VSC kita jadi lebih berwarna, dan icon-icon yang merepresentasikan jenis file bisa lebih terbaca.
+&lt;img src=&quot;/public/images/posts/material-icon.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools&quot;&gt;Kubernetes&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Ekstensi ini berguna untuk developer yang sedang membangun aplikasinya di atas Kubernetes, bisa melakukan banyak operasi di Kubernetes.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="development" />
+      
+
+      
+        <category term="dev" />
+      
+        <category term="css" />
+      
+
+      
+        <summary type="html">Ekstensi yang disediakan diekosistem Visual Studio Code sangat beragam, dan digunakan untuk banyak hal, dari mulai mempercepat kerja, menjadikan kode, document, lebih mudah dibaca, menjadikan tampilan lebih menarik, dan lainnya. Berikut Ekstensi yang banyak digunakan di Jenius. Settings Sync Dengan ekstensi ini, konfigurasi Visual Studio Code (VSC) bisa lebih portabel, kita install ulang sistem operasi, atau pindah mesin, bisa konsisten menggunakan profile konfigurasi yang sama, pikirkan ini seperti menggunakan .vim profile (koleksi dotfiles) Prettier - Code formatter Ekstensi ini melakukan apa yang prettify lakukan, tapi ada fitur lebih dan juga konfigurasi yang membantu, yan menjadikan kode yang kita tulis lebih gampang dibaca, direview.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #282</title>
+      
+      <link href="http://localhost:4000/2019/11/06/engineer-readinglist-282/" rel="alternate" type="text/html" title="Jenius Engineer reading list #282" />
+      <published>2019-11-06T00:00:00+00:00</published>
+      <updated>2019-11-06T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/11/06/engineer-readinglist-282</id>
+      <content type="html" xml:base="http://localhost:4000/2019/11/06/engineer-readinglist-282/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.developer.atlassian.com/how-we-stopped-vulnerable-code-from-landing-in-production/&quot;&gt;How we stopped vulnerable code from landing in production&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/circleci/update-how-circleci-processes-over-30-million-builds-per-month&quot;&gt;Update: How CircleCI Processes Over 30 Million Builds Per Month&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/&quot;&gt; Safely Rewriting Mixpanel’s Highest Throughput Service in Golang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.ebayinc.com/engineering/item-fast-light-service/&quot;&gt;Improving the Speed and Accuracy of the Item Page with Light Service&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">How we stopped vulnerable code from landing in production Update: How CircleCI Processes Over 30 Million Builds Per Month Safely Rewriting Mixpanel’s Highest Throughput Service in Golang Improving the Speed and Accuracy of the Item Page with Light Service</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #280</title>
+      
+      <link href="http://localhost:4000/2019/11/05/engineer-readinglist-281/" rel="alternate" type="text/html" title="Jenius Engineer reading list #280" />
+      <published>2019-11-05T00:00:00+00:00</published>
+      <updated>2019-11-05T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/11/05/engineer-readinglist-281</id>
+      <content type="html" xml:base="http://localhost:4000/2019/11/05/engineer-readinglist-281/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/kafka-distributed-deployments/&quot;&gt;Streaming Log Analytics with Kafka&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.giphy.com/luigi-the-10x-plumber-containerizing-scaling-luigi-in-kubernetes/&quot;&gt;Luigi the 10x Plumber: Containerizing &amp;amp; Scaling Luigi in Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.ebayinc.com/engineering/low-latency-and-high-throughput-cal-ingress/&quot;&gt;Low Latency and High Throughput in CAL Ingress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/rethinking-flink-api/&quot;&gt;Rethinking Flink’s APIs for a Unified Data Processing Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/demand-forecasting-tech-stack-walmart-539d17f385db&quot;&gt;Demand Forecasting Tech Stack @ Walmart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/how-granular-should-you-design-apis/&quot;&gt;How Granular Should You Design APIs?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Streaming Log Analytics with Kafka Luigi the 10x Plumber: Containerizing &amp;amp; Scaling Luigi in Kubernetes Low Latency and High Throughput in CAL Ingress Rethinking Flink’s APIs for a Unified Data Processing Framework Demand Forecasting Tech Stack @ Walmart How Granular Should You Design APIs?</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #280</title>
+      
+      <link href="http://localhost:4000/2019/11/04/engineer-readinglist-280/" rel="alternate" type="text/html" title="Jenius Engineer reading list #280" />
+      <published>2019-11-04T00:00:00+00:00</published>
+      <updated>2019-11-04T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/11/04/engineer-readinglist-280</id>
+      <content type="html" xml:base="http://localhost:4000/2019/11/04/engineer-readinglist-280/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/semantic-graphs/&quot;&gt;Semantic Graphs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/supporting-dynamic-type-at-airbnb-b47c68b0c998&quot;&gt;Supporting Dynamic Type at Airbnb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/scaling-a-mature-data-pipeline-managing-overhead-f34835cbc866&quot;&gt;Scaling a Mature Data Pipeline — Managing Overhead&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.timescale.com/blog/implementing-constraint-exclusion-for-faster-query-performance/&quot;&gt;Implementing constraint exclusion for faster query performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devblog.songkick.com/migrating-our-etl-pipeline-to-luigi-on-a-cloud-8fde921cec51&quot;&gt;Migrating our ETL pipeline to Luigi on a Cloud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Semantic Graphs Supporting Dynamic Type at Airbnb Scaling a Mature Data Pipeline — Managing Overhead Implementing constraint exclusion for faster query performance Migrating our ETL pipeline to Luigi on a Cloud</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #279</title>
+      
+      <link href="http://localhost:4000/2019/11/01/engineer-readinglist-279/" rel="alternate" type="text/html" title="Jenius Engineer reading list #279" />
+      <published>2019-11-01T00:00:00+00:00</published>
+      <updated>2019-11-01T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2019/11/01/engineer-readinglist-279</id>
+      <content type="html" xml:base="http://localhost:4000/2019/11/01/engineer-readinglist-279/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/machine-learning-powered-content-moderation-computer-vision-applications-at-expedia-1297cb32d78d&quot;&gt;Machine Learning Powered Content Moderation: Computer Vision Applications at Expedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/uber-poet/&quot;&gt;Introducing Uber Poet, an Open Source Mock App Generator for Determining Faster Swift Builds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.statsbot.co/design-decisions-for-the-first-embedded-analytics-open-source-framework-8129c7f1d28a&quot;&gt;Design Decisions for the First Embedded Analytics Open-Source Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://umbrella.cisco.com/blog/2019/07/24/picture-perfect-how-jpg-exif-data-hides-malware/&quot;&gt;Picture Perfect: How JPG EXIF Data Hides Malw&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/real-time-experiment-analytics-at-pinterest-using-apache-flink-841c8df98dc2&quot;&gt;Real-time experiment analytics at Pinterest using Apache Flink&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Machine Learning Powered Content Moderation: Computer Vision Applications at Expedia Introducing Uber Poet, an Open Source Mock App Generator for Determining Faster Swift Builds Design Decisions for the First Embedded Analytics Open-Source Framework Picture Perfect: How JPG EXIF Data Hides Malw Real-time experiment analytics at Pinterest using Apache Flink</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #278</title>
+      
+      <link href="http://localhost:4000/2019/10/31/engineer-readinglist-278/" rel="alternate" type="text/html" title="Jenius Engineer reading list #278" />
       <published>2019-10-31T00:00:00+00:00</published>
       <updated>2019-10-31T00:00:00+00:00</updated>
       <id>http://localhost:4000/2019/10/31/engineer-readinglist-278</id>
@@ -793,262 +1088,6 @@
 
       
         <summary type="html">Limiting your API requests: the right way Debugging in Ruby—Busting a Year-old Bug in Sprockets A Simple Architecture for Mobile Apps On gRPC Load Balancing</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #263</title>
-      
-      <link href="http://localhost:4000/2019/10/10/engineer-readinglist-263/" rel="alternate" type="text/html" title="Jenius Engineer reading list #263" />
-      <published>2019-10-10T00:00:00+00:00</published>
-      <updated>2019-10-10T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/10/10/engineer-readinglist-263</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/10/engineer-readinglist-263/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@SilentHackz/rendering-on-the-web-80a30c678c3a&quot;&gt;Rendering on the Web&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sysdig.com/blog/the-art-of-writing-ebpf-programs-a-primer/&quot;&gt;The art of writing eBPF programs: a primer.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/rendezvous-with-kafka-a-simple-guide-to-get-started-48db3b921cc&quot;&gt;Rendezvous with Kafka : A simple guide to get started&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Rendering on the Web The art of writing eBPF programs: a primer. Rendezvous with Kafka : A simple guide to get started</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #262</title>
-      
-      <link href="http://localhost:4000/2019/10/09/engineer-readinglist-262/" rel="alternate" type="text/html" title="Jenius Engineer reading list #262" />
-      <published>2019-10-09T00:00:00+00:00</published>
-      <updated>2019-10-09T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/10/09/engineer-readinglist-262</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/09/engineer-readinglist-262/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/dailyjs/tracing-or-debugging-vue-js-reactivity-the-computed-tree-9da0ba1df5f9&quot;&gt;Tracing or Debugging Vue.js Reactivity: The computed tree&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/3-reasons-to-add-deep-learning-to-your-time-series-toolkit&quot;&gt;3 reasons to add deep learning to your time series toolkit&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/functional-contract-testing-a-case-study/&quot;&gt;Functional Contract Testing: A Case Study&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/data-science/data-warehouse-concepts-principles&quot;&gt;Three Principles of Data Warehouse Development&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Tracing or Debugging Vue.js Reactivity: The computed tree 3 reasons to add deep learning to your time series toolkit Functional Contract Testing: A Case Study Three Principles of Data Warehouse Development</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #261</title>
-      
-      <link href="http://localhost:4000/2019/10/08/engineer-readinglist-261/" rel="alternate" type="text/html" title="Jenius Engineer reading list #261" />
-      <published>2019-10-08T00:00:00+00:00</published>
-      <updated>2019-10-08T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/10/08/engineer-readinglist-261</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/08/engineer-readinglist-261/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techblog.commercetools.com/graphql-and-rest-level-3-hateoas-70904ff1f9cf&quot;&gt;GraphQL and REST Level 3 (HATEOAS)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/exploring-virtual-worlds-with-reinforcement-learning-25a245e9afea&quot;&gt;Exploring virtual worlds with reinforcement learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.novoda.com/the-ultimate-guide-to-ar-design-arkit-coreml-and-more/&quot;&gt;The ultimate guide to AR Design, ARKit, CoreML and more!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itnext.io/apache-solr-because-your-database-is-not-a-search-engine-57705352df8a&quot;&gt;Apache Solr: Because your Database is not a Search Engine&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/designers/company-website-design/ui-design-best-practices&quot;&gt;UI Design Best Practices for Better Scannability&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">GraphQL and REST Level 3 (HATEOAS) Exploring virtual worlds with reinforcement learning The ultimate guide to AR Design, ARKit, CoreML and more! Apache Solr: Because your Database is not a Search Engine UI Design Best Practices for Better Scannability</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #260</title>
-      
-      <link href="http://localhost:4000/2019/10/07/engineer-readinglist-260/" rel="alternate" type="text/html" title="Jenius Engineer reading list #260" />
-      <published>2019-10-07T00:00:00+00:00</published>
-      <updated>2019-10-07T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/10/07/engineer-readinglist-260</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/07/engineer-readinglist-260/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.thumbtack.com/moving-forward-on-android-with-graphql/&quot;&gt;Moving forward on Android with GraphQL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/ten-ways-to-secure-your-apps&quot;&gt;Ten Ways to Secure your Applications&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.algolia.com/query-suggestion-ux-like-googles/&quot;&gt;Building a query suggestion UX like Google’s&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://highscalability.com/blog/2019/2/25/design-of-a-modern-cachepart-deux.html&quot;&gt;Design Of A Modern Cache—Part Deux&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.percona.com/blog/2019/02/25/mysql-challenge-100k-connections/&quot;&gt;MySQL Challenge: 100k Connections&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Moving forward on Android with GraphQL Ten Ways to Secure your Applications Building a query suggestion UX like Google’s Design Of A Modern Cache—Part Deux MySQL Challenge: 100k Connections</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #259</title>
-      
-      <link href="http://localhost:4000/2019/10/04/engineer-readinglist-259/" rel="alternate" type="text/html" title="Jenius Engineer reading list #259" />
-      <published>2019-10-04T00:00:00+00:00</published>
-      <updated>2019-10-04T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/10/04/engineer-readinglist-259</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/04/engineer-readinglist-259/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/is-shared-database-in-microservices-actually-anti-pattern-8cc2536adfe4?source=rss----3a8144eabfe3---4&quot;&gt;Is a Shared Database in Microservices Actually an Anti-pattern?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/debugging-sidekiq-poison-pills/&quot;&gt;Debugging Sidekiq Poison Pills&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.scylladb.com/2019/02/25/in-memory-scylla-or-racing-the-red-queen/&quot;&gt;In-Memory Scylla, or Racing the Red Queen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/sysmon-security-event-processing-real-time-ksql-helk&quot;&gt;Sysmon Security Event Processing in Real Time with KSQL and HELK&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Is a Shared Database in Microservices Actually an Anti-pattern? Debugging Sidekiq Poison Pills In-Memory Scylla, or Racing the Red Queen Sysmon Security Event Processing in Real Time with KSQL and HELK</summary>
       
 
       
