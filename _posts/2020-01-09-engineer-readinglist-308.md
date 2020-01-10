@@ -10,7 +10,7 @@ categories:
     - readinglist
     - engineer
 published: true
-canonical: https://jakartadev.org/daily-digest-477/
+canonical: https://jakartadev.org/daily-digest-478/
 ---
 
 - [Writing end-to-end tests for GraphQL servers using Jest](https://blog.logrocket.com/writing-end-to-end-tests-for-graphql-servers-using-jest/)
