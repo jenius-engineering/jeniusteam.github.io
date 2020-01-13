@@ -10,7 +10,7 @@ categories:
     - readinglist
     - engineer
 published: true
-canonical: https://jakartadev.org/daily-digest-478/
+canonical: https://jakartadev.org/daily-digest-479/
 ---
 
 - [JavaScript Type Checkers are More than Linters](https://thoughtbot.com/blog/javascript-type-systems-are-not-linters)
