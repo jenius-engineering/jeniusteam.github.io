@@ -23,7 +23,7 @@
   <link rel="icon" type="image/png" href="https://assets.jenius.com/assets/themes/jenius/20170608131821/assets/images/favicon.png">
   
   
-  <link rel="alternate" type="application/rss+xml" title="JeniusTech Engineering" href="http://localhost:4000/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="JeniusTech Engineering" href="http://localhost:4001/feed.xml">
 
   
 
@@ -126,11 +126,113 @@
       <li>
         <header class="post-header">
           <h1 class="post-title">
-            <a class="post-link" href="/2019/11/26/engineer-readinglist-296/">Jenius Engineer reading list #296</a>
+            <a class="post-link" href="/2020/01/13/instal-paket-homebrew-versi-yang-spesifik/">Menginstal versi paket yang spesifik homebrew di macOS (contoh Tmux)</a>
           </h1>
 
           <p class="post-meta">
-            <time datetime="2019-11-26T00:00:00+00:00" itemprop="datePublished">Nov 26, 2019</time>
+            <time datetime="2020-01-13T00:00:00+00:00" itemprop="datePublished">Jan 13, 2020</time>
+             • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+              
+                
+                <span itemprop="name"><a href="/authors/dedenf/">Deden Fathurahman</a></span>
+                
+              <!-- <span itemprop="name"><a href="">dedenf</a></span> -->
+            </span>
+            
+             • 
+              
+                
+                <a href="/categories/development/" title='View posts with category "development"'>development</a>
+              
+             •
+          </p>
+        </header>
+
+        <div class="post-content">
+            
+            <!-- <img src=""><br><br> -->
+            
+          <p>Terkadang dalam melakukan pekerjaan, kita membutuhkan versi software yang spesifik, bisa karena alasan software yang kita bangun atau library yang kita pakai, hanya kompatibel dengan versi tertentu saja, ini bisa jadi masalah, saya terkena masalah ini ketika menggunakan sass, imageoptim, tmux.</p>
+
+<p>Kita ambil contoh <a href="https://github.com/tmux/tmux/wiki">Tmux</a>, yang merupakan aplikasi multiplexter, sederhananya, tmux bisa mengemulasi terminal menjadi banyak dalam satu window, Tmux ini saya anggap sebagai improvement dari Screen.</p>
+
+<p>Pada versi 3.0, Tmux versi ini banyak nge-_break_ konfigurasi dotfiles yang sudah saya buat, dan versi yang kompatible adalah versi sebelumnya, dan yang paling stabil adalah 2.8.</p>
+
+<p>Menggunakan macOS, dan <a href="https://brew.sh/">Homebrew</a> adalah manajemen paket yang selalu saya gunakan, untuk menginstall versi yang spesifik dari Tmux di Homebrew, terutama yang sudah tidak ditampilkan di formulanya, jika software tersebut masih terdapat daftar versinya jika kita lakukan perintah ini,</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>brew search node@
+
+dedenf@elementium ~ <span class="nv">$ </span>brew search node@
+<span class="o">==&gt;</span> Formulae
+node ✔              node-sass           node@10          node@12
+...
+</code></pre></div></div>
+
+<p>Untuk install versi yang lain di paket Homebrew tinggal install dengan perintah <code class="highlighter-rouge">$ brew install node@12</code> maka akan menginstal spesifik versi 12.</p>
+
+<p>Jika versi yang dimaksud tidak ada, seperti Tmux, maka yang harus dilakukan adalah install melalui formula Tmux, caranya dengan meng-clone repo git Homebrew-core,</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git clone git@github.com:Homebrew/homebrew-core.git
+</code></pre></div></div>
+
+<p>kemudian cari versi yang diinginkan, dengan mencari commit hash versi yang dimaksud, karena saya mencari versi 2.8, maka tinggal mencari commit yang mengandung versi tersebut.</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git log <span class="nt">--</span> Formula/Tmux.rb
+</code></pre></div></div>
+
+<p>Hasil</p>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>...
+commit 9d2ab46c92cc88470b1c54f5da2d0a1595188533
+Author: Chongyu Zhu &lt;i@lembacon.com&gt;
+Date:   Thu Oct 18 02:58:21 2018 +0800
+
+    tmux 2.8
+
+    Closes <span class="c">#33090.</span>
+
+    Signed-off-by: Chongyu Zhu &lt;i@lembacon.com&gt;
+...
+</code></pre></div></div>
+
+<p>Dengan informasi di atas, kita bisa melakukan instalasi berdasarkan commit hash dari versi 2.8.</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>brew <span class="nb">install </span>https://raw.githubusercontent.com/Homebrew/homebrew-core/9d2ab46c92cc88470b1c54f5da2d0a1595188533/Formula/tmux.rb
+</code></pre></div></div>
+
+<p>Viola! maka Tmux yang terinstall adalah versi 2.8! check versinya untuk lebih yakin,</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>tmux <span class="nt">-V</span>
+tmux 2.8
+</code></pre></div></div>
+
+<p>Ini bisa diaplikasikan ke paket-paket lain yang sekiranya dibutuhkan, kadang versi terbaru tidak selalu dibutuhkan.</p>
+
+        </div>
+        
+         <small style="display:none;">tagged: 
+
+
+    <strong>development</strong>,
+
+
+    <strong>coding</strong>
+
+</small>
+      </li>
+      
+
+    
+      
+      
+
+      <li>
+        <header class="post-header">
+          <h1 class="post-title">
+            <a class="post-link" href="/2020/01/13/engineer-readinglist-310/">Jenius Engineer reading list #310</a>
+          </h1>
+
+          <p class="post-meta">
+            <time datetime="2020-01-13T00:00:00+00:00" itemprop="datePublished">Jan 13, 2020</time>
              • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
               
                 
@@ -156,10 +258,10 @@
             <!-- <img src=""><br><br> -->
             
           <ul>
-  <li><a href="https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/">Our journey to type checking 4 million lines of Python</a></li>
-  <li><a href="https://eng.lyft.com/how-to-solve-a-linear-optimization-problem-on-incentive-allocation-5a8fb5d04db1">How to solve a linear optimization problem on incentive allocation?</a></li>
-  <li><a href="https://blog.sqreen.com/developer-security-best-practices-protecting-against-timing-attacks/">Developer security best practices: protecting against timing attacks</a></li>
-  <li><a href="https://www.thoughtworks.com/insights/blog/big-data-fast-data">BIG Data, Fast Data - Part I</a></li>
+  <li><a href="https://towardsdatascience.com/deep-clustering-for-financial-market-segmentation-2a41573618cf">Deep Clustering for Financial Market Segmentation</a></li>
+  <li><a href="https://nordicapis.com/4-ways-your-api-specification-can-fall-short-and-what-to-do-about-it/">4 Ways Your API Specification Can Fall Short (And What to Do About It)</a></li>
+  <li><a href="https://stackshare.io/onesignal/rust-at-onesignal">Rust at OneSignal</a></li>
+  <li><a href="https://www.infoq.com/articles/lessons-learned-performance-testing/">Lessons Learned in Performance Testing</a></li>
 </ul>
 
         </div>
@@ -183,11 +285,11 @@
       <li>
         <header class="post-header">
           <h1 class="post-title">
-            <a class="post-link" href="/2019/11/25/engineer-readinglist-295/">Jenius Engineer reading list #295</a>
+            <a class="post-link" href="/2020/01/10/engineer-readinglist-309/">Jenius Engineer reading list #309</a>
           </h1>
 
           <p class="post-meta">
-            <time datetime="2019-11-25T00:00:00+00:00" itemprop="datePublished">Nov 25, 2019</time>
+            <time datetime="2020-01-10T00:00:00+00:00" itemprop="datePublished">Jan 10, 2020</time>
              • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
               
                 
@@ -213,11 +315,10 @@
             <!-- <img src=""><br><br> -->
             
           <ul>
-  <li><a href="https://nordicapis.com/the-present-and-future-of-api-design/">The Present And Future Of API Design</a></li>
-  <li><a href="https://hackernoon.com/different-strategies-for-designing-the-caching-in-large-scale-distributed-system-fg87307f?source=rss">Three Strategies For Designing The Caching In Large Scale Distributed System</a></li>
-  <li><a href="https://developer.okta.com/blog/2019/09/04/securing-rest-apis">Securing REST APIs</a></li>
-  <li><a href="https://hacks.mozilla.org/2019/09/debugging-webassembly-outside-of-the-browser/">Debugging WebAssembly Outside of the Browser</a></li>
-  <li><a href="https://itnext.io/verifying-service-mesh-tls-in-kubernetes-using-ksniff-and-wireshark-2e993b26bf95">Verifying Service Mesh TLS in Kubernetes, Using ksniff and Wireshark</a></li>
+  <li><a href="https://thoughtbot.com/blog/javascript-type-systems-are-not-linters">JavaScript Type Checkers are More than Linters</a></li>
+  <li><a href="https://medium.com/walmartlabs/https-medium-com-kharekartik-rocksdb-and-embedded-databases-1a0f8e6ea74f">A Glimpse into the World of Embedded Database Feat. RocksDB</a></li>
+  <li><a href="https://open.nytimes.com/how-we-implemented-a-baseline-grid-using-css-cb13cac45201">How We Implemented a Baseline Grid Using CSS</a></li>
+  <li><a href="https://itnext.io/deep-in-the-weeds-with-reactime-concurrent-react-fiberroot-and-browser-history-caching-7ce9d7300abb">Deep in the Weeds with Reactime, Concurrent React _fiberRoot, and Browser History Caching</a></li>
 </ul>
 
         </div>
@@ -241,11 +342,11 @@
       <li>
         <header class="post-header">
           <h1 class="post-title">
-            <a class="post-link" href="/2019/11/22/engineer-readinglist-294/">Jenius Engineer reading list #294</a>
+            <a class="post-link" href="/2020/01/09/engineer-readinglist-308/">Jenius Engineer reading list #308</a>
           </h1>
 
           <p class="post-meta">
-            <time datetime="2019-11-22T00:00:00+00:00" itemprop="datePublished">Nov 22, 2019</time>
+            <time datetime="2020-01-09T00:00:00+00:00" itemprop="datePublished">Jan 9, 2020</time>
              • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
               
                 
@@ -271,11 +372,10 @@
             <!-- <img src=""><br><br> -->
             
           <ul>
-  <li><a href="https://www.smashingmagazine.com/2019/08/beyond-browser-serverless-webassembly/">Beyond The Browser: Getting Started With Serverless WebAssembly</a></li>
-  <li><a href="https://developers.soundcloud.com/blog/gradle-remote-build-cache-misses">Gradle Remote Build Cache Misses</a></li>
-  <li><a href="https://engineering.zomato.com/blog/sushi">Zomato’s new Sushi Design System</a></li>
-  <li><a href="https://allegro.tech/2019/09/page-visibility-and-performance-metrics.html">Page visibility and performance metrics</a></li>
-  <li><a href="https://www.infoq.com/presentations/uber-microservices-distributed-tracing/">Conquering Microservices Complexity @Uber with Distributed Tracing</a></li>
+  <li><a href="https://blog.logrocket.com/writing-end-to-end-tests-for-graphql-servers-using-jest/">Writing end-to-end tests for GraphQL servers using Jest</a></li>
+  <li><a href="https://github.blog/2019-11-21-debugging-network-stalls-on-kubernetes/">Debugging network stalls on Kubernetes</a></li>
+  <li><a href="https://blog.cloudflare.com/introducing-flan-scan/">Introducing Flan Scan: Cloudflare’s Lightweight Network Vulnerability Scanner</a></li>
+  <li><a href="https://blog.logrocket.com/a-practical-guide-to-accessibility-for-forms/">A practical guide to accessibility for forms</a></li>
 </ul>
 
         </div>
@@ -299,11 +399,11 @@
       <li>
         <header class="post-header">
           <h1 class="post-title">
-            <a class="post-link" href="/2019/11/21/engineer-readinglist-293/">Jenius Engineer reading list #293</a>
+            <a class="post-link" href="/2020/01/08/engineer-readinglist-307/">Jenius Engineer reading list #307</a>
           </h1>
 
           <p class="post-meta">
-            <time datetime="2019-11-21T00:00:00+00:00" itemprop="datePublished">Nov 21, 2019</time>
+            <time datetime="2020-01-08T00:00:00+00:00" itemprop="datePublished">Jan 8, 2020</time>
              • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
               
                 
@@ -329,68 +429,15 @@
             <!-- <img src=""><br><br> -->
             
           <ul>
-  <li><a href="https://about.gitlab.com/blog/2019/08/26/managing-your-snowflake-spend-with-periscope-and-dbt/">How to manage your Snowflake spend with Periscope and dbt</a></li>
-  <li><a href="https://www.memsql.com/blog/a-technical-introduction-to-memsql/">A Technical Introduction to MemSQL</a></li>
-  <li><a href="https://tech.transferwise.com/bringing-data-sources-together-with-pipelinewise/">Bringing Data Sources Together with PipelineWise</a></li>
-  <li><a href="https://hacks.mozilla.org/2019/08/the-baseline-interpreter-a-faster-js-interpreter-in-firefox-70/">The Baseline Interpreter: a faster JS interpreter in Firefox 70</a></li>
-  <li><a href="https://webuild.envato.com/blog/the-tale-of-the-missing-semaphore/">The tale of the missing semaphore</a></li>
-</ul>
-
-        </div>
-        
-         <small style="display:none;">tagged: 
-
-
-    <strong>news</strong>,
-
-
-    <strong>jenius</strong>
-
-</small>
-      </li>
-      
-
-    
-      
-      
-
-      <li>
-        <header class="post-header">
-          <h1 class="post-title">
-            <a class="post-link" href="/2019/11/20/engineer-readinglist-292/">Jenius Engineer reading list #292</a>
-          </h1>
-
-          <p class="post-meta">
-            <time datetime="2019-11-20T00:00:00+00:00" itemprop="datePublished">Nov 20, 2019</time>
-             • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-              
-                
-                <span itemprop="name"><a href="/authors/dedenf/">Deden Fathurahman</a></span>
-                
-              <!-- <span itemprop="name"><a href="">dedenf</a></span> -->
-            </span>
-            
-             • 
-              
-                
-                <a href="/categories/readinglist/" title='View posts with category "readinglist"'>readinglist</a>,
-              
-                
-                <a href="/categories/engineer/" title='View posts with category "engineer"'>engineer</a>
-              
-             •
-          </p>
-        </header>
-
-        <div class="post-content">
-            
-            <!-- <img src=""><br><br> -->
-            
-          <ul>
-  <li><a href="https://developer.okta.com/blog/2019/08/26/combat-side-channel-attacks-with-corb">Combat Side-Channel Attacks with Cross-Origin Read Blocking </a></li>
-  <li><a href="https://about.gitlab.com/blog/2019/08/30/software-test-at-gitlab/">An inside look at software testing at GitLab</a></li>
-  <li><a href="https://www.toptal.com/natural-language-processing/accelerate-with-bert-nlp-optimization-models">Accelerate with BERT: NLP Optimization Models</a></li>
-  <li><a href="https://www.infoq.com/podcasts/tracing-distributed-systems-using-jaeger/">Yuri Shkuro on Tracing Distributed Systems Using Jaeger</a></li>
+  <li><a href="https://ai.googleblog.com/2019/09/an-inside-look-at-flood-forecasting.html">An Inside Look at Flood Forecasting </a></li>
+  <li><a href="https://www.infoq.com/presentations/scalability-zalando/">Building and Running Applications at Scale in Zalando</a></li>
+  <li><a href="https://itnext.io/monorepo-pains-9064db3b9882">Angular Monorepo pains</a></li>
+  <li><a href="https://www.infoq.com/presentations/property-based-testing-lambda-days-2019/">Introduction to Stateful Property-Based Testing</a></li>
+  <li><a href="https://lambda.grofers.com/a-comprehensive-guide-to-deploying-a-website-in-kubernetes-c5829bfa4519">A Comprehensive Guide To Deploying A Website In Kubernetes</a></li>
+  <li><a href="https://engineering.shopify.com/blogs/engineering/improve-ui-performance-understanding-your-user">Want to Improve UI Performance? Start by Understanding Your User </a></li>
+  <li><a href="https://blog.cloudflare.com/when-tcp-sockets-refuse-to-die/">When TCP sockets refuse to die</a></li>
+  <li><a href="https://tech.gc.com/let-me-automate-that-for-you/">Let me automate that for you</a></li>
+  <li><a href="https://www.infoq.com/news/2019/09/evans-improve-language-ddd/">Eric Evans Wants to Improve the Language of DDD </a></li>
 </ul>
 
         </div>
@@ -433,7 +480,7 @@
     <p>
       
 
-© JeniusTech Engineering <img class="emoji" title=":heart:" alt=":heart:" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" height="20" width="20"> Jekyll - Subscribe via <a href="http://localhost:4000/feed.xml"><i class="fa fa-rss" aria-hidden="true"></i> RSS</a>
+© JeniusTech Engineering <img class="emoji" title=":heart:" alt=":heart:" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" height="20" width="20"> Jekyll - Subscribe via <a href="http://localhost:4001/feed.xml"><i class="fa fa-rss" aria-hidden="true"></i> RSS</a>
 
       
   <!-- Google Analytics -->

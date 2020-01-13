@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
   
   
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2019-11-26T08:47:35+00:00</updated>
-  <id>http://localhost:4000//</id>
+  <link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4001/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2020-01-13T11:49:25+00:00</updated>
+  <id>http://localhost:4001//</id>
 
   
     <title type="html">JeniusTech Engineering</title>
@@ -28,13 +28,845 @@
   
     <entry>
       
+      <title type="html">Menginstal versi paket yang spesifik homebrew di macOS (contoh Tmux)</title>
+      
+      <link href="http://localhost:4001/2020/01/13/instal-paket-homebrew-versi-yang-spesifik/" rel="alternate" type="text/html" title="Menginstal versi paket yang spesifik homebrew di macOS (contoh Tmux)" />
+      <published>2020-01-13T00:00:00+00:00</published>
+      <updated>2020-01-13T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2020/01/13/instal-paket-homebrew-versi-yang-spesifik</id>
+      <content type="html" xml:base="http://localhost:4001/2020/01/13/instal-paket-homebrew-versi-yang-spesifik/">&lt;p&gt;Terkadang dalam melakukan pekerjaan, kita membutuhkan versi software yang spesifik, bisa karena alasan software yang kita bangun atau library yang kita pakai, hanya kompatibel dengan versi tertentu saja, ini bisa jadi masalah, saya terkena masalah ini ketika menggunakan sass, imageoptim, tmux.&lt;/p&gt;
+
+&lt;p&gt;Kita ambil contoh &lt;a href=&quot;https://github.com/tmux/tmux/wiki&quot;&gt;Tmux&lt;/a&gt;, yang merupakan aplikasi multiplexter, sederhananya, tmux bisa mengemulasi terminal menjadi banyak dalam satu window, Tmux ini saya anggap sebagai improvement dari Screen.&lt;/p&gt;
+
+&lt;p&gt;Pada versi 3.0, Tmux versi ini banyak nge-_break_ konfigurasi dotfiles yang sudah saya buat, dan versi yang kompatible adalah versi sebelumnya, dan yang paling stabil adalah 2.8.&lt;/p&gt;
+
+&lt;p&gt;Menggunakan macOS, dan &lt;a href=&quot;https://brew.sh/&quot;&gt;Homebrew&lt;/a&gt; adalah manajemen paket yang selalu saya gunakan, untuk menginstall versi yang spesifik dari Tmux di Homebrew, terutama yang sudah tidak ditampilkan di formulanya, jika software tersebut masih terdapat daftar versinya jika kita lakukan perintah ini,&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew search node@
+
+dedenf@elementium ~ &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew search node@
+&lt;span class=&quot;o&quot;&gt;==&amp;gt;&lt;/span&gt; Formulae
+node ✔              node-sass           node@10          node@12
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Untuk install versi yang lain di paket Homebrew tinggal install dengan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;$ brew install node@12&lt;/code&gt; maka akan menginstal spesifik versi 12.&lt;/p&gt;
+
+&lt;p&gt;Jika versi yang dimaksud tidak ada, seperti Tmux, maka yang harus dilakukan adalah install melalui formula Tmux, caranya dengan meng-clone repo git Homebrew-core,&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git clone git@github.com:Homebrew/homebrew-core.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;kemudian cari versi yang diinginkan, dengan mencari commit hash versi yang dimaksud, karena saya mencari versi 2.8, maka tinggal mencari commit yang mengandung versi tersebut.&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git log &lt;span class=&quot;nt&quot;&gt;--&lt;/span&gt; Formula/Tmux.rb
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Hasil&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;...
+commit 9d2ab46c92cc88470b1c54f5da2d0a1595188533
+Author: Chongyu Zhu &amp;lt;i@lembacon.com&amp;gt;
+Date:   Thu Oct 18 02:58:21 2018 +0800
+
+    tmux 2.8
+
+    Closes &lt;span class=&quot;c&quot;&gt;#33090.&lt;/span&gt;
+
+    Signed-off-by: Chongyu Zhu &amp;lt;i@lembacon.com&amp;gt;
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Dengan informasi di atas, kita bisa melakukan instalasi berdasarkan commit hash dari versi 2.8.&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;https://raw.githubusercontent.com/Homebrew/homebrew-core/9d2ab46c92cc88470b1c54f5da2d0a1595188533/Formula/tmux.rb
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Viola! maka Tmux yang terinstall adalah versi 2.8! check versinya untuk lebih yakin,&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;tmux &lt;span class=&quot;nt&quot;&gt;-V&lt;/span&gt;
+tmux 2.8
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Ini bisa diaplikasikan ke paket-paket lain yang sekiranya dibutuhkan, kadang versi terbaru tidak selalu dibutuhkan.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="development" />
+      
+
+      
+        <category term="development" />
+      
+        <category term="coding" />
+      
+
+      
+        <summary type="html">Terkadang dalam melakukan pekerjaan, kita membutuhkan versi software yang spesifik, bisa karena alasan software yang kita bangun atau library yang kita pakai, hanya kompatibel dengan versi tertentu saja, ini bisa jadi masalah, saya terkena masalah ini ketika menggunakan sass, imageoptim, tmux. Kita ambil contoh Tmux, yang merupakan aplikasi multiplexter, sederhananya, tmux bisa mengemulasi terminal menjadi banyak dalam satu window, Tmux ini saya anggap sebagai improvement dari Screen. Pada versi 3.0, Tmux versi ini banyak nge-_break_ konfigurasi dotfiles yang sudah saya buat, dan versi yang kompatible adalah versi sebelumnya, dan yang paling stabil adalah 2.8. Menggunakan macOS, dan Homebrew adalah manajemen paket yang selalu saya gunakan, untuk menginstall versi yang spesifik dari Tmux di Homebrew, terutama yang sudah tidak ditampilkan di formulanya, jika software tersebut masih terdapat daftar versinya jika kita lakukan perintah ini, $ brew search node@ dedenf@elementium ~ $ brew search node@ ==&amp;gt; Formulae node ✔ node-sass node@10 node@12 ... Untuk install versi yang lain di paket Homebrew tinggal install dengan perintah $ brew install node@12 maka akan menginstal spesifik versi 12. Jika versi yang dimaksud tidak ada, seperti Tmux, maka yang harus dilakukan adalah install melalui formula Tmux, caranya dengan meng-clone repo git Homebrew-core, $ git clone git@github.com:Homebrew/homebrew-core.git kemudian cari versi yang diinginkan, dengan mencari commit hash versi yang dimaksud, karena saya mencari versi 2.8, maka tinggal mencari commit yang mengandung versi tersebut. $ git log -- Formula/Tmux.rb Hasil ... commit 9d2ab46c92cc88470b1c54f5da2d0a1595188533 Author: Chongyu Zhu &amp;lt;i@lembacon.com&amp;gt; Date: Thu Oct 18 02:58:21 2018 +0800 tmux 2.8 Closes #33090. Signed-off-by: Chongyu Zhu &amp;lt;i@lembacon.com&amp;gt; ... Dengan informasi di atas, kita bisa melakukan instalasi berdasarkan commit hash dari versi 2.8. $ brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/9d2ab46c92cc88470b1c54f5da2d0a1595188533/Formula/tmux.rb Viola! maka Tmux yang terinstall adalah versi 2.8! check versinya untuk lebih yakin, $ tmux -V tmux 2.8 Ini bisa diaplikasikan ke paket-paket lain yang sekiranya dibutuhkan, kadang versi terbaru tidak selalu dibutuhkan.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #310</title>
+      
+      <link href="http://localhost:4001/2020/01/13/engineer-readinglist-310/" rel="alternate" type="text/html" title="Jenius Engineer reading list #310" />
+      <published>2020-01-13T00:00:00+00:00</published>
+      <updated>2020-01-13T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2020/01/13/engineer-readinglist-310</id>
+      <content type="html" xml:base="http://localhost:4001/2020/01/13/engineer-readinglist-310/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/deep-clustering-for-financial-market-segmentation-2a41573618cf&quot;&gt;Deep Clustering for Financial Market Segmentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/4-ways-your-api-specification-can-fall-short-and-what-to-do-about-it/&quot;&gt;4 Ways Your API Specification Can Fall Short (And What to Do About It)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/onesignal/rust-at-onesignal&quot;&gt;Rust at OneSignal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/lessons-learned-performance-testing/&quot;&gt;Lessons Learned in Performance Testing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Deep Clustering for Financial Market Segmentation 4 Ways Your API Specification Can Fall Short (And What to Do About It) Rust at OneSignal Lessons Learned in Performance Testing</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #309</title>
+      
+      <link href="http://localhost:4001/2020/01/10/engineer-readinglist-309/" rel="alternate" type="text/html" title="Jenius Engineer reading list #309" />
+      <published>2020-01-10T00:00:00+00:00</published>
+      <updated>2020-01-10T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2020/01/10/engineer-readinglist-309</id>
+      <content type="html" xml:base="http://localhost:4001/2020/01/10/engineer-readinglist-309/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thoughtbot.com/blog/javascript-type-systems-are-not-linters&quot;&gt;JavaScript Type Checkers are More than Linters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/https-medium-com-kharekartik-rocksdb-and-embedded-databases-1a0f8e6ea74f&quot;&gt;A Glimpse into the World of Embedded Database Feat. RocksDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.nytimes.com/how-we-implemented-a-baseline-grid-using-css-cb13cac45201&quot;&gt;How We Implemented a Baseline Grid Using CSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/deep-in-the-weeds-with-reactime-concurrent-react-fiberroot-and-browser-history-caching-7ce9d7300abb&quot;&gt;Deep in the Weeds with Reactime, Concurrent React _fiberRoot, and Browser History Caching&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">JavaScript Type Checkers are More than Linters A Glimpse into the World of Embedded Database Feat. RocksDB How We Implemented a Baseline Grid Using CSS Deep in the Weeds with Reactime, Concurrent React _fiberRoot, and Browser History Caching</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #308</title>
+      
+      <link href="http://localhost:4001/2020/01/09/engineer-readinglist-308/" rel="alternate" type="text/html" title="Jenius Engineer reading list #308" />
+      <published>2020-01-09T00:00:00+00:00</published>
+      <updated>2020-01-09T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2020/01/09/engineer-readinglist-308</id>
+      <content type="html" xml:base="http://localhost:4001/2020/01/09/engineer-readinglist-308/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/writing-end-to-end-tests-for-graphql-servers-using-jest/&quot;&gt;Writing end-to-end tests for GraphQL servers using Jest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.blog/2019-11-21-debugging-network-stalls-on-kubernetes/&quot;&gt;Debugging network stalls on Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/introducing-flan-scan/&quot;&gt;Introducing Flan Scan: Cloudflare’s Lightweight Network Vulnerability Scanner&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/a-practical-guide-to-accessibility-for-forms/&quot;&gt;A practical guide to accessibility for forms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Writing end-to-end tests for GraphQL servers using Jest Debugging network stalls on Kubernetes Introducing Flan Scan: Cloudflare’s Lightweight Network Vulnerability Scanner A practical guide to accessibility for forms</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #307</title>
+      
+      <link href="http://localhost:4001/2020/01/08/engineer-readinglist-307/" rel="alternate" type="text/html" title="Jenius Engineer reading list #307" />
+      <published>2020-01-08T00:00:00+00:00</published>
+      <updated>2020-01-08T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2020/01/08/engineer-readinglist-307</id>
+      <content type="html" xml:base="http://localhost:4001/2020/01/08/engineer-readinglist-307/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ai.googleblog.com/2019/09/an-inside-look-at-flood-forecasting.html&quot;&gt;An Inside Look at Flood Forecasting &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/scalability-zalando/&quot;&gt;Building and Running Applications at Scale in Zalando&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/monorepo-pains-9064db3b9882&quot;&gt;Angular Monorepo pains&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/property-based-testing-lambda-days-2019/&quot;&gt;Introduction to Stateful Property-Based Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lambda.grofers.com/a-comprehensive-guide-to-deploying-a-website-in-kubernetes-c5829bfa4519&quot;&gt;A Comprehensive Guide To Deploying A Website In Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.shopify.com/blogs/engineering/improve-ui-performance-understanding-your-user&quot;&gt;Want to Improve UI Performance? Start by Understanding Your User &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/when-tcp-sockets-refuse-to-die/&quot;&gt;When TCP sockets refuse to die&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.gc.com/let-me-automate-that-for-you/&quot;&gt;Let me automate that for you&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/news/2019/09/evans-improve-language-ddd/&quot;&gt;Eric Evans Wants to Improve the Language of DDD &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">An Inside Look at Flood Forecasting Building and Running Applications at Scale in Zalando Angular Monorepo pains Introduction to Stateful Property-Based Testing A Comprehensive Guide To Deploying A Website In Kubernetes Want to Improve UI Performance? Start by Understanding Your User When TCP sockets refuse to die Let me automate that for you Eric Evans Wants to Improve the Language of DDD</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #306</title>
+      
+      <link href="http://localhost:4001/2020/01/07/engineer-readinglist-306/" rel="alternate" type="text/html" title="Jenius Engineer reading list #306" />
+      <published>2020-01-07T00:00:00+00:00</published>
+      <updated>2020-01-07T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2020/01/07/engineer-readinglist-306</id>
+      <content type="html" xml:base="http://localhost:4001/2020/01/07/engineer-readinglist-306/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://liveramp.com/engineering/joining-petabytes-of-data-per-day-how-liveramp-powers-its-matching-product/&quot;&gt;Joining Petabytes of Data Per Day: How LiveRamp Powers its Matching Product&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/introduction-to-stream-mining-8b79dd64e460&quot;&gt;Introduction to Stream Mining&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/the-building-blocks-of-linkedin-skill-assessments&quot;&gt;The building blocks of LinkedIn Skill Assessments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/hypothesis-gu-funcs-unit-testing/&quot;&gt;Introducing Hypothesis GU Funcs, an Open Source Python Package for Unit Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/how-does-jsonapi-compare-to-rest-and-graphql/&quot;&gt;How Does JSON:API Compare To REST and GraphQL?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Joining Petabytes of Data Per Day: How LiveRamp Powers its Matching Product Introduction to Stream Mining The building blocks of LinkedIn Skill Assessments Introducing Hypothesis GU Funcs, an Open Source Python Package for Unit Testing How Does JSON:API Compare To REST and GraphQL?</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #305</title>
+      
+      <link href="http://localhost:4001/2020/01/06/engineer-readinglist-305/" rel="alternate" type="text/html" title="Jenius Engineer reading list #305" />
+      <published>2020-01-06T00:00:00+00:00</published>
+      <updated>2020-01-06T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2020/01/06/engineer-readinglist-305</id>
+      <content type="html" xml:base="http://localhost:4001/2020/01/06/engineer-readinglist-305/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/radar/podcast/understanding-deep-neural-networks/&quot;&gt;Understanding deep neural networks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/reimagining-experimentation-analysis-at-netflix-71356393af21&quot;&gt;Reimagining Experimentation Analysis at Netflix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.okta.com/blog/2019/09/12/why-public-key-cryptography-matters&quot;&gt;Why Public Key Cryptography Matters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/the-gradual-design-system-how-we-built-slack-kit-8a2830484259&quot;&gt;The Gradual Design System: How We Built Slack Kit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/machine-learning-powered-content-moderation-computer-vision-applications-at-expedia-1297cb32d78d&quot;&gt;Machine Learning Powered Content Moderation: Computer Vision Applications at Expedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/three-approaches-to-scaling-machine-learning-with-uber-seattle-engineering/&quot;&gt;Three Approaches to Scaling Machine Learning with Uber Seattle Engineering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/pilosa-a-scalable-high-performance-bitmap-database-index-82023c0c8ebc?source=rss&quot;&gt;Pilosa: A Scalable High Performance Bitmap Database Index&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Understanding deep neural networks Reimagining Experimentation Analysis at Netflix Why Public Key Cryptography Matters The Gradual Design System: How We Built Slack Kit Machine Learning Powered Content Moderation: Computer Vision Applications at Expedia Three Approaches to Scaling Machine Learning with Uber Seattle Engineering Pilosa: A Scalable High Performance Bitmap Database Index</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #304</title>
+      
+      <link href="http://localhost:4001/2019/12/23/engineer-readinglist-304/" rel="alternate" type="text/html" title="Jenius Engineer reading list #304" />
+      <published>2019-12-23T00:00:00+00:00</published>
+      <updated>2019-12-23T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2019/12/23/engineer-readinglist-304</id>
+      <content type="html" xml:base="http://localhost:4001/2019/12/23/engineer-readinglist-304/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://instagram-engineering.com/types-for-python-http-apis-an-instagram-story-d3c3a207fdb7&quot;&gt;Types for Python HTTP APIs: An Instagram Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@armenzg/a-web-performance-issue-d44093cb896c&quot;&gt;A web performance issue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.ebayinc.com/engineering/ebay-oauth-client-library-in-python-and-best-practices/&quot;&gt;eBay OAuth Client Library in Python and Best Practices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://benchling.engineering/jade-to-react-using-prod-validation-to-make-modernization-safe-fast-and-fun-766258ee8d35&quot;&gt;Jade to React: using prod validation to make modernization safe, fast, and fun&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.indeedblog.com/blog/2019/09/jobs-filter/&quot;&gt;Jobs Filter: Improving the Job Seeker Experience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Types for Python HTTP APIs: An Instagram Story A web performance issue eBay OAuth Client Library in Python and Best Practices Jade to React: using prod validation to make modernization safe, fast, and fun Jobs Filter: Improving the Job Seeker Experience</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #303</title>
+      
+      <link href="http://localhost:4001/2019/12/05/engineer-readinglist-303/" rel="alternate" type="text/html" title="Jenius Engineer reading list #303" />
+      <published>2019-12-05T00:00:00+00:00</published>
+      <updated>2019-12-05T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2019/12/05/engineer-readinglist-303</id>
+      <content type="html" xml:base="http://localhost:4001/2019/12/05/engineer-readinglist-303/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/sqreen/how-sqreen-handles-50000-requests-every-minute-in-a-write-heavy-environment&quot;&gt;How Sqreen handles 50,000 requests every minute in a write-heavy environment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.cloudflare.com/how-we-design-features-for-wrangler/&quot;&gt;How We Design Features for Wrangler, the Cloudflare Workers CLI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/how-to-easily-reuse-components-across-projects-and-repositories-fa73f8ba2a83&quot;&gt;How to Easily Reuse Components Across Projects and Repositories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kinvolk.io/blog/2019/09/a-shallow-dive-into-distributed-tracing/&quot;&gt;A Shallow Dive Into Distributed Tracing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">How Sqreen handles 50,000 requests every minute in a write-heavy environment How We Design Features for Wrangler, the Cloudflare Workers CLI How to Easily Reuse Components Across Projects and Repositories A Shallow Dive Into Distributed Tracing</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #302</title>
+      
+      <link href="http://localhost:4001/2019/12/04/engineer-readinglist-302/" rel="alternate" type="text/html" title="Jenius Engineer reading list #302" />
+      <published>2019-12-04T00:00:00+00:00</published>
+      <updated>2019-12-04T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2019/12/04/engineer-readinglist-302</id>
+      <content type="html" xml:base="http://localhost:4001/2019/12/04/engineer-readinglist-302/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tecmint.com/best-nodejs-frameworks-for-developers/&quot;&gt;18 Best NodeJS Frameworks for Developers in 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.scottlogic.com/2019/09/11/Designing-with-accessibility-in-mind.html&quot;&gt;Designing with accessibility in mind&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/&quot;&gt;How JavaScript works: Optimizing the V8 compiler for efficiency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/datadog-metrics-db/&quot;&gt;Datadog: a Real-Time Metrics Database for One Quadrillion Points/Day&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">18 Best NodeJS Frameworks for Developers in 2019 Designing with accessibility in mind How JavaScript works: Optimizing the V8 compiler for efficiency Datadog: a Real-Time Metrics Database for One Quadrillion Points/Day</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #301</title>
+      
+      <link href="http://localhost:4001/2019/12/03/engineer-readinglist-301/" rel="alternate" type="text/html" title="Jenius Engineer reading list #301" />
+      <published>2019-12-03T00:00:00+00:00</published>
+      <updated>2019-12-03T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2019/12/03/engineer-readinglist-301</id>
+      <content type="html" xml:base="http://localhost:4001/2019/12/03/engineer-readinglist-301/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/ml-salesforce-einstein/&quot;&gt;Metrics-Driven Machine Learning Development at Salesforce Einstein&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/demand-forecasting-tech-stack-walmart-539d17f385db&quot;&gt;Demand Forecasting Tech Stack @ Walmart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/cockroachdb-distributed-sql/&quot;&gt;CockroachDB: Architecture of a Geo-Distributed SQL Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/kubernetes-a-simple-overview&quot;&gt;Kubernetes: A simple overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502&quot;&gt;How Discord achieves native iOS performance with React Native&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://beza1e1.tuxen.de/monorepo_vcs.html&quot;&gt;Pondering a Monorepo Version Control System&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cssdb.org/&quot;&gt;CSSdb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/lessons-from-a-product-manager-at-google-en4833ca&quot;&gt;Lessons from a Product Manager at Google&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/victoria/a-cron-job-that-could-save-you-from-a-ransomware-attack-46m&quot;&gt;A cron job that could save you from a ransomware attack &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://firstround.com/review/dont-serve-burnt-pizza-and-other-lessons-in-building-minimum-lovable-products/&quot;&gt;Don’t Serve Burnt Pizza (And Other Lessons in Building Minimum Lovable Products)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Metrics-Driven Machine Learning Development at Salesforce Einstein Demand Forecasting Tech Stack @ Walmart CockroachDB: Architecture of a Geo-Distributed SQL Database Kubernetes: A simple overview How Discord achieves native iOS performance with React Native Pondering a Monorepo Version Control System CSSdb Lessons from a Product Manager at Google A cron job that could save you from a ransomware attack Don’t Serve Burnt Pizza (And Other Lessons in Building Minimum Lovable Products)</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #300</title>
+      
+      <link href="http://localhost:4001/2019/12/02/engineer-readinglist-300/" rel="alternate" type="text/html" title="Jenius Engineer reading list #300" />
+      <published>2019-12-02T00:00:00+00:00</published>
+      <updated>2019-12-02T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2019/12/02/engineer-readinglist-300</id>
+      <content type="html" xml:base="http://localhost:4001/2019/12/02/engineer-readinglist-300/">&lt;p&gt;Edisi ke-300! horray!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.gusto.com/does-this-code-spark-joy/&quot;&gt;Does this code spark joy? Tidying up your code bit by bit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/&quot;&gt;Machine Learning For Front-End Developers With Tensorflow.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.opensooq.com/the-power-of-headless-chrome-and-pwa-automation-using-puppeteer/&quot;&gt;The Power of Headless Chrome and PWA Automation Using Puppeteer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/strava-engineering/android-launch-performance-1d3c9fe4af62&quot;&gt;Android Launch Performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://crystal-lang.org/2019/09/06/parallelism-in-crystal.html&quot;&gt;Parallelism in Crystal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Edisi ke-300! horray! Does this code spark joy? Tidying up your code bit by bit Machine Learning For Front-End Developers With Tensorflow.js The Power of Headless Chrome and PWA Automation Using Puppeteer Android Launch Performance Parallelism in Crystal</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #299</title>
+      
+      <link href="http://localhost:4001/2019/11/29/engineer-readinglist-299/" rel="alternate" type="text/html" title="Jenius Engineer reading list #299" />
+      <published>2019-11-29T00:00:00+00:00</published>
+      <updated>2019-11-29T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2019/11/29/engineer-readinglist-299</id>
+      <content type="html" xml:base="http://localhost:4001/2019/11/29/engineer-readinglist-299/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4&quot;&gt;Making Instagram.com faster: Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itnext.io/micro-frontend-941a5f1a3e72&quot;&gt;Implementing a Frontend with Micro-Components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.wayfair.com/data-science/2019/09/introducing-harmonia-context-aware-product-recommendation-from-room-images/&quot;&gt;Introducing Harmonia: Context-Aware Product Recommendation From Room Images&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.showmax.com/2019/09/varnish-request-restarts/&quot;&gt;Achieving a tenfold increase in Varnish throughput by replacing libvmod‑curl with native request restarts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Making Instagram.com faster: Part 2 Implementing a Frontend with Micro-Components Introducing Harmonia: Context-Aware Product Recommendation From Room Images Achieving a tenfold increase in Varnish throughput by replacing libvmod‑curl with native request restarts</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #298</title>
+      
+      <link href="http://localhost:4001/2019/11/28/engineer-readinglist-298/" rel="alternate" type="text/html" title="Jenius Engineer reading list #298" />
+      <published>2019-11-28T00:00:00+00:00</published>
+      <updated>2019-11-28T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2019/11/28/engineer-readinglist-298</id>
+      <content type="html" xml:base="http://localhost:4001/2019/11/28/engineer-readinglist-298/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/loss-change-allocation/&quot;&gt;Introducing LCA: Loss Change Allocation for Neural Network Training&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/pintext-a-multitask-text-embedding-system-in-pinterest-b80ece364555&quot;&gt;PinText: A Multitask Text Embedding System in Pinterest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.statsbot.co/design-decisions-for-the-first-embedded-analytics-open-source-framework-8129c7f1d28a&quot;&gt;Design Decisions for the First Embedded Analytics Open-Source Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://product.hubspot.com/blog/understanding-thread-dumps&quot;&gt;Understanding Thread Dumps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/event-sourcing-vs-derivative-event-sourcing-explained&quot;&gt;Introducing Derivative Event Sourcing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">Introducing LCA: Loss Change Allocation for Neural Network Training PinText: A Multitask Text Embedding System in Pinterest Design Decisions for the First Embedded Analytics Open-Source Framework Understanding Thread Dumps Introducing Derivative Event Sourcing</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Jenius Engineer reading list #297</title>
+      
+      <link href="http://localhost:4001/2019/11/27/engineer-readinglist-297/" rel="alternate" type="text/html" title="Jenius Engineer reading list #297" />
+      <published>2019-11-27T00:00:00+00:00</published>
+      <updated>2019-11-27T00:00:00+00:00</updated>
+      <id>http://localhost:4001/2019/11/27/engineer-readinglist-297</id>
+      <content type="html" xml:base="http://localhost:4001/2019/11/27/engineer-readinglist-297/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.ebayinc.com/engineering/odm/&quot;&gt;eBay’s Hyperscale Platforms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.developer.atlassian.com/java-debugging-at-scale-when-rare-events-become-commonplace/&quot;&gt;Java debugging at scale: when rare events become commonplace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/ai-7-steps/&quot;&gt;Seven Steps to Design, Build, and Scale an AI Product&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/frustrations-with-react-hooks/&quot;&gt;Frustrations with React Hooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.com/building-a-dynamic-instrumentation-agent-for-java/&quot;&gt;Building a dynamic instrumentation agent for Java&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>dedenf</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="readinglist" />
+      
+        <category term="engineer" />
+      
+
+      
+        <category term="news" />
+      
+        <category term="jenius" />
+      
+
+      
+        <summary type="html">eBay’s Hyperscale Platforms Java debugging at scale: when rare events become commonplace Seven Steps to Design, Build, and Scale an AI Product Frustrations with React Hooks Building a dynamic instrumentation agent for Java</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
       <title type="html">Jenius Engineer reading list #296</title>
       
-      <link href="http://localhost:4000/2019/11/26/engineer-readinglist-296/" rel="alternate" type="text/html" title="Jenius Engineer reading list #296" />
+      <link href="http://localhost:4001/2019/11/26/engineer-readinglist-296/" rel="alternate" type="text/html" title="Jenius Engineer reading list #296" />
       <published>2019-11-26T00:00:00+00:00</published>
       <updated>2019-11-26T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/26/engineer-readinglist-296</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/26/engineer-readinglist-296/">&lt;ul&gt;
+      <id>http://localhost:4001/2019/11/26/engineer-readinglist-296</id>
+      <content type="html" xml:base="http://localhost:4001/2019/11/26/engineer-readinglist-296/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/&quot;&gt;Our journey to type checking 4 million lines of Python&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://eng.lyft.com/how-to-solve-a-linear-optimization-problem-on-incentive-allocation-5a8fb5d04db1&quot;&gt;How to solve a linear optimization problem on incentive allocation?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.com/developer-security-best-practices-protecting-against-timing-attacks/&quot;&gt;Developer security best practices: protecting against timing attacks&lt;/a&gt;&lt;/li&gt;
@@ -81,11 +913,11 @@
       
       <title type="html">Jenius Engineer reading list #295</title>
       
-      <link href="http://localhost:4000/2019/11/25/engineer-readinglist-295/" rel="alternate" type="text/html" title="Jenius Engineer reading list #295" />
+      <link href="http://localhost:4001/2019/11/25/engineer-readinglist-295/" rel="alternate" type="text/html" title="Jenius Engineer reading list #295" />
       <published>2019-11-25T00:00:00+00:00</published>
       <updated>2019-11-25T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/25/engineer-readinglist-295</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/25/engineer-readinglist-295/">&lt;ul&gt;
+      <id>http://localhost:4001/2019/11/25/engineer-readinglist-295</id>
+      <content type="html" xml:base="http://localhost:4001/2019/11/25/engineer-readinglist-295/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/the-present-and-future-of-api-design/&quot;&gt;The Present And Future Of API Design&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/different-strategies-for-designing-the-caching-in-large-scale-distributed-system-fg87307f?source=rss&quot;&gt;Three Strategies For Designing The Caching In Large Scale Distributed System&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://developer.okta.com/blog/2019/09/04/securing-rest-apis&quot;&gt;Securing REST APIs&lt;/a&gt;&lt;/li&gt;
@@ -133,11 +965,11 @@
       
       <title type="html">Jenius Engineer reading list #294</title>
       
-      <link href="http://localhost:4000/2019/11/22/engineer-readinglist-294/" rel="alternate" type="text/html" title="Jenius Engineer reading list #294" />
+      <link href="http://localhost:4001/2019/11/22/engineer-readinglist-294/" rel="alternate" type="text/html" title="Jenius Engineer reading list #294" />
       <published>2019-11-22T00:00:00+00:00</published>
       <updated>2019-11-22T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/22/engineer-readinglist-294</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/22/engineer-readinglist-294/">&lt;ul&gt;
+      <id>http://localhost:4001/2019/11/22/engineer-readinglist-294</id>
+      <content type="html" xml:base="http://localhost:4001/2019/11/22/engineer-readinglist-294/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/08/beyond-browser-serverless-webassembly/&quot;&gt;Beyond The Browser: Getting Started With Serverless WebAssembly&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://developers.soundcloud.com/blog/gradle-remote-build-cache-misses&quot;&gt;Gradle Remote Build Cache Misses&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://engineering.zomato.com/blog/sushi&quot;&gt;Zomato’s new Sushi Design System&lt;/a&gt;&lt;/li&gt;
@@ -185,11 +1017,11 @@
       
       <title type="html">Jenius Engineer reading list #293</title>
       
-      <link href="http://localhost:4000/2019/11/21/engineer-readinglist-293/" rel="alternate" type="text/html" title="Jenius Engineer reading list #293" />
+      <link href="http://localhost:4001/2019/11/21/engineer-readinglist-293/" rel="alternate" type="text/html" title="Jenius Engineer reading list #293" />
       <published>2019-11-21T00:00:00+00:00</published>
       <updated>2019-11-21T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/21/engineer-readinglist-293</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/21/engineer-readinglist-293/">&lt;ul&gt;
+      <id>http://localhost:4001/2019/11/21/engineer-readinglist-293</id>
+      <content type="html" xml:base="http://localhost:4001/2019/11/21/engineer-readinglist-293/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/blog/2019/08/26/managing-your-snowflake-spend-with-periscope-and-dbt/&quot;&gt;How to manage your Snowflake spend with Periscope and dbt&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.memsql.com/blog/a-technical-introduction-to-memsql/&quot;&gt;A Technical Introduction to MemSQL&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://tech.transferwise.com/bringing-data-sources-together-with-pipelinewise/&quot;&gt;Bringing Data Sources Together with PipelineWise&lt;/a&gt;&lt;/li&gt;
@@ -237,11 +1069,11 @@
       
       <title type="html">Jenius Engineer reading list #292</title>
       
-      <link href="http://localhost:4000/2019/11/20/engineer-readinglist-292/" rel="alternate" type="text/html" title="Jenius Engineer reading list #292" />
+      <link href="http://localhost:4001/2019/11/20/engineer-readinglist-292/" rel="alternate" type="text/html" title="Jenius Engineer reading list #292" />
       <published>2019-11-20T00:00:00+00:00</published>
       <updated>2019-11-20T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/20/engineer-readinglist-292</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/20/engineer-readinglist-292/">&lt;ul&gt;
+      <id>http://localhost:4001/2019/11/20/engineer-readinglist-292</id>
+      <content type="html" xml:base="http://localhost:4001/2019/11/20/engineer-readinglist-292/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://developer.okta.com/blog/2019/08/26/combat-side-channel-attacks-with-corb&quot;&gt;Combat Side-Channel Attacks with Cross-Origin Read Blocking &lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/blog/2019/08/30/software-test-at-gitlab/&quot;&gt;An inside look at software testing at GitLab&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.toptal.com/natural-language-processing/accelerate-with-bert-nlp-optimization-models&quot;&gt;Accelerate with BERT: NLP Optimization Models&lt;/a&gt;&lt;/li&gt;
@@ -276,818 +1108,6 @@
 
       
         <summary type="html">Combat Side-Channel Attacks with Cross-Origin Read Blocking An inside look at software testing at GitLab Accelerate with BERT: NLP Optimization Models Yuri Shkuro on Tracing Distributed Systems Using Jaeger</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #291</title>
-      
-      <link href="http://localhost:4000/2019/11/19/engineer-readinglist-291/" rel="alternate" type="text/html" title="Jenius Engineer reading list #291" />
-      <published>2019-11-19T00:00:00+00:00</published>
-      <updated>2019-11-19T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/19/engineer-readinglist-291</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/19/engineer-readinglist-291/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/08/faster-image-loading-embedded-previews/&quot;&gt;Faster Image Loading With Embedded Image Previews&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.sqreen.com/kubernetes-security-best-practices/&quot;&gt;Kubernetes security best practices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/blog/2019/followfeed-features-auditing&quot;&gt;Auditing Content Features in FollowFeed&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/cnn-architectures-a-deep-dive-a99441d18049&quot;&gt;CNN Architectures, a Deep-dive&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/delivering-reactjs-applications-at-scale-5cb8a363f99&quot;&gt;Delivering ReactJS applications at scale&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Faster Image Loading With Embedded Image Previews Kubernetes security best practices Auditing Content Features in FollowFeed CNN Architectures, a Deep-dive Delivering ReactJS applications at scale</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #290</title>
-      
-      <link href="http://localhost:4000/2019/11/18/engineer-readinglist-290/" rel="alternate" type="text/html" title="Jenius Engineer reading list #290" />
-      <published>2019-11-18T00:00:00+00:00</published>
-      <updated>2019-11-18T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/18/engineer-readinglist-290</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/18/engineer-readinglist-290/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/cellery-code-first-kubernetes/&quot;&gt;Cellery: A Code-First Approach to Deploy Applications on Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/&quot;&gt;Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/blog/2019/08/27/tyranny-of-the-clock/&quot;&gt;6 Lessons we learned when debugging a scaling problem on GitLab.com &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.developer.atlassian.com/lessons-learned-bitbucket-unit-testing-migration-jest/&quot;&gt;What Bitbucket learned from migrating its unit testing tool&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Cellery: A Code-First Approach to Deploy Applications on Kubernetes Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative? 6 Lessons we learned when debugging a scaling problem on GitLab.com What Bitbucket learned from migrating its unit testing tool</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #289</title>
-      
-      <link href="http://localhost:4000/2019/11/15/engineer-readinglist-289/" rel="alternate" type="text/html" title="Jenius Engineer reading list #289" />
-      <published>2019-11-15T00:00:00+00:00</published>
-      <updated>2019-11-15T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/15/engineer-readinglist-289</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/15/engineer-readinglist-289/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/best-practices-for-react-v16/&quot;&gt;Best Practices for Unit Testing in React Version 16&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/segment/cultivating-your-data-lake&quot;&gt;Cultivating your Data Lake&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://technology.riotgames.com/news/down-rabbit-hole-performance-monitoring&quot;&gt;Down The Rabbit Hole of Performance Monitoring&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ww.zillow.com/tech/debugging-production-event-logging/&quot;&gt;Debugging Production with Event Logging&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.shopify.com/blogs/engineering/building-resilient-graphql-apis-using-idempotency&quot;&gt;Building Resilient GraphQL APIs Using Idempotency&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Best Practices for Unit Testing in React Version 16 Cultivating your Data Lake Down The Rabbit Hole of Performance Monitoring Debugging Production with Event Logging Building Resilient GraphQL APIs Using Idempotency</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #288</title>
-      
-      <link href="http://localhost:4000/2019/11/14/engineer-readinglist-288/" rel="alternate" type="text/html" title="Jenius Engineer reading list #288" />
-      <published>2019-11-14T00:00:00+00:00</published>
-      <updated>2019-11-14T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/14/engineer-readinglist-288</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/14/engineer-readinglist-288/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/chaos-engineering-security-networking/&quot;&gt;How to Use Chaos Engineering to Break Things Productively&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/kafka-graph-visualizations&quot;&gt;Using Graph Processing for Kafka Streams Visualizations&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.zillow.com/tech/federated-graphql-server-at-scale/&quot;&gt;Federated GraphQL Server at Scale: Zillow Rental Manager Real-time Chat Application&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.trello.com/adopting-graphql-and-apollo/&quot;&gt;Adopting GraphQL and Apollo in a Legacy Application&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88&quot;&gt;https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">How to Use Chaos Engineering to Break Things Productively Using Graph Processing for Kafka Streams Visualizations Federated GraphQL Server at Scale: Zillow Rental Manager Real-time Chat Application Adopting GraphQL and Apollo in a Legacy Application https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #287</title>
-      
-      <link href="http://localhost:4000/2019/11/13/engineer-readinglist-287/" rel="alternate" type="text/html" title="Jenius Engineer reading list #287" />
-      <published>2019-11-13T00:00:00+00:00</published>
-      <updated>2019-11-13T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/13/engineer-readinglist-287</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/13/engineer-readinglist-287/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/salesloft-engineering/developing-a-data-warehouse-in-cloud-for-saas-business-at-salesloft-c694a9ad662a&quot;&gt;Developing a Data Warehouse in the Cloud for SaaS at SalesLoft&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://siliconangle.com/2019/10/13/six-steps-take-toward-automated-future/&quot;&gt;Six steps to take toward an automated future&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://searchitoperations.techtarget.com/tip/Follow-these-6-steps-to-deploy-microservices-in-production&quot;&gt;Follow these 6 steps to deploy microservices in production&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.fiercetelecom.com/telecom/red-hat-s-james-cloud-native-key-to-moving-to-cloud-and-containers&quot;&gt;Red Hat’s James: Cloud-native is key to moving to the cloud and containers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Developing a Data Warehouse in the Cloud for SaaS at SalesLoft Six steps to take toward an automated future Follow these 6 steps to deploy microservices in production Red Hat’s James: Cloud-native is key to moving to the cloud and containers</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #286</title>
-      
-      <link href="http://localhost:4000/2019/11/12/engineer-readinglist-286/" rel="alternate" type="text/html" title="Jenius Engineer reading list #286" />
-      <published>2019-11-12T00:00:00+00:00</published>
-      <updated>2019-11-12T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/12/engineer-readinglist-286</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/12/engineer-readinglist-286/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sitepoint.com/interactive-data-visualization-javascript-d3/&quot;&gt;Interactive Data Visualization with Modern JavaScript and D3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://securityintelligence.com/posts/how-to-make-cryptography-services-work-for-your-organization/&quot;&gt;How to Make Cryptography Services Work for Your Organization&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sdxcentral.com/articles/news/whats-so-sassy-about-sase/2019/10/&quot;&gt;What’s So Sassy About SASE&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://tech.gc.com/let-me-automate-that-for-you/&quot;&gt;Let me automate that for you&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Interactive Data Visualization with Modern JavaScript and D3 How to Make Cryptography Services Work for Your Organization What’s So Sassy About SASE Let me automate that for you</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #285</title>
-      
-      <link href="http://localhost:4000/2019/11/11/engineer-readinglist-285/" rel="alternate" type="text/html" title="Jenius Engineer reading list #285" />
-      <published>2019-11-11T00:00:00+00:00</published>
-      <updated>2019-11-11T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/11/engineer-readinglist-285</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/11/engineer-readinglist-285/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/strategic-ddd/&quot;&gt;Strategic Domain-Driven Design&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kvz.io/tobuntu.html&quot;&gt;Going from macOS to Ubuntu&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.itproportal.com/features/why-democratising-devops-capabilities-is-the-only-way-to-stay-ahead-today/&quot;&gt;Why democratising DevOps capabilities is the only way to stay ahead today&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.qrcodepress.com/hows-your-docker-image-security-within-the-development-environment/8537243/&quot;&gt;How’s Your Docker Image Security Within The Development Environment&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devclass.com/2019/10/22/netflixs-shares-mantis-to-get-to-the-bottom-of-system-downtime/&quot;&gt;Netflix’s shares Mantis to get to the bottom of system downtime&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Strategic Domain-Driven Design Going from macOS to Ubuntu Why democratising DevOps capabilities is the only way to stay ahead today How’s Your Docker Image Security Within The Development Environment Netflix’s shares Mantis to get to the bottom of system downtime</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #284</title>
-      
-      <link href="http://localhost:4000/2019/11/08/engineer-readinglist-284/" rel="alternate" type="text/html" title="Jenius Engineer reading list #284" />
-      <published>2019-11-08T00:00:00+00:00</published>
-      <updated>2019-11-08T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/08/engineer-readinglist-284</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/08/engineer-readinglist-284/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.salesforce.com/making-life-easier-with-immutable-deployment-64baca14395c&quot;&gt;Making life easier with immutable deployment&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.lyft.com/presto-infrastructure-at-lyft-b10adb9db01&quot;&gt;Presto Infrastructure at Lyft&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2019/08/testing-framework-minimalism-software-architecture/&quot;&gt;Testing Made Easier Via Framework Minimalism And Software Architecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/building-a-universal-search-system-for-pinterest-e4cb03a898d4&quot;&gt;Building a universal search system for Pinterest&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Making life easier with immutable deployment Presto Infrastructure at Lyft Testing Made Easier Via Framework Minimalism And Software Architecture Building a universal search system for Pinterest</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #283</title>
-      
-      <link href="http://localhost:4000/2019/11/07/engineer-readinglist-283/" rel="alternate" type="text/html" title="Jenius Engineer reading list #283" />
-      <published>2019-11-07T00:00:00+00:00</published>
-      <updated>2019-11-07T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/07/engineer-readinglist-283</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/07/engineer-readinglist-283/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/web-booking-flow/&quot;&gt;Building a More Seamless Web Booking Flow for Uber&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.okta.com/blog/2019/07/25/the-hardest-thing-about-data-encryption&quot;&gt;The Hardest Thing About Data Encryption&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/fault-tolerance-distributed-systems-tracing-with-apache-kafka-jaeger&quot;&gt;Fault Tolerance in Distributed Systems: Tracing with Apache Kafka and Jaeger&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/netflix-techblog/applying-netflix-devops-patterns-to-windows-2a57f2dbbf79&quot;&gt;Applying Netflix DevOps Patterns to Windows&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/uber-freight-app/&quot;&gt;Building the New Uber Freight App as Lists of Modular, Reusable Components&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Building a More Seamless Web Booking Flow for Uber The Hardest Thing About Data Encryption Fault Tolerance in Distributed Systems: Tracing with Apache Kafka and Jaeger Applying Netflix DevOps Patterns to Windows Building the New Uber Freight App as Lists of Modular, Reusable Components</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Top 10 Ekstensi (plugin) untuk Visual Studio Code</title>
-      
-      <link href="http://localhost:4000/2019/11/06/visual-code-studio-extension/" rel="alternate" type="text/html" title="Top 10 Ekstensi (plugin) untuk Visual Studio Code" />
-      <published>2019-11-06T00:00:00+00:00</published>
-      <updated>2019-11-06T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/06/visual-code-studio-extension</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/06/visual-code-studio-extension/">&lt;p&gt;Ekstensi yang disediakan diekosistem Visual Studio Code sangat beragam, dan digunakan untuk banyak hal, dari mulai mempercepat kerja, menjadikan kode, document, lebih mudah dibaca, menjadikan tampilan lebih menarik, dan lainnya.&lt;/p&gt;
-
-&lt;p&gt;Berikut Ekstensi yang banyak digunakan di Jenius.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync&amp;amp;WT.mc_id=jakartadev&quot;&gt;Settings Sync&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Dengan ekstensi ini, konfigurasi Visual Studio Code (VSC) bisa lebih portabel, kita install ulang sistem operasi, atau pindah mesin, bisa konsisten menggunakan profile konfigurasi yang sama, pikirkan ini seperti menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;.vim&lt;/code&gt; profile (&lt;a href=&quot;https://github.com/dedenf/dotfiles&quot;&gt;koleksi dotfiles&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&quot;&gt;Prettier - Code formatter&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Ekstensi ini melakukan apa yang prettify lakukan, tapi ada fitur lebih dan juga konfigurasi yang membantu, yan menjadikan kode yang kita tulis lebih gampang dibaca, direview.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks&quot;&gt;Bookmarks&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Bookmarks ini berguna jika kita ingin menandai baris kode yang hendak kita tandai, bisa itu untuk direvisit nanti, atau menandakan hal yang penting yang hendak dijabarkan, atau untuk kebutuhan laiinnya.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments&quot;&gt;Better Comments&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Seperti yang developer ketahui, comment adalah salah satu bentuk komunikasi, memudahkan developer lain atau documentation generator untuk membaca dan memahami apa yang ditulis kode tersebut.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint&quot;&gt;ESLint&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Ekstensi ini untuk Javascript dan JSX linter, menjadikan kode yang dibuat mudah dibaca, &lt;a href=&quot;https://eslint.org/&quot;&gt;dokumetasi&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&quot;&gt;GitLens — Git supercharged&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Dengan GitLens, kita dapat melihat informasi histori dari kode yang sedang kita buka, lengkap dengan siapa yang melakukan commit di baris tersebut, dan informasi lain yang didapat dari GIT. Ekstensi lain yang berhubungan dengan git, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory&quot;&gt;Git History&lt;/a&gt;, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager&quot;&gt;Git Project Manager&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-python.python&quot;&gt;Python&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Python merupakan salah satu bahasa yang sangat populer, dan ekstensi ini membantu developer agar lebih produktif dengan fitur seperti IntelliSense, linting, debugging, dan lainnya.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml&quot;&gt;YAML&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;YAML sebagai salah satu format yang biasanya digunakan oleh orang operation di infrastuktur, terutama untuk dukungan terhadap Kubernetes.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=humao.rest-client&quot;&gt;REST Client&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Dengan menggunakan ekstensi ini, developer bisa melakukan HTTP request/API call dan melihat responnya langsung di Editor.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=vscoss.vscode-ansible&quot;&gt;Ansible&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Untuk DevOps, dan organisasi yang menggunakan falsafah infrastructure as a code, Ansible (dan tools lainnya) sangat berguna, tools automation/provisioning lain yang bisa digunakan, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=mauve.terraform&quot;&gt;Terraform&lt;/a&gt;, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=chef-software.Chef&quot;&gt;Chef&lt;/a&gt;, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=jpogran.puppet-vscode&quot;&gt;Puppet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&quot;&gt;Docker&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Ekstensi resmi dari Microsoft, yang menangani Docker, baik Dockerfile, membangun atau deploy container.&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme&quot;&gt;Material Icon Theme&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Dengan menggunakan Material icon theme ini, tampilan VSC kita jadi lebih berwarna, dan icon-icon yang merepresentasikan jenis file bisa lebih terbaca.
-&lt;img src=&quot;/public/images/posts/material-icon.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools&quot;&gt;Kubernetes&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Ekstensi ini berguna untuk developer yang sedang membangun aplikasinya di atas Kubernetes, bisa melakukan banyak operasi di Kubernetes.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="development" />
-      
-
-      
-        <category term="dev" />
-      
-        <category term="css" />
-      
-
-      
-        <summary type="html">Ekstensi yang disediakan diekosistem Visual Studio Code sangat beragam, dan digunakan untuk banyak hal, dari mulai mempercepat kerja, menjadikan kode, document, lebih mudah dibaca, menjadikan tampilan lebih menarik, dan lainnya. Berikut Ekstensi yang banyak digunakan di Jenius. Settings Sync Dengan ekstensi ini, konfigurasi Visual Studio Code (VSC) bisa lebih portabel, kita install ulang sistem operasi, atau pindah mesin, bisa konsisten menggunakan profile konfigurasi yang sama, pikirkan ini seperti menggunakan .vim profile (koleksi dotfiles) Prettier - Code formatter Ekstensi ini melakukan apa yang prettify lakukan, tapi ada fitur lebih dan juga konfigurasi yang membantu, yan menjadikan kode yang kita tulis lebih gampang dibaca, direview.</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #282</title>
-      
-      <link href="http://localhost:4000/2019/11/06/engineer-readinglist-282/" rel="alternate" type="text/html" title="Jenius Engineer reading list #282" />
-      <published>2019-11-06T00:00:00+00:00</published>
-      <updated>2019-11-06T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/06/engineer-readinglist-282</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/06/engineer-readinglist-282/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.developer.atlassian.com/how-we-stopped-vulnerable-code-from-landing-in-production/&quot;&gt;How we stopped vulnerable code from landing in production&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackshare.io/circleci/update-how-circleci-processes-over-30-million-builds-per-month&quot;&gt;Update: How CircleCI Processes Over 30 Million Builds Per Month&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/&quot;&gt; Safely Rewriting Mixpanel’s Highest Throughput Service in Golang&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.ebayinc.com/engineering/item-fast-light-service/&quot;&gt;Improving the Speed and Accuracy of the Item Page with Light Service&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">How we stopped vulnerable code from landing in production Update: How CircleCI Processes Over 30 Million Builds Per Month Safely Rewriting Mixpanel’s Highest Throughput Service in Golang Improving the Speed and Accuracy of the Item Page with Light Service</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #280</title>
-      
-      <link href="http://localhost:4000/2019/11/05/engineer-readinglist-281/" rel="alternate" type="text/html" title="Jenius Engineer reading list #280" />
-      <published>2019-11-05T00:00:00+00:00</published>
-      <updated>2019-11-05T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/05/engineer-readinglist-281</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/05/engineer-readinglist-281/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/kafka-distributed-deployments/&quot;&gt;Streaming Log Analytics with Kafka&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://engineering.giphy.com/luigi-the-10x-plumber-containerizing-scaling-luigi-in-kubernetes/&quot;&gt;Luigi the 10x Plumber: Containerizing &amp;amp; Scaling Luigi in Kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tech.ebayinc.com/engineering/low-latency-and-high-throughput-cal-ingress/&quot;&gt;Low Latency and High Throughput in CAL Ingress&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/articles/rethinking-flink-api/&quot;&gt;Rethinking Flink’s APIs for a Unified Data Processing Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/walmartlabs/demand-forecasting-tech-stack-walmart-539d17f385db&quot;&gt;Demand Forecasting Tech Stack @ Walmart&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nordicapis.com/how-granular-should-you-design-apis/&quot;&gt;How Granular Should You Design APIs?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Streaming Log Analytics with Kafka Luigi the 10x Plumber: Containerizing &amp;amp; Scaling Luigi in Kubernetes Low Latency and High Throughput in CAL Ingress Rethinking Flink’s APIs for a Unified Data Processing Framework Demand Forecasting Tech Stack @ Walmart How Granular Should You Design APIs?</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #280</title>
-      
-      <link href="http://localhost:4000/2019/11/04/engineer-readinglist-280/" rel="alternate" type="text/html" title="Jenius Engineer reading list #280" />
-      <published>2019-11-04T00:00:00+00:00</published>
-      <updated>2019-11-04T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/04/engineer-readinglist-280</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/04/engineer-readinglist-280/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.imaginea.com/semantic-graphs/&quot;&gt;Semantic Graphs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/supporting-dynamic-type-at-airbnb-b47c68b0c998&quot;&gt;Supporting Dynamic Type at Airbnb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/airbnb-engineering/scaling-a-mature-data-pipeline-managing-overhead-f34835cbc866&quot;&gt;Scaling a Mature Data Pipeline — Managing Overhead&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.timescale.com/blog/implementing-constraint-exclusion-for-faster-query-performance/&quot;&gt;Implementing constraint exclusion for faster query performance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://devblog.songkick.com/migrating-our-etl-pipeline-to-luigi-on-a-cloud-8fde921cec51&quot;&gt;Migrating our ETL pipeline to Luigi on a Cloud&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Semantic Graphs Supporting Dynamic Type at Airbnb Scaling a Mature Data Pipeline — Managing Overhead Implementing constraint exclusion for faster query performance Migrating our ETL pipeline to Luigi on a Cloud</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #279</title>
-      
-      <link href="http://localhost:4000/2019/11/01/engineer-readinglist-279/" rel="alternate" type="text/html" title="Jenius Engineer reading list #279" />
-      <published>2019-11-01T00:00:00+00:00</published>
-      <updated>2019-11-01T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/11/01/engineer-readinglist-279</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/01/engineer-readinglist-279/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/machine-learning-powered-content-moderation-computer-vision-applications-at-expedia-1297cb32d78d&quot;&gt;Machine Learning Powered Content Moderation: Computer Vision Applications at Expedia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eng.uber.com/uber-poet/&quot;&gt;Introducing Uber Poet, an Open Source Mock App Generator for Determining Faster Swift Builds&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.statsbot.co/design-decisions-for-the-first-embedded-analytics-open-source-framework-8129c7f1d28a&quot;&gt;Design Decisions for the First Embedded Analytics Open-Source Framework&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://umbrella.cisco.com/blog/2019/07/24/picture-perfect-how-jpg-exif-data-hides-malware/&quot;&gt;Picture Perfect: How JPG EXIF Data Hides Malw&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/pinterest-engineering/real-time-experiment-analytics-at-pinterest-using-apache-flink-841c8df98dc2&quot;&gt;Real-time experiment analytics at Pinterest using Apache Flink&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">Machine Learning Powered Content Moderation: Computer Vision Applications at Expedia Introducing Uber Poet, an Open Source Mock App Generator for Determining Faster Swift Builds Design Decisions for the First Embedded Analytics Open-Source Framework Picture Perfect: How JPG EXIF Data Hides Malw Real-time experiment analytics at Pinterest using Apache Flink</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Jenius Engineer reading list #278</title>
-      
-      <link href="http://localhost:4000/2019/10/31/engineer-readinglist-278/" rel="alternate" type="text/html" title="Jenius Engineer reading list #278" />
-      <published>2019-10-31T00:00:00+00:00</published>
-      <updated>2019-10-31T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2019/10/31/engineer-readinglist-278</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/31/engineer-readinglist-278/">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.kubecost.com/blog/requests-and-limits/&quot;&gt;A Practical Guide to Setting Kubernetes Requests and Limits &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://semaphoreci.com/blog/observability-measuring-microservices&quot;&gt;What Is Observability &amp;amp; How to Measure the Quality of Microservices&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.stackrox.com/post/2019/09/5-kubernetes-rbac-mistakes-you-must-avoid/&quot;&gt;5 Kubernetes RBAC Mistakes You Must Avoid&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4&quot;&gt;When a rewrite isn’t: rebuilding Slack on the desktop&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.octo.com/en/accelerating-nifi-flows-delivery-part-1/&quot;&gt;Accelerating NiFi flows delivery: Part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.cloudera.com/kafka-replication-the-case-for-mirrormaker-2-0/&quot;&gt;Kafka Replication: The case for MirrorMaker 2.0&lt;/a&gt;, part 2 &lt;a href=&quot;https://blog.cloudera.com/a-look-inside-kafka-mirrormaker-2/&quot;&gt;A look inside Kafka Mirrormaker 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>dedenf</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="readinglist" />
-      
-        <category term="engineer" />
-      
-
-      
-        <category term="news" />
-      
-        <category term="jenius" />
-      
-
-      
-        <summary type="html">A Practical Guide to Setting Kubernetes Requests and Limits What Is Observability &amp;amp; How to Measure the Quality of Microservices 5 Kubernetes RBAC Mistakes You Must Avoid When a rewrite isn’t: rebuilding Slack on the desktop Accelerating NiFi flows delivery: Part 1 Kafka Replication: The case for MirrorMaker 2.0, part 2 A look inside Kafka Mirrormaker 2</summary>
       
 
       
