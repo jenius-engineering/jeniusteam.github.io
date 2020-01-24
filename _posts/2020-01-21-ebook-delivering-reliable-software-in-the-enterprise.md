@@ -8,7 +8,7 @@ tags:
 categories: 
     - development
 
-canonical: https://jakartadev.org/instal-paket-homebrew-versi-yang-spesifik/
+canonical: https://jakartadev.org/ebook-delivering-reliable-software-in-the-enterprise/
 publish: true
 ---
 
