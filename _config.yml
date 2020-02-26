@@ -66,7 +66,7 @@ kramdown:
   entity_output: as_char
   footnote_nr: 1
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  toc_levels: 1..6
+  # toc_levels: 1..6
 
 # jekyll-archives
 #jekyll-archives:
@@ -74,21 +74,21 @@ collections:
   authors:
     output: true
 
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "authors"
+#     values:
+#       layout: "author"
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#   - scope:
+#       path: ""
+#     values:
+#       layout: "default"
 
 # authors:
 #   dedenf:
