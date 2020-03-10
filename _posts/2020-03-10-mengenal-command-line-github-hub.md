@@ -20,6 +20,8 @@ Hal ini sangat berguna untuk developer atau orang yang memiliki tanggung jawab p
 
 Hub sendiri merupakan ekstensi dari perintah `git`, yang artinya hub dibangun di atas perintah git yang sudah ada, beberapa perintah hub ini dibuat spesifik untuk berhubungan dengan github, seperti `pull-request` dan beberapa perintah lain yang spesifik Github juga, selain _subcommand_ ini, hub bisa digunakan juga untuk komunikasi dengan penyedia layanan git yang lain seperti [Bitbucket](https://bitbucket.org/) atau [Gitlab](https://gitlab.com/).
 
+<!-- more -->
+
 ```shell
 ❯ hub help
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
