@@ -10,7 +10,7 @@ categories:
     - readinglist
     - engineer
 published: true
-canonical: https://jakartadev.org/daily-digest-529/
+canonical: https://jakartadev.org/daily-digest-531/
 ---
 
 
