@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenius Engineer reading list #362"
+title: "Jenius Engineer reading list #363"
 author: "dedenf"
 tags:
     - news
@@ -10,7 +10,7 @@ categories:
     - readinglist
     - engineer
 published: true
-canonical: https://jakartadev.org/daily-digest-532/
+canonical: https://jakartadev.org/daily-digest-533/
 ---
 
 

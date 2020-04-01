@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenius Engineer reading list #363"
+title: "Jenius Engineer reading list #364"
 author: "dedenf"
 tags:
     - news
@@ -10,7 +10,7 @@ categories:
     - readinglist
     - engineer
 published: true
-canonical: https://jakartadev.org/daily-digest-533/
+canonical: https://jakartadev.org/daily-digest-534/
 ---
 
 - [TypeScript Pick 'n Mix](https://blog.scottlogic.com/2020/01/29/typescript-pick-n-mix.html)
