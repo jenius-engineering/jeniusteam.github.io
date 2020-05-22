@@ -10,7 +10,7 @@ categories:
     - readinglist
     - engineer
 published: true
-canonical: https://jakartadev.org/daily-digest-566/
+canonical: https://jakartadev.org/daily-digest-567/
 ---
 
 - [Don’t drown in email! How to use Gmail more efficiently](https://klinger.io/post/71640845938/dont-drown-in-email-how-to-use-gmail-more)
