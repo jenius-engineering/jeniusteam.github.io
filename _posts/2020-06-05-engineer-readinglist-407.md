@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenius Engineer reading list #406"
+title: "Jenius Engineer reading list #407"
 author: "dedenf"
 tags:
     - news
@@ -10,7 +10,7 @@ categories:
     - readinglist
     - engineer
 published: true
-canonical: https://jakartadev.org/daily-digest-576/
+canonical: https://jakartadev.org/daily-digest-577/
 ---
 
 - [Real-Time Small Business Intelligence with ksqlDB](https://www.confluent.io/blog/real-time-business-intelligence-using-ksqldb/)
