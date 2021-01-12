@@ -13,7 +13,7 @@ published: true
 canonical: https://jakartadev.org/daily-digest-715/
 ---
 
-- [ninja: a simple way to do builds](https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/)
-- [Writing Software for an Among Us League](https://healeycodes.com/writing-software-for-an-among-us-league/)
-- [Welcome Deno! Does this mean goodbye to Node.js?](https://www.stackbuilders.com/news/welcome-deno-does-this-mean-goodbye-to-node-js)
-- [Write code top-down](https://www.teamten.com/lawrence/programming/write-code-top-down.html)
+- [How to Recalculate a Spreadsheet](https://lord.io/blog/2020/spreadsheets/)
+- [Problem Solving](https://denvaar.github.io/articles/problem_solving_example.html)
+- [Managing developer identities in autonomous teams](https://kislayverma.com/organizations/managing-developer-identities-in-autonomous-teams/)
+- [How do Spotify Codes work?](https://boonepeter.github.io/posts/2020-11-10-spotify-codes/)

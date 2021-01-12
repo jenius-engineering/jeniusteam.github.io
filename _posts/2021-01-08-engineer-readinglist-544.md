@@ -13,7 +13,7 @@ published: true
 canonical: https://jakartadev.org/daily-digest-714/
 ---
 
-- [4 Different Perspectives to Solve Problems](https://neilkakkar.com/different-perspectives-to-solve-problems.html)
-- [Layering Microservices](https://philcalcado.com/2018/09/24/services_layers.html)
-- [Redefining software quality](https://gojko.net/2012/05/08/redefining-software-quality/)
-- [How Many People Does It Take To Ship Software?](http://thecodist.com/article/how-many-people-does-it-take-to-ship-software)
+- [ninja: a simple way to do builds](https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/)
+- [Writing Software for an Among Us League](https://healeycodes.com/writing-software-for-an-among-us-league/)
+- [Welcome Deno! Does this mean goodbye to Node.js?](https://www.stackbuilders.com/news/welcome-deno-does-this-mean-goodbye-to-node-js)
+- [Write code top-down](https://www.teamten.com/lawrence/programming/write-code-top-down.html)
